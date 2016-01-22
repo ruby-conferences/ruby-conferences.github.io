@@ -1,0 +1,98 @@
+- name: Ruby devroom at FOSDEM
+  location: Brussels, Belgium
+  dates: "January 31, 2016"
+  url: http://fosdem.rubybelgium.be/
+  twitter: ruby_fosdem
+  cfp_phrase: CFP is open
+
+- name: Rubyfuza
+  location: Cape Town, South Africa
+  dates: "February 4-5, 2016"
+  url: http://www.rubyfuza.org
+  twitter: rubyfuza
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
+- name: RubyConf Australia
+  location: Gold Coast, Australia
+  dates: "February 10-13, 2016"
+  url: http://www.rubyconf.org.au/2016
+  twitter: rubyconf_au
+  reg_phrase: Registration is open
+
+- name: Bath Ruby Conference
+  location: Bath, UK
+  dates: "March 11, 2016"
+  url: http://2016.bathruby.org
+  twitter: bathruby
+  reg_phrase: Registration is open
+
+- name: wroc_love.rb
+  location: Wrocław, Poland
+  dates: "March 11-13, 2016"
+  url: http://wrocloverb.com
+  twitter: wrocloverb
+  cfp_phrase: CFP is open
+
+- name: RubyConfIndia
+  location: Kochi, India
+  dates: "March 19-20, 2016"
+  url: http://rubyconfindia.org
+  twitter: rubyconfindia
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
+- name: MountainWest RubyConf
+  location: Salt Lake City, UT
+  dates: "March 21-22, 2016"
+  url: http://mtnwestrubyconf.org/2016/
+  twitter: mwrc
+  reg_phrase: Earlybird registration is open
+
+- name: Ruby on Ales
+  location: Bend, Oregon
+  dates: "March 31 and April 1, 2016"
+  url: https://ruby.onales.com/
+  twitter: rbonales
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
+- name: Ancient City Ruby
+  location: St. Augustine, FL
+  dates: "April 6-8, 2016"
+  url: http://www.ancientcityruby.com/
+  twitter: ancientcityruby
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
+- name: Rubyconf Philippines
+  location: Manila, Philippines
+  dates: "April 7-9, 2016"
+  url: http://rubyconf.ph
+  twitter: rubyconfph
+  cfp_phrase: CFP is open
+
+- name: RailsConf
+  location: Kansas City, MO
+  dates: "May 4-6, 2016"
+  url: http://railsconf.com/
+  twitter: rubyconf
+  cfp_phrase: CFP is open
+
+- name: Brighton Ruby Conference
+  location: Brighton, UK
+  dates: "July 8, 2016"
+  url: http://brightonruby.com
+  twitter: brightonruby
+
+- name: WindyCityRails
+  location: Chicago, IL
+  dates: "September 15-16, 2016"
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
+
+- name: RubyConf
+  location: Cincinnati, OH
+  dates: "November 10-12, 2016"
+  url: http://rubyconf.org/
+  twitter: rubyconf

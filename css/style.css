@@ -1,0 +1,317 @@
+@charset "UTF-8";
+/* line 6, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+ul, ol {
+  list-style: none; }
+
+/* line 8, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+h1, h2, h3, h4, h5, h6, pre, code {
+  font-size: 1em; }
+
+/* line 10, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input, dl, dt, dd, figure, figcaption {
+  margin: 0;
+  padding: 0; }
+
+/* line 13, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+a img, :link img, :visited img, fieldset {
+  border: none; }
+
+/* line 15, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+address {
+  font-style: normal; }
+
+/* line 17, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+header, section, article, nav, footer, hgroup, details, summary, figure, main {
+  display: block; }
+
+/* line 19, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+mark {
+  color: inherit;
+  background: transparent; }
+
+/* line 22, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+abbr {
+  border: none; }
+
+/* line 24, /Users/jon/code/rc/site/source/css/cask/reset.sass */
+summary::-webkit-details-marker {
+  display: none; }
+
+/* line 6, /Users/jon/code/rc/site/source/css/style.sass */
+a {
+  text-decoration: none;
+  color: #444;
+  -webkit-transition: color 0.2s;
+  -moz-transition: color 0.2s;
+  transition: color 0.2s; }
+  /* line 10, /Users/jon/code/rc/site/source/css/style.sass */
+  a:active, a:hover {
+    color: #ea1010; }
+
+/* line 14, /Users/jon/code/rc/site/source/css/style.sass */
+body {
+  background: #e5e5e5;
+  font-family: "Exo 2", helvetica, sans-serif;
+  color: #999;
+  text-shadow: 1px 1px rgba(255, 255, 255, 0.5);
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased; }
+  /* line 23, /Users/jon/code/rc/site/source/css/style.sass */
+  body .extruded {
+    font-family: "Squada One", helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 70px;
+    position: relative;
+    text-shadow: 1px 1px 1px #fff, 0.5px 1px 0px #ddd, 1px 2px 0px #dbdbdb, 1.5px 3px 0px #d9d9d9, 2px 4px 0px #d8d8d8, 2.5px 5px 0px #d6d6d6, 3px 6px 0px #d4d4d4, 3.5px 7px 0px #d2d2d2, 4px 8px 0px #d1d1d1, 4.5px 9px 0px #cfcfcf, 5px 10px 0px #cdcdcd, 5.5px 11px 0px #cbcbcb, 6px 12px 0px #c9c9c9, 6.5px 13px 0px #c8c8c8, 7px 14px 0px #c6c6c6, 7.5px 15px 0px #c4c4c4, 8px 16px 0px #c2c2c2, 8.5px 17px 0px silver, 9px 18px 0px #bfbfbf, 9.5px 19px 0px #bdbdbd, 10px 20px 0px #bbbbbb, 14px 26px 5px #a5a5a5, 11px 21px 1px #c0c0c0, 13px 24px 2px rgba(192, 192, 192, 0.915), 15px 27px 3px rgba(192, 192, 192, 0.83), 17px 30px 4px rgba(192, 192, 192, 0.745), 19px 33px 5px rgba(192, 192, 192, 0.66), 21px 36px 6px rgba(192, 192, 192, 0.575), 23px 39px 7px rgba(192, 192, 192, 0.49), 25px 42px 8px rgba(192, 192, 192, 0.405), 27px 45px 9px rgba(192, 192, 192, 0.32), 29px 48px 10px rgba(192, 192, 192, 0.235), 31px 51px 11px rgba(192, 192, 192, 0.15), 33px 54px 12px rgba(192, 192, 192, 0.065), 35px 57px 13px rgba(192, 192, 192, 0), 37px 60px 14px rgba(192, 192, 192, 0), 39px 63px 15px rgba(192, 192, 192, 0), 41px 66px 16px rgba(192, 192, 192, 0), 43px 69px 17px rgba(192, 192, 192, 0), 45px 72px 18px rgba(192, 192, 192, 0), 47px 75px 19px rgba(192, 192, 192, 0), 49px 78px 20px rgba(192, 192, 192, 0);
+    top: -20px;
+    left: -10px;
+    color: #fff;
+    letter-spacing: -2px;
+    font-weight: normal; }
+  @media screen and (max-width: 480px) {
+    /* line 14, /Users/jon/code/rc/site/source/css/style.sass */
+    body {
+      font-size: 16px; } }
+
+/* line 37, /Users/jon/code/rc/site/source/css/style.sass */
+#page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 60px; }
+  @media screen and (max-width: 768px) {
+    /* line 37, /Users/jon/code/rc/site/source/css/style.sass */
+    #page {
+      padding: 0 30px; } }
+  @media screen and (max-width: 480px) {
+    /* line 37, /Users/jon/code/rc/site/source/css/style.sass */
+    #page {
+      padding: 0 15px; } }
+
+/* line 46, /Users/jon/code/rc/site/source/css/style.sass */
+header {
+  padding: 80px 0 40px 0; }
+  /* line 48, /Users/jon/code/rc/site/source/css/style.sass */
+  header h1 {
+    margin: 0 0 60px -10px; }
+    /* line 50, /Users/jon/code/rc/site/source/css/style.sass */
+    header h1 span {
+      position: relative;
+      font-size: 350px;
+      line-height: 69%;
+      letter-spacing: -26px;
+      display: block;
+      -webkit-transition: font-size 0.2s, letter-spacing 0.2s, line-height 0.2s;
+      -moz-transition: font-size 0.2s, letter-spacing 0.2s, line-height 0.2s;
+      transition: font-size 0.2s, letter-spacing 0.2s, line-height 0.2s; }
+      /* line 57, /Users/jon/code/rc/site/source/css/style.sass */
+      header h1 span + span {
+        font-size: 140px;
+        line-height: 69%;
+        letter-spacing: -8px;
+        margin-left: 10px; }
+  /* line 63, /Users/jon/code/rc/site/source/css/style.sass */
+  header nav ul {
+    overflow: hidden; }
+    /* line 65, /Users/jon/code/rc/site/source/css/style.sass */
+    header nav ul li {
+      float: left;
+      font-size: 24px;
+      text-transform: uppercase;
+      letter-spacing: 3px; }
+      /* line 70, /Users/jon/code/rc/site/source/css/style.sass */
+      header nav ul li a {
+        display: block;
+        color: #999;
+        padding: 5px 40px;
+        border-bottom: 2px solid #ccc;
+        -webkit-transition: color 0.2s, border 0.2s;
+        -moz-transition: color 0.2s, border 0.2s;
+        transition: color 0.2s, border 0.2s; }
+        /* line 76, /Users/jon/code/rc/site/source/css/style.sass */
+        header nav ul li a:hover {
+          border-color: #ea1010; }
+      /* line 78, /Users/jon/code/rc/site/source/css/style.sass */
+      header nav ul li.active a {
+        color: #444;
+        border-color: #999; }
+  @media screen and (max-width: 768px) {
+    /* line 46, /Users/jon/code/rc/site/source/css/style.sass */
+    header {
+      padding: 60px 0 20px; }
+      /* line 83, /Users/jon/code/rc/site/source/css/style.sass */
+      header h1 {
+        margin: 0 0 30px -5px; }
+        /* line 85, /Users/jon/code/rc/site/source/css/style.sass */
+        header h1 span {
+          font-size: 250px;
+          letter-spacing: -18px; }
+          /* line 88, /Users/jon/code/rc/site/source/css/style.sass */
+          header h1 span + span {
+            font-size: 100px;
+            letter-spacing: -5px;
+            margin-left: 7px; }
+      /* line 94, /Users/jon/code/rc/site/source/css/style.sass */
+      header nav ul li {
+        width: 33.33%; }
+        /* line 96, /Users/jon/code/rc/site/source/css/style.sass */
+        header nav ul li a {
+          padding: 5px 0;
+          font-size: 20px;
+          text-align: center; } }
+  @media screen and (max-width: 480px) {
+    /* line 46, /Users/jon/code/rc/site/source/css/style.sass */
+    header {
+      padding-top: 40px; }
+      /* line 102, /Users/jon/code/rc/site/source/css/style.sass */
+      header h1 {
+        margin: 0 0 20px 0; }
+        /* line 104, /Users/jon/code/rc/site/source/css/style.sass */
+        header h1 span {
+          font-size: 150px;
+          letter-spacing: -7px; }
+          /* line 107, /Users/jon/code/rc/site/source/css/style.sass */
+          header h1 span + span {
+            font-size: 60px;
+            letter-spacing: -2px;
+            margin-left: 4px; }
+      /* line 114, /Users/jon/code/rc/site/source/css/style.sass */
+      header nav ul li a {
+        letter-spacing: 1px; } }
+
+/* line 117, /Users/jon/code/rc/site/source/css/style.sass */
+#page > footer {
+  padding: 80px 0;
+  font-size: 16px; }
+  /* line 121, /Users/jon/code/rc/site/source/css/style.sass */
+  #page > footer ul li {
+    display: inline-block; }
+    /* line 123, /Users/jon/code/rc/site/source/css/style.sass */
+    #page > footer ul li p {
+      display: inline; }
+    /* line 125, /Users/jon/code/rc/site/source/css/style.sass */
+    #page > footer ul li + li:before {
+      content: "•";
+      margin: 0 10px;
+      display: inline-block; }
+  @media screen and (max-width: 480px) {
+    /* line 117, /Users/jon/code/rc/site/source/css/style.sass */
+    #page > footer {
+      padding: 40px 0;
+      font-size: 14px;
+      line-height: 120%; }
+      /* line 133, /Users/jon/code/rc/site/source/css/style.sass */
+      #page > footer p {
+        margin: 0 0 10px 0; }
+      /* line 136, /Users/jon/code/rc/site/source/css/style.sass */
+      #page > footer ul li {
+        display: block;
+        margin: 0 0 10px 0; }
+        /* line 139, /Users/jon/code/rc/site/source/css/style.sass */
+        #page > footer ul li + li:before {
+          display: none; } }
+
+/* line 146, /Users/jon/code/rc/site/source/css/style.sass */
+#home dl dt > a,
+#past dl dt > a {
+  font-size: 30px;
+  line-height: 120%;
+  margin-right: 10px; }
+/* line 150, /Users/jon/code/rc/site/source/css/style.sass */
+#home dl dt .reg,
+#home dl dt .cfp,
+#past dl dt .reg,
+#past dl dt .cfp {
+  font-size: 14px;
+  color: #de5a5a;
+  display: inline-block;
+  line-height: 140%;
+  font-weight: 400; }
+  @media screen and (max-width: 480px) {
+    /* line 150, /Users/jon/code/rc/site/source/css/style.sass */
+    #home dl dt .reg,
+    #home dl dt .cfp,
+    #past dl dt .reg,
+    #past dl dt .cfp {
+      display: block; } }
+/* line 159, /Users/jon/code/rc/site/source/css/style.sass */
+#home dl dt .reg + .cfp:before,
+#past dl dt .reg + .cfp:before {
+  content: "•";
+  margin: 0 10px;
+  color: #999; }
+  @media screen and (max-width: 480px) {
+    /* line 159, /Users/jon/code/rc/site/source/css/style.sass */
+    #home dl dt .reg + .cfp:before,
+    #past dl dt .reg + .cfp:before {
+      display: none; } }
+/* line 165, /Users/jon/code/rc/site/source/css/style.sass */
+#home dl dd,
+#past dl dd {
+  margin: 0 0 30px 0; }
+  @media screen and (max-width: 480px) {
+    /* line 165, /Users/jon/code/rc/site/source/css/style.sass */
+    #home dl dd,
+    #past dl dd {
+      margin-bottom: 20px; } }
+  /* line 170, /Users/jon/code/rc/site/source/css/style.sass */
+  #home dl dd ul li,
+  #past dl dd ul li {
+    display: inline-block;
+    line-height: 140%; }
+    /* line 173, /Users/jon/code/rc/site/source/css/style.sass */
+    #home dl dd ul li p,
+    #past dl dd ul li p {
+      display: inline; }
+    /* line 175, /Users/jon/code/rc/site/source/css/style.sass */
+    #home dl dd ul li + li:before,
+    #past dl dd ul li + li:before {
+      content: "•";
+      margin: 0 10px;
+      display: inline-block; }
+    @media screen and (max-width: 768px) {
+      /* line 170, /Users/jon/code/rc/site/source/css/style.sass */
+      #home dl dd ul li,
+      #past dl dd ul li {
+        display: block; }
+        /* line 181, /Users/jon/code/rc/site/source/css/style.sass */
+        #home dl dd ul li + li:before,
+        #past dl dd ul li + li:before {
+          display: none; } }
+
+/* line 186, /Users/jon/code/rc/site/source/css/style.sass */
+#news dl dt {
+  position: relative;
+  padding-left: 120px; }
+  /* line 189, /Users/jon/code/rc/site/source/css/style.sass */
+  #news dl dt time {
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-transform: uppercase;
+    font-size: 16px; }
+  /* line 195, /Users/jon/code/rc/site/source/css/style.sass */
+  #news dl dt a {
+    font-size: 26px; }
+/* line 197, /Users/jon/code/rc/site/source/css/style.sass */
+#news dl dd {
+  padding: 0 0 30px 120px; }
+@media screen and (max-width: 480px) {
+  /* line 201, /Users/jon/code/rc/site/source/css/style.sass */
+  #news dl dt {
+    padding: 0 0 5px 0; }
+    /* line 203, /Users/jon/code/rc/site/source/css/style.sass */
+    #news dl dt time {
+      position: static;
+      left: auto;
+      top: auto;
+      display: block;
+      font-size: 20px;
+      margin: 0 0 5px 0; }
+  /* line 210, /Users/jon/code/rc/site/source/css/style.sass */
+  #news dl dd {
+    padding-left: 0; } }
+/* line 213, /Users/jon/code/rc/site/source/css/style.sass */
+#news footer .older {
+  float: right; }

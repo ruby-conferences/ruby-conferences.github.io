@@ -1,0 +1,21 @@
+<dt>
+  <a href="{{ event.url }}">{{ event.name }}</a>
+  {% if event.reg_phrase %}
+  <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
+  {% endif %}
+  {% if event.cfp_phrase %}
+  <div class="cfp" data-date="{{ event.cfp_date }}" data-phrase="{{ event.cfp_phrase }}"></div>
+  {% endif %}
+</dt>
+<dd>
+  <ul>
+    <li>{{ event.dates }}</li>
+    <li>{{ event.location }}</li>
+    {% if event.twitter %}
+      <li><a href="https://twitter.com/{{ event.twitter }}">@{{ event.twitter }}</a></li>
+    {% endif %}
+    {% if event.video_link %}
+      <li><a href="{{ event.video_link }}">Event Vidoes</a></li>
+    {% endif %}
+  </ul>
+</dd>
