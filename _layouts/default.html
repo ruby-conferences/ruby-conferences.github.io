@@ -20,8 +20,8 @@
         <h1><a class="extruded" href="/"><span>Ruby&nbsp;</span><span>Conferences</span></a></h1>
         <nav>
           <ul>
-            <li><a href="/">Current</a></li>
-            <li><a href="/past/">Past</a></li>
+            <li class="{% if page.url == "/" %}active{% endif %}"><a href="/">Current</a></li>
+            <li class="{% if page.url == "/past/" %}active{% endif %}"><a href="/past/">Past</a></li>
           </ul>
         </nav>
       </header>
