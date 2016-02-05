@@ -84,6 +84,8 @@
   dates: "July 8, 2016"
   url: http://brightonruby.com
   twitter: brightonruby
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
 
 - name: WindyCityRails
   location: Chicago, IL
