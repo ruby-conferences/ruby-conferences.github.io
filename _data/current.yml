@@ -72,6 +72,13 @@
   twitter: rubyconfph
   cfp_phrase: CFP is open
 
+- name: RubyConfLT
+  location: Vilnius, Lithuania
+  dates: "April 23, 2016"
+  url: http://rubyconf.lt/
+  twitter: rubyconflt
+  cfp_phrase: CFP is open
+
 - name: RailsConf
   location: Kansas City, MO
   dates: "May 4-6, 2016"
