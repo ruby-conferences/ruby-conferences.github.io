@@ -79,6 +79,14 @@
   twitter: rubyconf
   cfp_phrase: CFP is open
 
+- name: RedDotRubyConf
+  location: Singapore
+  dates: "June 23-24, 2016"
+  url: http://reddotrubyconf.com
+  twitter: reddotrubyconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
 - name: Brighton Ruby Conference
   location: Brighton, UK
   dates: "July 8, 2016"
