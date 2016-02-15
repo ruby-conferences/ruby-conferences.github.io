@@ -5,14 +5,6 @@
   twitter: ruby_fosdem
   cfp_phrase: CFP is open
 
-- name: Rubyfuza
-  location: Cape Town, South Africa
-  dates: "February 4-5, 2016"
-  url: http://www.rubyfuza.org
-  twitter: rubyfuza
-  reg_phrase: Registration is open
-  cfp_phrase: CFP is open
-
 - name: RubyConf Australia
   location: Gold Coast, Australia
   dates: "February 10-13, 2016"
