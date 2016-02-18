@@ -79,6 +79,12 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
+- name: RubyKaigi 2016
+  location: Kyoto, Japan
+  dates: "September 8-10, 2016"
+  url: http://rubykaigi.org/
+  twitter: rubykaigi
+
 - name: WindyCityRails
   location: Chicago, IL
   dates: "September 15-16, 2016"
