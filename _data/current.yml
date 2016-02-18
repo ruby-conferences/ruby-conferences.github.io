@@ -32,7 +32,6 @@
   dates: "March 11-13, 2016"
   url: http://wrocloverb.com
   twitter: wrocloverb
-  cfp_phrase: CFP is open
 
 - name: RubyConfIndia
   location: Kochi, India
@@ -40,7 +39,6 @@
   url: http://rubyconfindia.org
   twitter: rubyconfindia
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
 - name: MountainWest RubyConf
   location: Salt Lake City, UT
@@ -55,7 +53,6 @@
   url: https://ruby.onales.com/
   twitter: rbonales
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
 - name: Ancient City Ruby
   location: St. Augustine, FL
@@ -63,21 +60,18 @@
   url: http://www.ancientcityruby.com/
   twitter: ancientcityruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
 - name: Rubyconf Philippines
   location: Manila, Philippines
   dates: "April 7-9, 2016"
   url: http://rubyconf.ph
   twitter: rubyconfph
-  cfp_phrase: CFP is open
 
 - name: RailsConf
   location: Kansas City, MO
   dates: "May 4-6, 2016"
   url: http://railsconf.com/
   twitter: rubyconf
-  cfp_phrase: CFP is open
 
 - name: RedDotRubyConf
   location: Singapore
