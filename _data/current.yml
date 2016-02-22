@@ -58,6 +58,14 @@
   url: http://railsconf.com/
   twitter: rubyconf
 
+- name: NordicRuby
+  location: Stockholm
+  dates: "June 17-19, 2016"
+  url: http://www.nordicruby.org/
+  twitter: nordicruby
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
 - name: RedDotRubyConf
   location: Singapore
   dates: "June 23-24, 2016"
