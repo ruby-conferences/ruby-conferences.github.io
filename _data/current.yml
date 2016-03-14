@@ -58,6 +58,12 @@
   url: http://railsconf.com/
   twitter: rubyconf
 
+- name: Rails Pacific
+  location: Taipei, Taiwan
+  dates: "May 20-21, 2016"
+  url: http://railspacific.com/
+  twitter: railspacific
+
 - name: RubyC
   location: Kiev, Ukraine
   dates: "June 4-5, 2016"
