@@ -58,6 +58,12 @@
   url: http://railsconf.com/
   twitter: rubyconf
 
+- name: Rails Pacific
+  location: Taipei, Taiwan
+  dates: "May 4-6, 2016"
+  url: http://railsconf.com/
+  twitter: rubyconf
+
 - name: NordicRuby
   location: Stockholm
   dates: "June 17-19, 2016"
