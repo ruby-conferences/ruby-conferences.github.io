@@ -58,6 +58,12 @@
   url: http://railsconf.com/
   twitter: rubyconf
 
+- name: RubyC
+  location: Kiev, Ukraine
+  dates: "June 4-5, 2016"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+
 - name: NordicRuby
   location: Stockholm
   dates: "June 17-19, 2016"
