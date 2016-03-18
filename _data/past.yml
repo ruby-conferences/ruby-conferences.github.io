@@ -618,3 +618,15 @@
   dates: "February 10-13, 2016"
   url: http://www.rubyconf.org.au/2016
   twitter: rubyconf_au  
+
+- name: Bath Ruby Conference
+  location: Bath, UK
+  dates: "March 11, 2016"
+  url: http://2016.bathruby.org
+  twitter: bathruby
+
+- name: wroc_love.rb
+  location: Wrocław, Poland
+  dates: "March 11-13, 2016"
+  url: http://wrocloverb.com
+  twitter: wrocloverb
