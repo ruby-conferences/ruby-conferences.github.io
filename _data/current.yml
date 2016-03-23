@@ -1,17 +1,3 @@
-- name: RubyConfIndia
-  location: Kochi, India
-  dates: "March 19-20, 2016"
-  url: http://rubyconfindia.org
-  twitter: rubyconfindia
-  reg_phrase: Registration is open
-
-- name: MountainWest RubyConf
-  location: Salt Lake City, UT
-  dates: "March 21-22, 2016"
-  url: http://mtnwestrubyconf.org/2016/
-  twitter: mwrc
-  reg_phrase: Earlybird registration is open
-
 - name: Ruby on Ales
   location: Bend, Oregon
   dates: "March 31 and April 1, 2016"
