@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 - name: RubyConfIndia
   location: Kochi, India
   dates: "March 19-20, 2016"
@@ -12,6 +14,7 @@
   twitter: mwrc
   reg_phrase: Earlybird registration is open
 
+>>>>>>> b5db64796f2cbe7490f28892114d0b78ae4bac0c
 - name: Ruby on Ales
   location: Bend, Oregon
   dates: "March 31 and April 1, 2016"
