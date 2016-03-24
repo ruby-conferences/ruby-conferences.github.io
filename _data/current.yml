@@ -82,6 +82,13 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
+- name: Gotham Ruby Conference
+  location: New York, NY
+  dates: "June 25, 2016"
+  url: http://goruco.com/
+  twitter: goruco
+  cfp_phrase: CFP is open
+
 - name: Brighton Ruby Conference
   location: Brighton, UK
   dates: "July 8, 2016"
