@@ -630,6 +630,7 @@
   dates: "March 11-13, 2016"
   url: http://wrocloverb.com
   twitter: wrocloverb
+<<<<<<< HEAD
 
 - name: RubyConfIndia
   location: Kochi, India
@@ -642,3 +643,5 @@
   dates: "March 21-22, 2016"
   url: http://mtnwestrubyconf.org/2016/
   twitter: mwrc
+=======
+>>>>>>> b5db64796f2cbe7490f28892114d0b78ae4bac0c

@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+=======
+- name: RubyConfIndia
+  location: Kochi, India
+  dates: "March 19-20, 2016"
+  url: http://rubyconfindia.org
+  twitter: rubyconfindia
+  reg_phrase: Registration is open
+
+- name: MountainWest RubyConf
+  location: Salt Lake City, UT
+  dates: "March 21-22, 2016"
+  url: http://mtnwestrubyconf.org/2016/
+  twitter: mwrc
+  reg_phrase: Earlybird registration is open
+
+>>>>>>> b5db64796f2cbe7490f28892114d0b78ae4bac0c
 - name: Ruby on Ales
   location: Bend, Oregon
   dates: "March 31 and April 1, 2016"
@@ -24,6 +41,13 @@
   url: http://rubyconf.lt/
   twitter: rubyconflt
   cfp_phrase: CFP is open
+
+- name: RubyConfBY
+  location: Minsk, Belarus
+  dates: "April 24, 2016"
+  url: http://rubyconference.by/en/
+  twitter: rubyconfby
+  reg_phrase: Registration is open
 
 - name: RailsConf
   location: Kansas City, MO
@@ -59,6 +83,13 @@
   url: http://www.reddotrubyconf.com/
   twitter: reddotrubyconf
   reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
+- name: Gotham Ruby Conference
+  location: New York, NY
+  dates: "June 25, 2016"
+  url: http://goruco.com/
+  twitter: goruco
   cfp_phrase: CFP is open
 
 - name: Brighton Ruby Conference
