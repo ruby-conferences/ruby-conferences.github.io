@@ -83,6 +83,14 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
+- name: Deccan Ruby Conference
+  location: Pune, India
+  dates: "August 7, 2016"
+  url: http://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
 - name: RubyKaigi 2016
   location: Kyoto, Japan
   dates: "September 8-10, 2016"
