@@ -642,3 +642,9 @@
   dates: "March 21-22, 2016"
   url: http://mtnwestrubyconf.org/2016/
   twitter: mwrc
+
+- name: Ruby on Ales
+  location: Bend, Oregon
+  dates: "March 31 and April 1, 2016"
+  url: https://ruby.onales.com/
+  twitter: rbonales
