@@ -103,16 +103,23 @@
   twitter: euruko
   cfp_phrase: CFP is open
 
+- name: RubyConf Brazil
+  location: São Paulo, Brazil
+  dates: "September 23-24, 2016"
+  url: http://rubyconfbrcfp.com.br/
+  twitter: rubyconfbr
+  cfp_phrase: CFP is open
+
 - name: RubyConf
   location: Cincinnati, OH
   dates: "November 10-12, 2016"
   url: http://rubyconf.org/
   twitter: rubyconf
-  
+
   name: Rail Israel 2016
   location: Tel Aviv, Israel
   dates: "November 14-15, 2016"
   url: https://railsisrael2016.events.co.il
   twitter: railsisrael
   cfp_phrase: CFP is open
-  
+
