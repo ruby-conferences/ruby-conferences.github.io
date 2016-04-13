@@ -648,3 +648,15 @@
   dates: "March 31 and April 1, 2016"
   url: https://ruby.onales.com/
   twitter: rbonales
+
+- name: Ancient City Ruby
+  location: St. Augustine, FL
+  dates: "April 6-8, 2016"
+  url: http://www.ancientcityruby.com/
+  twitter: ancientcityruby
+
+- name: Rubyconf Philippines
+  location: Manila, Philippines
+  dates: "April 7-9, 2016"
+  url: http://rubyconf.ph
+  twitter: rubyconfph
