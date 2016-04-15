@@ -105,6 +105,13 @@ twitter: rubyconfpt
 cfp_phrase: CFP is open
 
 - name: RubyConf
+location: Braga, Portugal
+dates: "October 28-29, 2016"
+url: http://rubyconf.pt/
+twitter: rubyconfpt
+cfp_phrase: CFP is open
+
+- name: RubyConf
   location: Cincinnati, OH
   dates: "November 10-12, 2016"
   url: http://rubyconf.org/
