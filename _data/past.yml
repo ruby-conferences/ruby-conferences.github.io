@@ -606,18 +606,18 @@
   dates: "January 31, 2016"
   url: http://fosdem.rubybelgium.be/
   twitter: ruby_fosdem
-  
+
 - name: Rubyfuza
   location: Cape Town, South Africa
   dates: "February 4-5, 2016"
   url: http://www.rubyfuza.org
   twitter: rubyfuza
-  
+
 - name: RubyConf Australia
   location: Gold Coast, Australia
   dates: "February 10-13, 2016"
   url: http://www.rubyconf.org.au/2016
-  twitter: rubyconf_au  
+  twitter: rubyconf_au
 
 - name: Bath Ruby Conference
   location: Bath, UK

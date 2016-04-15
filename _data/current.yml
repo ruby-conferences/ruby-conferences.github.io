@@ -98,11 +98,11 @@
   cfp_phrase: CFP is open
 
 - name: RubyConf
-location: Braga, Portugal
-dates: "October 28-29, 2016"
-url: http://rubyconf.pt/
-twitter: rubyconfpt
-cfp_phrase: CFP is open
+  location: Braga, Portugal
+  dates: "October 28-29, 2016"
+  url: http://rubyconf.pt/
+  twitter: rubyconfpt
+  cfp_phrase: CFP is open
 
 - name: RubyConf
   location: Cincinnati, OH
@@ -110,10 +110,9 @@ cfp_phrase: CFP is open
   url: http://rubyconf.org/
   twitter: rubyconf
 
-  name: Rail Israel 2016
+- name: Rail Israel 2016
   location: Tel Aviv, Israel
   dates: "November 14-15, 2016"
   url: https://railsisrael2016.events.co.il
   twitter: railsisrael
   cfp_phrase: CFP is open
-
