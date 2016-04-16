@@ -97,6 +97,13 @@
   twitter: rubyconfbr
   cfp_phrase: CFP is open
 
+- name: Conferencia Rails 2016
+  location: Madrid, Spain
+  dates: "October 21-22, 2016"
+  url: http://conferenciaror.es/
+  twitter: conferenciaror
+  cfp_phrase: CFP is open
+
 - name: RubyConf
   location: Braga, Portugal
   dates: "October 28-29, 2016"
