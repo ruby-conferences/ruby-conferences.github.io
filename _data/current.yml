@@ -71,7 +71,7 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
-- name: RubyKaigi 2016
+- name: RubyKaigi
   location: Kyoto, Japan
   dates: "September 8-10, 2016"
   url: http://rubykaigi.org/
@@ -97,7 +97,7 @@
   twitter: rubyconfbr
   cfp_phrase: CFP is open
 
-- name: Conferencia Rails 2016
+- name: Conferencia Rails
   location: Madrid, Spain
   dates: "October 21-22, 2016"
   url: http://conferenciaror.es/
@@ -117,7 +117,7 @@
   url: http://rubyconf.org/
   twitter: rubyconf
 
-- name: Rail Israel 2016
+- name: Rail Israel
   location: Tel Aviv, Israel
   dates: "November 14-15, 2016"
   url: https://railsisrael2016.events.co.il
