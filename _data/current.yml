@@ -24,6 +24,22 @@
   url: http://railspacific.com/
   twitter: railspacific
 
+- name: RubyNation
+  location: Washington, DC
+  dates: "June 3-4, 2016"
+  url: http://www.rubynation.org/
+  twitter: rubynation
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is closed
+
+- name: Ruby for Good
+  location: Washington, DC
+  dates: "June 16-19, 2016"
+  url: http://www.rubyforgood.org/
+  twitter: rubyforgood
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is closed
+
 - name: RubyC
   location: Kiev, Ukraine
   dates: "June 4-5, 2016"
