@@ -63,12 +63,12 @@
   twitter: reddotrubyconf
   reg_phrase: Registration is open
 
-- name: Gotham Ruby Conference
+- name: GORUCO (Gotham Ruby Conference)
   location: New York, NY
   dates: "June 25, 2016"
   url: http://goruco.com/
   twitter: goruco
-  cfp_phrase: CFP is open
+  reg_phrase: Registration is open
 
 - name: Brighton Ruby Conference
   location: Brighton, UK
