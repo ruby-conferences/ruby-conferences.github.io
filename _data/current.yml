@@ -54,7 +54,7 @@
   url: http://www.nordicruby.org/
   twitter: nordicruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
+  cfp_phrase: CFP is closed
 
 - name: RedDotRubyConf
   location: Singapore
@@ -68,7 +68,7 @@
   dates: "June 25, 2016"
   url: http://goruco.com/
   twitter: goruco
-  cfp_phrase: CFP is open
+  cfp_phrase: CFP is closed
 
 - name: Brighton Ruby Conference
   location: Brighton, UK
@@ -76,7 +76,7 @@
   url: http://brightonruby.com
   twitter: brightonruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
+  cfp_phrase: CFP is closed
 
 - name: Deccan Ruby Conference
   location: Pune, India
