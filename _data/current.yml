@@ -119,6 +119,13 @@
   twitter: conferenciaror
   cfp_phrase: CFP is open
 
+- name: RailsClub
+  location: Moscow, Russia
+  dates: "October 22, 2016"
+  url: http://railsclub.ru/en/main.html
+  twitter: railsclub_ru
+  cfp_phrase: CFP is open
+
 - name: RubyConf
   location: Braga, Portugal
   dates: "October 28-29, 2016"
