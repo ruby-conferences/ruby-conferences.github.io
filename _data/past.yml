@@ -660,3 +660,21 @@
   dates: "April 7-9, 2016"
   url: http://rubyconf.ph
   twitter: rubyconfph
+
+- name: RubyConfLT
+  location: Vilnius, Lithuania
+  dates: "April 23, 2016"
+  url: http://rubyconf.lt/
+  twitter: rubyconflt
+
+- name: RubyConfBY
+  location: Minsk, Belarus
+  dates: "April 24, 2016"
+  url: http://rubyconference.by/en/
+  twitter: rubyconfby
+
+- name: RailsConf
+  location: Kansas City, MO
+  dates: "May 4-6, 2016"
+  url: http://railsconf.com/
+  twitter: railsconf
