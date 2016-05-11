@@ -111,11 +111,12 @@
   twitter: railsclub_ru
   cfp_phrase: CFP is open
 
-- name: RubyConf
+- name: RubyConf Portugal
   location: Braga, Portugal
   dates: "October 28-29, 2016"
   url: http://rubyconf.pt/
   twitter: rubyconfpt
+  reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
 - name: RubyConf
