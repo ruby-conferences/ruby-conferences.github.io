@@ -678,3 +678,9 @@
   dates: "May 4-6, 2016"
   url: http://railsconf.com/
   twitter: railsconf
+
+- name: Rails Pacific
+  location: Taipei, Taiwan
+  dates: "May 20-21, 2016"
+  url: http://railspacific.com/
+  twitter: railspacific
