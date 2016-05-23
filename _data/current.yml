@@ -83,6 +83,14 @@
   url: http://www.windycityrails.org/
   twitter: windycityrails
 
+- name: Rocky Mountain Ruby
+  location: Boulder, CO
+  dates: "September 21-23, 2016"
+  url: http://rockymtnruby.com/
+  twitter: rockymtnruby
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
 - name: EuRuKo
   location: Sofia, Bulgaria
   dates: "September 23-24, 2016"
