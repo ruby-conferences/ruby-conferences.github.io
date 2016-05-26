@@ -47,6 +47,13 @@
   twitter: goruco
   reg_phrase: Registration is open
 
+- name: OpenCommerce Conf 2016
+  location: Rise, New York City
+  dates: "June 28-29, 2016"
+  url: http://opencommerceconf.org/
+  twitter: @OpenCommerce_
+  reg_phrase: Registration is open
+
 - name: Brighton Ruby Conference
   location: Brighton, UK
   dates: "July 8, 2016"
