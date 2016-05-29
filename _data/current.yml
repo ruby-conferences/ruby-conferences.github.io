@@ -82,8 +82,7 @@
   url: http://rubykaigi.org/
   twitter: rubykaigi
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
-
+  
 - name: WindyCityRails
   location: Chicago, IL
   dates: "September 15-16, 2016"
