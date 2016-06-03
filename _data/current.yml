@@ -32,7 +32,7 @@
   url: http://www.reddotrubyconf.com/
   twitter: reddotrubyconf
   reg_phrase: Registration is open
-  
+
 - name: GrillRB
   location: Wrocław, Poland
   dates: "June 25-26, 2016"
@@ -82,7 +82,7 @@
   url: http://rubykaigi.org/
   twitter: rubykaigi
   reg_phrase: Registration is open
-  
+
 - name: WindyCityRails
   location: Chicago, IL
   dates: "September 15-16, 2016"
