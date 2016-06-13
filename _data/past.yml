@@ -684,3 +684,21 @@
   dates: "May 20-21, 2016"
   url: http://railspacific.com/
   twitter: railspacific
+
+- name: RubyNation
+  location: Washington, DC
+  dates: "June 3-4, 2016"
+  url: http://www.rubynation.org/
+  twitter: rubynation
+
+- name: RubyC
+  location: Kiev, Ukraine
+  dates: "June 4-5, 2016"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+
+- name: Ruby for Good
+  location: Washington, DC
+  dates: "June 16-19, 2016"
+  url: http://www.rubyforgood.org/
+  twitter: rubyforgood
