@@ -46,7 +46,6 @@
   url: http://www.deccanrubyconf.org/
   twitter: deccanrubyconf
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
 - name: RubyConf Colombia
   location: Medellin, Colombia
@@ -74,7 +73,6 @@
   url: http://rockymtnruby.com/
   twitter: rockymtnruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
 - name: EuRuKo
   location: Sofia, Bulgaria
@@ -87,7 +85,7 @@
   dates: "September 23-24, 2016"
   url: http://rubyconfbrcfp.com.br/
   twitter: rubyconfbr
-  cfp_phrase: CFP is open
+  reg_phrase: Registration is open
 
 - name: Conferencia Rails
   location: Madrid, Spain
