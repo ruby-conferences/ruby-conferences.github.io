@@ -1,79 +1,30 @@
-- name: Ruby on Ales
-  location: Bend, Oregon
-  dates: "March 31 and April 1, 2016"
-  url: https://ruby.onales.com/
-  twitter: rbonales
-  reg_phrase: Registration is open
-
-- name: Ancient City Ruby
-  location: St. Augustine, FL
-  dates: "April 6-8, 2016"
-  url: http://www.ancientcityruby.com/
-  twitter: ancientcityruby
-  reg_phrase: Registration is open
-
-- name: Rubyconf Philippines
-  location: Manila, Philippines
-  dates: "April 7-9, 2016"
-  url: http://rubyconf.ph
-  twitter: rubyconfph
-
-- name: RubyConfLT
-  location: Vilnius, Lithuania
-  dates: "April 23, 2016"
-  url: http://rubyconf.lt/
-  twitter: rubyconflt
-  cfp_phrase: CFP is open
-
-- name: RubyConfBY
-  location: Minsk, Belarus
-  dates: "April 24, 2016"
-  url: http://rubyconference.by/en/
-  twitter: rubyconfby
-  reg_phrase: Registration is open
-
-- name: RailsConf
-  location: Kansas City, MO
-  dates: "May 4-6, 2016"
-  url: http://railsconf.com/
-  twitter: rubyconf
-
-- name: Rails Pacific
-  location: Taipei, Taiwan
-  dates: "May 20-21, 2016"
-  url: http://railspacific.com/
-  twitter: railspacific
-
-- name: RubyC
-  location: Kiev, Ukraine
-  dates: "June 4-5, 2016"
-  url: http://rubyc.eu/
-  twitter: rubyc_eu
-  reg_phrase: Registration is open
-  cfp_phrase: CFP is open
-
-- name: NordicRuby
-  location: Stockholm
-  dates: "June 17-19, 2016"
-  url: http://www.nordicruby.org/
-  twitter: nordicruby
-  reg_phrase: Registration is open
-  cfp_phrase: CFP is open
-
 - name: RedDotRubyConf
   location: Singapore
   dates: "June 23-24, 2016"
   url: http://www.reddotrubyconf.com/
   twitter: reddotrubyconf
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
-- name: Gotham Ruby Conference
+- name: GrillRB
+  location: Wrocław, Poland
+  dates: "June 25-26, 2016"
+  url: http://grillrb.com/
+  twitter: grill_rb
+  reg_phrase: Registration is open
+
+- name: GORUCO (Gotham Ruby Conference)
   location: New York, NY
   dates: "June 25, 2016"
   url: http://goruco.com/
   twitter: goruco
-  cfp_phrase: CFP is open
+  reg_phrase: Registration is open
+
+- name: OpenCommerce Conf
+  location: Rise, New York City
+  dates: "June 28-29, 2016"
+  url: http://opencommerceconf.org/
+  twitter: opencommerce_
+  reg_phrase: Registration is open
 
 - name: Brighton Ruby Conference
   location: Brighton, UK
@@ -81,7 +32,6 @@
   url: http://brightonruby.com
   twitter: brightonruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
 - name: Deccan Ruby Conference
   location: Pune, India
@@ -89,13 +39,20 @@
   url: http://www.deccanrubyconf.org/
   twitter: deccanrubyconf
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
-- name: RubyKaigi 2016
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  dates: "September 2-3, 2016"
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco
+  reg_phrase: Registration is open
+
+- name: RubyKaigi
   location: Kyoto, Japan
   dates: "September 8-10, 2016"
   url: http://rubykaigi.org/
   twitter: rubykaigi
+  reg_phrase: Registration is open
 
 - name: WindyCityRails
   location: Chicago, IL
@@ -103,11 +60,47 @@
   url: http://www.windycityrails.org/
   twitter: windycityrails
 
+- name: Rocky Mountain Ruby
+  location: Boulder, CO
+  dates: "September 21-23, 2016"
+  url: http://rockymtnruby.com/
+  twitter: rockymtnruby
+  reg_phrase: Registration is open
+
 - name: EuRuKo
   location: Sofia, Bulgaria
   dates: "September 23-24, 2016"
   url: http://euruko2016.org/
   twitter: euruko
+
+- name: RubyConf Brazil
+  location: São Paulo, Brazil
+  dates: "September 23-24, 2016"
+  url: http://rubyconfbrcfp.com.br/
+  twitter: rubyconfbr
+  reg_phrase: Registration is open
+
+- name: Conferencia Rails
+  location: Madrid, Spain
+  dates: "October 21-22, 2016"
+  url: http://conferenciaror.es/
+  twitter: conferenciaror
+  cfp_phrase: CFP is open
+
+- name: RailsClub
+  location: Moscow, Russia
+  dates: "October 22, 2016"
+  url: http://railsclub.ru/en/main.html
+  twitter: railsclub_ru
+  cfp_phrase: CFP is open
+
+- name: RubyConf Portugal
+  location: Braga, Portugal
+  dates: "October 28-29, 2016"
+  url: http://rubyconf.pt/
+  twitter: rubyconfpt
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
 
 - name: RubyConf
   location: Cincinnati, OH
@@ -115,10 +108,16 @@
   url: http://rubyconf.org/
   twitter: rubyconf
 
-- name: Ruby Conf India
-  location: Kochi, India
-  dates: "January 27-29, 2017"
-  url: http://rubyconfindia.org/
-  twitter: rubyconfindia
-  reg_phrase: Registration is open
+- name: Rail Israel
+  location: Tel Aviv, Israel
+  dates: "November 14-15, 2016"
+  url: https://railsisrael2016.events.co.il
+  twitter: railsisrael
+  cfp_phrase: CFP is open
+
+- name: RubyDay
+  location: Florence, Italy
+  dates: "November 25-26, 2016"
+  url: https://rubyday.it
+  twitter: rubydayit
   cfp_phrase: CFP is open

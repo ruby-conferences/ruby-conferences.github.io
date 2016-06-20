@@ -606,18 +606,18 @@
   dates: "January 31, 2016"
   url: http://fosdem.rubybelgium.be/
   twitter: ruby_fosdem
-  
+
 - name: Rubyfuza
   location: Cape Town, South Africa
   dates: "February 4-5, 2016"
   url: http://www.rubyfuza.org
   twitter: rubyfuza
-  
+
 - name: RubyConf Australia
   location: Gold Coast, Australia
   dates: "February 10-13, 2016"
   url: http://www.rubyconf.org.au/2016
-  twitter: rubyconf_au  
+  twitter: rubyconf_au
 
 - name: Bath Ruby Conference
   location: Bath, UK
@@ -642,3 +642,69 @@
   dates: "March 21-22, 2016"
   url: http://mtnwestrubyconf.org/2016/
   twitter: mwrc
+
+- name: Ruby on Ales
+  location: Bend, Oregon
+  dates: "March 31 and April 1, 2016"
+  url: https://ruby.onales.com/
+  twitter: rbonales
+
+- name: Ancient City Ruby
+  location: St. Augustine, FL
+  dates: "April 6-8, 2016"
+  url: http://www.ancientcityruby.com/
+  twitter: ancientcityruby
+
+- name: Rubyconf Philippines
+  location: Manila, Philippines
+  dates: "April 7-9, 2016"
+  url: http://rubyconf.ph
+  twitter: rubyconfph
+
+- name: RubyConfLT
+  location: Vilnius, Lithuania
+  dates: "April 23, 2016"
+  url: http://rubyconf.lt/
+  twitter: rubyconflt
+
+- name: RubyConfBY
+  location: Minsk, Belarus
+  dates: "April 24, 2016"
+  url: http://rubyconference.by/en/
+  twitter: rubyconfby
+
+- name: RailsConf
+  location: Kansas City, MO
+  dates: "May 4-6, 2016"
+  url: http://railsconf.com/
+  twitter: railsconf
+
+- name: Rails Pacific
+  location: Taipei, Taiwan
+  dates: "May 20-21, 2016"
+  url: http://railspacific.com/
+  twitter: railspacific
+
+- name: RubyNation
+  location: Washington, DC
+  dates: "June 3-4, 2016"
+  url: http://www.rubynation.org/
+  twitter: rubynation
+
+- name: RubyC
+  location: Kiev, Ukraine
+  dates: "June 4-5, 2016"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+
+- name: Ruby for Good
+  location: Washington, DC
+  dates: "June 16-19, 2016"
+  url: http://www.rubyforgood.org/
+  twitter: rubyforgood
+  
+- name: NordicRuby
+  location: Stockholm
+  dates: "June 17-19, 2016"
+  url: http://www.nordicruby.org/
+  twitter: nordicruby
