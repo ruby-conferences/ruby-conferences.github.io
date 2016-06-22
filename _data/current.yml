@@ -121,3 +121,11 @@
   url: http://www.rubyday.it
   twitter: rubydayit
   cfp_phrase: CFP is open
+
+- name: Ruby Conf India
+  location: Kochi, India
+  dates: "January 27-29, 2017"
+  url: http://rubyconfindia.org/
+  twitter: rubyconfindia
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
