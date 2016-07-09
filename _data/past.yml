@@ -733,3 +733,10 @@
   url: http://opencommerceconf.org/
   twitter: opencommerce_
   reg_phrase: Registration is open
+
+- name: Brighton Ruby Conference
+  location: Brighton, UK
+  dates: "July 8, 2016"
+  url: http://brightonruby.com
+  twitter: brightonruby
+  reg_phrase: Registration is open
