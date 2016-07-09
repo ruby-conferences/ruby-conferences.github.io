@@ -5,6 +5,13 @@
   twitter: deccanrubyconf
   reg_phrase: Registration is open
 
+- name: 2º Tech Day by GURU-PR
+  location: Curitiba, Brazil
+  dates: "August 20, 2016"
+  url: http://www.gurupr.org/eventos/2-tech-day-do-guru-pr
+  twitter: guru_pr
+  reg_phrase: CFP and registration are open
+
 - name: RubyConf Colombia
   location: Medellin, Colombia
   dates: "September 2-3, 2016"
