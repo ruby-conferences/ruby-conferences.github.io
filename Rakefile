@@ -1,3 +1,4 @@
+#!/usr/bin/env rake
 require 'yaml'
 
 desc "Verify event data"
@@ -21,3 +22,5 @@ task :verify_data do
   dates = events.map { |event| Date.parse event["dates"].gsub(/[-&][^,]+/, '') }
   exit 2 unless dates.sort == dates
 end
+
+task default: [:verify_data]
