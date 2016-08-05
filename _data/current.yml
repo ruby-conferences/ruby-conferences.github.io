@@ -105,7 +105,7 @@
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
   dates: "December 2-3, 2016"
-  url: https://rubyconf.tw/2016/
+  url: http://rubyconf.tw/2016/
   twitter: rubyconftw
 
 - name: Ruby Conf India
