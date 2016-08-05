@@ -1,11 +1,10 @@
-fail("Jekyll failed to build site") unless system("bundle exec jekyll build")
-fail("Bad HTML generated") unless system("bundle exec htmlproofer ./_site")
-
-system("bundle exec rake verify_data")
+system('bundle exec rake')
 
 messages = {
-  1 => "Incomplete event data",
-  2 => "Events out of order"
+  1 => 'Jekyll failed to build site',
+  2 => 'htmlproofer found errors',
+  3 => 'Incomplete event data found',
+  4 => 'Events out of order'
 }
 
 if message = messages[$?.exitstatus]
