@@ -15,7 +15,6 @@
 - name: Los Angeles Ruby Conference
   location: Los Angeles, CA
   dates: "February 8, 2014"
-  url: http://larubyconf.com/
   twitter: larubyconf
   video_link: http://confreaks.com/events/larubyconf2014
 
@@ -29,7 +28,6 @@
 - name: Big Ruby
   location: Dallas, TX
   dates: "February 20-21, 2014"
-  url: http://www.bigrubyconf.com/
   twitter: bigrubyconf
   video_link: http://confreaks.com/events/bigruby2014
 
@@ -247,7 +245,6 @@
 - name: Golden Gate Ruby Conference
   location: San Francisco, CA
   dates: "September 19-20, 2014"
-  url: http://gogaruco.com/
   twitter: gogaruco
   video_link: http://confreaks.com/events/gogaruco2014
 
@@ -492,7 +489,6 @@
 - name: Ruby Midwest
   location: Kansas City, MO
   dates: "August 28-29, 2015"
-  url: http://rubymidwest.com/
   twitter: rubymidwest
 
 - name: Barcelona Ruby Conf
@@ -547,7 +543,6 @@
 - name: Los Angeles Ruby Conference
   location: Los Angeles, CA
   dates: "October 10, 2015"
-  url: http://larubyconf.com/
   twitter: larubyconf
   video_link: http://confreaks.com/events/larubyconf2015
 
