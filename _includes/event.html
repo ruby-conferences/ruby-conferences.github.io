@@ -1,5 +1,9 @@
 <dt>
+  {% if event.url %}
   <a href="{{ event.url }}">{{ event.name }}</a>
+  {% else %}
+  <a>{{ event.name }}</a>
+  {% endif %}
   {% if event.reg_phrase %}
   <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
   {% endif %}
