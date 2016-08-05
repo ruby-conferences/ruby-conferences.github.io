@@ -1,4 +1,4 @@
 safe: true
 lsi: false
 source: .
-exclude: [CNAME, Gemfile, Gemfile.lock, LICENSE.md, README.md, notes.txt]
+exclude: [CNAME, Gemfile, Gemfile.lock, LICENSE.md, README.md, notes.txt, vendor]
