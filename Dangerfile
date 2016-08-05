@@ -6,7 +6,7 @@ messages = {
   3 => 'Incomplete event data found',
   4 => 'Events out of order',
   5 => 'Limit commit subject line to 50 characters',
-  6 => 'No periods in commit subject',
+  6 => 'No period at end of commit subject',
   7 => 'Separate subject from body with newline',
 }
 
