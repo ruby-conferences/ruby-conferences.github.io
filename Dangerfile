@@ -5,7 +5,8 @@ messages = {
   2 => 'htmlproofer found errors',
   3 => 'Incomplete event data found',
   4 => 'Events out of order',
-  5 => 'Limit commit subject line to 50 characters'
+  5 => 'Limit commit subject line to 50 characters',
+  6 => 'Separate subject from body with newline'
 }
 
 if message = messages[$?.exitstatus]
@@ -13,6 +14,7 @@ if message = messages[$?.exitstatus]
 end
 
 for commit in git.commits
-  subject = commit.message.split("\n").first
+  (subject, empty_line, *body) = commit.message.split("\n")
   fail messages[5] if subject.length > 50
+  fail messages[6] if empty_line.length > 0
 end
