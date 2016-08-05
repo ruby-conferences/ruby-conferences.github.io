@@ -18,5 +18,5 @@ for commit in git.commits
   (subject, empty_line, *body) = commit.message.split("\n")
   fail messages[5] if subject.length > 50
   fail messages[6] if subject.split('').last == '.'
-  fail messages[7] if empty_line.length > 0
+  fail messages[7] if empty_line && empty_line.length > 0
 end
