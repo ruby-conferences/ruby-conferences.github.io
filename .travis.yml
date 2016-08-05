@@ -3,3 +3,6 @@ rvm:
   - 2.3.1
 script:
   - bundle exec danger
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

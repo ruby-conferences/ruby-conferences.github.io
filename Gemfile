@@ -4,3 +4,4 @@ ruby '2.3.1'
 
 gem 'jekyll'
 gem 'danger'
+gem 'html-proofer'
