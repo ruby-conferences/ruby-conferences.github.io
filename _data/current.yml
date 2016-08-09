@@ -81,6 +81,14 @@
   twitter: rubyconfpt
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
+  
+- name: Keep Ruby Weird
+  location: Austin, TX
+  dates: "October 28, 2016"
+  url: http://keeprubyweird.com/
+  twitter: keeprubyweird
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
 
 - name: RubyConf
   location: Cincinnati, OH
