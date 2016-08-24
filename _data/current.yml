@@ -1,17 +1,3 @@
-- name: Deccan Ruby Conference
-  location: Pune, India
-  dates: "August 6, 2016"
-  url: http://www.deccanrubyconf.org/
-  twitter: deccanrubyconf
-  reg_phrase: Registration is open
-
-- name: RubyConf KL
-  location: Kuala Lumpur, Malaysia
-  dates: "August 13, 2016"
-  url: http://www.rubyconf.my/
-  twitter: rubyconfmy
-  reg_phrase: Registration is open
-
 - name: RubyConf Colombia
   location: Medellin, Colombia
   dates: "September 2-3, 2016"
@@ -74,7 +60,7 @@
   twitter: rubyconfpt
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
-  
+
 - name: Keep Ruby Weird
   location: Austin, TX
   dates: "October 28, 2016"

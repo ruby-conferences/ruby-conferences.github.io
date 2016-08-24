@@ -734,6 +734,20 @@
   url: http://brightonruby.com
   twitter: brightonruby
 
+- name: Deccan Ruby Conference
+  location: Pune, India
+  dates: "August 6, 2016"
+  url: http://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+  reg_phrase: Registration is open
+
+- name: RubyConf KL
+  location: Kuala Lumpur, Malaysia
+  dates: "August 13, 2016"
+  url: http://www.rubyconf.my/
+  twitter: rubyconfmy
+  reg_phrase: Registration is open
+
 - name: Tech Day by GURU-PR
   location: Curitiba, Brazil
   dates: "August 20, 2016"
