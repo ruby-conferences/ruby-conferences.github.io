@@ -9,5 +9,6 @@ exclude:
   - LICENSE.md
   - README.md
   - Rakefile
+  - data_file_validator.rb
   - notes.txt
   - vendor
