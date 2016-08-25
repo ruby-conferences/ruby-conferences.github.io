@@ -1,5 +1,3 @@
-system('bundle exec rake')
-
 messages = {
   1 => 'Jekyll failed to build site',
   2 => 'htmlproofer found errors',
@@ -10,9 +8,9 @@ messages = {
   7 => 'Separate subject from body with newline',
 }
 
-if message = messages[$?.exitstatus]
-  fail message
-end
+system 'bundle exec rake'
+
+fail message if message = messages[$?.exitstatus]
 
 for commit in git.commits
   (subject, empty_line, *body) = commit.message.split("\n")
