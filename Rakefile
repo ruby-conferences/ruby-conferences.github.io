@@ -20,7 +20,7 @@ task :verify_data do
       allowed_keys: ["name", "location", "dates", "url", "twitter", "video_link"]
     }, {
       filename: :current,
-      allowed_keys: ["name", "location", "dates", "url", "twitter", "reg_phrase", "reg_dates", "cfp_phrase", "cfp_dates"]
+      allowed_keys: ["name", "location", "dates", "url", "twitter", "reg_phrase", "reg_date", "cfp_phrase", "cfp_date"]
     }
   ]
 
