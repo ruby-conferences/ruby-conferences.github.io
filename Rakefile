@@ -4,12 +4,13 @@ require 'yaml'
 class DataFileValidator
   attr_accessor :events
 
-  def self.validate(events)
-    new(events).tap &:validate
+  def self.validate(events, allowed_keys)
+    new(events, allowed_keys).tap &:validate
   end
 
-  def initialize(events)
+  def initialize(events, allowed_keys)
     @events = events
+    @allowed_keys = allowed_keys
   end
 
   def validate
@@ -20,11 +21,22 @@ class DataFileValidator
         puts event
         @missing_keys_error = true
       end
+
+      bonus_keys = event.keys - @allowed_keys
+      unless bonus_keys.empty?
+        puts "Bonus keys: #{bonus_keys}"
+        puts event
+        @bonus_keys_error = true
+      end
     end
   end
 
   def missing_keys?
     @missing_keys_error
+  end
+
+  def bonus_keys?
+    @bonus_keys_error
   end
 
   private
@@ -48,22 +60,25 @@ desc "Verify event data"
 task :verify_data do
   data_files = [
     {
-      filename: :past
+      filename: :past,
+      allowed_keys: ["name", "location", "dates", "url", "twitter", "video_link"]
     }, {
-      filename: :current
+      filename: :current,
+      allowed_keys: ["name", "location", "dates", "url", "twitter", "reg_phrase", "reg_dates", "cfp_phrase", "cfp_dates"]
     }
   ]
 
   validators = data_files.map do |data_file|
     data = YAML.load File.read "_data/#{data_file[:filename]}.yml"
-    DataFileValidator.validate(data)
+    DataFileValidator.validate(data, data_file[:allowed_keys])
   end
 
   exit 3 if validators.any? &:missing_keys?
+  exit 4 if validators.any? &:bonus_keys?
 
   events = validators.map(&:events).flatten
   dates = events.map { |event| Date.parse event["dates"].gsub(/[-&][^,]+/, '') }
-  exit 4 unless dates.sort == dates
+  exit 5 unless dates.sort == dates
 end
 
 task default: [:build, :verify_html, :verify_data]
