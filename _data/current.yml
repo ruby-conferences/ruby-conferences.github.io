@@ -31,6 +31,7 @@
   dates: "September 23-24, 2016"
   url: http://euruko2016.org/
   twitter: euruko
+  reg_phrase: Registration is open
 
 - name: RubyConf Brazil
   location: São Paulo, Brazil
@@ -44,12 +45,14 @@
   dates: "October 14-15, 2016"
   url: http://conferenciaror.es/
   twitter: conferenciaror
+  reg_phrase: Registration is open
 
 - name: RailsClub
   location: Moscow, Russia
   dates: "October 22, 2016"
   url: http://railsclub.ru/en/main.html
   twitter: railsclub_ru
+  reg_phrase: Registration is open
 
 - name: RubyConf Portugal
   location: Braga, Portugal
@@ -64,20 +67,22 @@
   url: http://keeprubyweird.com/
   twitter: keeprubyweird
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
 - name: RubyConf
   location: Cincinnati, OH
   dates: "November 10-12, 2016"
   url: http://rubyconf.org/
   twitter: rubyconf
-  cfp_phrase: CFP is open
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "September 7, 2016"
 
 - name: Rail Israel
   location: Tel Aviv, Israel
   dates: "November 14-15, 2016"
   url: https://railsisrael2016.events.co.il
   twitter: railsisrael
+  reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
 - name: RubyDay
@@ -85,13 +90,15 @@
   dates: "November 25-26, 2016"
   url: http://www.rubyday.it
   twitter: rubydayit
+  reg_phrase: Registration is open
 
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
   dates: "December 2-3, 2016"
   url: http://rubyconf.tw/2016/
   twitter: rubyconftw
-  cfp_phrase: CFP is open
+  cfp_phrase: CFP closes
+  cfp_date: "October 11, 2016"
 
 - name: Ruby Conf India
   location: Kochi, India
@@ -99,4 +106,5 @@
   url: http://rubyconfindia.org/
   twitter: rubyconfindia
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
+  cfp_phrase: CFP closes
+  cfp_date: "October 30, 2016"
