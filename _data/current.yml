@@ -44,14 +44,12 @@
   dates: "October 14-15, 2016"
   url: http://conferenciaror.es/
   twitter: conferenciaror
-  cfp_phrase: CFP is open
 
 - name: RailsClub
   location: Moscow, Russia
   dates: "October 22, 2016"
   url: http://railsclub.ru/en/main.html
   twitter: railsclub_ru
-  cfp_phrase: CFP is open
 
 - name: RubyConf Portugal
   location: Braga, Portugal
@@ -59,7 +57,6 @@
   url: http://rubyconf.pt/
   twitter: rubyconfpt
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
 
 - name: Keep Ruby Weird
   location: Austin, TX
@@ -88,7 +85,6 @@
   dates: "November 25-26, 2016"
   url: http://www.rubyday.it
   twitter: rubydayit
-  cfp_phrase: CFP is open
 
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
