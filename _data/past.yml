@@ -750,3 +750,15 @@
   dates: "August 20, 2016"
   url: http://www.gurupr.org/eventos/2-tech-day-do-guru-pr
   twitter: guru_pr
+
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  dates: "September 2-3, 2016"
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco
+
+- name: RubyKaigi
+  location: Kyoto, Japan
+  dates: "September 8-10, 2016"
+  url: http://rubykaigi.org/
+  twitter: rubykaigi

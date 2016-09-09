@@ -1,17 +1,3 @@
-- name: RubyConf Colombia
-  location: Medellin, Colombia
-  dates: "September 2-3, 2016"
-  url: http://www.rubyconf.co/
-  twitter: rubyconfco
-  reg_phrase: Registration is open
-
-- name: RubyKaigi
-  location: Kyoto, Japan
-  dates: "September 8-10, 2016"
-  url: http://rubykaigi.org/
-  twitter: rubykaigi
-  reg_phrase: Registration is open
-
 - name: WindyCityRails
   location: Chicago, IL
   dates: "September 15-16, 2016"
