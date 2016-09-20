@@ -762,3 +762,9 @@
   dates: "September 8-10, 2016"
   url: http://rubykaigi.org/
   twitter: rubykaigi
+
+- name: WindyCityRails
+  location: Chicago, IL
+  dates: "September 15-16, 2016"
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
