@@ -10,3 +10,8 @@ script:
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+notifications:
+  email: false
+  webhooks:
+    urls:
+      - https://uplink-app.herokuapp.com/travis_hooks
