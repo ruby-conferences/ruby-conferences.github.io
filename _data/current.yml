@@ -1,3 +1,10 @@
+- name: London Ruby Unconference
+  location: London, UK
+  dates: "October 22, 2016"
+  url: http://www.eventbrite.com/e/london-ruby-unconference-tickets-27663867372?aff=github
+  twitter: rubyunconf
+  reg_phrase: Registration is open
+
 - name: Rocky Mountain Ruby
   location: Boulder, CO
   dates: "September 21-23, 2016"
