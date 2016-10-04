@@ -1,24 +1,3 @@
-- name: Rocky Mountain Ruby
-  location: Boulder, CO
-  dates: "September 21-23, 2016"
-  url: http://rockymtnruby.com/
-  twitter: rockymtnruby
-  reg_phrase: Registration is open
-
-- name: EuRuKo
-  location: Sofia, Bulgaria
-  dates: "September 23-24, 2016"
-  url: http://euruko2016.org/
-  twitter: euruko
-  reg_phrase: Registration is open
-
-- name: RubyConf Brazil
-  location: São Paulo, Brazil
-  dates: "September 23-24, 2016"
-  url: http://www.rubyconf.com.br/
-  twitter: rubyconfbr
-  reg_phrase: Registration is open
-
 - name: Conferencia Rails
   location: Madrid, Spain
   dates: "October 14-15, 2016"

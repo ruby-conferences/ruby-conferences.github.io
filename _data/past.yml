@@ -768,3 +768,21 @@
   dates: "September 15-16, 2016"
   url: http://www.windycityrails.org/
   twitter: windycityrails
+
+- name: Rocky Mountain Ruby
+  location: Boulder, CO
+  dates: "September 21-23, 2016"
+  url: http://rockymtnruby.com/
+  twitter: rockymtnruby
+
+- name: EuRuKo
+  location: Sofia, Bulgaria
+  dates: "September 23-24, 2016"
+  url: http://euruko2016.org/
+  twitter: euruko
+
+- name: RubyConf Brazil
+  location: São Paulo, Brazil
+  dates: "September 23-24, 2016"
+  url: http://www.rubyconf.com.br/
+  twitter: rubyconfbr
