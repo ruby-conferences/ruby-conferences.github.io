@@ -82,3 +82,12 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP closes
   cfp_date: "September 30, 2016"
+
+- name: wroc_love.rb
+  location: Wrocław, Poland
+  dates: "March 17-19, 2017"
+  url: http://www.wrocloverb.com/
+  twitter: wrocloverb
+  reg_phrase: 
+  cfp_phrase: 
+  cfp_date: 
