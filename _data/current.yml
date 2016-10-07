@@ -88,3 +88,9 @@
   dates: "March 17-19, 2017"
   url: http://www.wrocloverb.com/
   twitter: wrocloverb
+
+- name: RailsConf
+  location: Phoenix, AZ
+  dates: "April 25-27, 2017"
+  url: http://www.railsconf.com/
+  twitter: railsconf
