@@ -83,6 +83,14 @@
   cfp_phrase: CFP closes
   cfp_date: "September 30, 2016"
 
+- name: RubyConf Philippines
+  location: Bohol, Philippines
+  dates: "March 16-18, 2017"
+  url: http://rubyconf.ph/
+  twitter: rubyconfph
+  cfp_phrase: CFP closes
+  cfp_date: "December 14, 2016"
+
 - name: wroc_love.rb
   location: Wrocław, Poland
   dates: "March 17-19, 2017"
