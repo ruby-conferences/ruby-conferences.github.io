@@ -1,11 +1,3 @@
-- name: RubyHACK
-  location: Salt Lake City, Utah
-  dates: "April 20-21, 2017"
-  url: http://rubyhack.com/
-  twitter: utrubyhack
-  reg_phrase: Registration is open
-  cfp-phrase: CFP open
-
 - name: Conferencia Rails
   location: Madrid, Spain
   dates: "October 14-15, 2016"
@@ -104,6 +96,14 @@
   dates: "March 17-19, 2017"
   url: http://www.wrocloverb.com/
   twitter: wrocloverb
+
+- name: RubyHACK
+  location: Salt Lake City, Utah
+  dates: "April 20-21, 2017"
+  url: http://rubyhack.com/
+  twitter: utrubyhack
+  reg_phrase: Registration is open
+  cfp-phrase: CFP open
 
 - name: RailsConf
   location: Phoenix, AZ
