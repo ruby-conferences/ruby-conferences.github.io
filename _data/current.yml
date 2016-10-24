@@ -97,6 +97,14 @@
   url: http://www.wrocloverb.com/
   twitter: wrocloverb
 
+- name: RubyHACK
+  location: Salt Lake City, Utah
+  dates: "April 20-21, 2017"
+  url: http://rubyhack.com/
+  twitter: utrubyhack
+  reg_phrase: Registration is open
+  cfp-phrase: CFP open
+
 - name: RailsConf
   location: Phoenix, AZ
   dates: "April 25-27, 2017"
