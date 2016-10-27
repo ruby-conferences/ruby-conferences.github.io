@@ -1,24 +1,3 @@
-- name: Conferencia Rails
-  location: Madrid, Spain
-  dates: "October 14-15, 2016"
-  url: http://conferenciaror.es/
-  twitter: conferenciaror
-  reg_phrase: Registration is open
-
-- name: RailsClub
-  location: Moscow, Russia
-  dates: "October 22, 2016"
-  url: http://railsclub.ru/en/main.html
-  twitter: railsclub_ru
-  reg_phrase: Registration is open
-
-- name: London Ruby Unconference
-  location: London, UK
-  dates: "October 22, 2016"
-  url: http://www.eventbrite.com/e/london-ruby-unconference-tickets-27663867372?aff=github
-  twitter: rubyunconf
-  reg_phrase: Registration is open
-
 - name: RubyConf Portugal
   location: Braga, Portugal
   dates: "October 27-28, 2016"

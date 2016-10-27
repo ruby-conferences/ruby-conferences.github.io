@@ -784,3 +784,21 @@
   dates: "September 23-24, 2016"
   url: http://www.rubyconf.com.br/
   twitter: rubyconfbr
+
+- name: Conferencia Rails
+  location: Madrid, Spain
+  dates: "October 14-15, 2016"
+  url: http://conferenciaror.es/
+  twitter: conferenciaror
+
+- name: RailsClub
+  location: Moscow, Russia
+  dates: "October 22, 2016"
+  url: http://railsclub.ru/en/main.html
+  twitter: railsclub_ru
+
+- name: London Ruby Unconference
+  location: London, UK
+  dates: "October 22, 2016"
+  url: http://www.eventbrite.com/e/london-ruby-unconference-tickets-27663867372?aff=github
+  twitter: rubyunconf
