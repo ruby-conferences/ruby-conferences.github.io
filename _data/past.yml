@@ -802,3 +802,16 @@
   dates: "October 22, 2016"
   url: http://www.eventbrite.com/e/london-ruby-unconference-tickets-27663867372?aff=github
   twitter: rubyunconf
+
+- name: RubyConf Portugal
+  location: Braga, Portugal
+  dates: "October 27-28, 2016"
+  url: http://rubyconf.pt/
+  twitter: rubyconfpt
+
+- name: Keep Ruby Weird
+  location: Austin, TX
+  dates: "October 28, 2016"
+  url: http://keeprubyweird.com/
+  twitter: keeprubyweird
+
