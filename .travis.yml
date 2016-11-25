@@ -14,4 +14,4 @@ notifications:
   email: false
   webhooks:
     urls:
-      - https://uplink-app.herokuapp.com/travis_hooks
+      - https://hooks.cybertail.systems/v1/62521B631763B4981AD8AE31822452F1FB48662790980CCF6D77E026D6328D81
