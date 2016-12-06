@@ -166,7 +166,7 @@
 - name: Burlington Ruby Conference
   location: Burlington, VT
   dates: "August 1-3, 2014"
-  url: http://burlingtonrubyconference.com/
+  url: http://burlingtonruby.github.io/conference/
   twitter: btvrubyconf
   video_link: http://vimeo.com/album/2996485
 
@@ -463,7 +463,7 @@
 - name: Burlington Ruby Conference
   location: Burlington, VT
   dates: "July 31-August 2, 2015"
-  url: http://burlingtonrubyconference.com/
+  url: http://burlingtonruby.github.io/conference/
   twitter: btvrubyconf
 
 - name: eurucamp
