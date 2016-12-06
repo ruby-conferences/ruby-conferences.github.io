@@ -826,3 +826,15 @@
   dates: "November 14-15, 2016"
   url: https://railsisrael2016.events.co.il
   twitter: railsisrael
+
+- name: RubyDay
+  location: Florence, Italy
+  dates: "November 25-26, 2016"
+  url: http://www.rubyday.it
+  twitter: rubydayit
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  dates: "December 2-3, 2016"
+  url: https://2016.rubyconf.tw/
+  twitter: rubyconftw
