@@ -61,3 +61,11 @@
   twitter: railsconf
   cfp_phrase: CFP closes
   cfp_date: "January 20, 2017"
+
+- name: RedDotRubyConf
+  location: Singapore
+  dates: "June 22-23, 2017"
+  url: http://www.reddotrubyconf.com/
+  twitter: reddotrubyconf
+  cfp_phrase: CFP closes
+  cfp_date: "March 15, 2017"
