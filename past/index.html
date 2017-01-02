@@ -3,7 +3,7 @@ layout: default
 ---
 <article id="past">
   <dl>
-    {% for event in site.data.past %}
+    {% for event in site.data.past reversed %}
       {% include event.html %}
     {% endfor %}
   </dl>
