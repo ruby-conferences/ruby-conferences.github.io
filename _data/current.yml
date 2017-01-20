@@ -78,6 +78,14 @@
   cfp_phrase: CFP closes
   cfp_date: "March 15, 2017"
 
+- name: Brighton Ruby Conf
+  location: Brighton, UK
+  dates: "July 7, 2017"
+  url: http://brightonruby.com/
+  twitter: brightonruby
+  cfp_phrase: CFP closes
+  cfp_date: "March 31, 2017"
+
 - name: EuRuKo
   location: Budapest, Hungary
   dates: "September 29-30, 2017"
