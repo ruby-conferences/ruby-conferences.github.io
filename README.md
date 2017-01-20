@@ -47,6 +47,18 @@ Extra keys for the past list:
 
 * `video_link`: A url to the videos for the event.
 
+## Getting started
+
+We build the site with [Jekyll](https://jekyllrb.com/).
+
+Install Ruby, then:
+```
+cd ruby-conferences.github.io
+bundle install
+bundle exec jekyll serve
+```
+and point your browser at http://localhost:4000/
+
 ## License
 
 The design of the site is copyrighted by Cameron Daigle.
