@@ -37,4 +37,4 @@ task :verify_data do
   exit 5 unless dates.sort == dates
 end
 
-task default: [:build, :verify_html, :verify_data]
+task default: [:build, :verify_data, :verify_html]
