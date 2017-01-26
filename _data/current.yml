@@ -64,6 +64,14 @@
   cfp_phrase: CFP closes
   cfp_date: "January 20, 2017"
 
+- name: RubyConf EA
+  location: Nairobi, Kenya
+  dates: "June 8-10, 2017"
+  url: http://rubyconf.nairuby.org/
+  twitter: nairubyke
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+
 - name: RuLu
   location: Lyon, France
   dates: "June 22-23, 2017"
