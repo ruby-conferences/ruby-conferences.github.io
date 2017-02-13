@@ -1,12 +1,3 @@
-- name: Ruby Conf AU
-  location: Melbourne, Australia
-  dates: "February 9-10, 2017"
-  url: http://www.rubyconf.org.au/2017
-  twitter: rubyconf_au
-  reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "September 30, 2016"
-
 - name: RubyConf Philippines
   location: Bohol, Philippines
   dates: "March 16-18, 2017"

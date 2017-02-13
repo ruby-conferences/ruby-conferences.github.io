@@ -852,3 +852,9 @@
   dates: "February 3-4, 2017"
   url: http://fosdem.rubybelgium.be/
   twitter: ruby_fosdem
+
+- name: Ruby Conf AU
+  location: Melbourne, Australia
+  dates: "February 9-10, 2017"
+  url: http://www.rubyconf.org.au/2017
+  twitter: rubyconf_au
