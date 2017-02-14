@@ -14,6 +14,13 @@
   cfp_phrase: CFP closes
   cfp_date: "January 31, 2017"
 
+- name: RubyConfLT
+  location: Vilnius, Lithuania
+  dates: "April 1, 2017"
+  url: https://rubyconf.lt/
+  twitter: rubyconflt
+  cfp_phrase: CFP open
+
 - name: RubyHACK
   location: Salt Lake City, Utah
   dates: "April 20-21, 2017"
