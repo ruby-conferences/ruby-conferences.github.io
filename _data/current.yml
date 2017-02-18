@@ -68,6 +68,15 @@
   cfp_phrase: CFP closes
   cfp_date: "March 31, 2017"
 
+- name: Deccan RubyConf
+  location: Pune, India
+  dates: "Aug 12, 2017"
+  url: http://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+  cfp_date: "April 30, 2017"
+
 - name: EuRuKo
   location: Budapest, Hungary
   dates: "September 29-30, 2017"
