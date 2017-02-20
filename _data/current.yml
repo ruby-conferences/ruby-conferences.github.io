@@ -74,6 +74,15 @@
   url: http://www.euruko2017.org
   twitter: euruko
 
+- name: Southeast Ruby
+  location: Nashville, TN
+  dates: "October 5-6, 2017"
+  url: https://southeastruby.com
+  twitter: southeastruby
+  reg_phrase: Registration is open
+  cfp_phrase: CFP Closes
+  cfp_date: "April 1, 2017"
+
 - name: RailsIsrael
   location: Tel Aviv, Israel
   dates: "November 28-30, 2017"
