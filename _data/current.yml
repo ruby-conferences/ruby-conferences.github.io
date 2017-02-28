@@ -60,6 +60,10 @@
   cfp_phrase: CFP closes
   cfp_date: "March 15, 2017"
 
+- name: DayBlockathon
+  location: Minneapolis, MN
+  dates: "July 3, 2017"
+
 - name: Brighton Ruby Conf
   location: Brighton, UK
   dates: "July 7, 2017"
