@@ -75,6 +75,12 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP closes
   cfp_date: "April 30, 2017"
+  
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  dates: "September 8-9, 2016"
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco 
 
 - name: EuRuKo
   location: Budapest, Hungary
