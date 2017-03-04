@@ -98,6 +98,12 @@
   url: http://www.rubyconf.co/
   twitter: rubyconfco
 
+- name: RubyKaigi 2017
+  location: Hiroshima, Japan
+  dates: "September 18-20, 2017"
+  url: "http://rubykaigi.org/2017"
+  twitter: rubykaigi
+
 - name: EuRuKo
   location: Budapest, Hungary
   dates: "September 29-30, 2017"
