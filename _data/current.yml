@@ -65,13 +65,6 @@
   url: http://rulu.eu/
   twitter: rulu
   cfp_phrase: CFP open
-  
-- name: GORUCO
-  location: New York, NY
-  dates: "June 24, 2017"
-  url: http://goruco.com/
-  twitter: goruco
-  cfp_phrase: CFP open
 
 - name: RedDotRubyConf
   location: Singapore
@@ -81,6 +74,14 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP closes
   cfp_date: "March 15, 2017"
+  
+- name: GORUCO
+  location: New York, NY
+  dates: "June 24, 2017"
+  url: http://goruco.com/
+  twitter: goruco
+  cfp_phrase: CFP closes
+  cfp_date: "March 28, 2017"
 
 - name: Brighton Ruby Conf
   location: Brighton, UK
