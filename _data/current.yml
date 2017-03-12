@@ -83,6 +83,14 @@
   cfp_phrase: CFP closes
   cfp_date: "March 28, 2017"
 
+- name: GrillRB
+  location: Wrocław, PL
+  dates: "July 1 - 2, 2017"
+  url: http://grillrb.com
+  twitter: grill_rb
+  cfp_phrase: CFP open
+  cfp_date: "April 31, 2017"
+
 - name: Brighton Ruby Conf
   location: Brighton, UK
   dates: "July 7, 2017"
