@@ -858,3 +858,15 @@
   dates: "February 9-10, 2017"
   url: http://www.rubyconf.org.au/2017
   twitter: rubyconf_au
+
+- name: RubyConf Philippines
+  location: Bohol, Philippines
+  dates: "March 16-18, 2017"
+  url: http://rubyconf.ph/
+  twitter: rubyconfph
+
+- name: wroc_love.rb
+  location: Wrocław, Poland
+  dates: "March 17-19, 2017"
+  url: http://www.wrocloverb.com/
+  twitter: wrocloverb
