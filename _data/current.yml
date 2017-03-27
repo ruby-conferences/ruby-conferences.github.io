@@ -42,6 +42,14 @@
   twitter: nairubyke
   reg_phrase: Registration is open
   cfp_phrase: CFP open
+  
+- name: RubyNation
+  location: Arlington, Virginia
+  dates: "June 16, 2017"
+  url: http://www.rubynation.org/
+  twitter: rubynation
+  cfp_phrase: CFP closes
+  cfp_date: "April 21, 2017"
 
 - name: RuLu
   location: Lyon, France
