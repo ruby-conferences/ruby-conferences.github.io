@@ -42,7 +42,7 @@
   twitter: nairubyke
   reg_phrase: Registration is open
   cfp_phrase: CFP open
-  
+
 - name: RubyNation
   location: Arlington, Virginia
   dates: "June 16, 2017"
@@ -128,6 +128,14 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP Closes
   cfp_date: "April 1, 2017"
+
+- name: RubyConf MY
+  location: Cyberjaya, Malaysia
+  dates: "October 12-13, 2017"
+  url: http://rubyconf.my/
+  twitter: rubyconfmy
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
 
 - name: RubyWorld Conference
   location: Matsue, Shimane, Japan
