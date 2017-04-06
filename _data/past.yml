@@ -869,3 +869,15 @@
   dates: "March 17-19, 2017"
   url: http://www.wrocloverb.com/
   twitter: wrocloverb
+
+- name: RubyConfLT
+  location: Vilnius, Lithuania
+  dates: "April 1, 2017"
+  url: https://rubyconf.lt/
+  twitter: rubyconflt
+
+- name: RubyConfBY
+  location: Minsk, Belarus
+  dates: "April 2, 2017"
+  url: http://rubyconference.by/en/
+  twitter: rubyconfby
