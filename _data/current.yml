@@ -1,17 +1,3 @@
-- name: RubyConfLT
-  location: Vilnius, Lithuania
-  dates: "April 1, 2017"
-  url: https://rubyconf.lt/
-  twitter: rubyconflt
-  reg_phrase: Registration is open
-
-- name: RubyConfBY
-  location: Minsk, Belarus
-  dates: "April 2, 2017"
-  url: http://rubyconference.by/en/
-  twitter: rubyconfby
-  reg_phrase: Registration is open
-
 - name: RubyHACK
   location: Salt Lake City, Utah
   dates: "April 20-21, 2017"
@@ -42,7 +28,7 @@
   twitter: nairubyke
   reg_phrase: Registration is open
   cfp_phrase: CFP open
-  
+
 - name: RubyNation
   location: Arlington, Virginia
   dates: "June 16, 2017"
