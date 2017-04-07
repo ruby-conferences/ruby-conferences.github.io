@@ -91,6 +91,9 @@
   dates: "September 8-9, 2017"
   url: http://www.rubyconf.co/
   twitter: rubyconfco
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "May 31, 2017"
 
 - name: RubyKaigi 2017
   location: Hiroshima, Japan
