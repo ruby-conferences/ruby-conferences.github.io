@@ -77,6 +77,18 @@
   cfp_phrase: CFP closes
   cfp_date: "March 31, 2017"
 
+- name: Isle of Ruby
+  location: Devon, UK
+  dates: "August 10-13, 2017"
+  url: http://isleofruby.org/
+  twitter: isleofruby
+
+- name: JRubyConf UK
+  location: Devon, UK
+  dates: "August 11, 2017"
+  url: http://jrubyconf.uk/
+  twitter: jrubyconfuk
+
 - name: Deccan RubyConf
   location: Pune, India
   dates: "Aug 12, 2017"
