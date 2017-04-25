@@ -30,13 +30,6 @@
   cfp_phrase: CFP closes
   cfp_date: "April 21, 2017"
 
-- name: RuLu
-  location: Lyon, France
-  dates: "June 22-23, 2017"
-  url: http://rulu.eu/
-  twitter: rulu
-  cfp_phrase: CFP open
-
 - name: RedDotRubyConf
   location: Singapore
   dates: "June 22-23, 2017"
