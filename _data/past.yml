@@ -881,3 +881,9 @@
   dates: "April 2, 2017"
   url: http://rubyconference.by/en/
   twitter: rubyconfby
+
+- name: RubyHACK
+  location: Salt Lake City, Utah
+  dates: "April 20-21, 2017"
+  url: http://rubyhack.com/
+  twitter: utrubyhack
