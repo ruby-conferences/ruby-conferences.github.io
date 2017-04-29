@@ -130,6 +130,12 @@
   dates: "November 1-2, 2017"
   url: "http://2016.rubyworld-conf.org/en/news/2017/01/rwc2017/"
   twitter: rubyworldconf
+ 
+- name: RubyConf
+  location: New Orleans, LA
+  dates: "November 15-17th, 2017"
+  url: http://rubyconf.org/
+  twitter: rubyconf
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
