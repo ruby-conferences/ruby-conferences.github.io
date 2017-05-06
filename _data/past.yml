@@ -885,3 +885,9 @@
   dates: "April 20-21, 2017"
   url: http://rubyhack.com/
   twitter: utrubyhack
+
+- name: RailsConf
+  location: Phoenix, AZ
+  dates: "April 25-27, 2017"
+  url: http://www.railsconf.com/
+  twitter: railsconf
