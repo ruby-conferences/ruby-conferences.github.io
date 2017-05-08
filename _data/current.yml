@@ -69,12 +69,16 @@
   dates: "August 10-13, 2017"
   url: http://isleofruby.org/
   twitter: isleofruby
+  cfp_phrase: CFP closes
+  cfp_date: "May 28, 2017"
 
 - name: JRubyConf UK
   location: Devon, UK
   dates: "August 11, 2017"
   url: http://jrubyconf.uk/
   twitter: jrubyconfuk
+  cfp_phrase: CFP closes
+  cfp_date: "May 28, 2017"
 
 - name: Deccan RubyConf
   location: Pune, India
