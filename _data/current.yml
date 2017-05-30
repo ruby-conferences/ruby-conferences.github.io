@@ -83,6 +83,14 @@
   cfp_phrase: CFP closes
   cfp_date: "Jun 18, 2017"
 
+- name: RailsClub 2017
+  location: Moscow, Russia
+  dates: "September 23, 2017"
+  url: "http://railsclub.ru/en"
+  twitter: railsclub_ru
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+
 - name: EuRuKo
   location: Budapest, Hungary
   dates: "September 29-30, 2017"
