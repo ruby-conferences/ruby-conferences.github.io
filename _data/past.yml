@@ -891,3 +891,33 @@
   dates: "April 25-27, 2017"
   url: http://www.railsconf.com/
   twitter: railsconf
+
+- name: RubyC
+  location: Kyiv, Ukraine
+  dates: "June 3-4, 2017"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+
+- name: RubyConf EA
+  location: Nairobi, Kenya
+  dates: "June 8-10, 2017"
+  url: http://rubyconf.nairuby.org/
+  twitter: nairubyke
+
+- name: RubyNation
+  location: Arlington, Virginia
+  dates: "June 16, 2017"
+  url: http://www.rubynation.org/
+  twitter: rubynation
+
+- name: RedDotRubyConf
+  location: Singapore
+  dates: "June 22-23, 2017"
+  url: http://www.reddotrubyconf.com/
+  twitter: reddotrubyconf
+
+- name: GORUCO
+  location: New York, NY
+  dates: "June 24, 2017"
+  url: http://goruco.com/
+  twitter: goruco
