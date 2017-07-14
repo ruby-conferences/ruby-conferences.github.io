@@ -89,3 +89,9 @@
   dates: "January 26-28th, 2018"
   url: https://rubyonice.com/
   twitter: rubyoniceconf
+
+- name: Bath Ruby Conference
+  location: Bath, UK
+  dates: "March 22-23, 2018"
+  url: http://2018.bathruby.uk
+  twitter: bathruby
