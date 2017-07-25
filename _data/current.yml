@@ -16,13 +16,11 @@
   cfp_phrase: CFP closes
   cfp_date: "May 31, 2017"
 
-- name: RubyConf China 2017
+- name: RubyConf China
   location: Hangzhou, China
   dates: "September 16-17, 2017"
-  url: "http://rubyconfchina.org"
+  url: http://rubyconfchina.org
   reg_phrase: Registration is open
-  cfp_phrase: CFP open
-  cfp_date: "Jul 15, 2017"
 
 - name: RubyKaigi 2017
   location: Hiroshima, Japan
