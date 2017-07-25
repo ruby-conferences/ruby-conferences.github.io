@@ -4,8 +4,6 @@
   url: http://www.deccanrubyconf.org/
   twitter: deccanrubyconf
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "April 30, 2017"
 
 - name: RubyConf Colombia
   location: Medellin, Colombia
@@ -13,8 +11,6 @@
   url: http://www.rubyconf.co/
   twitter: rubyconfco
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "May 31, 2017"
 
 - name: RubyConf China
   location: Hangzhou, China
@@ -22,22 +18,20 @@
   url: http://rubyconfchina.org
   reg_phrase: Registration is open
 
-- name: RubyKaigi 2017
+- name: RubyKaigi
   location: Hiroshima, Japan
   dates: "September 18-20, 2017"
-  url: "http://rubykaigi.org/2017"
+  url: http://rubykaigi.org/2017
   twitter: rubykaigi
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "Jun 18, 2017"
 
-- name: RailsClub 2017
+- name: RailsClub
   location: Moscow, Russia
   dates: "September 23, 2017"
-  url: "http://railsclub.ru/en/main"
+  url: http://railsclub.ru/en/main
   twitter: railsclub_ru
   reg_phrase: Registration is open
-  cfp_phrase: CFP open
+  cfp_phrase: CFP is open
 
 - name: EuRuKo
   location: Budapest, Hungary
@@ -45,8 +39,6 @@
   url: http://www.euruko2017.org
   twitter: euruko
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "April 14, 2017"
 
 - name: Southeast Ruby
   location: Nashville, TN
@@ -54,8 +46,6 @@
   url: https://southeastruby.com
   twitter: southeastruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP Closes
-  cfp_date: "April 1, 2017"
 
 - name: RubyConf MY
   location: Cyberjaya, Malaysia
@@ -63,21 +53,19 @@
   url: http://rubyconf.my/
   twitter: rubyconfmy
   reg_phrase: Registration is open
-  cfp_phrase: CFP open
+  cfp_phrase: CFP is open
 
 - name: RubyWorld Conference
   location: Matsue, Shimane, Japan
   dates: "November 1-2, 2017"
-  url: "http://2016.rubyworld-conf.org/en/news/2017/01/rwc2017/"
+  url: http://2016.rubyworld-conf.org/en/news/2017/01/rwc2017/
   twitter: rubyworldconf
 
 - name: Kiwi Ruby
   location: Wellington, New Zealand
   dates: "November 2-3, 2017"
-  url: "http://kiwi.ruby.nz"
+  url: http://kiwi.ruby.nz
   twitter: kiwirubyconf
-  cfp_phrase: CFP closes
-  cfp_date: "July 3, 2017"
 
 - name: RubyConf
   location: New Orleans, LA
