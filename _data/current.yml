@@ -50,9 +50,10 @@
 - name: RubyConf Jakarta
   location: Jakarta, Indonesia
   dates: "October 6-7, 2017"
-  url: http://ruby.id/conf/2017
+  url: http://ruby.id/conf/2017/
   twitter: id_ruby
-
+  cfp_phrase: CFP is open
+  
 - name: RubyConf MY
   location: Cyberjaya, Malaysia
   dates: "October 12-13, 2017"
