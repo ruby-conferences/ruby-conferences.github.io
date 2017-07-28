@@ -47,6 +47,12 @@
   twitter: southeastruby
   reg_phrase: Registration is open
 
+- name: RubyConf Jakarta
+  location: Jakarta, Indonesia
+  dates: "October 6-7, 2017"
+  url: http://ruby.id/conf/2017
+  twitter: id_ruby
+
 - name: RubyConf MY
   location: Cyberjaya, Malaysia
   dates: "October 12-13, 2017"
