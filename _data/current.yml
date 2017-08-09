@@ -54,12 +54,20 @@
   twitter: id_ruby
   cfp_phrase: CFP is open
   reg_phrase: Registration is open
-    
+
 - name: RubyConf MY
   location: Cyberjaya, Malaysia
   dates: "October 12-13, 2017"
   url: http://rubyconf.my/
   twitter: rubyconfmy
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
+- name: Keep Ruby Weird
+  location: Austin, Texas
+  dates: "October 27, 2017"
+  url: https://keeprubyweird.com/
+  twitter: keeprubyweird
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
