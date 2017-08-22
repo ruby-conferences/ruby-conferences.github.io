@@ -927,3 +927,9 @@
   dates: "July 7, 2017"
   url: http://brightonruby.com/
   twitter: brightonruby
+
+- name: Deccan RubyConf
+  location: Pune, India
+  dates: "Aug 12, 2017"
+  url: http://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
