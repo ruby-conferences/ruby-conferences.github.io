@@ -93,7 +93,6 @@
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
   dates: "April 25-26, 2014"
-  url: http://rubyconf.tw/
   twitter: rubytaiwan
 
 - name: Scottish Ruby Conf
@@ -488,7 +487,6 @@
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
   dates: "September 11-12, 2015"
-  url: http://rubyconf.tw/
   twitter: rubytaiwan
 
 - name: RubyConf Portugal
@@ -599,7 +597,7 @@
 - name: RubyConf Australia
   location: Gold Coast, Australia
   dates: "February 10-13, 2016"
-  url: http://www.rubyconf.org.au/2016
+  url: http://www.rubyconf.org.au/
   twitter: rubyconf_au
 
 - name: Bath Ruby Conference
@@ -847,7 +845,7 @@
 - name: Ruby Conf AU
   location: Melbourne, Australia
   dates: "February 9-10, 2017"
-  url: http://www.rubyconf.org.au/2017
+  url: http://www.rubyconf.org.au/
   twitter: rubyconf_au
 
 - name: RubyConf Philippines
