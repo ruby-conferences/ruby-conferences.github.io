@@ -937,18 +937,15 @@
   dates: "September 8-9, 2017"
   url: http://www.rubyconf.co/
   twitter: rubyconfco
-  reg_phrase: Registration is open
 
 - name: RubyConf China
   location: Hangzhou, China
   dates: "September 16-17, 2017"
   url: http://rubyconfchina.org
-  reg_phrase: Registration is open
 
 - name: RubyKaigi
   location: Hiroshima, Japan
   dates: "September 18-20, 2017"
   url: http://rubykaigi.org/2017
   twitter: rubykaigi
-  reg_phrase: Registration is open
 
