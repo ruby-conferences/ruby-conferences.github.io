@@ -107,6 +107,13 @@
   url: http://2018.bathruby.uk
   twitter: bathruby
 
+- name: Ruby X Elixir Conf Taiwan
+  location: Taipei, Taiwan
+  dates: "April 27-28th, 2018"
+  url: https://2018.rubyconf.tw/
+  twitter: rubyconftw
+  cfp_phrase: CFP is open
+
 - name: Brighton Ruby Conference
   location: Brighton, UK
   dates: "July 6, 2018"
