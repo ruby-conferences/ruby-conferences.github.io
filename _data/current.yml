@@ -11,13 +11,6 @@
   url: http://rubyconfchina.org
   reg_phrase: Registration is open
 
-- name: RubyKaigi
-  location: Hiroshima, Japan
-  dates: "September 18-20, 2017"
-  url: http://rubykaigi.org/2017
-  twitter: rubykaigi
-  reg_phrase: Registration is open
-
 - name: RailsClub
   location: Moscow, Russia
   dates: "September 23, 2017"
@@ -106,6 +99,12 @@
   dates: "March 22-23, 2018"
   url: http://2018.bathruby.uk
   twitter: bathruby
+
+- name: RubyKaigi
+  location: Sendai, Japan
+  dates: "May 31st-June 2nd, 2018"
+  url: http://rubykaigi.org/2018
+  twitter: rubykaigi
 
 - name: Brighton Ruby Conference
   location: Brighton, UK
