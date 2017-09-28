@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - name: RubyConf Colombia
   location: Medellin, Colombia
   dates: "September 8-9, 2017"
@@ -24,7 +25,7 @@
   dates: "September 29-30, 2017"
   url: http://www.euruko2017.org
   twitter: euruko
-  reg_phrase: Registration is open
+  reg_phrase: Registration is closed
 
 - name: Southeast Ruby
   location: Nashville, TN
@@ -94,11 +95,26 @@
   twitter: rubyoniceconf
   cfp_phrase: CFP is open
 
+- name: RubyConf AU
+  location: Sydney, Australia
+  dates: "March 8-9, 2018"
+  url: https://www.rubyconf.org.au/2018
+  twitter: rubyconf_au
+  cfp_phrase: CFP closes
+  cfp_date: "October 26, 2017"
+
 - name: Bath Ruby Conference
   location: Bath, UK
   dates: "March 22-23, 2018"
   url: http://2018.bathruby.uk
   twitter: bathruby
+
+- name: Ruby X Elixir Conf Taiwan
+  location: Taipei, Taiwan
+  dates: "April 27-28th, 2018"
+  url: https://2018.rubyconf.tw/
+  twitter: rubyconftw
+  cfp_phrase: CFP is open
 
 - name: RubyKaigi
   location: Sendai, Japan

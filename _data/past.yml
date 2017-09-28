@@ -188,7 +188,6 @@
 - name: Madison+ Ruby
   location: Madison, WI
   dates: "August 22-23, 2014"
-  url: http://madisonpl.us/ruby/
   twitter: madisonruby
   video_link: https://www.youtube.com/playlist?list=PLJ-cEwTSAyZ6gLSWt1Mnq7vxqB6qiEzMz
 
@@ -470,7 +469,6 @@
 - name: Madison+ Ruby
   location: Madison, WI
   dates: "August 20-22, 2015"
-  url: http://madisonpl.us/ruby/
   twitter: madisonruby
 
 - name: Ruby Midwest
@@ -931,6 +929,17 @@
   dates: "Aug 12, 2017"
   url: http://www.deccanrubyconf.org/
   twitter: deccanrubyconf
+
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  dates: "September 8-9, 2017"
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco
+
+- name: RubyConf China
+  location: Hangzhou, China
+  dates: "September 16-17, 2017"
+  url: http://rubyconfchina.org
 
 - name: RubyKaigi
   location: Hiroshima, Japan
