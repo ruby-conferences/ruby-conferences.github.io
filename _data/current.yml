@@ -102,6 +102,12 @@
   twitter: rubyconftw
   cfp_phrase: CFP is open
 
+- name: RubyKaigi
+  location: Sendai, Japan
+  dates: "May 31st-June 2nd, 2018"
+  url: http://rubykaigi.org/2018
+  twitter: rubykaigi
+
 - name: Brighton Ruby Conference
   location: Brighton, UK
   dates: "July 6, 2018"
