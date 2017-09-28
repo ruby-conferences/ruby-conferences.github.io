@@ -80,6 +80,14 @@
   url: https://rubyonice.com/
   twitter: rubyoniceconf
   cfp_phrase: CFP is open
+  
+- name: RubyConf AU
+  location: Sydney, Australia
+  dates: "March 8-9, 2018"
+  url: https://www.rubyconf.org.au/2018
+  twitter: rubyconf_au
+  cfp_phrase: CFP closes
+  cfp_date: "October 26, 2017"
 
 - name: RubyConf AU
   location: Sydney, Australia
