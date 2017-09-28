@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  dates: "September 8-9, 2017"
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco
+  reg_phrase: Registration is open
+
+- name: RubyConf China
+  location: Hangzhou, China
+  dates: "September 16-17, 2017"
+  url: http://rubyconfchina.org
+  reg_phrase: Registration is open
+
 - name: RailsClub
   location: Moscow, Russia
   dates: "September 23, 2017"
