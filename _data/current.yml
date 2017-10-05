@@ -87,6 +87,12 @@
   twitter: rubyconftw
   cfp_phrase: CFP is open
 
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  dates: "May, 2018"
+  url: http://balkanruby.com/
+  twitter: balkanruby
+
 - name: RubyKaigi
   location: Sendai, Japan
   dates: "May 31st-June 2nd, 2018"
