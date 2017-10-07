@@ -946,3 +946,33 @@
   dates: "September 18-20, 2017"
   url: http://rubykaigi.org/2017
   twitter: rubykaigi
+
+- name: RailsClub
+  location: Moscow, Russia
+  dates: "September 23, 2017"
+  url: http://railsclub.ru/en/main
+  twitter: railsclub_ru
+
+- name: EuRuKo
+  location: Budapest, Hungary
+  dates: "September 29-30, 2017"
+  url: http://www.euruko2017.org
+  twitter: euruko
+
+- name: Southeast Ruby
+  location: Nashville, TN
+  dates: "October 5-6, 2017"
+  url: https://southeastruby.com
+  twitter: southeastruby
+
+- name: RubyConf Jakarta
+  location: Jakarta, Indonesia
+  dates: "October 6-7, 2017"
+  url: http://ruby.id/conf/2017/
+  twitter: id_ruby
+
+- name: London Ruby Unconference
+  location: London, UK
+  dates: "October 07, 2017"
+  url: https://www.eventbrite.com/e/london-ruby-unconference-tickets-36286901098?aff=rubyconferences
+  twitter: rubyunconf
