@@ -91,12 +91,20 @@
   url: https://2018.rubyconf.tw/
   twitter: rubyconftw
   cfp_phrase: CFP is open
+  cfp_date: "Dec 31, 2017"
 
 - name: Balkan Ruby
   location: Sofia, Bulgaria
   dates: "May, 2018"
   url: http://balkanruby.com/
   twitter: balkanruby
+
+- name: RubyHACK
+  location: Salt Lake City, Utah
+  dates: "May 3-4, 2018"
+  url: http://rubyhack.com/
+  twitter: utrubyhack
+  cfp_phrase: CFP Open
 
 - name: RubyKaigi
   location: Sendai, Japan
