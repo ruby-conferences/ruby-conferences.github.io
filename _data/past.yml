@@ -977,3 +977,9 @@
   dates: "October 07, 2017"
   url: https://www.eventbrite.com/e/london-ruby-unconference-tickets-36286901098?aff=rubyconferences
   twitter: rubyunconf
+
+- name: RubyConf MY
+  location: Cyberjaya, Malaysia
+  dates: "October 12-13, 2017"
+  url: http://rubyconf.my/
+  twitter: rubyconfmy
