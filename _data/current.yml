@@ -105,8 +105,16 @@
   url: http://rubykaigi.org/2018
   twitter: rubykaigi
 
+- name: Paris.rb Conf
+  location: Paris, FR
+  dates: "June 28-29, 2018"
+  url: http://2018.rubyparis.org/
+  twitter: parisrb
+  cfp_phrase: CFP Open
+
 - name: Brighton Ruby Conference
   location: Brighton, UK
   dates: "July 6, 2018"
   url: http://brightonruby.com/
   twitter: brightonruby
+
