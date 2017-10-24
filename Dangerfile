@@ -6,7 +6,7 @@ error_messages = {
   5 => 'Events out of order'
 }
 
-system 'bundle exec rake'
+system 'bundle exec rake build verify_data'
 
 fail message if message = error_messages[$?.exitstatus]
 
