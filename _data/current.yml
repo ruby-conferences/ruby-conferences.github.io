@@ -68,6 +68,14 @@
   cfp_phrase: CFP closes
   cfp_date: "October 26, 2017"
 
+- name: RubyConf Philippines
+  location: Manila, Philippines
+  dates: "March 15 - 17, 2018"
+  url: http://rubyconf.ph/
+  twitter: rubyconfph
+  cfp_phrase: CFP closes
+  cfp_date: "December 07, 2017"
+
 - name: Bath Ruby Conference
   location: Bath, UK
   dates: "March 22-23, 2018"
