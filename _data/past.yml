@@ -94,6 +94,7 @@
   location: Taipei, Taiwan
   dates: "April 25-26, 2014"
   twitter: rubytaiwan
+  video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpCUi7IcCDEVSRc1OsaJSguB
 
 - name: Scottish Ruby Conf
   location: Perthshire, Scotland
@@ -388,18 +389,21 @@
   dates: "March 27-28, 2015"
   url: http://rubyconf.ph/
   twitter: rubyconfph
+  video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSGlKtZOeqZKUMOB2w8qlUC_
 
 - name: Ruby Conf India
   location: Goa, India
   dates: "April 3-5, 2015"
   url: http://rubyconfindia.org/
   twitter: rubyconfindia
+  video_link: https://www.youtube.com/channel/UCRNZy_ouJ1ai_uYwDBR2J5Q/videos
 
 - name: RailsConf
   location: Atlanta, GA
   dates: "April 21-23, 2015"
   url: http://www.railsconf.com/
   twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcybf82pLlMnPZjAMMMV5DJsK
 
 - name: ROSSConf Vienna
   location: Vienna, Austria
@@ -423,6 +427,7 @@
   dates: "June 4-5, 2015"
   url: http://www.reddotrubyconf.com/
   twitter: reddotrubyconf
+  video_link: https://www.youtube.com/playlist?list=PLECEw2eFfW7iiJpXtb_cYeKv5_A6Pd1tl
 
 - name: RubyNation
   location: Washington, DC
@@ -486,6 +491,7 @@
   location: Taipei, Taiwan
   dates: "September 11-12, 2015"
   twitter: rubytaiwan
+  video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpDVKgAH_p_X7gtLSGsvmMJj
 
 - name: RubyConf Portugal
   location: Braga, Portugal
@@ -579,6 +585,7 @@
   dates: "December 11-13, 2015"
   url: http://rubykaigi.org/2015
   twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PL0irJ82JAlEic6IlpRdsPl5L5f5aLMuXf
 
 - name: Ruby devroom at FOSDEM
   location: Brussels, Belgium
@@ -597,6 +604,7 @@
   dates: "February 10-13, 2016"
   url: http://www.rubyconf.org.au/
   twitter: rubyconf_au
+  video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc3ILv2Lxlt422NjIFWnXl0U
 
 - name: Bath Ruby Conference
   location: Bath, UK
@@ -656,6 +664,7 @@
   dates: "May 4-6, 2016"
   url: http://railsconf.com/
   twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC
 
 - name: Rails Pacific
   location: Taipei, Taiwan
@@ -745,6 +754,7 @@
   dates: "September 8-10, 2016"
   url: http://rubykaigi.org/
   twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yYfT493G8C2fLvvhPDs-lIQ
 
 - name: WindyCityRails
   location: Chicago, IL
@@ -821,12 +831,14 @@
   location: Taipei, Taiwan
   dates: "December 2-3, 2016"
   twitter: rubyconftw
+  video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpB7wxvDs02oGA9IRKw3dVYO
 
 - name: Ruby Conf India
   location: Kochi, India
   dates: "January 27-29, 2017"
   url: http://rubyconfindia.org/
   twitter: rubyconfindia
+  video_link: https://www.youtube.com/channel/UCRH1U_H7vRNR8TkbGH6G_1w/videos
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -845,12 +857,14 @@
   dates: "February 9-10, 2017"
   url: http://www.rubyconf.org.au/
   twitter: rubyconf_au
+  video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc3hxsmj3AnPFf3RD4f3zfUl
 
 - name: RubyConf Philippines
   location: Bohol, Philippines
   dates: "March 16-18, 2017"
   url: http://rubyconf.ph/
   twitter: rubyconfph
+  video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSHKtxq2efDQc6EXTDqabxdV
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -882,6 +896,7 @@
   dates: "April 25-27, 2017"
   url: http://www.railsconf.com/
   twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyarr-2jYCnnlb7wl-aEz4xt
 
 - name: RubyC
   location: Kyiv, Ukraine
@@ -900,12 +915,14 @@
   dates: "June 16, 2017"
   url: http://www.rubynation.org/
   twitter: rubynation
+  video_link: https://www.youtube.com/playlist?list=PLeGxIOPLk9EKE_zb0E63JywRkyUWjjFTk
 
 - name: RedDotRubyConf
   location: Singapore
   dates: "June 22-23, 2017"
   url: http://www.reddotrubyconf.com/
   twitter: reddotrubyconf
+  video_link: https://www.youtube.com/watch?v=pSf_3pIje5Y&t=1s
 
 - name: GORUCO
   location: New York, NY
@@ -930,6 +947,7 @@
   dates: "Aug 12, 2017"
   url: http://www.deccanrubyconf.org/
   twitter: deccanrubyconf
+  video_link: https://www.youtube.com/channel/UCaFWc_6VQ7lk11sU-AYUKtg
 
 - name: RubyConf Colombia
   location: Medellin, Colombia
@@ -947,6 +965,7 @@
   dates: "September 18-20, 2017"
   url: http://rubykaigi.org/2017
   twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yaJalSEHY17E96ChjY-kF2D
 
 - name: RailsClub
   location: Moscow, Russia
