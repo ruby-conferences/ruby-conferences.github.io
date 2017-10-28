@@ -1007,3 +1007,9 @@
   location: Online (Mountain Time)
   dates: "October 16-21, 2017"
   url: https://rubydevsummit.com/
+
+- name: Keep Ruby Weird
+  location: Austin, Texas
+  dates: "October 27, 2017"
+  url: https://keeprubyweird.com/
+  twitter: keeprubyweird
