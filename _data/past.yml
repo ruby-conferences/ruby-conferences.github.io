@@ -1013,3 +1013,9 @@
   dates: "October 27, 2017"
   url: https://keeprubyweird.com/
   twitter: keeprubyweird
+
+- name: RubyWorld Conference
+  location: Matsue, Shimane, Japan
+  dates: "November 1-2, 2017"
+  url: http://2017.rubyworld-conf.org/en/
+  twitter: rubyworldconf
