@@ -1019,3 +1019,9 @@
   dates: "November 1-2, 2017"
   url: http://2017.rubyworld-conf.org/en/
   twitter: rubyworldconf
+
+- name: Kiwi Ruby
+  location: Wellington, New Zealand
+  dates: "November 2-3, 2017"
+  url: http://kiwi.ruby.nz
+  twitter: kiwirubyconf
