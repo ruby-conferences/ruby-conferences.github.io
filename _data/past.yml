@@ -1025,3 +1025,15 @@
   dates: "November 2-3, 2017"
   url: http://kiwi.ruby.nz
   twitter: kiwirubyconf
+
+- name: RubyConf
+  location: New Orleans, LA
+  dates: "November 15-17th, 2017"
+  url: http://rubyconf.org/
+  twitter: rubyconf
+
+- name: RubyConf Brasil
+  location: São Paulo, Brazil
+  dates: "November 17-18th, 2017"
+  url: http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/
+  twitter: rubyconfbr
