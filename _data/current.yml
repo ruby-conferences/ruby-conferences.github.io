@@ -1,8 +1,3 @@
-- name: RailsIsrael
-  location: Tel Aviv, Israel
-  dates: "November 28-30, 2017"
-  twitter: fogelmania
-
 - name: Ruby on Ice
   location: Tegernsee, Germany
   dates: "January 26-28th, 2018"
@@ -63,7 +58,7 @@
   url: http://rubyhack.com/
   twitter: utrubyhack
   cfp_phrase: CFP Open
-  
+
 - name: Balkan Ruby
   location: Sofia, Bulgaria
   dates: "May 25-26, 2018"
