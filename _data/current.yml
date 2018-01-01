@@ -44,6 +44,14 @@
   url: http://2018.bathruby.uk
   twitter: bathruby
 
+- name: Isle of Ruby
+  location: Exeter, UK
+  dates: "April 13-15, 2018"
+  url: http://isleofruby.org/
+  twitter: isleofruby
+  cfp_phrase: CFP closes
+  cfp_date: "Feb 4, 2018"
+
 - name: Ruby X Elixir Conf Taiwan
   location: Taipei, Taiwan
   dates: "April 27-28th, 2018"
