@@ -5,6 +5,8 @@ branches:
 language: ruby
 rvm:
   - 2.5.0
+before_script:
+  - gem update --system
 script:
   - ./bin/travis_script
 env:
