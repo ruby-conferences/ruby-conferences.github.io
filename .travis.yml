@@ -4,7 +4,7 @@ branches:
     - travis
 language: ruby
 rvm:
-  - 2.4.3
+  - 2.5.0
 script:
   - ./bin/travis_script
 env:
