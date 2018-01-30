@@ -69,7 +69,7 @@
   twitter: railsconf
   cfp_phrase: CFP closes
   cfp_date: "Jan 19, 2018"
-  
+
 - name: Ruby X Elixir Conf Taiwan
   location: Taipei, Taiwan
   dates: "April 27-28th, 2018"
@@ -85,6 +85,12 @@
   twitter: utrubyhack
   cfp_phrase: CFP Open
 
+- name: Ruby Unconf Hamburg
+  location: Hamburg, Germany
+  dates: "May 5-6, 2018"
+  url: http://rubyunconf.eu
+  twitter: RubyUnconfEU
+
 - name: Balkan Ruby
   location: Sofia, Bulgaria
   dates: "May 25-26, 2018"
@@ -98,7 +104,7 @@
   dates: "May 31st-June 2nd, 2018"
   url: http://rubykaigi.org/2018
   twitter: rubykaigi
-  cfp_phrase: CFP closes 
+  cfp_phrase: CFP closes
   cfp_date: "Feb 28, 2018"
 
 - name: Ruby Conf Kenya 2018
@@ -127,4 +133,3 @@
   dates: "November 13-15, 2018"
   url: https://rubyconf.org/
   twitter: rubyconf
-  
