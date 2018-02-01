@@ -1,11 +1,3 @@
-- name: Ruby on Ice
-  location: Tegernsee, Germany
-  dates: "January 26-28th, 2018"
-  url: https://rubyonice.com/
-  twitter: rubyoniceconf
-  cfp_phrase: CFP is closed
-  reg_phrase: Registration is open
-
 - name: Rubyfuza
   location: Cape Town, South Africa
   dates: "February 1-3, 2018"
