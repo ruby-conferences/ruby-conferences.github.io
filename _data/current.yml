@@ -1,11 +1,3 @@
-- name: Rubyfuza
-  location: Cape Town, South Africa
-  dates: "February 1-3, 2018"
-  url: http://www.rubyfuza.org
-  twitter: rubyfuza
-  reg_phrase: Registration is open
-  cfp_phrase: CFP is open
-
 - name: RubyConf India
   location: Bengaluru, India
   dates: "February 9-10, 2018"
