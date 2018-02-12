@@ -91,6 +91,13 @@
   cfp_phrase: CFP closes
   cfp_date: "Feb 28, 2018"
 
+- name: RubyC
+  location: Kyiv, Ukraine
+  dates: "June 2-3, 2018"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  video_link: https://www.youtube.com/watch?v=AfMixxItToc&list=PLmEf5ppiRneTDiSoS50CGFIButnRF8qZR
+
 - name: Ruby Conf Kenya 2018
   location: Nairobi, Kenya
   dates: "June 22, 2018"
