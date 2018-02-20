@@ -1054,3 +1054,9 @@
   dates: "February 1-3, 2018"
   url: http://www.rubyfuza.org
   twitter: rubyfuza
+
+- name: RubyConf India
+  location: Bengaluru, India
+  dates: "February 9-10, 2018"
+  url: http://rubyconfindia.org
+  twitter: RubyConfIndia
