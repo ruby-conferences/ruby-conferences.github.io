@@ -111,6 +111,14 @@
   url: http://brightonruby.com/
   twitter: brightonruby
 
+- name: EuRuKo 2018
+  location: Vienna, Austria
+  dates: "August 24-25, 2018"
+  url: https://euruko2018.org/
+  twitter: euruko
+  cfp_phrase: CFP closes
+  cfp_date: "April 15, 2018"
+
 - name: RubyConf
   location: Los Angeles, CA
   dates: "November 13-15, 2018"
