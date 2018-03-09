@@ -67,6 +67,14 @@
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
 
+- name: ROSS conf Amsterdam
+  location: Amsterdam, the Netherlands
+  dates: "May 11-12, 2018"
+  url: https://rossconfams.eventbrite.co.uk
+  twitter: rossconf
+  reg_phrase: "Registration open"
+  reg_date: "May 8, 2018"
+
 - name: Balkan Ruby
   location: Sofia, Bulgaria
   dates: "May 25-26, 2018"
