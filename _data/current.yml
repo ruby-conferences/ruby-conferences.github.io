@@ -72,8 +72,8 @@
   dates: "May 11-12, 2018"
   url: https://rossconfams.eventbrite.co.uk
   twitter: rossconf
-  reg_phrase: "Registration open"
-  reg_date: "Registration closes May 8, 2018"
+  reg_phrase: "Registration closes"
+  reg_date: "May 8, 2018"
 
 - name: Balkan Ruby
   location: Sofia, Bulgaria
