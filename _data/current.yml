@@ -1,11 +1,3 @@
-- name: RailsConf
-  location: Pittsburgh, PA
-  dates: "April 17-19, 2018"
-  url: https://railsconf.com/
-  twitter: railsconf
-  cfp_phrase: CFP closes
-  cfp_date: "Jan 19, 2018"
-
 - name: Ruby X Elixir Conf Taiwan
   location: Taipei, Taiwan
   dates: "April 27-28th, 2018"
@@ -106,3 +98,10 @@
   dates: "November 13-15, 2018"
   url: https://rubyconf.org/
   twitter: rubyconf
+
+- name: RailsConf
+  location: Minneapolis, MN
+  dates: "April 30-May 2nd, 2019"
+  url: https://railsconf.com/
+  twitter: railsconf
+  cfp_phrase: CFP closes
