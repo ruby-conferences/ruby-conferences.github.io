@@ -1,3 +1,11 @@
+- name: RubyConf MY 2018
+  location: Kuala Lumpur, Malaysia
+  dates: "October 25-26th, 2018"
+  url: http://rubyconf.my/
+  twitter: rubyconfmy
+  cfp_phrase: CFP closes
+  cfp_date: "July 15, 2018"
+  
 - name: Ruby X Elixir Conf Taiwan
   location: Taipei, Taiwan
   dates: "April 27-28th, 2018"
