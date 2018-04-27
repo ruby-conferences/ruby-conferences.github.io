@@ -19,6 +19,13 @@
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
 
+- name: "Madison+ Ruby: Chicago"
+  location: Chicago, Illinois
+  dates: "May 10-11, 2018"
+  url: https://ti.to/adorable/madison-ruby-chicago/en
+  twitter: MadisonRuby
+  reg_phrase: "Registration Open"
+
 - name: ROSS conf Amsterdam
   location: Amsterdam, the Netherlands
   dates: "May 11-12, 2018"
