@@ -1,7 +1,6 @@
 - name: Garden City RubyConf
   location: Bangalore, India
   dates: "January 3-4, 2014"
-  url: http://www.gardencityruby.org/
   twitter: gardencityrb
   video_link: http://www.confreaks.com/events/gardencityruby
 
@@ -318,7 +317,6 @@
 - name: Garden City RubyConf
   location: Bangalore, India
   dates: "January 10, 2015"
-  url: http://www.gardencityruby.org/
   twitter: gardencityrb
   video_link: http://confreaks.tv/events/gardencityrb2015
 
