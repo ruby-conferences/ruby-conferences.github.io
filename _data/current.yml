@@ -98,6 +98,14 @@
   url: https://southeastruby.com/
   twitter: southeastruby
 
+- name: Deccan Ruby Conference
+  location: Pune, India
+  dates: "August 4, 2018"
+  url: http://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+  cfp_phrase: CFP open
+  reg_phrase: "Registration Open"
+
 - name: GrillRB 2018
   location: Wrocław, Poland
   dates: "August 11-12, 2018"
@@ -126,6 +134,13 @@
   dates: "November 13-15, 2018"
   url: https://rubyconf.org/
   twitter: rubyconf
+
+- name: RubyConf India
+  location: Goa, India
+  dates: "January 20-21, 2019"
+  url: http://rubyconfindia.org/
+  twitter: rubyconfindia
+  reg_phrase: "Registration Open"
 
 - name: RailsConf
   location: Minneapolis, MN
