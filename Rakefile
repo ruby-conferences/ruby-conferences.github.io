@@ -1,5 +1,6 @@
 #!/usr/bin/env rake
 require 'yaml'
+require 'date'
 require './data_file_validator'
 
 desc "Build Jekyll site"

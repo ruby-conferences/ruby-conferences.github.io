@@ -4,9 +4,12 @@ branches:
     - travis
 language: ruby
 rvm:
-  - 2.3.1
+  - 2.5.1
+before_script:
+  - gem update --system
+  - gem install bundler
 script:
-  - bundle exec danger
+  - ./bin/travis_script
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

@@ -1,89 +1,135 @@
-- name: RubyConf Philippines
-  location: Bohol, Philippines
-  dates: "March 16-18, 2017"
-  url: http://rubyconf.ph/
-  twitter: rubyconfph
+- name: Ruby X Elixir Conf Taiwan
+  location: Taipei, Taiwan
+  dates: "April 27-28th, 2018"
+  url: https://2018.rubyconf.tw/
+  twitter: rubyconftw
   cfp_phrase: CFP closes
-  cfp_date: "December 14, 2016"
-
-- name: wroc_love.rb
-  location: Wrocław, Poland
-  dates: "March 17-19, 2017"
-  url: http://www.wrocloverb.com/
-  twitter: wrocloverb
-  cfp_phrase: CFP closes
-  cfp_date: "January 31, 2017"
-
-- name: RubyConfLT
-  location: Vilnius, Lithuania
-  dates: "April 1, 2017"
-  url: https://rubyconf.lt/
-  twitter: rubyconflt
-  cfp_phrase: CFP open
+  cfp_date: "Dec 31, 2017"
 
 - name: RubyHACK
   location: Salt Lake City, Utah
-  dates: "April 20-21, 2017"
+  dates: "May 3-4, 2018"
   url: http://rubyhack.com/
   twitter: utrubyhack
-  reg_phrase: Registration is open
-  cfp_phrase: CFP open
+  reg_phrase: "Registration Open"
 
-- name: RailsConf
-  location: Phoenix, AZ
-  dates: "April 25-27, 2017"
-  url: http://www.railsconf.com/
-  twitter: railsconf
+- name: Ruby Unconf Hamburg
+  location: Hamburg, Germany
+  dates: "May 5-6, 2018"
+  url: http://rubyunconf.eu
+  twitter: RubyUnconfEU
+
+- name: "Madison+ Ruby: Chicago"
+  location: Chicago, Illinois
+  dates: "May 10-11, 2018"
+  url: https://ti.to/adorable/madison-ruby-chicago/en
+  twitter: MadisonRuby
+  reg_phrase: "Registration Open"
+
+- name: ROSS conf Amsterdam
+  location: Amsterdam, the Netherlands
+  dates: "May 11-12, 2018"
+  url: https://rossconfams.eventbrite.co.uk
+  twitter: rossconf
+  reg_phrase: "Registration closes"
+  reg_date: "May 8, 2018"
+
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  dates: "May 25-26, 2018"
+  url: http://balkanruby.com/
+  twitter: balkanruby
   cfp_phrase: CFP closes
-  cfp_date: "January 20, 2017"
+  cfp_date: "Feb 14, 2018"
 
-- name: RubyConf EA
+- name: RubyKaigi
+  location: Sendai, Japan
+  dates: "May 31st-June 2nd, 2018"
+  url: http://rubykaigi.org/2018
+  twitter: rubykaigi
+  cfp_phrase: CFP closes
+  cfp_date: "Feb 28, 2018"
+
+- name: RubyC
+  location: Kyiv, Ukraine
+  dates: "June 2-3, 2018"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  cfp_phrase: CFP closes
+  cfp_date: "Apr 1, 2018"
+
+- name: Saint P Rubyconf
+  location: Saint Petersburg, Russia
+  dates: "June 10, 2018"
+  url: http://spbrubyconf.ru/
+  twitter: saintprug
+
+- name: GORUCO 2018
+  location: New York, NY
+  dates: "June 16, 2018"
+  url: http://goruco.com
+  twitter: goruco
+  cfp_phrase: CFP closes
+  cfp_date: "April 15, 2018"
+
+- name: Ruby Conf Kenya 2018
   location: Nairobi, Kenya
-  dates: "June 8-10, 2017"
-  url: http://rubyconf.nairuby.org/
+  dates: "June 22, 2018"
+  url: http://rubyconf.nairuby.org/2018
   twitter: nairubyke
-  reg_phrase: Registration is open
-  cfp_phrase: CFP open
-
-- name: RuLu
-  location: Lyon, France
-  dates: "June 22-23, 2017"
-  url: http://rulu.eu/
-  twitter: rulu
-
-- name: RedDotRubyConf
-  location: Singapore
-  dates: "June 22-23, 2017"
-  url: http://www.reddotrubyconf.com/
-  twitter: reddotrubyconf
-  reg_phrase: Registration is open
   cfp_phrase: CFP closes
-  cfp_date: "March 15, 2017"
+  cfp_date: "April 2, 2018"
 
-- name: Brighton Ruby Conf
+- name: Paris.rb Conf
+  location: Paris, FR
+  dates: "June 28-29, 2018"
+  url: http://2018.rubyparis.org/
+  twitter: parisrb
+
+- name: Brighton Ruby Conference
   location: Brighton, UK
-  dates: "July 7, 2017"
+  dates: "July 6, 2018"
   url: http://brightonruby.com/
   twitter: brightonruby
-  cfp_phrase: CFP closes
-  cfp_date: "March 31, 2017"
 
-- name: Deccan RubyConf
-  location: Pune, India
-  dates: "Aug 12, 2017"
-  url: http://www.deccanrubyconf.org/
-  twitter: deccanrubyconf
-  reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "April 30, 2017"
+- name: Southeast Ruby
+  location: Nashville, Tennessee
+  dates: "August 2-3, 2018"
+  url: https://southeastruby.com/
+  twitter: southeastruby
 
-- name: EuRuKo
-  location: Budapest, Hungary
-  dates: "September 29-30, 2017"
-  url: http://www.euruko2017.org
+- name: GrillRB 2018
+  location: Wrocław, Poland
+  dates: "August 11-12, 2018"
+  url: http://grillrb.com
+  twitter: grill_rb
+  cfp_phrase: CFP open
+
+- name: EuRuKo 2018
+  location: Vienna, Austria
+  dates: "August 24-25, 2018"
+  url: https://euruko2018.org/
   twitter: euruko
+  cfp_phrase: CFP closes
+  cfp_date: "April 15, 2018"
 
-- name: RailsIsrael
-  location: Tel Aviv, Israel
-  dates: "November 28-30, 2017"
-  twitter: fogelmania
+- name: RubyConf MY 2018
+  location: Kuala Lumpur, Malaysia
+  dates: "October 25-26th, 2018"
+  url: http://rubyconf.my/
+  twitter: rubyconfmy
+  cfp_phrase: CFP closes
+  cfp_date: "July 15, 2018"    
+
+- name: RubyConf
+  location: Los Angeles, CA
+  dates: "November 13-15, 2018"
+  url: https://rubyconf.org/
+  twitter: rubyconf
+
+- name: RailsConf
+  location: Minneapolis, MN
+  dates: "April 30-May 2nd, 2019"
+  url: https://railsconf.com/
+  twitter: railsconf
+  cfp_phrase: CFP closes
