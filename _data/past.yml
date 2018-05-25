@@ -1106,3 +1106,39 @@
   dates: "April 13-15, 2018"
   url: http://isleofruby.org/
   twitter: isleofruby
+
+- name: Ruby X Elixir Conf Taiwan
+  location: Taipei, Taiwan
+  dates: "April 27-28th, 2018"
+  url: https://2018.rubyconf.tw/
+  twitter: rubyconftw
+
+- name: RubyHACK
+  location: Salt Lake City, Utah
+  dates: "May 3-4, 2018"
+  url: http://rubyhack.com/
+  twitter: utrubyhack
+
+- name: Ruby Unconf Hamburg
+  location: Hamburg, Germany
+  dates: "May 5-6, 2018"
+  url: http://rubyunconf.eu
+  twitter: RubyUnconfEU
+
+- name: "Madison+ Ruby: Chicago"
+  location: Chicago, Illinois
+  dates: "May 10-11, 2018"
+  url: https://ti.to/adorable/madison-ruby-chicago/en
+  twitter: MadisonRuby
+
+- name: ROSS conf Amsterdam
+  location: Amsterdam, the Netherlands
+  dates: "May 11-12, 2018"
+  url: https://rossconfams.eventbrite.co.uk
+  twitter: rossconf
+
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  dates: "May 25-26, 2018"
+  url: http://balkanruby.com/
+  twitter: balkanruby
