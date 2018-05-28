@@ -37,7 +37,7 @@ Here is a list of the keys that can be used:
 * `url`: The url for the event.
 * `twitter`: The twitter handle for the event, you can leave off the "@".
 
-Extra keys for the current list:
+Extra keys for the upcoming list:
 
 * `reg_phrase`: Typically you want to put "Registration open" here.
 * `reg_date`: If there is a registration deadline, enter that here.
