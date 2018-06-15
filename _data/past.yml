@@ -1142,3 +1142,15 @@
   dates: "May 25-26, 2018"
   url: http://balkanruby.com/
   twitter: balkanruby
+
+- name: RubyKaigi 2018
+  location: Sendai, Japan
+  dates: "May 31-June 2, 2018"
+  url: http://rubykaigi.org/2018
+  twitter: rubykaigi
+
+- name: RubyC
+  location: Kyiv, Ukraine
+  dates: "June 2-3, 2018"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
