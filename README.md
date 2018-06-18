@@ -8,7 +8,7 @@
 collaboratively with the Ruby community. Updates are sometimes posted to
 [@rubyconferences][t].
 
-[r]: http://rubyconferences.org/
+[r]: https://rubyconferences.org/
 [t]: https://twitter.com/rubyconferences
 
 ## Eligible Conferences
@@ -67,4 +67,4 @@ The design of the site is copyrighted by Cameron Daigle.
 All other original work uses the Creative Commons
 [Attribution-NonCommercial-ShareAlike 4.0 International License][l].
 
-[l]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US.
+[l]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US
