@@ -78,6 +78,13 @@
   cfp_phrase: CFP closes
   cfp_date: "July 15, 2018"
 
+- name: Keep Ruby Weird
+  location: Austin, TX
+  dates: "November 9, 2018"
+  url: https://2018.keeprubyweird.com
+  twitter: keeprubyweird
+  cfp_phrase: Call For Proposals
+
 - name: RubyConf
   location: Los Angeles, CA
   dates: "November 13-15, 2018"
