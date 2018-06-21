@@ -1154,3 +1154,15 @@
   dates: "June 2-3, 2018"
   url: http://rubyc.eu/
   twitter: rubyc_eu
+
+- name: Saint P Rubyconf
+  location: Saint Petersburg, Russia
+  dates: "June 10, 2018"
+  url: http://spbrubyconf.ru/
+  twitter: saintprug
+
+- name: GORUCO 2018
+  location: New York, NY
+  dates: "June 16, 2018"
+  url: http://goruco.com
+  twitter: goruco

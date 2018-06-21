@@ -1,17 +1,3 @@
-- name: Saint P Rubyconf
-  location: Saint Petersburg, Russia
-  dates: "June 10, 2018"
-  url: http://spbrubyconf.ru/
-  twitter: saintprug
-
-- name: GORUCO 2018
-  location: New York, NY
-  dates: "June 16, 2018"
-  url: http://goruco.com
-  twitter: goruco
-  cfp_phrase: CFP closes
-  cfp_date: "April 15, 2018"
-
 - name: Ruby Conf Kenya 2018
   location: Nairobi, Kenya
   dates: "June 22, 2018"
