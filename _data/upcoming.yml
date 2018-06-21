@@ -20,6 +20,12 @@
   cfp_phrase: CFP closes
   cfp_date: "April 2, 2018"
 
+- name: RubyNation 2018
+  location: Arlington, VA
+  dates: "June 22, 2018"
+  url: http://rubynation.org/
+  twitter: rubynation
+
 - name: Paris.rb Conf
   location: Paris, FR
   dates: "June 28-29, 2018"
