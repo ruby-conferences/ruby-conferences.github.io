@@ -281,6 +281,7 @@
   dates: "October 13-14, 2014"
   url: http://rubyconf.pt/
   twitter: rubyconfpt
+  video_link: https://www.youtube.com/playlist?list=PLgGhdJEbwzoLCuTL4BD--TOKdHomGsRDm
 
 - name: Keep Ruby Weird
   location: Austin, TX
@@ -498,6 +499,7 @@
   dates: "September 14-15, 2015"
   url: http://rubyconf.pt
   twitter: rubyconfpt
+  video_link: https://www.youtube.com/playlist?list=PLgGhdJEbwzoJSREjEZhKnDxyezC47Cgh5
 
 - name: WindyCityRails
   location: Chicago, IL
@@ -807,6 +809,7 @@
   dates: "October 27-28, 2016"
   url: http://rubyconf.pt/
   twitter: rubyconfpt
+  video_link: https://www.youtube.com/playlist?list=PLgGhdJEbwzoI6sUw_2wTlFHCGPRVoatln
 
 - name: Keep Ruby Weird
   location: Austin, TX
