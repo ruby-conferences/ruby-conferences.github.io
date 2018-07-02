@@ -541,6 +541,7 @@
   dates: "October 15-16, 2015"
   url: http://www.rubyconf.co/
   twitter: rubyconfco
+  video_link: https://www.youtube.com/playlist?list=PLq_08z5fuQgFP64HqrRWd3RWUKmPFMdo6&disable_polymer=true
 
 - name: EuRuKo
   location: Salzburg, Austria
@@ -749,6 +750,7 @@
   dates: "September 2-3, 2016"
   url: http://www.rubyconf.co/
   twitter: rubyconfco
+  video_link: https://www.youtube.com/playlist?list=PLq_08z5fuQgGLwr7cJtU27IBgtz3Q4PII
 
 - name: RubyKaigi
   location: Kyoto, Japan
@@ -963,6 +965,7 @@
   dates: "September 8-9, 2017"
   url: http://www.rubyconf.co/
   twitter: rubyconfco
+  video_link: https://www.youtube.com/playlist?list=PLq_08z5fuQgFnASevZeUy1l4lbaqoidcL
 
 - name: RubyConf China
   location: Hangzhou, China
