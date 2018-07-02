@@ -331,6 +331,7 @@
   dates: "February 4-7, 2015"
   url: http://www.rubyconf.org.au/
   twitter: rubyconf_au
+  video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc2uUcqG2wjZ1ppt-TkFG-gm
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -682,6 +683,7 @@
   dates: "June 4-5, 2016"
   url: http://rubyc.eu/
   twitter: rubyc_eu
+  video_link: https://rubyc.eu/posts/55
 
 - name: Ruby for Good
   location: Washington, DC
@@ -1086,6 +1088,7 @@
   dates: "March 15 - 17, 2018"
   url: http://rubyconf.ph/
   twitter: rubyconfph
+  video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSENtu25MLim42HJszfsXDt2
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -1107,11 +1110,19 @@
   url: http://isleofruby.org/
   twitter: isleofruby
 
+- name: RailsConf
+  location: Pittsburgh, PA
+  dates: "April 17-19, 2018"
+  url: https://railsconf.com/
+  twitter: railsconf
+  video_link: https://confreaks.tv/events/railsconf2018
+
 - name: Ruby X Elixir Conf Taiwan
   location: Taipei, Taiwan
   dates: "April 27-28th, 2018"
   url: https://2018.rubyconf.tw/
   twitter: rubyconftw
+  video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpAdmjfDBiqiOKpk1PiCIb2A
 
 - name: RubyHACK
   location: Salt Lake City, Utah
@@ -1148,12 +1159,14 @@
   dates: "May 31-June 2, 2018"
   url: http://rubykaigi.org/2018
   twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yZ8IJuzGOn3rj2dOvRLDdxL
 
 - name: RubyC
   location: Kyiv, Ukraine
   dates: "June 2-3, 2018"
   url: http://rubyc.eu/
   twitter: rubyc_eu
+  video_link: https://rubyc.eu/posts/93
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
@@ -1166,3 +1179,4 @@
   dates: "June 16, 2018"
   url: http://goruco.com
   twitter: goruco
+  video_link: https://confreaks.tv/events/goruco2018
