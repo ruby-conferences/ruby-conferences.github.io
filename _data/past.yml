@@ -567,6 +567,7 @@
   dates: "November 13, 2015"
   url: http://www.rubyday.it
   twitter: rubydayit
+  video_link: https://www.youtube.com/playlist?list=PL5ImBN21eKvaTC30b0rwaIWe3DRLr062d
 
 - name: RubyConf
   location: San Antonio, TX
@@ -830,6 +831,7 @@
   dates: "November 25-26, 2016"
   url: http://www.rubyday.it
   twitter: rubydayit
+  video_link: https://www.youtube.com/playlist?list=PL5ImBN21eKvbFLhByXvzczzqtx9ApeKAY
 
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
