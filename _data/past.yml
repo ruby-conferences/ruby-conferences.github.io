@@ -501,7 +501,6 @@
   dates: "August 28-29, 2015"
   twitter: rubymidwest
 
-# FIXME: Seems to be a phantom. In 2015, BaRuCo was replaced with FullStackFest
 - name: Barcelona Ruby Conf
   location: Barcelona, Spain
   dates: "September 1-2, 2015"
