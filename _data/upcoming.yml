@@ -1,29 +1,3 @@
-- name: Ruby Conf Kenya 2018
-  location: Nairobi, Kenya
-  dates: "June 22, 2018"
-  url: http://rubyconf.nairuby.org/2018
-  twitter: nairubyke
-  cfp_phrase: CFP closes
-  cfp_date: "April 2, 2018"
-
-- name: RubyNation 2018
-  location: Arlington, VA
-  dates: "June 22, 2018"
-  url: http://rubynation.org/
-  twitter: rubynation
-
-- name: Paris.rb Conf
-  location: Paris, FR
-  dates: "June 28-29, 2018"
-  url: http://2018.rubyparis.org/
-  twitter: parisrb
-
-- name: Brighton Ruby Conference
-  location: Brighton, UK
-  dates: "July 6, 2018"
-  url: http://brightonruby.com/
-  twitter: brightonruby
-
 - name: Southeast Ruby
   location: Nashville, Tennessee
   dates: "August 2-3, 2018"
