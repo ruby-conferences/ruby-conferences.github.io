@@ -1261,3 +1261,9 @@
   dates: "July 6, 2018"
   url: http://brightonruby.com/
   twitter: brightonruby
+
+- name: Southeast Ruby
+  location: Nashville, Tennessee
+  dates: "August 2-3, 2018"
+  url: https://southeastruby.com/
+  twitter: southeastruby

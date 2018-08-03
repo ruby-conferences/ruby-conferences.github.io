@@ -1,12 +1,3 @@
-- name: Southeast Ruby
-  location: Nashville, Tennessee
-  dates: "August 2-3, 2018"
-  url: https://southeastruby.com/
-  twitter: southeastruby
-  cfp_phrase: CFP closes
-  cfp_date: "June 1, 2018"
-  reg_phrase: "Registration Open"
-
 - name: Deccan Ruby Conference
   location: Pune, India
   dates: "August 4, 2018"
@@ -72,3 +63,11 @@
   url: https://railsconf.com/
   twitter: railsconf
   cfp_phrase: CFP closes
+
+- name: Southeast Ruby
+  location: Nashville, Tennessee
+  dates: "August 1-2, 2019"
+  url: https://southeastruby.com/
+  twitter: southeastruby
+  cfp_phrase: CFP closes
+  reg_phrase: "Registration Open"
