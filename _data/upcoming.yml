@@ -21,6 +21,14 @@
   cfp_phrase: CFP closes
   cfp_date: "April 15, 2018"
 
+- name: RubyRussia 2018
+  location: Moscow, Russia
+  dates: "October 6, 2018"
+  url: https://rubyrussia.club/en
+  twitter: railsclub_ru
+  cfp_phrase: CFP closes
+  cfp_date: "September 15, 2018"
+
 - name: RubyConf MY 2018
   location: Kuala Lumpur, Malaysia
   dates: "October 25-26th, 2018"
