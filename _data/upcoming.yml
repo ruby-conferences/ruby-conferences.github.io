@@ -28,6 +28,15 @@
   twitter: railsclub_ru
   cfp_phrase: CFP closes
   cfp_date: "September 15, 2018"
+  
+- name:  Ruby Summit China 2018
+  location: ZhengZhou, Henan, China
+  dates: "October 13-14, 2018"
+  url: http://rubysummit.cn/
+  twitter: rocLv
+  cfp_phrase: CFP open
+  cfp_date: "September 15, 2018"
+  reg_phrase: "Registration Open"
 
 - name: RubyConf MY 2018
   location: Kuala Lumpur, Malaysia
