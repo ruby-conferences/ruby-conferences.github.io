@@ -948,7 +948,7 @@
   dates: "April 20-21, 2017"
   url: http://rubyhack.com/archive/pages/2017
   twitter: utrubyhack
-  video_link: http://rubyhack.com/archive/pages/2017
+  video_link: https://confreaks.tv/events/rubyhack2017
 
 - name: RailsConf
   location: Phoenix, AZ
@@ -1050,6 +1050,7 @@
   dates: "October 5-6, 2017"
   url: https://southeastruby.com
   twitter: southeastruby
+  video_link: https://www.youtube.com/watch?v=5wI0ss02leo&list=PLRO4gNnSWQ4LSAVV7_7BliuoFCRHIqVk0
 
 - name: RubyConf Jakarta
   location: Jakarta, Indonesia
@@ -1139,6 +1140,7 @@
   dates: "March 8-9, 2018"
   url: https://www.rubyconf.org.au/2018
   twitter: rubyconf_au
+  video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
 
 - name: RubyConf Philippines
   location: Manila, Philippines
@@ -1186,6 +1188,7 @@
   dates: "May 3-4, 2018"
   url: http://rubyhack.com/
   twitter: utrubyhack
+  video_link: https://confreaks.tv/events/rubyhack2018
 
 - name: Ruby Unconf Hamburg
   location: Hamburg, Germany
@@ -1255,6 +1258,7 @@
   dates: "June 28-29, 2018"
   url: http://2018.rubyparis.org/
   twitter: parisrb
+  video_link: https://www.youtube.com/playlist?list=PLjyiiigeVQV_mHcSnJnw_1LR4nzGrdF4l
 
 - name: Brighton Ruby Conference
   location: Brighton, UK
@@ -1267,3 +1271,16 @@
   dates: "August 2-3, 2018"
   url: https://southeastruby.com/
   twitter: southeastruby
+  video_link: https://www.youtube.com/watch?v=-JpAUN6Ovok&list=PLRO4gNnSWQ4JNwiS-MyfIIejk2R_Y6UKR
+
+- name: Deccan Ruby Conference
+  location: Pune, India
+  dates: "August 4, 2018"
+  url: http://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+
+- name: GrillRB 2018
+  location: Wrocław, Poland
+  dates: "August 11-12, 2018"
+  url: http://grillrb.com
+  twitter: grill_rb

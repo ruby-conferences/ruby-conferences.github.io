@@ -1,18 +1,3 @@
-- name: Deccan Ruby Conference
-  location: Pune, India
-  dates: "August 4, 2018"
-  url: http://www.deccanrubyconf.org/
-  twitter: deccanrubyconf
-  cfp_phrase: CFP open
-  reg_phrase: "Registration Open"
-
-- name: GrillRB 2018
-  location: Wrocław, Poland
-  dates: "August 11-12, 2018"
-  url: http://grillrb.com
-  twitter: grill_rb
-  cfp_phrase: CFP open
-
 - name: EuRuKo 2018
   location: Vienna, Austria
   dates: "August 24-25, 2018"
