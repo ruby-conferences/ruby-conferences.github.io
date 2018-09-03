@@ -43,6 +43,14 @@
   twitter: rubyconfindia
   reg_phrase: "Registration Open"
 
+- name: RubyConf AU 2019
+  location: Melbourne, Australia
+  dates: "February 7-9, 2019"
+  url: https://rubyconf.org.au/2019
+  twitter: rubyconf_au
+  cfp_phrase: CFP closes
+  cfp_date: October 15, 2018
+
 - name: RubyKaigi 2019
   location: Fukuoka, Japan
   dates: "April 18-20, 2019"
