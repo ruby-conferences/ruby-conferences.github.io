@@ -541,6 +541,13 @@
   twitter: rockymtnruby
   video_link: http://www.confreaks.com/events/rmr2015
 
+- name: RailsClub
+  location: Moscow, Russia
+  dates: "September 26, 2015"
+  url: https://web.archive.org/web/20150818190300/http://railsclub.ru:80/en/main.html
+  twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOiwKkEcdRU7NvQr2IKaMBw
+
 - name: ROSSConf Berlin
   location: Berlin, Germany
   dates: "September 26, 2015"
@@ -772,6 +779,7 @@
   dates: "August 6, 2016"
   url: https://2016.deccanrubyconf.org/
   twitter: deccanrubyconf
+  video_link: https://www.youtube.com/playlist?list=PLo3sQWbYZbskTlzH7Ert-FucR7QmIuwE5
 
 - name: RubyConf KL
   location: Kuala Lumpur, Malaysia
@@ -837,6 +845,7 @@
   dates: "October 22, 2016"
   url: http://railsclub.ru/en/main.html
   twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOXZhotgDX7Y7qBsr24cu7o
 
 - name: London Ruby Unconference
   location: London, UK
@@ -1037,6 +1046,7 @@
   dates: "September 23, 2017"
   url: http://railsclub.ru/en/main
   twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeMBqHPF7HcO6O2WBjzfiUQw
 
 - name: EuRuKo
   location: Budapest, Hungary
@@ -1278,6 +1288,7 @@
   dates: "August 4, 2018"
   url: http://www.deccanrubyconf.org/
   twitter: deccanrubyconf
+  video_link: https://www.youtube.com/playlist?list=PLo3sQWbYZbsm02wEkMvD9QB1qNeARuAJa
 
 - name: GrillRB 2018
   location: Wrocław, Poland
@@ -1290,3 +1301,4 @@
   dates: "August 24-25, 2018"
   url: https://euruko2018.org/
   twitter: euruko
+  video_link: https://www.youtube.com/channel/UCSApGhubxla1SMfB8MlryGw/videos
