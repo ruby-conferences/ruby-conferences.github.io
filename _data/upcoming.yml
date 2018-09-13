@@ -43,6 +43,14 @@
   cfp_phrase: CFP closes
   cfp_date: October 15, 2018
 
+- name: Ruby on Ice 2019
+  location: Tegernsee, Germany
+  dates: "February 22-24, 2019"
+  url: https://rubyonice.com/
+  twitter: rubyoniceconf
+  cfp_phrase: CFP closes
+  cfp_date: October 19, 2018
+
 - name: RubyKaigi 2019
   location: Fukuoka, Japan
   dates: "April 18-20, 2019"
