@@ -64,6 +64,12 @@
   twitter: railsconf
   cfp_phrase: CFP closes
 
+- name: Brighton Ruby
+  location: Brighton, UK
+  dates: "July 5th, 2019"
+  url: https://brightonruby.com/
+  twitter: brightonruby
+
 - name: Southeast Ruby
   location: Nashville, Tennessee
   dates: "August 1-2, 2019"
