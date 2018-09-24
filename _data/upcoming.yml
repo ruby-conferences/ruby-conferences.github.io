@@ -25,7 +25,6 @@
   dates: "November 9, 2018"
   url: https://2018.keeprubyweird.com
   twitter: keeprubyweird
-  cfp_phrase: "Call For Proposals"
 
 - name: RubyConf
   location: Los Angeles, CA
@@ -68,6 +67,11 @@
   dates: "April 30-May 2nd, 2019"
   url: https://railsconf.com/
   twitter: railsconf
+
+- name: EuRuKo 2019
+  location: Rotterdam, the Netherlands
+  dates: "June 21-22, 2019"
+  twitter: euruko
 
 - name: Brighton Ruby
   location: Brighton, UK
