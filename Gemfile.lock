@@ -87,7 +87,7 @@ GEM
     multipart-post (2.0.0)
     nap (1.1.0)
     no_proxy_fix (0.1.2)
-    nokogiri (1.8.2)
+    nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
     octokit (4.9.0)
       sawyer (~> 0.8.0, >= 0.5.3)
