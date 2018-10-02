@@ -60,7 +60,7 @@
 - name: RubyConf India
   location: Goa, India
   dates: "March 22-23, 2014"
-  url: http://rubyconfindia.org/2014/
+  url: https://2014.rubyconfindia.org/
   twitter: rubyconfindia
   video_link: https://www.youtube.com/channel/UCRNZy_ouJ1ai_uYwDBR2J5Q
 
@@ -155,7 +155,6 @@
 - name: Deccan Ruby Conference
   location: Pune, India
   dates: "July 19, 2014"
-  url: https://2014.deccanrubyconf.org/
   twitter: deccanrubyconf
 
 - name: Brighton Ruby Conf
@@ -207,7 +206,6 @@
 - name: RubyConf Brazil
   location: São Paulo, Brazil
   dates: "August 28-29, 2014"
-  url: http://www.rubyconf.com.br/
   twitter: rubyconfbr
 
 - name: WindyCityRails
@@ -261,7 +259,7 @@
 - name: RailsClub
   location: Moscow, Russia
   dates: "September 27, 2014"
-  url: http://railsclub.ru/
+  url: https://rubyrussia.club
   twitter: railsclub_ru
   video_link: https://www.youtube.com/watch?v=i6mTsTpOi2Y&list=UU0W9Gjw4JzUcC2BfFf1MDHA
 
@@ -408,7 +406,7 @@
 - name: Ruby Conf India
   location: Goa, India
   dates: "April 3-5, 2015"
-  url: http://rubyconfindia.org/2015/
+  url: https://2015.rubyconfindia.org/
   twitter: rubyconfindia
   video_link: https://www.youtube.com/channel/UCRNZy_ouJ1ai_uYwDBR2J5Q/videos
 
@@ -488,7 +486,6 @@
 - name: DeccanRubyConf
   location: Pune, India
   dates: "August 8, 2015"
-  url: https://2015.deccanrubyconf.org/
   twitter: deccanrubyconf
 
 - name: Madison+ Ruby
@@ -531,7 +528,6 @@
 - name: RubyConf Brazil
   location: São Paulo, Brazil
   dates: "September 18-19, 2015"
-  url: http://www.rubyconf.com.br/
   twitter: rubyconfbr
 
 - name: Rocky Mountain Ruby Conference
@@ -544,7 +540,7 @@
 - name: RailsClub
   location: Moscow, Russia
   dates: "September 26, 2015"
-  url: https://web.archive.org/web/20150818190300/http://railsclub.ru:80/en/main.html
+  url: https://rubyrussia.club/
   twitter: railsclub_ru
   video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOiwKkEcdRU7NvQr2IKaMBw
 
@@ -564,7 +560,6 @@
 - name: Los Angeles Ruby Conference
   location: Los Angeles, CA
   dates: "October 10, 2015"
-  url: https://www.larubyconf.com/
   twitter: larubyconf
   video_link: http://confreaks.com/events/larubyconf2015
 
@@ -657,7 +652,7 @@
 - name: RubyConfIndia
   location: Kochi, India
   dates: "March 19-20, 2016"
-  url: http://rubyconfindia.org/2016/
+  url: https://2016.rubyconfindia.org/
   twitter: rubyconfindia
   video_link: https://www.youtube.com/playlist?list=PLNyYRB_d4fk2LfGLjyv8Oa-ruc4EgkfAQ
 
@@ -777,7 +772,6 @@
 - name: Deccan Ruby Conference
   location: Pune, India
   dates: "August 6, 2016"
-  url: https://2016.deccanrubyconf.org/
   twitter: deccanrubyconf
   video_link: https://www.youtube.com/playlist?list=PLo3sQWbYZbskTlzH7Ert-FucR7QmIuwE5
 
@@ -831,7 +825,6 @@
 - name: RubyConf Brazil
   location: São Paulo, Brazil
   dates: "September 23-24, 2016"
-  url: http://www.rubyconf.com.br/
   twitter: rubyconfbr
 
 - name: Conferencia Rails
@@ -843,7 +836,7 @@
 - name: RailsClub
   location: Moscow, Russia
   dates: "October 22, 2016"
-  url: http://railsclub.ru/en/main.html
+  url: https://rubyrussia.club/
   twitter: railsclub_ru
   video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOXZhotgDX7Y7qBsr24cu7o
 
@@ -902,7 +895,7 @@
 - name: Ruby Conf India
   location: Kochi, India
   dates: "January 27-29, 2017"
-  url: http://rubyconfindia.org/2017/
+  url: http://2017.rubyconfindia.org/
   twitter: rubyconfindia
   video_link: https://www.youtube.com/playlist?list=PLe872Yf6CJWHc6XDdHo_22hktStG866-6
 
@@ -955,7 +948,7 @@
 - name: RubyHACK
   location: Salt Lake City, Utah
   dates: "April 20-21, 2017"
-  url: http://rubyhack.com/archive/pages/2017
+  url: https://rubyhack.com/archives/2017
   twitter: utrubyhack
   video_link: https://confreaks.tv/events/rubyhack2017
 
@@ -1004,7 +997,6 @@
 - name: GrillRB
   location: Wrocław, PL
   dates: "July 1 - 2, 2017"
-  url: http://2017.grillrb.com/
   twitter: grill_rb
   video_link: https://www.youtube.com/playlist?list=PLDraF2Fjmu8VuZ8CohiG4EZuwHpUACUIN
 
@@ -1018,7 +1010,6 @@
 - name: Deccan RubyConf
   location: Pune, India
   dates: "Aug 12, 2017"
-  url: https://2017.deccanrubyconf.org/
   twitter: deccanrubyconf
   video_link: https://www.youtube.com/channel/UCaFWc_6VQ7lk11sU-AYUKtg
 
@@ -1044,7 +1035,7 @@
 - name: RailsClub
   location: Moscow, Russia
   dates: "September 23, 2017"
-  url: http://railsclub.ru/en/main
+  url: https://rubyrussia.club/
   twitter: railsclub_ru
   video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeMBqHPF7HcO6O2WBjzfiUQw
 
@@ -1084,7 +1075,6 @@
 - name: Ruby Dev Summit
   location: Online (Mountain Time)
   dates: "October 16-21, 2017"
-  url: https://rubydevsummit.com/
 
 - name: Keep Ruby Weird
   location: Austin, Texas
@@ -1117,7 +1107,6 @@
 - name: RubyConf Brasil
   location: São Paulo, Brazil
   dates: "November 17-18th, 2017"
-  url: http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/
   twitter: rubyconfbr
 
 - name: RailsIsrael
@@ -1141,7 +1130,7 @@
 - name: RubyConf India
   location: Bengaluru, India
   dates: "February 9-10, 2018"
-  url: http://rubyconfindia.org
+  url: https://2018.rubyconfindia.org/
   twitter: RubyConfIndia
   video_link: https://www.youtube.com/playlist?list=PLe872Yf6CJWGYKLny9jFs9mLv0Z94m8k4
 
@@ -1196,7 +1185,7 @@
 - name: RubyHACK
   location: Salt Lake City, Utah
   dates: "May 3-4, 2018"
-  url: http://rubyhack.com/
+  url: https://rubyhack.com/archives/2018
   twitter: utrubyhack
   video_link: https://confreaks.tv/events/rubyhack2018
 
@@ -1241,7 +1230,6 @@
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
   dates: "June 10, 2018"
-  url: http://spbrubyconf.ru/
   twitter: saintprug
 
 - name: GORUCO 2018
