@@ -1,4 +1,4 @@
-- name: RubyRussia 2018
+- name: RubyRussia
   location: Moscow, Russia
   dates: "October 6, 2018"
   url: https://rubyrussia.club/en
@@ -12,7 +12,7 @@
   url: http://rubysummit.cn/
   reg_phrase: "Registration Open"
 
-- name: RubyConf MY 2018
+- name: RubyConf MY
   location: Kuala Lumpur, Malaysia
   dates: "October 25-26th, 2018"
   url: http://rubyconf.my/
@@ -25,7 +25,7 @@
   dates: "November 9, 2018"
   url: https://2018.keeprubyweird.com
   twitter: keeprubyweird
-  cfp_phrase: Call For Proposals
+  cfp_phrase: "Call For Proposals"
 
 - name: RubyConf
   location: Los Angeles, CA
@@ -41,23 +41,23 @@
   twitter: rubyconfindia
   reg_phrase: "Registration Open"
 
-- name: RubyConf AU 2019
+- name: RubyConf AU
   location: Melbourne, Australia
   dates: "February 7-9, 2019"
   url: https://rubyconf.org.au/2019
   twitter: rubyconf_au
-  cfp_phrase: CFP closes
-  cfp_date: October 15, 2018
+  cfp_phrase: "CFP closes"
+  cfp_date: "October 15, 2018"
 
-- name: Ruby on Ice 2019
+- name: Ruby on Ice
   location: Tegernsee, Germany
   dates: "February 22-24, 2019"
   url: https://rubyonice.com/
   twitter: rubyoniceconf
-  cfp_phrase: CFP closes
-  cfp_date: October 19, 2018
+  cfp_phrase: "CFP closes"
+  cfp_date: "October 19, 2018"
 
-- name: RubyKaigi 2019
+- name: RubyKaigi
   location: Fukuoka, Japan
   dates: "April 18-20, 2019"
   url: https://rubykaigi.org/2019
@@ -68,7 +68,6 @@
   dates: "April 30-May 2nd, 2019"
   url: https://railsconf.com/
   twitter: railsconf
-  cfp_phrase: CFP closes
 
 - name: Brighton Ruby
   location: Brighton, UK
