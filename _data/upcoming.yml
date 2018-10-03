@@ -56,6 +56,14 @@
   cfp_phrase: "CFP closes"
   cfp_date: "October 19, 2018"
 
+- name: RubyHACK
+  location: Salt Lake City, UT
+  dates: "April 3-4, 2019"
+  url: "https://rubyhack.com"
+  twitter: utrubyhack
+  cfp_phrase: "CFP closes"
+  cfp_date: "December 31, 2018"
+
 - name: RubyKaigi
   location: Fukuoka, Japan
   dates: "April 18-20, 2019"
