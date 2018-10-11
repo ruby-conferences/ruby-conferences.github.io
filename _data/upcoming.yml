@@ -79,7 +79,10 @@
 - name: EuRuKo 2019
   location: Rotterdam, the Netherlands
   dates: "June 21-22, 2019"
+  url: https://euruko2019.org/
   twitter: euruko
+  cfp_phrase: "CFP closes"
+  cfp_date: "February 28, 2019"
 
 - name: Brighton Ruby
   location: Brighton, UK
