@@ -1290,3 +1290,32 @@
   url: https://euruko2018.org/
   twitter: euruko
   video_link: https://www.youtube.com/channel/UCSApGhubxla1SMfB8MlryGw/videos
+
+- name: RubyRussia
+  location: Moscow, Russia
+  dates: "October 6, 2018"
+  url: https://rubyrussia.club/en
+  twitter: railsclub_ru
+
+- name:  Ruby Summit China
+  location: ZhengZhou, Henan, China
+  dates: "October 13-14, 2018"
+  url: http://rubysummit.cn/
+
+- name: RubyConf MY
+  location: Kuala Lumpur, Malaysia
+  dates: "October 25-26th, 2018"
+  url: http://rubyconf.my/
+  twitter: rubyconfmy
+
+- name: Keep Ruby Weird
+  location: Austin, TX
+  dates: "November 9, 2018"
+  url: https://2018.keeprubyweird.com
+  twitter: keeprubyweird
+
+- name: RubyConf
+  location: Los Angeles, CA
+  dates: "November 13-15, 2018"
+  url: https://rubyconf.org/
+  twitter: rubyconf
