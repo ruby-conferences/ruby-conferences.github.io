@@ -77,3 +77,9 @@
   dates: "September 14-15, 2019"
   url: https://rubyc.eu/
   twitter: rubyc_eu
+
+- name: RubyConf
+  location: Nashville, TN
+  dates: "November 18-20, 2019"
+  url: https://rubyconf.org
+  twitter: rubyconf
