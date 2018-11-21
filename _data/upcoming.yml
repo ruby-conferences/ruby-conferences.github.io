@@ -47,6 +47,12 @@
   url: https://railsconf.com/
   twitter: railsconf
 
+- name: Saint P Rubyconf
+  location: Saint Petersburg, Russia
+  dates: "June 1-2, 2019"
+  url: https://spbrubyconf.ru/
+  twitter: saintprug
+
 - name: EuRuKo 2019
   location: Rotterdam, the Netherlands
   dates: "June 21-22, 2019"
