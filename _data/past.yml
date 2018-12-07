@@ -302,6 +302,7 @@
   dates: "October 24-25, 2014"
   url: http://rubyconfargentina.org/
   twitter: rubyconfar
+  video_link: https://www.youtube.com/channel/UCFQlyEnjkJ3GBCIHjG2CAJg/playlists
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
@@ -1194,6 +1195,7 @@
   dates: "May 5-6, 2018"
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
+  video_link: https://www.youtube.com/channel/UCpdY3gEqGW10EVrUbd1itug/videos
 
 - name: "Madison+ Ruby: Chicago"
   location: Chicago, Illinois
@@ -1263,6 +1265,7 @@
   dates: "July 6, 2018"
   url: http://brightonruby.com/
   twitter: brightonruby
+  video_link: https://brightonruby.com/2018/
 
 - name: Southeast Ruby
   location: Nashville, Tennessee
@@ -1296,6 +1299,7 @@
   dates: "October 6, 2018"
   url: https://rubyrussia.club/en
   twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeNz4UCJk9r-5nFklqvzL7vy
 
 - name:  Ruby Summit China
   location: ZhengZhou, Henan, China
@@ -1313,9 +1317,11 @@
   dates: "November 9, 2018"
   url: https://2018.keeprubyweird.com
   twitter: keeprubyweird
+  video_link: http://confreaks.tv/events/keeprubyweird2018
 
 - name: RubyConf
   location: Los Angeles, CA
   dates: "November 13-15, 2018"
   url: https://rubyconf.org/
   twitter: rubyconf
+  video_link: http://confreaks.tv/events/rubyconf2018

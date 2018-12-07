@@ -10,16 +10,20 @@
   dates: "February 7-9, 2019"
   url: https://rubyconf.org.au/2019
   twitter: rubyconf_au
+
+- name: Rubyfuza
+  location: Cape Town, South Africa
+  dates: "February 7-9, 2019"
+  url: http://www.rubyfuza.org
+  twitter: rubyfuza
   cfp_phrase: "CFP closes"
-  cfp_date: "October 15, 2018"
+  cfp_date: "December 15, 2018"
 
 - name: Ruby on Ice
   location: Tegernsee, Germany
   dates: "February 22-24, 2019"
   url: https://rubyonice.com/
   twitter: rubyoniceconf
-  cfp_phrase: "CFP closes"
-  cfp_date: "October 19, 2018"
 
 - name: RubyHACK
   location: Salt Lake City, UT
