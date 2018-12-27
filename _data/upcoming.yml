@@ -84,10 +84,11 @@
   url: https://southeastruby.com/
   twitter: southeastruby
 
-- name: Bangkok.rb
+- name: RubyConf TH
   location: Bangkok, Thailand
   dates: "September 6-7, 2019"
-  url: https://www.meetup.com/bangkok-rb/
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
 
 - name: RubyC
   location: Kyiv, Ukraine
