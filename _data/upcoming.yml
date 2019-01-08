@@ -57,6 +57,12 @@
   dates: "April 30-May 2nd, 2019"
   url: https://railsconf.com/
   twitter: railsconf
+  
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  dates: "May 17-18, 2019"
+  url: https://balkanruby.com/
+  twitter: balkanruby
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
