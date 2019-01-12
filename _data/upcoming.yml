@@ -54,6 +54,14 @@
   url: "https://us-south.rails.camp/"
   twitter: railscampsouth
 
+- name: RubyConfBY
+  location: Minsk, Belarus
+  dates: "April 6, 2019"
+  url: https://rubyconference.by/
+  twitter: rubyconfby
+  cfp_phrase: "CFP closes"
+  cfp_date: "February 24, 2019"
+
 - name: Ruby Wine
   location: Chișinău, Moldova
   dates: "April 13, 2019"
@@ -72,12 +80,18 @@
   dates: "April 30-May 2nd, 2019"
   url: https://railsconf.com/
   twitter: railsconf
-  
+
 - name: Balkan Ruby
   location: Sofia, Bulgaria
   dates: "May 17-18, 2019"
   url: https://balkanruby.com/
   twitter: balkanruby
+
+- name: Ruby Unconf Hamburg
+  location: Hamburg, Germany
+  dates: "May 25-26, 2019"
+  url: http://rubyunconf.eu
+  twitter: RubyUnconfEU
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
