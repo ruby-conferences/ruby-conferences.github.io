@@ -1176,6 +1176,13 @@
   twitter: railsconf
   video_link: https://confreaks.tv/events/railsconf2018
 
+- name: RubyConfBY
+  location: Minsk, Belarus
+  dates: "April 21, 2018"
+  url: https://rubyconference.by/2018
+  twitter: rubyconfby
+  video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCD5vCJvBlbUGTNd5KHO4AWL
+
 - name: Ruby X Elixir Conf Taiwan
   location: Taipei, Taiwan
   dates: "April 27-28th, 2018"
@@ -1214,6 +1221,7 @@
   dates: "May 25-26, 2018"
   url: http://balkanruby.com/
   twitter: balkanruby
+  video_link: https://www.youtube.com/playlist?list=PLAkGYJoUfB0v4ssiPcL_OIM1-t_LssfAY
 
 - name: RubyKaigi 2018
   location: Sendai, Japan
@@ -1311,6 +1319,13 @@
   dates: "October 25-26th, 2018"
   url: http://rubyconf.my/
   twitter: rubyconfmy
+
+- name: RubyWorld Conference
+  location: Matsue, Japan
+  dates: "November 1-2, 2018"
+  url: http://2018.rubyworld-conf.org/
+  twitter: rubyworldconf
+  video_link: http://2018.rubyworld-conf.org/en/program/
 
 - name: Keep Ruby Weird
   location: Austin, TX
