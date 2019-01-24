@@ -62,6 +62,13 @@
   cfp_phrase: "CFP closes"
   cfp_date: "February 24, 2019"
 
+- name: RubyDay
+  location: Verona, Italy
+  dates: "April 10-11, 2019"
+  url: https://2019.rubyday.it/
+  twitter: rubydayit
+  cfp_date: "February 15, 2019"
+
 - name: Ruby Wine
   location: Chișinău, Moldova
   dates: "April 13, 2019"
