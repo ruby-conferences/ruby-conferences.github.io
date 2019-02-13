@@ -120,6 +120,14 @@
   dates: "July 5th, 2019"
   url: https://brightonruby.com/
   twitter: brightonruby
+  
+- name: RubyConf Kenya 2019
+  location: Nairobi, Kenya
+  dates: "July 25-27, 2019"
+  url: http://rubyconf.nairuby.org/2019
+  twitter: nairubyke
+  cfp_phrase: "CFP closes"
+  cfp_date: "June 1st, 2019"
 
 - name: Southeast Ruby
   location: Nashville, Tennessee
