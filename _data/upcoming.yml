@@ -129,6 +129,13 @@
   cfp_phrase: "CFP closes"
   cfp_date: "June 1st, 2019"
 
+- name: Ruby Conf Taiwan 2019
+  location: Taipei, Taiwan
+  dates: "July 26-27, 2019"
+  url: https://2019.rubyconf.tw
+  twitter: rubyconftw
+  cfp_date: "April 25, 2019"
+
 - name: Southeast Ruby
   location: Nashville, Tennessee
   dates: "August 1-2, 2019"
