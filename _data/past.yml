@@ -1364,3 +1364,9 @@
   dates: "February 7-9, 2019"
   url: http://www.rubyfuza.org
   twitter: rubyfuza
+
+- name: Ruby on Ice
+  location: Tegernsee, Germany
+  dates: "February 22-24, 2019"
+  url: https://rubyonice.com/
+  twitter: rubyoniceconf
