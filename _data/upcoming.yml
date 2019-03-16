@@ -1,9 +1,3 @@
-- name: Ruby on Ice
-  location: Tegernsee, Germany
-  dates: "February 22-24, 2019"
-  url: https://rubyonice.com/
-  twitter: rubyoniceconf
-
 - name: wroclove.rb
   location: Wrocław, Poland
   dates: "March 22-24, 2019"
@@ -116,6 +110,14 @@
   dates: "August 1-2, 2019"
   url: https://southeastruby.com/
   twitter: southeastruby
+
+- name: DeccanRubyConf
+  location: Pune, India
+  dates: "August 3, 2019"
+  url: https://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+  cfp_phrase: "CFP closes"
+  cfp_date: "May 31, 2019"
 
 - name: RubyConf TH
   location: Bangkok, Thailand
