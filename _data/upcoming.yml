@@ -135,6 +135,12 @@
   cfp_phrase: "CFP closes"
   cfp_date: "March 31, 2019"
 
+- name: RubyConf Colombia
+  location: Medellín, Colombia
+  dates: "September 20-21, 2019"
+  url: https://rubyconf.co
+  twitter: rubyconfco
+
 - name: RubyConf
   location: Nashville, TN
   dates: "November 18-20, 2019"
