@@ -1,25 +1,10 @@
-- name: RubyConf India
-  location: Goa, India
-  dates: "January 20-21, 2019"
-  url: http://rubyconfindia.org/
-  twitter: rubyconfindia
-  reg_phrase: "Registration Open"
-
-- name: RubyConf AU
-  location: Melbourne, Australia
-  dates: "February 7-9, 2019"
-  url: https://rubyconf.org.au/2019
-  twitter: rubyconf_au
+- name: wroclove.rb
+  location: Wrocław, Poland
+  dates: "March 22-24, 2019"
+  url: https://wrocloverb.com/
+  twitter: wrocloverb
   cfp_phrase: "CFP closes"
-  cfp_date: "October 15, 2018"
-
-- name: Ruby on Ice
-  location: Tegernsee, Germany
-  dates: "February 22-24, 2019"
-  url: https://rubyonice.com/
-  twitter: rubyoniceconf
-  cfp_phrase: "CFP closes"
-  cfp_date: "October 19, 2018"
+  cfp_date: "January 31, 2019"
 
 - name: RubyHACK
   location: Salt Lake City, UT
@@ -35,6 +20,29 @@
   url: "https://us-south.rails.camp/"
   twitter: railscampsouth
 
+- name: RubyConfBY
+  location: Minsk, Belarus
+  dates: "April 6, 2019"
+  url: https://rubyconference.by/
+  twitter: rubyconfby
+  cfp_phrase: "CFP closes"
+  cfp_date: "February 24, 2019"
+
+- name: RubyDay
+  location: Verona, Italy
+  dates: "April 10-11, 2019"
+  url: https://2019.rubyday.it/
+  twitter: rubydayit
+  cfp_phrase: "CFP closes"
+  cfp_date: "February 15, 2019"
+
+- name: Ruby Wine
+  location: Chișinău, Moldova
+  dates: "April 13, 2019"
+  url: https://www.facebook.com/events/551051368675115/
+  cfp_phrase: "CFP closes"
+  cfp_date: "January 31, 2019"
+
 - name: RubyKaigi
   location: Fukuoka, Japan
   dates: "April 18-20, 2019"
@@ -46,6 +54,20 @@
   dates: "April 30-May 2nd, 2019"
   url: https://railsconf.com/
   twitter: railsconf
+
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  dates: "May 17-18, 2019"
+  url: https://balkanruby.com/
+  twitter: balkanruby
+  cfp_phrase: "CFP closes"
+  cfp_date: "March 3, 2019"
+
+- name: Ruby Unconf Hamburg
+  location: Hamburg, Germany
+  dates: "May 25-26, 2019"
+  url: http://rubyunconf.eu
+  twitter: RubyUnconfEU
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
@@ -67,22 +89,57 @@
   url: https://brightonruby.com/
   twitter: brightonruby
 
+- name: RubyConf Kenya 2019
+  location: Nairobi, Kenya
+  dates: "July 25-27, 2019"
+  url: http://rubyconf.nairuby.org/2019
+  twitter: nairubyke
+  cfp_phrase: "CFP closes"
+  cfp_date: "June 1st, 2019"
+
+- name: Ruby Conf Taiwan 2019
+  location: Taipei, Taiwan
+  dates: "July 26-27, 2019"
+  url: https://2019.rubyconf.tw
+  twitter: rubyconftw
+  cfp_phrase: "CFP closes"
+  cfp_date: "April 25, 2019"
+
 - name: Southeast Ruby
   location: Nashville, Tennessee
   dates: "August 1-2, 2019"
   url: https://southeastruby.com/
   twitter: southeastruby
 
-- name: Bangkok.rb
+- name: DeccanRubyConf
+  location: Pune, India
+  dates: "August 3, 2019"
+  url: https://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+  cfp_phrase: "CFP closes"
+  cfp_date: "May 31, 2019"
+
+- name: RubyConf TH
   location: Bangkok, Thailand
   dates: "September 6-7, 2019"
-  url: https://www.meetup.com/bangkok-rb/
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
+  cfp_phrase: "CFP closes"
+  cfp_date: "June 9, 2019"
 
 - name: RubyC
   location: Kyiv, Ukraine
   dates: "September 14-15, 2019"
   url: https://rubyc.eu/
   twitter: rubyc_eu
+  cfp_phrase: "CFP closes"
+  cfp_date: "March 31, 2019"
+
+- name: RubyConf Colombia
+  location: Medellín, Colombia
+  dates: "September 20-21, 2019"
+  url: https://rubyconf.co
+  twitter: rubyconfco
 
 - name: RubyConf
   location: Nashville, TN
