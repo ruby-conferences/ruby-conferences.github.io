@@ -1370,3 +1370,11 @@
   dates: "February 22-24, 2019"
   url: https://rubyonice.com/
   twitter: rubyoniceconf
+
+- name: wroclove.rb
+  location: Wrocław, Poland
+  dates: "March 22-24, 2019"
+  url: https://wrocloverb.com/
+  twitter: wrocloverb
+  cfp_phrase: "CFP closes"
+  cfp_date: "January 31, 2019"
