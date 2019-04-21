@@ -1,11 +1,3 @@
-- name: wroclove.rb
-  location: Wrocław, Poland
-  dates: "March 22-24, 2019"
-  url: https://wrocloverb.com/
-  twitter: wrocloverb
-  cfp_phrase: "CFP closes"
-  cfp_date: "January 31, 2019"
-
 - name: RubyHACK
   location: Salt Lake City, UT
   dates: "April 3-4, 2019"
@@ -55,6 +47,11 @@
   url: https://railsconf.com/
   twitter: railsconf
 
+- name: krk-rb.pl
+  location: Cracow, Poland
+  dates: "May 14-15, 2019"
+  url: https://krk-rb.pl/
+
 - name: Balkan Ruby
   location: Sofia, Bulgaria
   dates: "May 17-18, 2019"
@@ -73,7 +70,7 @@
   location: Saint Petersburg, Russia
   dates: "June 1-2, 2019"
   url: https://spbrubyconf.ru/
-  twitter: saintprug
+  twitter: saintpruby
 
 - name: EuRuKo 2019
   location: Rotterdam, the Netherlands
@@ -124,6 +121,8 @@
   dates: "September 6-7, 2019"
   url: https://rubyconfth.com/
   twitter: rubyconfth
+  cfp_phrase: "CFP closes"
+  cfp_date: "June 9, 2019"
 
 - name: RubyC
   location: Kyiv, Ukraine
@@ -132,6 +131,12 @@
   twitter: rubyc_eu
   cfp_phrase: "CFP closes"
   cfp_date: "March 31, 2019"
+
+- name: RubyConf Colombia
+  location: Medellín, Colombia
+  dates: "September 20-21, 2019"
+  url: https://rubyconf.co
+  twitter: rubyconfco
 
 - name: RubyConf
   location: Nashville, TN
