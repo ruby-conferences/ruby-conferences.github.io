@@ -1,46 +1,3 @@
-- name: RubyHACK
-  location: Salt Lake City, UT
-  dates: "April 3-4, 2019"
-  url: "https://rubyhack.com"
-  twitter: utrubyhack
-  cfp_phrase: "CFP closes"
-  cfp_date: "December 31, 2018"
-
-- name: Rails Camp South
-  location: Bandera, TX
-  dates: "April 5-8, 2019"
-  url: "https://us-south.rails.camp/"
-  twitter: railscampsouth
-
-- name: RubyConfBY
-  location: Minsk, Belarus
-  dates: "April 6, 2019"
-  url: https://rubyconference.by/
-  twitter: rubyconfby
-  cfp_phrase: "CFP closes"
-  cfp_date: "February 24, 2019"
-
-- name: RubyDay
-  location: Verona, Italy
-  dates: "April 10-11, 2019"
-  url: https://2019.rubyday.it/
-  twitter: rubydayit
-  cfp_phrase: "CFP closes"
-  cfp_date: "February 15, 2019"
-
-- name: Ruby Wine
-  location: Chișinău, Moldova
-  dates: "April 13, 2019"
-  url: https://www.facebook.com/events/551051368675115/
-  cfp_phrase: "CFP closes"
-  cfp_date: "January 31, 2019"
-
-- name: RubyKaigi
-  location: Fukuoka, Japan
-  dates: "April 18-20, 2019"
-  url: https://rubykaigi.org/2019
-  twitter: rubykaigi
-
 - name: RailsConf
   location: Minneapolis, MN
   dates: "April 30-May 2nd, 2019"
@@ -110,7 +67,7 @@
 
 - name: DeccanRubyConf
   location: Pune, India
-  dates: "August 3, 2019"
+  dates: "August 10, 2019"
   url: https://www.deccanrubyconf.org/
   twitter: deccanrubyconf
   cfp_phrase: "CFP closes"
