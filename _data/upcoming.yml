@@ -16,6 +16,12 @@
   twitter: balkanruby
   cfp_phrase: "CFP closes"
   cfp_date: "March 3, 2019"
+  
+- name: Pivorak Conf. 3.0
+  location: Lviv, Ukraine
+  dates: "May 24th, 2019"
+  url: https://pivorak.com/
+  twitter: pivorakmeetup
 
 - name: Ruby Unconf Hamburg
   location: Hamburg, Germany
