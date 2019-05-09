@@ -1,9 +1,3 @@
-- name: RailsConf
-  location: Minneapolis, MN
-  dates: "April 30-May 2nd, 2019"
-  url: https://railsconf.com/
-  twitter: railsconf
-
 - name: krk-rb.pl
   location: Cracow, Poland
   dates: "May 14-15, 2019"
@@ -106,3 +100,9 @@
   dates: "November 18-20, 2019"
   url: https://rubyconf.org
   twitter: rubyconf
+
+- name: RailsConf
+  location: Portland, OR
+  dates: "May 5-7, 2020"
+  url: https://railsconf.com/
+  twitter: railsconf
