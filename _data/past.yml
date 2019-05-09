@@ -1411,3 +1411,9 @@
   dates: "April 18-20, 2019"
   url: https://rubykaigi.org/2019
   twitter: rubykaigi
+
+- name: RailsConf
+  location: Minneapolis, MN
+  dates: "April 30-May 2nd, 2019"
+  url: https://railsconf.com/
+  twitter: railsconf
