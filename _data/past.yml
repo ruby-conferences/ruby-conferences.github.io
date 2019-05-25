@@ -1351,6 +1351,7 @@
   location: Lviv, Ukraine
   dates: "February 1, 2019"
   url: "https://pivorak.com/"
+  video_link: https://www.youtube.com/playlist?list=PLa4SYMEyNCu_0s6TbyKQwRGz97gYVchQM
 
 - name: RubyConf AU
   location: Melbourne, Australia
@@ -1364,24 +1365,28 @@
   dates: "February 7-9, 2019"
   url: http://www.rubyfuza.org
   twitter: rubyfuza
+  video_link: https://www.youtube.com/playlist?list=PLI113oIao_x55gOvfDER9ocuEQD94kjjx
 
 - name: Ruby on Ice
   location: Tegernsee, Germany
   dates: "February 22-24, 2019"
   url: https://rubyonice.com/
   twitter: rubyoniceconf
+  video_link: https://www.youtube.com/playlist?list=PLClLcexm3Iukf--UcFDw_DgKhvKpQEOX-
 
 - name: wroclove.rb
   location: Wrocław, Poland
   dates: "March 22-24, 2019"
   url: https://wrocloverb.com/
   twitter: wrocloverb
+  video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDJvwOYLuu7jnprRKhuc7Cp
 
 - name: RubyHACK
   location: Salt Lake City, UT
   dates: "April 3-4, 2019"
   url: "https://rubyhack.com"
   twitter: utrubyhack
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoLJFe8Y6TMgZgUkqlSQzN
 
 - name: Rails Camp South
   location: Bandera, TX
@@ -1394,6 +1399,7 @@
   dates: "April 6, 2019"
   url: https://rubyconference.by/
   twitter: rubyconfby
+  video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCCvTdTREN1pbu8ivniZEdlS
 
 - name: RubyDay
   location: Verona, Italy
@@ -1405,15 +1411,18 @@
   location: Chișinău, Moldova
   dates: "April 13, 2019"
   url: https://www.facebook.com/events/551051368675115/
+  video_link: https://www.youtube.com/playlist?list=PLRQ_gUZhiTmvN_KgcpEkREJF-tD43W7jZ
 
 - name: RubyKaigi
   location: Fukuoka, Japan
   dates: "April 18-20, 2019"
   url: https://rubykaigi.org/2019
   twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yYc9_jx9HkS_1WkOLKWnRw3
 
 - name: RailsConf
   location: Minneapolis, MN
   dates: "April 30-May 2nd, 2019"
   url: https://railsconf.com/
   twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOq3HlRm9h_Q_WhWKqm5xc
