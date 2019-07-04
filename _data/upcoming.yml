@@ -96,6 +96,14 @@
   twitter: rubyconfco
   cfp_phrase: "CFP closes"
   cfp_date: "June 15, 2019"
+
+- name: RubyConf Indonesia
+  location: Jakarta, Indonesia
+  dates: "September 29, 2019"
+  url: https://ruby.id/conf/2019/
+  twitter: rubyconfid
+  cfp_phrase: "CFP closes"
+  cfp_date: "August 11, 2019"
   
 - name: Ancient City Ruby
   location: Jacksonville Beach, FL
