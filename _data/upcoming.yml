@@ -74,6 +74,12 @@
   url: https://rubyconf.org
   twitter: rubyconf
 
+- name: ParisRB Conf
+  location: Paris, France
+  url: https://2020.rubyparis.org/
+  dates: "February 18-19, 2020"
+  twitter: parisrb
+
 - name: RailsConf
   location: Portland, OR
   dates: "May 5-7, 2020"
