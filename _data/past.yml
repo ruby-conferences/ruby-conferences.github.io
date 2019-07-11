@@ -1426,3 +1426,44 @@
   url: https://railsconf.com/
   twitter: railsconf
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOq3HlRm9h_Q_WhWKqm5xc
+
+- name: krk-rb.pl
+  location: Cracow, Poland
+  dates: "May 14-15, 2019"
+  url: https://krk-rb.pl/
+
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  dates: "May 17-18, 2019"
+  url: https://balkanruby.com/
+  twitter: balkanruby
+
+- name: Pivorak Conf. 3.0
+  location: Lviv, Ukraine
+  dates: "May 24th, 2019"
+  url: https://pivorak.com/
+  twitter: pivorakmeetup
+
+- name: Ruby Unconf Hamburg
+  location: Hamburg, Germany
+  dates: "May 25-26, 2019"
+  url: http://rubyunconf.eu
+  twitter: RubyUnconfEU
+
+- name: Saint P Rubyconf
+  location: Saint Petersburg, Russia
+  dates: "June 1-2, 2019"
+  url: https://spbrubyconf.ru/
+  twitter: saintpruby
+
+- name: EuRuKo 2019
+  location: Rotterdam, the Netherlands
+  dates: "June 21-22, 2019"
+  url: https://euruko2019.org/
+  twitter: euruko
+
+- name: Brighton Ruby
+  location: Brighton, UK
+  dates: "July 5th, 2019"
+  url: https://brightonruby.com/
+  twitter: brightonruby
