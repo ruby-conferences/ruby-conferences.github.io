@@ -73,6 +73,8 @@
   dates: "November 18-20, 2019"
   url: https://rubyconf.org
   twitter: rubyconf
+  cfp_phrase: "CFP closes"
+  cfp_date: "August 7, 2019"
 
 - name: ParisRB Conf
   location: Paris, France
