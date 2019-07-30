@@ -67,6 +67,12 @@
   twitter: ancientcityruby
   cfp_phrase: "CFP closes"
   cfp_date: "July 31, 2019"
+  
+- name: Kiwi Ruby
+  location: Wellington, New Zealand
+  dates: "November 1, 2019"
+  url: https://kiwi.ruby.nz
+  twitter: kiwirubyconf
 
 - name: RubyWorld Conference
   location: Matsue, Japan
@@ -79,6 +85,8 @@
   dates: "November 18-20, 2019"
   url: https://rubyconf.org
   twitter: rubyconf
+  cfp_phrase: "CFP closes"
+  cfp_date: "August 7, 2019"
 
 - name: ParisRB Conf
   location: Paris, France
