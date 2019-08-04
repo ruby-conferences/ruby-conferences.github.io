@@ -24,27 +24,26 @@ but it's probably not a Ruby conference.
 
 ## Contributing
 
-The list of events is driven by the two files in the `_data` directory - if you
-have an update for those things, just change the YAML and send a PR.
+The list of events is driven by the conferences file in the `_data` directory - if you have an update for those things, just change the YAML and send a PR.
 
 Here is a list of the keys that can be used:
 
 * `name`: The official name of the event
 * `location`: When the event is in the US, this would be "City, State", for any
   other country, use "City, Country".
-* `dates`: The dates for the event - use "Month Day, Year" format with multi-day
-  events looking like "1-2".
+* `start_date`: The date of the first day of the event - use the format "dd/mm/yyyy"
+* `dates`: The dates for the event as you want them to be displayed - use "Month Day, Year" format with multi-day events looking like "1-2".
 * `url`: The url for the event.
 * `twitter`: The twitter handle for the event, you can leave off the "@".
 
-Extra keys for the upcoming list:
+Extra keys for the upcoming events:
 
 * `reg_phrase`: Typically you want to put "Registration open" here.
 * `reg_date`: If there is a registration deadline, enter that here.
 * `cfp_phrase`: Typically you want to put "CFP open" here.
 * `cfp_date`: If there is a cfp deadline, enter that here.
 
-Extra keys for the past list:
+Extra keys for the past events:
 
 * `video_link`: A url to the videos for the event.
 

@@ -3,8 +3,13 @@ layout: default
 ---
 <article id="home">
   <dl>
-    {% for event in site.data.upcoming %}
-      {% include event.html %}
+    {% assign now = site.time | date: '%s' | plus: 0 %}
+    {% for event in site.data.conferences %}
+      {% assign start_date = event.start_date | date: '%s' | plus: 0 %}
+      {% if start_date > now %}
+        {% include event.html %}
+      {% endif %}
     {% endfor %}
+
   </dl>
 </article>

@@ -15,25 +15,26 @@ end
 
 desc "Verify event data"
 task :verify_data do
-  data_files = [
-    {
-      filename: :past,
-      allowed_keys: ["name", "location", "dates", "url", "twitter", "video_link"]
-    }, {
-      filename: :upcoming,
-      allowed_keys: ["name", "location", "dates", "url", "twitter", "reg_phrase", "reg_date", "cfp_phrase", "cfp_date"]
-    }
+  allowed_keys = [
+    "name",
+    "location",
+    "start_date",
+    "dates",
+    "url",
+    "twitter",
+    "reg_phrase",
+    "reg_date",
+    "cfp_phrase",
+    "cfp_date",
+    "video_link"
   ]
+  data = YAML.load File.read "_data/conferences.yml"
+  validator = DataFileValidator.validate(data, allowed_keys)
 
-  validators = data_files.map do |data_file|
-    data = YAML.load File.read "_data/#{data_file[:filename]}.yml"
-    DataFileValidator.validate(data, data_file[:allowed_keys])
-  end
+  exit 3 if validator.missing_keys?
+  exit 4 if validator.bonus_keys?
 
-  exit 3 if validators.any? &:missing_keys?
-  exit 4 if validators.any? &:bonus_keys?
-
-  events = validators.map(&:events).flatten
+  events = validator.events
   dates = events.map { |event| Date.parse event["dates"].gsub(/[-&][^,]+/, '') }
   exit 5 unless dates.sort == dates
 end
