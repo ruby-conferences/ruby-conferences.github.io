@@ -39,6 +39,6 @@ class DataFileValidator
   private
 
   def required_keys
-    ["dates", "name", "location"]
+    ["start_date", "end_date", "name", "location"]
   end
 end
