@@ -19,7 +19,7 @@ task :verify_data do
     "name",
     "location",
     "start_date",
-    "dates",
+    "end_date",
     "url",
     "twitter",
     "reg_phrase",
@@ -35,7 +35,7 @@ task :verify_data do
   exit 4 if validator.bonus_keys?
 
   events = validator.events
-  dates = events.map { |event| Date.parse event["dates"].gsub(/[-&][^,]+/, '') }
+  dates = events.map { |event| Date.parse event["start_date"] }
   exit 5 unless dates.sort == dates
 end
 
