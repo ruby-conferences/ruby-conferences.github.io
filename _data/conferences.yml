@@ -1699,7 +1699,7 @@
   url: http://rubyconf.nairuby.org/2019
   twitter: nairubyke
   cfp_phrase: CFP closes
-  cfp_date: June 1st, 2019
+  cfp_date: '2019-06-01'
 
 - name: Ruby Conf Taiwan 2019
   location: Taipei, Taiwan
@@ -1708,7 +1708,7 @@
   url: https://2019.rubyconf.tw
   twitter: rubyconftw
   cfp_phrase: CFP closes
-  cfp_date: April 25, 2019
+  cfp_date: '2019-04-25'
 
 - name: Southeast Ruby
   location: Nashville, Tennessee
@@ -1724,7 +1724,7 @@
   url: https://www.deccanrubyconf.org/
   twitter: deccanrubyconf
   cfp_phrase: CFP closes
-  cfp_date: May 31, 2019
+  cfp_date: '2019-05-31'
 
 - name: RubyConf TH
   location: Bangkok, Thailand
@@ -1733,7 +1733,7 @@
   url: https://rubyconfth.com/
   twitter: rubyconfth
   cfp_phrase: CFP closes
-  cfp_date: June 9, 2019
+  cfp_date: '2019-06-09'
 
 - name: RubyC
   location: Kyiv, Ukraine
@@ -1742,7 +1742,7 @@
   url: https://rubyc.eu/
   twitter: rubyc_eu
   cfp_phrase: CFP closes
-  cfp_date: March 31, 2019
+  cfp_date: '2019-03-31'
 
 - name: RubyConf Colombia
   location: Medellín, Colombia
@@ -1751,7 +1751,7 @@
   url: https://rubyconf.co
   twitter: rubyconfco
   cfp_phrase: CFP closes
-  cfp_date: June 15, 2019
+  cfp_date: '2019-06-15'
 
 - name: RubyRussia
   location: Moscow, Russia
@@ -1767,7 +1767,7 @@
   url: https://ruby.id/conf/2019/
   twitter: rubyconfid
   cfp_phrase: CFP closes
-  cfp_date: August 11, 2019
+  cfp_date: '2019-08-11'
 
 - name: Ancient City Ruby
   location: Jacksonville Beach, FL
@@ -1776,7 +1776,7 @@
   url: http://ancientcityruby.com/
   twitter: ancientcityruby
   cfp_phrase: CFP closes
-  cfp_date: July 31, 2019
+  cfp_date: '2019-07-31'
 
 - name: Kiwi Ruby
   location: Wellington, New Zealand
@@ -1799,7 +1799,7 @@
   url: https://rubyconf.org
   twitter: rubyconf
   cfp_phrase: CFP closes
-  cfp_date: August 7, 2019
+  cfp_date: '2019-08-07'
 
 - name: ParisRB Conf
   location: Paris, France
