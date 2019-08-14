@@ -1807,6 +1807,13 @@
   dates: "February 18-19, 2020"
   twitter: parisrb
 
+- name: RubyDay
+  location: Verona, Italy
+  start_date: 02/04/2020
+  dates: "April 2, 2020"
+  url: https://2020.rubyday.it/
+  twitter: rubydayit
+
 - name: RailsConf
   location: Portland, OR
   start_date: 05/05/2020
