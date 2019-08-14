@@ -1755,8 +1755,8 @@
 
 - name: RubyRussia
   location: Moscow, Russia
-  start_date: 28/09/2019
-  dates: "September 28, 2019"
+  start_date: '2019-09-28'
+  end_date: '2019-09-28'
   url: https://rubyrussia.club/en
   twitter: railsclub_ru
 
