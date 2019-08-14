@@ -35,7 +35,7 @@ task :verify_data do
   exit 4 if validator.bonus_keys?
 
   events = validator.events
-  dates = events.map { |event| Date.parse event["start_date"] }
+  dates = events.map { |event| event["start_date"] }
   exit 5 unless dates.sort == dates
 end
 
