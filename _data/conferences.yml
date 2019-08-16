@@ -1656,6 +1656,7 @@
   end_date: 2019-05-18
   url: https://balkanruby.com/
   twitter: balkanruby
+  video_link: https://www.youtube.com/playlist?list=PLAkGYJoUfB0vutEvm7Z2dcrxbtAQfPUSp
 
 - name: Pivorak Conf. 3.0
   location: Lviv, Ukraine
@@ -1684,6 +1685,7 @@
   end_date: 2019-06-22
   url: https://euruko2019.org/
   twitter: euruko
+  video_link: https://www.youtube.com/channel/UCWcOB8yVZDoPGdbvq8HR6IQ/videos
 
 - name: Brighton Ruby
   location: Brighton, UK
@@ -1709,6 +1711,7 @@
   twitter: rubyconftw
   cfp_phrase: CFP closes
   cfp_date: 2019-04-25
+  video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpBgD6t068O_EZ4grSlUtl3Y
 
 - name: Southeast Ruby
   location: Nashville, Tennessee
@@ -1801,12 +1804,28 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-08-07
 
+- name: Rubyfuza
+  location: Cape Town, South Africa
+  start_date: 06/02/2020
+  dates: "February 6-8, 2020"
+  url: http://www.rubyfuza.org
+  twitter: rubyfuza
+  cfp_phrase: "CFP closes"
+  cfp_date: "December 1, 2019"
+
 - name: ParisRB Conf
   location: Paris, France
   url: https://2020.rubyparis.org/
   start_date: 2020-02-18
   end_date: 2020-02-19
   twitter: parisrb
+
+- name: RubyKaigi
+  location: Nagano, Japan
+  start_date: 09/04/2020
+  dates: "April 9-11, 2020"
+  url: https://rubykaigi.org/2020
+  twitter: rubykaigi
 
 - name: RailsConf
   location: Portland, OR
