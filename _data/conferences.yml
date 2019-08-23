@@ -1806,12 +1806,12 @@
 
 - name: Rubyfuza
   location: Cape Town, South Africa
-  start_date: 06/02/2020
-  dates: "February 6-8, 2020"
+  start_date: 2020-02-06
+  end_date: 2020-02-08
   url: http://www.rubyfuza.org
   twitter: rubyfuza
   cfp_phrase: "CFP closes"
-  cfp_date: "December 1, 2019"
+  cfp_date: 2019-12-01
 
 - name: ParisRB Conf
   location: Paris, France
@@ -1822,8 +1822,8 @@
 
 - name: RubyKaigi
   location: Nagano, Japan
-  start_date: 09/04/2020
-  dates: "April 9-11, 2020"
+  start_date: 2020-04-09
+  end_date: 2020-04-11
   url: https://rubykaigi.org/2020
   twitter: rubykaigi
 
