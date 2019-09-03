@@ -1804,6 +1804,15 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-08-07
 
+- name: RubyConfBR
+  location: Sao Paulo, BR
+  start_date: 2019-11-28
+  end_date: 2019-11-29
+  url: https://callforpapers.locaweb.com.br/events/rubyconf-2019
+  twitter: rubyconfbr
+  cfp_phrase: CFP closes
+  cfp_date: 2019-10-06
+
 - name: Rubyfuza
   location: Cape Town, South Africa
   start_date: 2020-02-06
