@@ -1788,6 +1788,13 @@
   url: https://pivorak.com/
   twitter: pivorakmeetup    
 
+- name: SolidusConf 2019
+  location: Salt Lake City, UT
+  start_date: 2019-10-21
+  end_date: 2019-10-24
+  url: http://conf.solidus.io
+  twitter: solidusIO
+
 - name: Kiwi Ruby
   location: Wellington, New Zealand
   start_date: 2019-11-01
