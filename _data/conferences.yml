@@ -1780,6 +1780,12 @@
   twitter: ancientcityruby
   cfp_phrase: CFP closes
   cfp_date: 2019-07-31
+  
+- name: Pivorak Conf. 4.0
+  location: Lviv, Ukraine
+  dates: "Oct 18th, 2019"
+  url: https://pivorak.com/
+  twitter: pivorakmeetup    
 
 - name: Kiwi Ruby
   location: Wellington, New Zealand
