@@ -1783,7 +1783,8 @@
   
 - name: Pivorak Conf. 4.0
   location: Lviv, Ukraine
-  dates: "Oct 18th, 2019"
+  start_date: 2019-10-18
+  end_date: 2019-10-19
   url: https://pivorak.com/
   twitter: pivorakmeetup    
 
