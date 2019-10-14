@@ -1828,6 +1828,14 @@
   start_date: 2020-02-18
   end_date: 2020-02-19
   twitter: parisrb
+  
+- name: RubyConf AU 2020
+  location: Melbourne, Australia
+  url: https://www.rubyconf.org.au/2020
+  start_date: 2020-02-20
+  end_date: 2020-02-21
+  twitter: rubyconf_au
+  cfp_phrase: "CFP open"
 
 - name: RubyKaigi
   location: Nagano, Japan
@@ -1842,3 +1850,11 @@
   end_date: 2020-05-07
   url: https://railsconf.com/
   twitter: railsconf
+  
+- name: EuRuKo
+  location: Helsinki, Finland
+  start_date: 2020-08-21
+  end_date: 2020-08-22
+  url: https://euruko2020.org/
+  twitter: euruko
+  cfp_phrase: "CFP open"
