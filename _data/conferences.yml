@@ -1842,6 +1842,13 @@
   start_date: 2020-02-18
   end_date: 2020-02-19
   twitter: parisrb
+  
+- name: RubyConf AU
+  location: Melbourne, Australia
+  url: https://www.rubyconf.org.au/2020
+  start_date: 2020-02-20
+  end_date: 2020-02-21
+  twitter: rubyconf_au
 
 - name: RubyKaigi
   location: Nagano, Japan
