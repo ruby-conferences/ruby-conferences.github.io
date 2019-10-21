@@ -1856,3 +1856,12 @@
   end_date: 2020-05-07
   url: https://railsconf.com/
   twitter: railsconf
+
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  start_date: 2020-05-15
+  end_date: 2020-05-16
+  url: https://balkanruby.com
+  twitter: balkanruby
+  cfp_phrase: CFP closes
+  cfp_date: 2020-02-01
