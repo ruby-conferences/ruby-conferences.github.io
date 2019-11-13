@@ -1875,3 +1875,12 @@
   twitter: balkanruby
   cfp_phrase: CFP closes
   cfp_date: 2020-02-01
+
+- name: RubyDay
+  location: Verona, Italy
+  start_date: 2020-04-02
+  end_date: 2020-04-02
+  url: https://2020.rubyday.it
+  twitter: rubydayit
+  cfp_phrase: CFP closes
+  cfp_date: 2019-11-30
