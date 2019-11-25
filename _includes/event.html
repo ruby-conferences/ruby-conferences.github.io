@@ -14,23 +14,7 @@
 <dd>
   <ul>
     <li>
-      {% assign start_month = event.start_date | date: '%m' %}
-      {% assign end_month = event.end_date | date: '%m' %}
-      {% assign start_year = event.start_date | date: '%Y' %}
-      {% assign end_year = event.end_date | date: '%Y' %}
-
-      {% if event.start_date == event.end_date %}
-        {{ event.start_date | date: '%B %-d, %Y' }}
-      {% elsif start_month == end_month %}
-        {{ event.start_date | date: '%B %-d' }}–{{ event.end_date | date: '%-d, %Y' }}
-      {% elsif start_year == end_year %}
-        {{ event.start_date | date: '%B %-d' }}–{{ event.end_date | date: '%B %-d, %Y' }}
-      {% else %}
-        {% comment %}
-          This should only trigger if some crazy person has a conference over the New Year
-        {% endcomment %}
-        {{ event.start_date | date: '%B %-d, %Y' }}–{{ event.end_date | date: '%B %-d, %Y' }}
-      {% endif %}
+      {% include event-date.html %}
     </li>
     <li>{{ event.location }}</li>
     {% if event.twitter %}

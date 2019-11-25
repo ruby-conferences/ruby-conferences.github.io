@@ -4,6 +4,7 @@
   end_date: 2014-01-04
   twitter: gardencityrb
   video_link: http://www.confreaks.com/events/gardencityruby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -12,6 +13,7 @@
   url: http://www.rubyfuza.org/2014/
   twitter: rubyfuza
   video_link: http://www.confreaks.com/events/rubyfuza2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Los Angeles Ruby Conference
   location: Los Angeles, CA
@@ -19,6 +21,7 @@
   end_date: 2014-02-08
   twitter: larubyconf
   video_link: http://confreaks.com/events/larubyconf2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conf Australia
   location: Sydney, Australia
@@ -27,6 +30,7 @@
   url: https://rubyconf.org.au/2014
   twitter: rubyconf_au
   video_link: http://vimeo.com/channels/699773
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Big Ruby
   location: Dallas, TX
@@ -35,6 +39,7 @@
   url: http://web.archive.org/web/20140228185424/http://www.bigrubyconf.com:80/
   twitter: bigrubyconf
   video_link: http://confreaks.com/events/bigruby2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubySauna
   location: Oulu, Finland
@@ -42,6 +47,7 @@
   end_date: 2014-02-27
   url: http://web.archive.org/web/20140213081334/http://www.rubysauna.org:80/
   twitter: rubysauna
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby on Ales
   location: Bend, OR
@@ -49,6 +55,7 @@
   end_date: 2014-03-07
   twitter: rbonales
   video_link: http://www.confreaks.com/events/roa2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -57,6 +64,7 @@
   url: http://wrocloverb.com/
   twitter: wrocloverb
   video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRCYNOfsPoxVWChbT5x5D5WP
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: MountainWest RubyConf
   location: Salt Lake City, UT
@@ -65,6 +73,7 @@
   url: http://mtnwestrubyconf.org/2014/
   twitter: mwrc
   video_link: http://confreaks.tv/events/mwrc2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf India
   location: Goa, India
@@ -73,6 +82,7 @@
   url: https://2014.rubyconfindia.org/
   twitter: rubyconfindia
   video_link: https://www.youtube.com/channel/UCRNZy_ouJ1ai_uYwDBR2J5Q
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Philippines
   location: Manila, Philippines
@@ -80,6 +90,7 @@
   end_date: 2014-03-29
   url: http://rubyconf.ph/
   twitter: rubyconfph
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ancient City Ruby
   location: St. Augustine, FL
@@ -88,6 +99,7 @@
   url: http://www.ancientcityruby.com/2014/
   twitter: ancientcityruby
   video_link: https://www.youtube.com/playlist?list=PLrjohaqTgNJMDh6Jg0vPftT2S34zPEPhJ
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsConf
   location: Chicago, IL
@@ -96,6 +108,7 @@
   url: http://www.railsconf.com/
   twitter: railsconf
   video_link: http://confreaks.tv/events/railsconf2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Abril Pro Ruby
   location: Porto de Galinhas, Brazil
@@ -104,6 +117,7 @@
   url: http://tropicalrb.com/2014/en/
   twitter: abrilproruby
   video_link: https://www.youtube.com/playlist?list=PL7a-mWnTar6v5cDC4MLDZKwD0RuMSDHHP
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
@@ -112,6 +126,7 @@
   url: https://rubyconf.tw/2014/
   twitter: rubytaiwan
   video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpCUi7IcCDEVSRc1OsaJSguB
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Scottish Ruby Conf
   location: Perthshire, Scotland
@@ -120,6 +135,7 @@
   url: http://scottishrubyconference.com
   twitter: scotrubyconf
   video_link: https://confreaks.tv/events/scottishrubyconf2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Uruguay
   location: Montevideo, Uruguay
@@ -128,6 +144,7 @@
   url: http://web.archive.org/web/20150105045157/http://www.rubyconfuruguay.org:80/en
   twitter: rubyconfuruguay
   video_link: https://www.youtube.com/playlist?list=PLxx5qlTQCf0zx-DIFVHlftznHExI7ONEV
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: 'RubyMotion #inspect'
   location: San Francisco, CA
@@ -136,6 +153,7 @@
   url: http://www.rubymotion.com/conference/2014/
   twitter: rubymotion
   video_link: http://confreaks.tv/events/inspect2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conference Kiev
   location: Kiev, Ukraine
@@ -144,6 +162,7 @@
   url: http://rubyc.eu/
   twitter: rubyc_eu
   video_link: https://rubyc.eu/archives/4
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyNation
   location: Washington, DC
@@ -151,6 +170,7 @@
   end_date: 2014-06-07
   url: http://www.rubynation.org/
   twitter: rubynation
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Lugdunum
   location: Lyon, France
@@ -158,6 +178,7 @@
   end_date: 2014-06-20
   url: http://2014.rulu.eu/
   twitter: rulu
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Gotham Ruby Conference
   location: New York, NY
@@ -166,6 +187,7 @@
   url: http://goruco.com/
   twitter: goruco
   video_link: http://confreaks.tv/events/goruco2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RedDotRubyConf
   location: Singapore
@@ -174,12 +196,14 @@
   url: https://rdrc2014.herokuapp.com/
   twitter: reddotrubyconf
   video_link: http://www.confreaks.com/events/rdrc2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Deccan Ruby Conference
   location: Pune, India
   start_date: 2014-07-19
   end_date: 2014-07-19
   twitter: deccanrubyconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Brighton Ruby Conf
   location: Brighton, UK
@@ -187,6 +211,7 @@
   end_date: 2014-07-21
   url: https://brightonruby.com/2014/
   twitter: brightonruby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Burlington Ruby Conference
   location: Burlington, VT
@@ -195,6 +220,7 @@
   url: http://burlingtonruby.github.io/burlingtonrubyconference2014/
   twitter: btvrubyconf
   video_link: http://vimeo.com/album/2996485
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: eurucamp
   location: Potsdam, Germany
@@ -203,6 +229,7 @@
   url: http://2014.eurucamp.org
   twitter: eurucamp
   video_link: http://media.eurucamp.org/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: JRubyConf EU
   location: Potsdam, Germany
@@ -211,6 +238,7 @@
   url: http://2014.jrubyconf.eu/
   twitter: jrubyconfeu
   video_link: http://media.eurucamp.org/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Cascadia Ruby
   location: Portland, OR
@@ -219,6 +247,7 @@
   url: http://cascadiaruby.com/
   twitter: cascadiaruby
   video_link: http://confreaks.com/events/cascadiaruby2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Madison+ Ruby
   location: Madison, WI
@@ -226,6 +255,7 @@
   end_date: 2014-08-23
   twitter: madisonruby
   video_link: https://www.youtube.com/playlist?list=PLJ-cEwTSAyZ6gLSWt1Mnq7vxqB6qiEzMz
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RedFrogConf
   location: Sankt Augustin, Germany
@@ -233,12 +263,14 @@
   end_date: 2014-08-24
   url: http://ruby.froscon.org/
   twitter: redfrogconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Brazil
   location: São Paulo, Brazil
   start_date: 2014-08-28
   end_date: 2014-08-29
   twitter: rubyconfbr
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: WindyCityRails
   location: Chicago, IL
@@ -247,6 +279,7 @@
   url: http://www.windycityrails.org/
   twitter: windycityrails
   video_link: http://www.windycityrails.org/videos/2014/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Frozen Rails
   location: Helsinki, Finland
@@ -254,6 +287,7 @@
   end_date: 2014-09-12
   url: http://2014.frozenrails.eu/
   twitter: frozenrails
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Barcelona Ruby Conf
   location: Barcelona, Spain
@@ -262,6 +296,7 @@
   url: http://web.archive.org/web/20141219035936/http://www.baruco.org/
   twitter: baruco
   video_link: http://confreaks.tv/events/baruco2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyKaigi
   location: Tokyo, Japan
@@ -270,6 +305,7 @@
   url: http://rubykaigi.org/2014
   twitter: rubykaigi
   video_link: https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Golden Gate Ruby Conference
   location: San Francisco, CA
@@ -278,6 +314,7 @@
   url: http://web.archive.org/web/20141217041726/http://gogaruco.com/
   twitter: gogaruco
   video_link: http://confreaks.com/events/gogaruco2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rocky Mountain Ruby Conference
   location: Boulder, CO
@@ -286,6 +323,7 @@
   url: http://rockymtnruby.com/
   twitter: rockymtnruby
   video_link: http://www.confreaks.com/events/rmr2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rails Pacific
   location: Taipei, Taiwan
@@ -294,6 +332,7 @@
   url: http://www.railspacific.com
   twitter: railspacific
   video_link: http://confreaks.tv/events/railspacific2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsClub
   location: Moscow, Russia
@@ -302,6 +341,7 @@
   url: https://rubyrussia.club
   twitter: railsclub_ru
   video_link: https://www.youtube.com/watch?v=i6mTsTpOi2Y&list=UU0W9Gjw4JzUcC2BfFf1MDHA
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: ArrrrCamp
   location: Ghent, Belgium
@@ -310,6 +350,7 @@
   url: http://arrrrcamp.be/
   twitter: arrrrcamp
   video_link: http://www.confreaks.com/events/arrrrcamp2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Nickel City Ruby Conference
   location: Buffalo, NY
@@ -318,6 +359,7 @@
   url: http://nickelcityruby.com/
   twitter: nickelcityruby
   video_link: http://www.confreaks.com/events/nickelcityruby2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby DCamp
   location: Prince William Forest Park, VA
@@ -325,6 +367,7 @@
   end_date: 2014-10-12
   url: http://rubydcamp.org/
   twitter: ruby_dcamp
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Portugal
   location: Braga, Portugal
@@ -333,6 +376,7 @@
   url: http://2014.rubyconf.pt/
   twitter: rubyconfpt
   video_link: https://www.youtube.com/playlist?list=PLgGhdJEbwzoLCuTL4BD--TOKdHomGsRDm
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Keep Ruby Weird
   location: Austin, TX
@@ -341,6 +385,7 @@
   url: http://keeprubyweird.com/
   twitter: keeprubyweird
   video_link: http://www.confreaks.com/events/KeepRubyWeird14
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Argentina
   location: Buenos Aires, Argentina
@@ -349,6 +394,7 @@
   url: http://rubyconfargentina.org/
   twitter: rubyconfar
   video_link: https://www.youtube.com/channel/UCFQlyEnjkJ3GBCIHjG2CAJg/playlists
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
@@ -356,6 +402,7 @@
   end_date: 2014-11-05
   url: http://railsisrael2014.events.co.il/
   twitter: fogelmania
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyWorld Conference
   location: Matsue, Japan
@@ -363,6 +410,7 @@
   end_date: 2014-11-14
   url: http://2014.rubyworld-conf.org/en/
   twitter: rubyworldconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf
   location: San Diego, CA
@@ -371,6 +419,7 @@
   url: http://rubyconf.org/
   twitter: rubyconf
   video_link: http://www.confreaks.com/events/RubyConf2014
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Garden City RubyConf
   location: Bangalore, India
@@ -379,6 +428,7 @@
   url: http://web.archive.org/web/20161226185837/http://2015.gardencityruby.org:80/
   twitter: gardencityrb
   video_link: http://confreaks.tv/events/gardencityrb2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby devroom at FOSDEM
   location: Brussels, Belgium
@@ -386,6 +436,7 @@
   end_date: 2015-02-01
   url: http://fosdem-ruby.github.io/
   twitter: ruby_fosdem
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conf Australia
   location: Melbourne, Australia
@@ -394,6 +445,7 @@
   url: https://rubyconf.org.au/2015
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc2uUcqG2wjZ1ppt-TkFG-gm
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -402,6 +454,7 @@
   url: http://www.rubyfuza.org/2015/
   twitter: rubyfuza
   video_link: https://www.youtube.com/playlist?list=PLI113oIao_x63Ne1S8ObKYQwbPRcpb8kN
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby on Ales
   location: Bend, OR
@@ -409,6 +462,7 @@
   end_date: 2015-03-06
   twitter: rbonales
   video_link: http://confreaks.tv/events/roa2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Tropical Ruby
   location: Porto de Galinhas, Brazil
@@ -417,6 +471,7 @@
   url: http://tropicalrb.com/
   twitter: tropicalrb
   video_link: http://tropicalrb.com/en/videos/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: MountainWest RubyConf
   location: Salt Lake City, UT
@@ -425,6 +480,7 @@
   url: http://mtnwestrubyconf.org/2015/
   twitter: mwrc
   video_link: http://confreaks.tv/events/mwrc2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Bath Ruby Conference
   location: Bath, UK
@@ -433,6 +489,7 @@
   url: http://2015.bathruby.org
   twitter: BathRuby
   video_link: http://confreaks.tv/events/bathruby2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -440,6 +497,7 @@
   end_date: 2015-03-15
   url: http://wrocloverb.com/
   twitter: wrocloverb
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfLT
   location: Vilnius, Lithuania
@@ -448,6 +506,7 @@
   url: https://2015.rubyconf.lt/
   twitter: rubyconflt
   video_link: https://www.youtube.com/user/rubyconflt
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ancient City Ruby
   location: St. Augustine, FL
@@ -456,6 +515,7 @@
   url: http://www.ancientcityruby.com/2015/
   twitter: ancientcityruby
   video_link: https://www.youtube.com/playlist?list=PLrjohaqTgNJOWPOGH3R3ww7AulwmOadr2
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Philippines
   location: Boracay Island, Philippines
@@ -464,6 +524,7 @@
   url: http://rubyconf.ph/2015/
   twitter: rubyconfph
   video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSGlKtZOeqZKUMOB2w8qlUC_
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conf India
   location: Goa, India
@@ -472,6 +533,7 @@
   url: https://2015.rubyconfindia.org/
   twitter: rubyconfindia
   video_link: https://www.youtube.com/channel/UCRNZy_ouJ1ai_uYwDBR2J5Q/videos
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsConf
   location: Atlanta, GA
@@ -480,6 +542,7 @@
   url: http://www.railsconf.com/2015
   twitter: railsconf
   video_link: http://confreaks.tv/events/railsconf2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: ROSSConf Vienna
   location: Vienna, Austria
@@ -487,6 +550,7 @@
   end_date: 2015-04-25
   url: http://www.rossconf.io/
   twitter: rossconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Kenya
   location: Nairobi, Kenya
@@ -494,6 +558,7 @@
   end_date: 2015-05-09
   url: http://rubyconf.nairuby.org/2015
   twitter: nairubyke
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conference Kiev
   location: Kiev, Ukraine
@@ -502,6 +567,7 @@
   url: http://rubyc.eu/
   twitter: rubyc_eu
   video_link: https://rubyc.eu/archives/5
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RedDotRubyConf
   location: Singapore
@@ -510,6 +576,7 @@
   url: https://rdrc2015.herokuapp.com/
   twitter: reddotrubyconf
   video_link: http://confreaks.tv/events/rdrc2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyNation
   location: Washington, DC
@@ -517,6 +584,7 @@
   end_date: 2015-06-13
   url: http://www.rubynation.org/
   twitter: rubynation
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Gotham Ruby Conference
   location: New York, NY
@@ -525,6 +593,7 @@
   url: http://2015.goruco.com/
   twitter: goruco
   video_link: http://confreaks.tv/events/goruco2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Brighton Ruby
   location: Brighton, UK
@@ -533,6 +602,7 @@
   url: https://brightonruby.com/2015/
   twitter: brightonruby
   video_link: https://brightonruby.com/2015/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: JRubyConf EU
   location: Potsdam, Germany
@@ -541,6 +611,7 @@
   url: http://jrubyconf.eu
   twitter: jrubyconfeu
   video_link: http://media.eurucamp.org/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Burlington Ruby Conference
   location: Burlington, VT
@@ -548,6 +619,7 @@
   end_date: 2015-08-02
   url: http://burlingtonruby.github.io/burlingtonrubyconference2015/
   twitter: btvrubyconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: eurucamp
   location: Potsdam, Germany
@@ -556,24 +628,28 @@
   url: http://eurucamp.org
   twitter: eurucamp
   video_link: http://media.eurucamp.org/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: DeccanRubyConf
   location: Pune, India
   start_date: 2015-08-08
   end_date: 2015-08-08
   twitter: deccanrubyconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Madison+ Ruby
   location: Madison, WI
   start_date: 2015-08-20
   end_date: 2015-08-22
   twitter: madisonruby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Midwest
   location: Kansas City, MO
   start_date: 2015-08-28
   end_date: 2015-08-29
   twitter: rubymidwest
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Barcelona Ruby Conf
   location: Barcelona, Spain
@@ -581,6 +657,7 @@
   end_date: 2015-09-02
   url: http://www.baruco.org/
   twitter: baruco
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
@@ -589,6 +666,7 @@
   url: https://2015.rubyconf.tw/
   twitter: rubytaiwan
   video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpDVKgAH_p_X7gtLSGsvmMJj
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Portugal
   location: Braga, Portugal
@@ -597,6 +675,7 @@
   url: http://2015.rubyconf.pt/
   twitter: rubyconfpt
   video_link: https://www.youtube.com/playlist?list=PLgGhdJEbwzoJSREjEZhKnDxyezC47Cgh5
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: WindyCityRails
   location: Chicago, IL
@@ -605,12 +684,14 @@
   url: http://www.windycityrails.org/
   twitter: windycityrails
   video_link: https://windycityrails.com/videos/2015/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Brazil
   location: São Paulo, Brazil
   start_date: 2015-09-18
   end_date: 2015-09-19
   twitter: rubyconfbr
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rocky Mountain Ruby Conference
   location: Boulder, CO
@@ -619,6 +700,7 @@
   url: http://www.rockymtnruby.com/
   twitter: rockymtnruby
   video_link: http://www.confreaks.com/events/rmr2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsClub
   location: Moscow, Russia
@@ -627,6 +709,7 @@
   url: https://rubyrussia.club/
   twitter: railsclub_ru
   video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOiwKkEcdRU7NvQr2IKaMBw
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: ROSSConf Berlin
   location: Berlin, Germany
@@ -634,6 +717,7 @@
   end_date: 2015-09-26
   url: http://www.rossconf.io/
   twitter: rossconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: ArrrrCamp
   location: Ghent, Belgium
@@ -642,6 +726,7 @@
   url: http://2015.arrrrcamp.be
   twitter: arrrrcamp
   video_link: http://confreaks.tv/events/arrrrcamp2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Los Angeles Ruby Conference
   location: Los Angeles, CA
@@ -649,6 +734,7 @@
   end_date: 2015-10-10
   twitter: larubyconf
   video_link: http://confreaks.com/events/larubyconf2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Colombia
   location: Medellin, Colombia
@@ -657,6 +743,7 @@
   url: http://2015.rubyconf.co/
   twitter: rubyconfco
   video_link: https://www.youtube.com/playlist?list=PLq_08z5fuQgFP64HqrRWd3RWUKmPFMdo6&disable_polymer=true
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: EuRuKo
   location: Salzburg, Austria
@@ -664,6 +751,7 @@
   end_date: 2015-10-18
   url: http://www.euruko2015.org/
   twitter: euruko
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Keep Ruby Weird
   location: Austin, Texas
@@ -672,6 +760,7 @@
   url: http://keeprubyweird.com
   twitter: keeprubyweird
   video_link: http://confreaks.tv/events/keeprubyweird2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyWorld Conference
   location: Matsue, Japan
@@ -680,6 +769,7 @@
   url: http://2015.rubyworld-conf.org/en/
   twitter: rubyworldconf
   video_link: http://2015.rubyworld-conf.org/en/program/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyDay
   location: Turin, Italy
@@ -688,6 +778,7 @@
   url: http://2015.rubyday.it/
   twitter: rubydayit
   video_link: https://www.youtube.com/playlist?list=PL5ImBN21eKvaTC30b0rwaIWe3DRLr062d
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf
   location: San Antonio, TX
@@ -696,6 +787,7 @@
   url: http://rubyconf.org/
   twitter: rubyconf
   video_link: http://confreaks.tv/events/rubyconf2015
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
@@ -703,6 +795,7 @@
   end_date: 2015-11-24
   url: http://railsisrael2015.events.co.il
   twitter: railsisrael
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyKaigi
   location: Tokyo, Japan
@@ -711,6 +804,7 @@
   url: http://rubykaigi.org/2015
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PL0irJ82JAlEic6IlpRdsPl5L5f5aLMuXf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby devroom at FOSDEM
   location: Brussels, Belgium
@@ -718,6 +812,7 @@
   end_date: 2016-01-31
   url: http://fosdem.rubybelgium.be/
   twitter: ruby_fosdem
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -725,6 +820,7 @@
   end_date: 2016-02-05
   url: http://www.rubyfuza.org/2016/
   twitter: rubyfuza
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Australia
   location: Gold Coast, Australia
@@ -733,6 +829,7 @@
   url: https://rubyconf.org.au/2016
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc3ILv2Lxlt422NjIFWnXl0U
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Bath Ruby Conference
   location: Bath, UK
@@ -741,6 +838,7 @@
   url: http://2016.bathruby.org
   twitter: bathruby
   video_link: http://confreaks.tv/events/bathruby2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -748,6 +846,7 @@
   end_date: 2016-03-13
   url: http://wrocloverb.com
   twitter: wrocloverb
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfIndia
   location: Kochi, India
@@ -756,6 +855,7 @@
   url: https://2016.rubyconfindia.org/
   twitter: rubyconfindia
   video_link: https://www.youtube.com/playlist?list=PLNyYRB_d4fk2LfGLjyv8Oa-ruc4EgkfAQ
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: MountainWest RubyConf
   location: Salt Lake City, UT
@@ -764,6 +864,7 @@
   url: http://mtnwestrubyconf.org/2016/
   twitter: mwrc
   video_link: http://confreaks.tv/events/mwrc2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby on Ales
   location: Bend, Oregon
@@ -772,6 +873,7 @@
   url: http://web.archive.org/web/20171102215052/http://ruby.onales.com/
   twitter: rbonales
   video_link: http://confreaks.tv/events/roa2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ancient City Ruby
   location: St. Augustine, FL
@@ -780,6 +882,7 @@
   url: http://www.ancientcityruby.com/
   twitter: ancientcityruby
   video_link: https://www.youtube.com/playlist?list=PLrjohaqTgNJPq3h7UGYbqNwrerEM05t_Q
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rubyconf Philippines
   location: Manila, Philippines
@@ -788,6 +891,7 @@
   url: http://rubyconf.ph/2016/
   twitter: rubyconfph
   video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSH173SE64f28eQeTmXnufQj
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfLT
   location: Vilnius, Lithuania
@@ -796,6 +900,7 @@
   url: https://2016.rubyconf.lt/
   twitter: rubyconflt
   video_link: https://www.youtube.com/user/rubyconflt
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfBY
   location: Minsk, Belarus
@@ -804,6 +909,7 @@
   url: https://2016.rubyconference.by/en/
   twitter: rubyconfby
   video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCC82YnUz8sAsjmNyPWxIr9l
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsConf
   location: Kansas City, MO
@@ -812,6 +918,7 @@
   url: http://www.railsconf.com/2016
   twitter: railsconf
   video_link: http://confreaks.tv/events/railsconf2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rails Pacific
   location: Taipei, Taiwan
@@ -820,6 +927,7 @@
   url: http://www.railspacific.com/
   twitter: railspacific
   video_link: http://confreaks.tv/events/railspacific2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyNation
   location: Washington, DC
@@ -827,6 +935,7 @@
   end_date: 2016-06-04
   url: http://www.rubynation.org/
   twitter: rubynation
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyC
   location: Kiev, Ukraine
@@ -835,6 +944,7 @@
   url: http://rubyc.eu/
   twitter: rubyc_eu
   video_link: https://rubyc.eu/posts/55
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby for Good
   location: Washington, DC
@@ -842,6 +952,7 @@
   end_date: 2016-06-19
   url: http://www.rubyforgood.org/
   twitter: rubyforgood
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: NordicRuby
   location: Stockholm
@@ -849,6 +960,7 @@
   end_date: 2016-06-19
   url: http://www.nordicruby.org/
   twitter: nordicruby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RedDotRubyConf
   location: Singapore
@@ -857,12 +969,14 @@
   url: https://rdrc2016.herokuapp.com/
   twitter: reddotrubyconf
   video_link: http://confreaks.tv/events/reddotruby2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: GrillRB
   location: Wrocław, Poland
   start_date: 2016-06-25
   end_date: 2016-06-26
   twitter: grill_rb
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: GORUCO (Gotham Ruby Conference)
   location: New York, NY
@@ -871,6 +985,7 @@
   url: http://2016.goruco.com/
   twitter: goruco
   video_link: http://confreaks.tv/events/goruco2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: OpenCommerce Conf
   location: Rise, New York City
@@ -878,6 +993,7 @@
   end_date: 2016-06-29
   url: http://opencommerceconf.org/
   twitter: opencommerce_
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Brighton Ruby Conference
   location: Brighton, UK
@@ -886,6 +1002,7 @@
   url: https://brightonruby.com/2016/
   twitter: brightonruby
   video_link: https://brightonruby.com/2016/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Deccan Ruby Conference
   location: Pune, India
@@ -893,6 +1010,7 @@
   end_date: 2016-08-06
   twitter: deccanrubyconf
   video_link: https://www.youtube.com/playlist?list=PLo3sQWbYZbskTlzH7Ert-FucR7QmIuwE5
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf KL
   location: Kuala Lumpur, Malaysia
@@ -900,6 +1018,7 @@
   end_date: 2016-08-13
   url: http://rubyconf.my/2016
   twitter: rubyconfmy
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Tech Day by GURU-PR
   location: Curitiba, Brazil
@@ -907,6 +1026,7 @@
   end_date: 2016-08-20
   url: http://www.gurupr.org/eventos/2-tech-day-do-guru-pr
   twitter: guru_pr
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Colombia
   location: Medellin, Colombia
@@ -915,6 +1035,7 @@
   url: http://www.rubyconf.co/
   twitter: rubyconfco
   video_link: https://www.youtube.com/playlist?list=PLq_08z5fuQgGLwr7cJtU27IBgtz3Q4PII
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyKaigi
   location: Kyoto, Japan
@@ -923,6 +1044,7 @@
   url: http://rubykaigi.org/2016
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yYfT493G8C2fLvvhPDs-lIQ
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: WindyCityRails
   location: Chicago, IL
@@ -931,6 +1053,7 @@
   url: http://www.windycityrails.org/
   twitter: windycityrails
   video_link: https://windycityrails.com/videos/2016/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rocky Mountain Ruby
   location: Boulder, CO
@@ -939,6 +1062,7 @@
   url: http://rockymtnruby.com/
   twitter: rockymtnruby
   video_link: http://confreaks.tv/events/rockymountainruby2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: EuRuKo
   location: Sofia, Bulgaria
@@ -947,12 +1071,14 @@
   url: http://euruko2016.org/
   twitter: euruko
   video_link: https://www.youtube.com/channel/UChGs1td4ViQFqT0jlvkyUJg/videos
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Brazil
   location: São Paulo, Brazil
   start_date: 2016-09-23
   end_date: 2016-09-24
   twitter: rubyconfbr
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Conferencia Rails
   location: Madrid, Spain
@@ -960,6 +1086,7 @@
   end_date: 2016-10-15
   url: http://conferenciaror.es/
   twitter: conferenciaror
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsClub
   location: Moscow, Russia
@@ -968,6 +1095,7 @@
   url: https://rubyrussia.club/
   twitter: railsclub_ru
   video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOXZhotgDX7Y7qBsr24cu7o
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: London Ruby Unconference
   location: London, UK
@@ -975,6 +1103,7 @@
   end_date: 2016-10-22
   url: http://www.eventbrite.com/e/london-ruby-unconference-tickets-27663867372?aff=github
   twitter: rubyunconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Portugal
   location: Braga, Portugal
@@ -983,6 +1112,7 @@
   url: http://rubyconf.pt/
   twitter: rubyconfpt
   video_link: https://www.youtube.com/playlist?list=PLgGhdJEbwzoI6sUw_2wTlFHCGPRVoatln
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Keep Ruby Weird
   location: Austin, TX
@@ -991,6 +1121,7 @@
   url: https://2016.keeprubyweird.com/
   twitter: keeprubyweird
   video_link: http://confreaks.tv/events/keeprubyweird2016
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyWorld Conference
   location: Matsue, Shimane, Japan
@@ -999,6 +1130,7 @@
   url: http://2017.rubyworld-conf.org/en/
   twitter: rubyworldconf
   video_link: http://2016.rubyworld-conf.org/en/program/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf
   location: Cincinnati, OH
@@ -1006,12 +1138,14 @@
   end_date: 2016-11-12
   url: http://rubyconf.org/
   twitter: rubyconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rail Israel
   location: Tel Aviv, Israel
   start_date: 2016-11-14
   end_date: 2016-11-15
   twitter: railsisrael
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyDay
   location: Florence, Italy
@@ -1020,6 +1154,7 @@
   url: http://www.rubyday.it
   twitter: rubydayit
   video_link: https://www.youtube.com/playlist?list=PL5ImBN21eKvbFLhByXvzczzqtx9ApeKAY
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
@@ -1028,6 +1163,7 @@
   url: https://2016.rubyconf.tw/
   twitter: rubyconftw
   video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpB7wxvDs02oGA9IRKw3dVYO
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conf India
   location: Kochi, India
@@ -1036,6 +1172,7 @@
   url: http://2017.rubyconfindia.org/
   twitter: rubyconfindia
   video_link: https://www.youtube.com/playlist?list=PLe872Yf6CJWHc6XDdHo_22hktStG866-6
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -1044,6 +1181,7 @@
   url: http://www.rubyfuza.org/2017/
   twitter: rubyfuza
   video_link: https://www.youtube.com/playlist?list=PLI113oIao_x5PHCdz0VLSKW4-Qp58pWOs
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby devroom at FOSDEM
   location: Brussels, Belgium
@@ -1051,6 +1189,7 @@
   end_date: 2017-02-04
   url: http://fosdem.rubybelgium.be/
   twitter: ruby_fosdem
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conf AU
   location: Melbourne, Australia
@@ -1059,6 +1198,7 @@
   url: https://rubyconf.org.au/2017
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc3hxsmj3AnPFf3RD4f3zfUl
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Philippines
   location: Bohol, Philippines
@@ -1067,6 +1207,7 @@
   url: http://rubyconf.ph/2017/
   twitter: rubyconfph
   video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSHKtxq2efDQc6EXTDqabxdV
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -1074,6 +1215,7 @@
   end_date: 2017-03-19
   url: http://www.wrocloverb.com/
   twitter: wrocloverb
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfLT
   location: Vilnius, Lithuania
@@ -1081,6 +1223,7 @@
   end_date: 2017-04-01
   url: https://rubyconf.lt/
   twitter: rubyconflt
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfBY
   location: Minsk, Belarus
@@ -1089,6 +1232,7 @@
   url: https://2017.rubyconference.by/en/
   twitter: rubyconfby
   video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCBpR87Q5nw_3caqbVo71EP7
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyHACK
   location: Salt Lake City, Utah
@@ -1097,6 +1241,7 @@
   url: https://rubyhack.com/archives/2017
   twitter: utrubyhack
   video_link: https://confreaks.tv/events/rubyhack2017
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsConf
   location: Phoenix, AZ
@@ -1105,6 +1250,7 @@
   url: http://www.railsconf.com/2017
   twitter: railsconf
   video_link: http://confreaks.tv/events/railsconf2017
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyC
   location: Kyiv, Ukraine
@@ -1113,6 +1259,7 @@
   url: http://rubyc.eu/
   twitter: rubyc_eu
   video_link: https://rubyc.eu/posts/75
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf EA
   location: Nairobi, Kenya
@@ -1121,6 +1268,7 @@
   url: http://rubyconf.nairuby.org/2017
   twitter: nairubyke
   video_link: https://www.youtube.com/playlist?list=PLb6Zr8jHuhjzIAKR7l2r81P-hxBUftT2-
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyNation
   location: Arlington, Virginia
@@ -1129,6 +1277,7 @@
   url: http://www.rubynation.org/
   twitter: rubynation
   video_link: https://www.youtube.com/playlist?list=PLeGxIOPLk9EKE_zb0E63JywRkyUWjjFTk
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RedDotRubyConf
   location: Singapore
@@ -1137,6 +1286,7 @@
   url: http://www.reddotrubyconf.com/
   twitter: reddotrubyconf
   video_link: http://confreaks.tv/events/reddotrubyconf2017
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: GORUCO
   location: New York, NY
@@ -1145,6 +1295,7 @@
   url: http://2017.goruco.com/
   twitter: goruco
   video_link: https://confreaks.tv/events/goruco2017
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: GrillRB
   location: Wrocław, PL
@@ -1152,6 +1303,7 @@
   end_date: 2017-07-02
   twitter: grill_rb
   video_link: https://www.youtube.com/playlist?list=PLDraF2Fjmu8VuZ8CohiG4EZuwHpUACUIN
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Brighton Ruby Conf
   location: Brighton, UK
@@ -1160,6 +1312,7 @@
   url: http://brightonruby.com/2017/
   twitter: brightonruby
   video_link: https://brightonruby.com/2017/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Deccan RubyConf
   location: Pune, India
@@ -1167,6 +1320,7 @@
   end_date: 2017-08-12
   twitter: deccanrubyconf
   video_link: https://www.youtube.com/channel/UCaFWc_6VQ7lk11sU-AYUKtg
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Colombia
   location: Medellin, Colombia
@@ -1175,12 +1329,14 @@
   url: http://2017.rubyconf.co/
   twitter: rubyconfco
   video_link: https://www.youtube.com/playlist?list=PLq_08z5fuQgFnASevZeUy1l4lbaqoidcL
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf China
   location: Hangzhou, China
   start_date: 2017-09-16
   end_date: 2017-09-17
   url: http://rubyconfchina.org
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyKaigi
   location: Hiroshima, Japan
@@ -1189,6 +1345,7 @@
   url: http://rubykaigi.org/2017
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yaJalSEHY17E96ChjY-kF2D
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsClub
   location: Moscow, Russia
@@ -1197,6 +1354,7 @@
   url: https://rubyrussia.club/
   twitter: railsclub_ru
   video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeMBqHPF7HcO6O2WBjzfiUQw
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: EuRuKo
   location: Budapest, Hungary
@@ -1205,6 +1363,7 @@
   url: http://www.euruko2017.org
   twitter: euruko
   video_link: https://www.youtube.com/playlist?list=PLCrwBqiOtwpIRdk4VMfD6hbFVHZoKOyMg
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Keep Ruby Weird
   location: Austin, Texas
@@ -1213,6 +1372,7 @@
   url: https://2017.keeprubyweird.com/
   twitter: keeprubyweird
   video_link: http://confreaks.tv/events/keeprubyweird2017
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Southeast Ruby
   location: Nashville, TN
@@ -1221,6 +1381,7 @@
   url: https://southeastruby.com
   twitter: southeastruby
   video_link: https://www.youtube.com/watch?v=5wI0ss02leo&list=PLRO4gNnSWQ4LSAVV7_7BliuoFCRHIqVk0
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Jakarta
   location: Jakarta, Indonesia
@@ -1228,6 +1389,7 @@
   end_date: 2017-10-07
   url: http://ruby.id/conf/2017/
   twitter: id_ruby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: London Ruby Unconference
   location: London, UK
@@ -1235,6 +1397,7 @@
   end_date: 2017-10-07
   url: https://www.eventbrite.com/e/london-ruby-unconference-tickets-36286901098?aff=rubyconferences
   twitter: rubyunconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf MY
   location: Cyberjaya, Malaysia
@@ -1243,11 +1406,13 @@
   url: http://rubyconf.my/2017/
   twitter: rubyconfmy
   video_link: https://www.youtube.com/playlist?list=PLrD6VJeUSN28nfWhU5PwlD-9vgPNV3WsU
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Dev Summit
   location: Online (Mountain Time)
   start_date: 2017-10-16
   end_date: 2017-10-21
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyWorld Conference
   location: Matsue, Shimane, Japan
@@ -1256,6 +1421,7 @@
   url: http://2017.rubyworld-conf.org/en/
   twitter: rubyworldconf
   video_link: http://2017.rubyworld-conf.org/en/program/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Kiwi Ruby
   location: Wellington, New Zealand
@@ -1264,6 +1430,7 @@
   url: http://kiwi.ruby.nz
   twitter: kiwirubyconf
   video_link: https://www.youtube.com/playlist?list=PLqR1aFtg6FQKivt1jMU-dotStXiTY11GT
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf
   location: New Orleans, LA
@@ -1272,18 +1439,21 @@
   url: http://rubyconf.org/
   twitter: rubyconf
   video_link: http://confreaks.tv/events/rubyconf2017
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Brasil
   location: São Paulo, Brazil
   start_date: 2017-11-17
   end_date: 2017-11-18
   twitter: rubyconfbr
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
   start_date: 2017-11-28
   end_date: 2017-11-30
   twitter: railsisrael
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby on Ice
   location: Tegernsee, Germany
@@ -1291,6 +1461,7 @@
   end_date: 2018-01-28
   url: https://rubyonice.com/
   twitter: rubyoniceconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -1299,6 +1470,7 @@
   url: http://www.rubyfuza.org
   twitter: rubyfuza
   video_link: https://www.youtube.com/playlist?list=PLI113oIao_x4i51ynrHhhNz3UpEDs0qxy
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf India
   location: Bengaluru, India
@@ -1307,6 +1479,7 @@
   url: https://2018.rubyconfindia.org/
   twitter: RubyConfIndia
   video_link: https://www.youtube.com/playlist?list=PLe872Yf6CJWGYKLny9jFs9mLv0Z94m8k4
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf AU
   location: Sydney, Australia
@@ -1315,6 +1488,7 @@
   url: https://www.rubyconf.org.au/2018
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Philippines
   location: Manila, Philippines
@@ -1323,6 +1497,7 @@
   url: http://rubyconf.ph/
   twitter: rubyconfph
   video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSENtu25MLim42HJszfsXDt2
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -1331,6 +1506,7 @@
   url: http://wrocloverb.com/
   twitter: wrocloverb
   video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDSMznObXnqyq5HbOqLucTz
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Bath Ruby Conference
   location: Bath, UK
@@ -1339,6 +1515,7 @@
   url: http://2018.bathruby.uk
   twitter: bathruby
   video_link: https://www.youtube.com/playlist?list=PLwdNEzbHNELWqMRxZzenE6Lgp16rPXu9A
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Isle of Ruby
   location: Exeter, UK
@@ -1346,6 +1523,7 @@
   end_date: 2018-04-15
   url: http://isleofruby.org/
   twitter: isleofruby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsConf
   location: Pittsburgh, PA
@@ -1354,6 +1532,7 @@
   url: https://railsconf.com/
   twitter: railsconf
   video_link: https://confreaks.tv/events/railsconf2018
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfBY
   location: Minsk, Belarus
@@ -1362,6 +1541,7 @@
   url: https://rubyconference.by/2018
   twitter: rubyconfby
   video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCD5vCJvBlbUGTNd5KHO4AWL
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby X Elixir Conf Taiwan
   location: Taipei, Taiwan
@@ -1370,6 +1550,7 @@
   url: https://2018.rubyconf.tw/
   twitter: rubyconftw
   video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpAdmjfDBiqiOKpk1PiCIb2A
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyHACK
   location: Salt Lake City, Utah
@@ -1378,6 +1559,7 @@
   url: https://rubyhack.com/archives/2018
   twitter: utrubyhack
   video_link: https://confreaks.tv/events/rubyhack2018
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: 'Madison+ Ruby: Chicago'
   location: Chicago, Illinois
@@ -1385,6 +1567,7 @@
   end_date: 2018-05-11
   url: https://ti.to/adorable/madison-ruby-chicago/en
   twitter: MadisonRuby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: ROSS conf Amsterdam
   location: Amsterdam, the Netherlands
@@ -1392,6 +1575,7 @@
   end_date: 2018-05-12
   url: https://rossconfams.eventbrite.co.uk
   twitter: rossconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Balkan Ruby
   location: Sofia, Bulgaria
@@ -1400,6 +1584,7 @@
   url: http://balkanruby.com/
   twitter: balkanruby
   video_link: https://www.youtube.com/playlist?list=PLAkGYJoUfB0v4ssiPcL_OIM1-t_LssfAY
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyKaigi 2018
   location: Sendai, Japan
@@ -1408,6 +1593,7 @@
   url: http://rubykaigi.org/2018
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yZ8IJuzGOn3rj2dOvRLDdxL
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyC
   location: Kyiv, Ukraine
@@ -1416,12 +1602,14 @@
   url: http://rubyc.eu/
   twitter: rubyc_eu
   video_link: https://rubyc.eu/posts/93
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
   start_date: 2018-06-10
   end_date: 2018-06-10
   twitter: saintprug
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: GORUCO 2018
   location: New York, NY
@@ -1430,6 +1618,7 @@
   url: http://goruco.com
   twitter: goruco
   video_link: https://confreaks.tv/events/goruco2018
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conf Kenya 2018
   location: Nairobi, Kenya
@@ -1437,6 +1626,7 @@
   end_date: 2018-06-22
   url: http://rubyconf.nairuby.org/2018
   twitter: nairubyke
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyNation 2018
   location: Arlington, VA
@@ -1444,6 +1634,7 @@
   end_date: 2018-06-22
   url: http://rubynation.org/
   twitter: rubynation
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Paris.rb Conf
   location: Paris, FR
@@ -1452,6 +1643,7 @@
   url: http://2018.rubyparis.org/
   twitter: parisrb
   video_link: https://www.youtube.com/playlist?list=PLjyiiigeVQV_mHcSnJnw_1LR4nzGrdF4l
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Brighton Ruby Conference
   location: Brighton, UK
@@ -1460,6 +1652,7 @@
   url: http://brightonruby.com/
   twitter: brightonruby
   video_link: https://brightonruby.com/2018/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Southeast Ruby
   location: Nashville, Tennessee
@@ -1468,6 +1661,7 @@
   url: https://southeastruby.com/
   twitter: southeastruby
   video_link: https://www.youtube.com/watch?v=-JpAUN6Ovok&list=PLRO4gNnSWQ4JNwiS-MyfIIejk2R_Y6UKR
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Deccan Ruby Conference
   location: Pune, India
@@ -1476,6 +1670,7 @@
   url: http://www.deccanrubyconf.org/
   twitter: deccanrubyconf
   video_link: https://www.youtube.com/playlist?list=PLo3sQWbYZbsm02wEkMvD9QB1qNeARuAJa
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: GrillRB 2018
   location: Wrocław, Poland
@@ -1483,6 +1678,7 @@
   end_date: 2018-08-12
   url: http://grillrb.com
   twitter: grill_rb
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: EuRuKo 2018
   location: Vienna, Austria
@@ -1491,6 +1687,7 @@
   url: https://euruko2018.org/
   twitter: euruko
   video_link: https://www.youtube.com/channel/UCSApGhubxla1SMfB8MlryGw/videos
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Unconf Hamburg
   location: Hamburg, Germany
@@ -1499,6 +1696,7 @@
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
   video_link: https://www.youtube.com/channel/UCpdY3gEqGW10EVrUbd1itug/videos
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyRussia
   location: Moscow, Russia
@@ -1507,12 +1705,14 @@
   url: https://rubyrussia.club/en
   twitter: railsclub_ru
   video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeNz4UCJk9r-5nFklqvzL7vy
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Summit China
   location: ZhengZhou, Henan, China
   start_date: 2018-10-13
   end_date: 2018-10-14
   url: http://rubysummit.cn/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf MY
   location: Kuala Lumpur, Malaysia
@@ -1520,6 +1720,7 @@
   end_date: 2018-10-26
   url: http://rubyconf.my/
   twitter: rubyconfmy
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyWorld Conference
   location: Matsue, Japan
@@ -1528,6 +1729,7 @@
   url: http://2018.rubyworld-conf.org/
   twitter: rubyworldconf
   video_link: http://2018.rubyworld-conf.org/en/program/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Keep Ruby Weird
   location: Austin, TX
@@ -1536,6 +1738,7 @@
   url: https://2018.keeprubyweird.com
   twitter: keeprubyweird
   video_link: http://confreaks.tv/events/keeprubyweird2018
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf
   location: Los Angeles, CA
@@ -1544,6 +1747,7 @@
   url: https://rubyconf.org/
   twitter: rubyconf
   video_link: http://confreaks.tv/events/rubyconf2018
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf India
   location: Goa, India
@@ -1551,6 +1755,7 @@
   end_date: 2019-01-21
   url: http://rubyconfindia.org/
   twitter: rubyconfindia
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: "#pivorak conference"
   location: Lviv, Ukraine
@@ -1558,6 +1763,7 @@
   end_date: 2019-02-01
   url: https://pivorak.com/
   video_link: https://www.youtube.com/playlist?list=PLa4SYMEyNCu_0s6TbyKQwRGz97gYVchQM
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf AU
   location: Melbourne, Australia
@@ -1566,6 +1772,7 @@
   url: https://rubyconf.org.au/2019
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc3dTbvb8fIuzDFGTCaEdO3a
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -1574,6 +1781,7 @@
   url: http://www.rubyfuza.org
   twitter: rubyfuza
   video_link: https://www.youtube.com/playlist?list=PLI113oIao_x55gOvfDER9ocuEQD94kjjx
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby on Ice
   location: Tegernsee, Germany
@@ -1582,6 +1790,7 @@
   url: https://rubyonice.com/
   twitter: rubyoniceconf
   video_link: https://www.youtube.com/playlist?list=PLClLcexm3Iukf--UcFDw_DgKhvKpQEOX-
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: wroclove.rb
   location: Wrocław, Poland
@@ -1590,6 +1799,7 @@
   url: https://wrocloverb.com/
   twitter: wrocloverb
   video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDJvwOYLuu7jnprRKhuc7Cp
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyHACK
   location: Salt Lake City, UT
@@ -1598,6 +1808,7 @@
   url: https://rubyhack.com
   twitter: utrubyhack
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoLJFe8Y6TMgZgUkqlSQzN
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rails Camp South
   location: Bandera, TX
@@ -1605,6 +1816,7 @@
   end_date: 2019-04-08
   url: https://us-south.rails.camp/
   twitter: railscampsouth
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfBY
   location: Minsk, Belarus
@@ -1613,6 +1825,7 @@
   url: https://rubyconference.by/
   twitter: rubyconfby
   video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCCvTdTREN1pbu8ivniZEdlS
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyDay
   location: Verona, Italy
@@ -1620,6 +1833,7 @@
   end_date: 2019-04-11
   url: https://2019.rubyday.it/
   twitter: rubydayit
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Wine
   location: Chișinău, Moldova
@@ -1627,6 +1841,7 @@
   end_date: 2019-04-13
   url: https://www.facebook.com/events/551051368675115/
   video_link: https://www.youtube.com/playlist?list=PLRQ_gUZhiTmvN_KgcpEkREJF-tD43W7jZ
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyKaigi
   location: Fukuoka, Japan
@@ -1635,6 +1850,7 @@
   url: https://rubykaigi.org/2019
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yYc9_jx9HkS_1WkOLKWnRw3
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsConf
   location: Minneapolis, MN
@@ -1643,12 +1859,14 @@
   url: https://railsconf.com/
   twitter: railsconf
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOq3HlRm9h_Q_WhWKqm5xc
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: krk-rb.pl
   location: Cracow, Poland
   start_date: 2019-05-14
   end_date: 2019-05-15
   url: https://krk-rb.pl/
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Balkan Ruby
   location: Sofia, Bulgaria
@@ -1657,6 +1875,7 @@
   url: https://balkanruby.com/
   twitter: balkanruby
   video_link: https://www.youtube.com/playlist?list=PLAkGYJoUfB0vutEvm7Z2dcrxbtAQfPUSp
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Pivorak Conf. 3.0
   location: Lviv, Ukraine
@@ -1664,6 +1883,7 @@
   end_date: 2019-05-24
   url: https://pivorak.com/
   twitter: pivorakmeetup
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Unconf Hamburg
   location: Hamburg, Germany
@@ -1671,6 +1891,7 @@
   end_date: 2019-05-26
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
@@ -1679,6 +1900,7 @@
   url: https://spbrubyconf.ru/
   twitter: saintpruby
   video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIazzAKhtGxJvYCPCgP8HiB5k
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: EuRuKo 2019
   location: Rotterdam, the Netherlands
@@ -1687,6 +1909,7 @@
   url: https://euruko2019.org/
   twitter: euruko
   video_link: https://www.youtube.com/channel/UCWcOB8yVZDoPGdbvq8HR6IQ/videos
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Brighton Ruby
   location: Brighton, UK
@@ -1694,6 +1917,7 @@
   end_date: 2019-07-05
   url: https://brightonruby.com/
   twitter: brightonruby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Kenya 2019
   location: Nairobi, Kenya
@@ -1703,6 +1927,7 @@
   twitter: nairubyke
   cfp_phrase: CFP closes
   cfp_date: 2019-06-01
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ruby Conf Taiwan 2019
   location: Taipei, Taiwan
@@ -1713,6 +1938,7 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-04-25
   video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpBgD6t068O_EZ4grSlUtl3Y
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Southeast Ruby
   location: Nashville, Tennessee
@@ -1720,6 +1946,7 @@
   end_date: 2019-08-02
   url: https://southeastruby.com/
   twitter: southeastruby
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: DeccanRubyConf
   location: Pune, India
@@ -1729,6 +1956,7 @@
   twitter: deccanrubyconf
   cfp_phrase: CFP closes
   cfp_date: 2019-05-31
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf TH
   location: Bangkok, Thailand
@@ -1739,6 +1967,7 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-06-09
   video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIazzAKhtGxJvYCPCgP8HiB5k
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyC
   location: Kyiv, Ukraine
@@ -1749,6 +1978,7 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-03-31
   video_link: https://www.youtube.com/playlist?list=PLmEf5ppiRneTkaPA4fz6KBQKq-jAvTRkb
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Colombia
   location: Medellín, Colombia
@@ -1758,6 +1988,7 @@
   twitter: rubyconfco
   cfp_phrase: CFP closes
   cfp_date: 2019-06-15
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyRussia
   location: Moscow, Russia
@@ -1765,6 +1996,7 @@
   end_date: 2019-09-28
   url: https://rubyrussia.club/en
   twitter: railsclub_ru
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf Indonesia
   location: Jakarta, Indonesia
@@ -1774,6 +2006,7 @@
   twitter: rubyconfid
   cfp_phrase: CFP closes
   cfp_date: 2019-08-11
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Ancient City Ruby
   location: Jacksonville Beach, FL
@@ -1783,6 +2016,7 @@
   twitter: ancientcityruby
   cfp_phrase: CFP closes
   cfp_date: 2019-07-31
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Pivorak Conf. 4.0
   location: Lviv, Ukraine
@@ -1790,6 +2024,7 @@
   end_date: 2019-10-19
   url: https://pivorak.com/
   twitter: pivorakmeetup
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: SolidusConf 2019
   location: Salt Lake City, UT
@@ -1797,6 +2032,7 @@
   end_date: 2019-10-24
   url: http://conf.solidus.io
   twitter: solidusIO
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Kiwi Ruby
   location: Wellington, New Zealand
@@ -1804,6 +2040,7 @@
   end_date: 2019-11-01
   url: https://kiwi.ruby.nz
   twitter: kiwirubyconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyWorld Conference
   location: Matsue, Japan
@@ -1811,6 +2048,7 @@
   end_date: 2019-11-08
   url: https://2019.rubyworld-conf.org/en/
   twitter: rubyworldconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf
   location: Nashville, TN
@@ -1820,6 +2058,7 @@
   twitter: rubyconf
   cfp_phrase: CFP closes
   cfp_date: 2019-08-07
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConfBR
   location: Sao Paulo, BR
@@ -1829,6 +2068,7 @@
   twitter: rubyconfbr
   cfp_phrase: CFP closes
   cfp_date: 2019-10-06
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -1838,6 +2078,7 @@
   twitter: rubyfuza
   cfp_phrase: "CFP closes"
   cfp_date: 2019-12-01
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: ParisRB Conf
   location: Paris, France
@@ -1845,6 +2086,7 @@
   start_date: 2020-02-18
   end_date: 2020-02-19
   twitter: parisrb
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyConf AU
   location: Melbourne, Australia
@@ -1852,6 +2094,7 @@
   start_date: 2020-02-20
   end_date: 2020-02-21
   twitter: rubyconf_au
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RubyKaigi
   location: Nagano, Japan
@@ -1859,6 +2102,7 @@
   end_date: 2020-04-11
   url: https://rubykaigi.org/2020
   twitter: rubykaigi
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: RailsConf
   location: Portland, OR
@@ -1866,6 +2110,7 @@
   end_date: 2020-05-07
   url: https://railsconf.com/
   twitter: railsconf
+  updated: 2019-11-22T00:00:00+00:00
 
 - name: Balkan Ruby
   location: Sofia, Bulgaria
@@ -1875,3 +2120,4 @@
   twitter: balkanruby
   cfp_phrase: CFP closes
   cfp_date: 2020-02-01
+  updated: 2019-11-22T00:00:00+00:00

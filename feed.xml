@@ -1,0 +1,38 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">{{ site.name }}</title>
+  <link type="application/atom+xml" href="atom_feed_url" rel="self"/>
+  <link type="text/html" href="home_url_canonical" rel="alternate"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/feed.xml</id>
+
+  {% assign now = site.time | date: '%s' | plus: 0 %}
+  {% for event in site.data.conferences %}
+    {% assign start_date = event.start_date | date: '%s' | plus: 0 %}
+    {% if start_date > now %}
+    <entry>
+      <updated>{{ event.updated }}</updated>
+
+      <title>{{ event.name }}</title>
+      {% if event.url %}
+      <id>{{ event.url }}</id>
+      {% endif %}
+      <content type="html">
+      <h1>{{ event.name }}</h1>
+      <ul>
+        <li>{% include event-date.html %}</li>
+        <li>{{ event.location }}</li>
+        {% if event.twitter %}
+        <li><a href="https://twitter.com/{{ event.twitter }}">@{{ event.twitter }}</a></li>
+        {% endif %}
+        {% if event.video_link %}
+        <li><a href="{{ event.video_link }}">Event Videos</a></li>
+        {% endif %}
+      </ul>
+      </content>
+    </entry>
+    {% endif %}
+  {% endfor %}
+</feed>
