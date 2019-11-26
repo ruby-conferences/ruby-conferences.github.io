@@ -1875,3 +1875,17 @@
   twitter: balkanruby
   cfp_phrase: CFP closes
   cfp_date: 2020-02-01
+
+- name: Brighton Ruby Conf
+  location: Brighton, UK
+  start_date: 2020-07-03
+  end_date: 2020-07-03
+  url: https://brightonruby.com
+  twitter: brightonruby
+
+- name: RubyConf
+  location: Houston, TX
+  start_date: 2020-11-17
+  end_date: 2020-11-19
+  url: https://rubyconf.org
+  twitter: rubyconf
