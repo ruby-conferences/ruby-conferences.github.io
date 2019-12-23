@@ -1831,6 +1831,17 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-10-06
 
+- name: Birmingham on Rails
+  location: Birmingham, Alabama 
+  start_date: 2020-01-31
+  end_date: 2020-01-31
+  url: http://birminghamonrails.com
+  twitter: bhmonrails
+  reg_phrase: "Registration open"
+  reg_date: 2020-01-28
+  cfp_phrase: "CFP open"
+  cfp_date: 2019-12-31
+
 - name: Rubyfuza
   location: Cape Town, South Africa
   start_date: 2020-02-06
