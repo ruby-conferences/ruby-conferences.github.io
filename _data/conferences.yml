@@ -1895,6 +1895,13 @@
   url: https://brightonruby.com
   twitter: brightonruby
 
+- name: RubyConf TH
+  location: Bangkok, Thailand
+  start_date: 2020-10-16
+  end_date: 2020-10-17
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
+
 - name: RubyConf
   location: Houston, TX
   start_date: 2020-11-17
