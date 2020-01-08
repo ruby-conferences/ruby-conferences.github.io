@@ -1872,6 +1872,13 @@
   cfp_phrase: CFP closes
   cfp_date: 2020-01-14
 
+- name: RubyConfBY
+  location: Minsk, Belarus
+  start_date: 2020-04-18
+  end_date: 2020-04-18
+  url: https://rubyconference.by/
+  twitter: RubyConfBY
+  
 - name: RailsConf
   location: Portland, OR
   start_date: 2020-05-05
