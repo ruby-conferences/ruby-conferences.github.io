@@ -1862,15 +1862,6 @@
   twitter: rubydayit
   cfp_phrase: CFP closes
   cfp_date: 2019-11-30
-
-- name: RubyConfIndia
-  location: Goa, India
-  start_date: 2020-04-25
-  end_date: 2020-04-26
-  url: https://rubyconfindia.org
-  twitter: rubydconfindia
-  cfp_phrase: CFP closes
-  cfp_date: 2020-02-29
   
 - name: RubyKaigi
   location: Nagano, Japan
@@ -1880,6 +1871,15 @@
   twitter: rubykaigi
   cfp_phrase: CFP closes
   cfp_date: 2020-01-14
+  
+- name: RubyConfIndia
+  location: Goa, India
+  start_date: 2020-04-25
+  end_date: 2020-04-26
+  url: https://rubyconfindia.org
+  twitter: rubydconfindia
+  cfp_phrase: CFP closes
+  cfp_date: 2020-02-29  
 
 - name: RubyConfBY
   location: Minsk, Belarus
