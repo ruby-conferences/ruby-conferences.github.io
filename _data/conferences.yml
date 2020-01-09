@@ -1888,6 +1888,14 @@
   cfp_phrase: CFP closes
   cfp_date: 2020-02-01
 
+- name: Saint P Rubyconf
+  location: Saint Petersburg, Russia
+  start_date: 2020-06-06
+  end_date: 2020-06-07
+  url: https://spbrubyconf.ru/
+  twitter: saintpruby
+  video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIazzAKhtGxJvYCPCgP8HiB5k
+
 - name: Brighton Ruby Conf
   location: Brighton, UK
   start_date: 2020-07-03
