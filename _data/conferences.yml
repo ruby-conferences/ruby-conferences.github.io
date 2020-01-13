@@ -1863,6 +1863,15 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-11-30
   
+- name: Ruby Wine 2.0
+  location: Chisinau, Moldova
+  start_date: 2020-04-04
+  end_date: 2020-04-04
+  url: https://www.facebook.com/rubywineruby/
+  twitter: rubymeditation
+  cfp_phrase: CFP closes
+  cfp_date: 2020-01-19
+  
 - name: RubyKaigi
   location: Nagano, Japan
   start_date: 2020-04-09
@@ -1872,6 +1881,13 @@
   cfp_phrase: CFP closes
   cfp_date: 2020-01-14
   
+- name: RubyConfBY
+  location: Minsk, Belarus
+  start_date: 2020-04-18
+  end_date: 2020-04-18
+  url: https://rubyconference.by/
+  twitter: RubyConfBY
+
 - name: RubyConfIndia
   location: Goa, India
   start_date: 2020-04-25
@@ -1879,15 +1895,8 @@
   url: https://rubyconfindia.org
   twitter: rubydconfindia
   cfp_phrase: CFP closes
-  cfp_date: 2020-02-29  
+  cfp_date: 2020-02-29 
 
-- name: RubyConfBY
-  location: Minsk, Belarus
-  start_date: 2020-04-18
-  end_date: 2020-04-18
-  url: https://rubyconference.by/
-  twitter: RubyConfBY
-  
 - name: RailsConf
   location: Portland, OR
   start_date: 2020-05-05
