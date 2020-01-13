@@ -1850,6 +1850,15 @@
   end_date: 2020-02-21
   twitter: rubyconf_au
 
+- name: Ruby Wine 2.0
+  location: Chisinau, Moldova
+  start_date: 2020-04-04
+  end_date: 2020-04-04
+  url: https://www.facebook.com/rubywineruby/
+  twitter: rubymeditation
+  cfp_phrase: "CFP open"
+  cfp_date: 2020-01-19
+
 - name: RubyKaigi
   location: Nagano, Japan
   start_date: 2020-04-09
