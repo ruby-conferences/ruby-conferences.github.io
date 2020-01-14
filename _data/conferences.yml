@@ -1919,6 +1919,15 @@
   url: https://brightonruby.com
   twitter: brightonruby
 
+- name: RubyC
+  location: Kyiv, Ukraine
+  start_date: 2020-09-12
+  end_date: 2020-09-13
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  cfp_phrase: CFP closes
+  cfp_date: 2020-03-31
+
 - name: RubyConf TH
   location: Bangkok, Thailand
   start_date: 2020-10-16
