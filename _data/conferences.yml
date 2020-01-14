@@ -1863,6 +1863,15 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-11-30
 
+- name: Ruby Wine 2.0
+  location: Chisinau, Moldova
+  start_date: 2020-04-04
+  end_date: 2020-04-04
+  url: https://www.facebook.com/rubywineruby/
+  twitter: rubymeditation
+  cfp_phrase: CFP closes
+  cfp_date: 2020-01-19
+
 - name: RubyKaigi
   location: Nagano, Japan
   start_date: 2020-04-09
