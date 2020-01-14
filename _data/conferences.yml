@@ -1939,6 +1939,14 @@
   url: https://brightonruby.com
   twitter: brightonruby
 
+- name: EuRuKo
+  location: Helsinki, Finland
+  start_date: 2020-08-21
+  end_date: 2020-08-22
+  url: https://euruko2020.org/
+  twitter: euruko
+  cfp_phrase: "CFP open"
+
 - name: RubyC
   location: Kyiv, Ukraine
   start_date: 2020-09-12
