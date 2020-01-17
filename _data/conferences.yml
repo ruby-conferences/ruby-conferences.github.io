@@ -1947,6 +1947,13 @@
   twitter: euruko
   cfp_phrase: "CFP open"
 
+- name: Rails Camp West
+  location: Diablo Lake, WA
+  start_date: 2020-09-01
+  end_date: 2020-09-04
+  url: https://west.railscamp.us/2020
+  twitter: railscamp_usa
+
 - name: RubyC
   location: Kyiv, Ukraine
   start_date: 2020-09-12
