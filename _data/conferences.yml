@@ -1865,6 +1865,13 @@
   end_date: 2020-02-21
   twitter: rubyconf_au
 
+- name: Ruby Retreat NZ
+  location: Mt Cheeseman, near Christchurch, New Zealand
+  url: https://retreat.ruby.nz
+  start_date: 2020-03-27
+  end_date: 2020-03-30
+  twitter: RubyNewZealand
+
 - name: RubyDay
   location: Verona, Italy
   start_date: 2020-04-02
