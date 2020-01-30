@@ -1938,6 +1938,14 @@
   url: https://spbrubyconf.ru/
   twitter: saintpruby
   video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIazzAKhtGxJvYCPCgP8HiB5k
+  
+- name: Ruby Unconf Hamburg
+  location: Hamburg, Germany
+  start_date: 2020-06-06
+  end_date: 2020-06-07
+  url: https://2020.rubyunconf.eu/
+  twitter: rubyunconfeu
+  video_link: https://www.youtube.com/channel/UCpdY3gEqGW10EVrUbd1itug
 
 - name: Brighton Ruby Conf
   location: Brighton, UK
