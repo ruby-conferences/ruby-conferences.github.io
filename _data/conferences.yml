@@ -1946,6 +1946,13 @@
   url: https://brightonruby.com
   twitter: brightonruby
 
+- name: RubyNess
+  location: Inverness, Scotland
+  start_date: 2020-07-16
+  end_date: 2020-07-17
+  url: https://rubyness.org/
+  twitter: rubynessconf
+
 - name: EuRuKo
   location: Helsinki, Finland
   start_date: 2020-08-21
