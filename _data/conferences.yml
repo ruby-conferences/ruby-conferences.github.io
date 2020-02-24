@@ -1891,6 +1891,13 @@
   cfp_phrase: CFP closes
   cfp_date: 2020-01-19
 
+- name: Ruby by the Bay (Ruby for Good)
+  location: Sausalito, CA
+  start_date: 2020-04-03
+  end_date: 2020-04-06
+  url: https://rubybythebay.org/
+  twitter: https://twitter.com/rubyforgood
+
 - name: RubyKaigi
   location: Nagano, Japan
   start_date: 2020-04-09
