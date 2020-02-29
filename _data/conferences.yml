@@ -1551,6 +1551,7 @@
   end_date: 2019-01-21
   url: http://rubyconfindia.org/
   twitter: rubyconfindia
+  video_link: https://www.youtube.com/playlist?list=PLbgP71NCXCqEFr8nuY2mhAobKv_ldqL2f
 
 - name: "#pivorak conference"
   location: Lviv, Ukraine
@@ -1620,6 +1621,7 @@
   end_date: 2019-04-11
   url: https://2019.rubyday.it/
   twitter: rubydayit
+  video_link: https://www.youtube.com/playlist?list=PLWK9j6ps_unmgzGOw3cbjS8ID-b-cF1d9
 
 - name: Ruby Wine
   location: Chișinău, Moldova
@@ -1671,6 +1673,7 @@
   end_date: 2019-05-26
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
+  video_link: https://2019.rubyunconf.eu/#schedule
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
@@ -1694,6 +1697,7 @@
   end_date: 2019-07-05
   url: https://brightonruby.com/
   twitter: brightonruby
+  video_link: https://brightonruby.com/2019/
 
 - name: RubyConf Kenya 2019
   location: Nairobi, Kenya
@@ -1765,6 +1769,7 @@
   end_date: 2019-09-28
   url: https://rubyrussia.club/en
   twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeP3xDhqfTVCXZd8_L07QZ2c
 
 - name: RubyConf Indonesia
   location: Jakarta, Indonesia
@@ -1832,7 +1837,7 @@
   cfp_date: 2019-10-06
 
 - name: Birmingham on Rails
-  location: Birmingham, Alabama 
+  location: Birmingham, Alabama
   start_date: 2020-01-31
   end_date: 2020-01-31
   url: http://birminghamonrails.com
@@ -1891,15 +1896,6 @@
   cfp_phrase: CFP closes
   cfp_date: 2020-01-19
 
-- name: RubyKaigi
-  location: Nagano, Japan
-  start_date: 2020-04-09
-  end_date: 2020-04-11
-  url: https://rubykaigi.org/2020
-  twitter: rubykaigi
-  cfp_phrase: CFP closes
-  cfp_date: 2020-01-14
-
 - name: RubyConfBY
   location: Minsk, Belarus
   start_date: 2020-04-18
@@ -1940,15 +1936,13 @@
   end_date: 2020-06-07
   url: https://spbrubyconf.ru/
   twitter: saintpruby
-  video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIazzAKhtGxJvYCPCgP8HiB5k
-  
+
 - name: Ruby Unconf Hamburg
   location: Hamburg, Germany
   start_date: 2020-06-06
   end_date: 2020-06-07
   url: https://2020.rubyunconf.eu/
   twitter: rubyunconfeu
-  video_link: https://www.youtube.com/channel/UCpdY3gEqGW10EVrUbd1itug
 
 - name: Brighton Ruby Conf
   location: Brighton, UK
@@ -1977,6 +1971,15 @@
   end_date: 2020-09-04
   url: https://west.railscamp.us/2020
   twitter: railscamp_usa
+
+- name: RubyKaigi
+  location: Nagano, Japan
+  start_date: 2020-09-03
+  end_date: 2020-09-05
+  url: https://rubykaigi.org/2020
+  twitter: rubykaigi
+  cfp_phrase: CFP closes
+  cfp_date: 2020-01-14
 
 - name: RubyC
   location: Kyiv, Ukraine
