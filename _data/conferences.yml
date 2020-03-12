@@ -1880,8 +1880,8 @@
 
 - name: RubyDay
   location: Verona, Italy
-  start_date: 2020-04-02
-  end_date: 2020-04-02
+  start_date: 2020-09-16
+  end_date: 2020-09-16
   url: https://2020.rubyday.it
   twitter: rubydayit
   cfp_phrase: CFP closes
