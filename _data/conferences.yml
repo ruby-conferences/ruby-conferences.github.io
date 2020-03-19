@@ -1875,15 +1875,6 @@
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc1G0L8h-rMtO3fBSi4PJK26
 
-- name: RubyDay
-  location: Verona, Italy
-  start_date: 2020-04-02
-  end_date: 2020-04-02
-  url: https://2020.rubyday.it
-  twitter: rubydayit
-  cfp_phrase: CFP closes
-  cfp_date: 2019-11-30
-
 - name: Ruby by the Bay (Ruby for Good)
   location: Sausalito, CA
   start_date: 2020-04-03
@@ -1995,6 +1986,13 @@
   twitter: rubyc_eu
   cfp_phrase: CFP closes
   cfp_date: 2020-03-31
+
+- name: RubyDay
+  location: Verona, Italy
+  start_date: 2020-09-16
+  end_date: 2020-09-16
+  url: https://2020.rubyday.it
+  twitter: rubydayit
 
 - name: RubyConf TH
   location: Bangkok, Thailand
