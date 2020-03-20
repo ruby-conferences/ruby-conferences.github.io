@@ -42,6 +42,7 @@ Extra keys for the upcoming events:
 * `reg_date`: If there is a registration deadline, enter that here - ISO8601 formatted (yyyy-mm-dd).
 * `cfp_phrase`: Typically you want to put "CFP open" here.
 * `cfp_date`: If there is a cfp deadline, enter that here - ISO8601 formatted (yyyy-mm-dd).
+* `status`:  Typically you want to put "Canceled" or "Postponed" here.
 
 Extra keys for the past events:
 

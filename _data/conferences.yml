@@ -1883,6 +1883,7 @@
   twitter: rubydayit
   cfp_phrase: CFP closes
   cfp_date: 2019-11-30
+  status: Postponed
 
 - name: Ruby by the Bay (Ruby for Good)
   location: Sausalito, CA
@@ -1924,6 +1925,7 @@
   end_date: 2020-05-07
   url: https://railsconf.com/
   twitter: railsconf
+  status: Canceled
 
 - name: Balkan Ruby
   location: Sofia, Bulgaria
@@ -1933,6 +1935,7 @@
   twitter: balkanruby
   cfp_phrase: CFP closes
   cfp_date: 2020-02-01
+  status: Canceled
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia

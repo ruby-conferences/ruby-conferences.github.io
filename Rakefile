@@ -15,18 +15,19 @@ end
 
 desc "Verify event data"
 task :verify_data do
-  allowed_keys = [
-    "name",
-    "location",
-    "start_date",
-    "end_date",
-    "url",
-    "twitter",
-    "reg_phrase",
-    "reg_date",
-    "cfp_phrase",
-    "cfp_date",
-    "video_link"
+  allowed_keys = %w[
+    name
+    location
+    start_date
+    end_date
+    url
+    twitter
+    reg_phrase
+    reg_date
+    cfp_phrase
+    cfp_date
+    status
+    video_link
   ]
   data = YAML.load File.read "_data/conferences.yml"
   validator = DataFileValidator.validate(data, allowed_keys)

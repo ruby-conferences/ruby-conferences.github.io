@@ -221,8 +221,10 @@ header {
 /* line 150, /Users/jon/code/rc/site/source/css/style.sass */
 #home dl dt .reg,
 #home dl dt .cfp,
+#home dl dt .status,
 #past dl dt .reg,
-#past dl dt .cfp {
+#past dl dt .cfp,
+#past dl dt .status {
   font-size: 14px;
   color: #de5a5a;
   display: inline-block;
@@ -232,19 +234,21 @@ header {
     /* line 150, /Users/jon/code/rc/site/source/css/style.sass */
     #home dl dt .reg,
     #home dl dt .cfp,
+    #home dl dt .status,
     #past dl dt .reg,
-    #past dl dt .cfp {
+    #past dl dt .cfp,
+    #past dl dt .status {
       display: block; } }
 /* line 159, /Users/jon/code/rc/site/source/css/style.sass */
-#home dl dt .reg + .cfp:before,
-#past dl dt .reg + .cfp:before {
+#home dl dt .reg + .cfp + .status:before,
+#past dl dt .reg + .cfp + .status:before {
   content: "•";
   margin: 0 10px;
   color: #999; }
   @media screen and (max-width: 480px) {
     /* line 159, /Users/jon/code/rc/site/source/css/style.sass */
-    #home dl dt .reg + .cfp:before,
-    #past dl dt .reg + .cfp:before {
+    #home dl dt .reg + .cfp + .status:before,
+    #past dl dt .reg + .cfp + .status:before {
       display: none; } }
 /* line 165, /Users/jon/code/rc/site/source/css/style.sass */
 #home dl dd,

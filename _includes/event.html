@@ -4,6 +4,9 @@
   {% else %}
   <a>{{ event.name }}</a>
   {% endif %}
+  {% if event.status %}
+  <div class="status" data-phrase="{{ event.status }}"></div>
+  {% endif %}
   {% if event.reg_phrase %}
   <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
   {% endif %}
