@@ -1875,15 +1875,6 @@
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc1G0L8h-rMtO3fBSi4PJK26
 
-- name: RubyDay
-  location: Verona, Italy
-  start_date: 2020-04-02
-  end_date: 2020-04-02
-  url: https://2020.rubyday.it
-  twitter: rubydayit
-  cfp_phrase: CFP closes
-  cfp_date: 2019-11-30
-
 - name: Ruby by the Bay (Ruby for Good)
   location: Sausalito, CA
   start_date: 2020-04-03
@@ -1895,7 +1886,7 @@
   location: Chisinau, Moldova
   start_date: 2020-04-04
   end_date: 2020-04-04
-  url: https://www.facebook.com/rubywineruby/
+  url: https://www.rubywine.org
   twitter: rubymeditation
   cfp_phrase: CFP closes
   cfp_date: 2020-01-19
@@ -1906,8 +1897,6 @@
   end_date: 2020-04-18
   url: https://rubyconference.by/
   twitter: RubyConfBY
-  cfp_phrase: CFP closes
-  cfp_date: 2020-03-05
 
 - name: RubyConfIndia
   location: Goa, India
@@ -1915,24 +1904,6 @@
   end_date: 2020-04-26
   url: https://rubyconfindia.org
   twitter: rubyconfindia
-  cfp_phrase: CFP closes
-  cfp_date: 2020-02-29
-
-- name: RailsConf
-  location: Portland, OR
-  start_date: 2020-05-05
-  end_date: 2020-05-07
-  url: https://railsconf.com/
-  twitter: railsconf
-
-- name: Balkan Ruby
-  location: Sofia, Bulgaria
-  start_date: 2020-05-15
-  end_date: 2020-05-16
-  url: https://balkanruby.com
-  twitter: balkanruby
-  cfp_phrase: CFP closes
-  cfp_date: 2020-02-01
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
@@ -1955,15 +1926,6 @@
   url: https://brightonruby.com
   twitter: brightonruby
 
-- name: RubyNess
-  location: Inverness, Scotland
-  start_date: 2020-07-16
-  end_date: 2020-07-17
-  url: https://rubyness.org/
-  twitter: rubynessconf
-  cfp_phrase: CFP closes
-  cfp_date: 2020-04-05
-
 - name: EuRuKo
   location: Helsinki, Finland
   start_date: 2020-08-21
@@ -1984,8 +1946,6 @@
   end_date: 2020-09-05
   url: https://rubykaigi.org/2020
   twitter: rubykaigi
-  cfp_phrase: CFP closes
-  cfp_date: 2020-01-14
 
 - name: RubyC
   location: Kyiv, Ukraine
@@ -1994,14 +1954,14 @@
   url: http://rubyc.eu/
   twitter: rubyc_eu
   cfp_phrase: CFP closes
-  cfp_date: 2020-03-31
-
-- name: RubyConf TH
-  location: Bangkok, Thailand
-  start_date: 2020-10-16
-  end_date: 2020-10-17
-  url: https://rubyconfth.com/
-  twitter: rubyconfth
+  cfp_date: 2020-05-15
+  
+- name: RubyDay
+  location: Verona, Italy
+  start_date: 2020-09-16
+  end_date: 2020-09-16
+  url: https://2020.rubyday.it
+  twitter: rubydayit
 
 - name: RubyConf
   location: Houston, TX
