@@ -1734,6 +1734,14 @@
   cfp_phrase: CFP closes
   cfp_date: 2019-05-31
 
+- name: GrillRB 2019
+  location: Wrocław, Poland
+  start_date: 2019-08-31
+  end_date: 2019-09-01
+  url: http://grillrb.com
+  twitter: grill_rb
+  video_link: https://www.youtube.com/playlist?list=PLDraF2Fjmu8WDwr5nInlqNzeiBk9sIsCt
+
 - name: RubyConf TH
   location: Bangkok, Thailand
   start_date: 2019-09-06
