@@ -1962,14 +1962,7 @@
   url: http://rubyc.eu/
   twitter: rubyc_eu
   cfp_phrase: CFP closes
-  cfp_date: 2020-05-15
-  
-- name: RubyDay
-  location: Verona, Italy
-  start_date: 2020-09-16
-  end_date: 2020-09-16
-  url: https://2020.rubyday.it
-  twitter: rubydayit
+  cfp_date: 2020-03-31
 
 - name: RubyConf
   location: Houston, TX
