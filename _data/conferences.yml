@@ -1666,6 +1666,7 @@
   end_date: 2019-05-24
   url: https://pivorak.com/
   twitter: pivorakmeetup
+  video_link: https://www.youtube.com/playlist?list=PLa4SYMEyNCu-hLU4bl6xn7J7PjQ8_uzyr
 
 - name: Ruby Unconf Hamburg
   location: Hamburg, Germany
@@ -1963,7 +1964,7 @@
   twitter: rubyc_eu
   cfp_phrase: CFP closes
   cfp_date: 2020-05-15
-  
+
 - name: RubyDay
   location: Verona, Italy
   start_date: 2020-09-16
