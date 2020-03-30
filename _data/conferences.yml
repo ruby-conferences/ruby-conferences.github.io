@@ -1935,13 +1935,6 @@
   url: https://brightonruby.com
   twitter: brightonruby
 
-- name: EuRuKo
-  location: Helsinki, Finland
-  start_date: 2020-08-21
-  end_date: 2020-08-22
-  url: https://euruko2020.org/
-  twitter: euruko
-
 - name: Rails Camp West
   location: Diablo Lake, WA
   start_date: 2020-09-01
@@ -1978,3 +1971,10 @@
   end_date: 2020-11-19
   url: https://rubyconf.org
   twitter: rubyconf
+
+- name: EuRuKo
+  location: Helsinki, Finland
+  start_date: 2021-05-28
+  end_date: 2021-05-29
+  url: https://euruko2020.org/
+  twitter: euruko
