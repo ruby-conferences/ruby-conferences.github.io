@@ -1916,6 +1916,14 @@
   url: https://rubyconfindia.org
   twitter: rubyconfindia
 
+- name: RailsConf 2020.2 COUCH EDITION
+  location: Your Couch
+  start_date: 2020-05-05
+  end_date: 2020-05-05
+  url: https://railsconf.com/
+  twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ-TzxlxdLvh6tDUfZHqm76
+
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
   start_date: 2020-06-06
