@@ -1952,15 +1952,6 @@
   url: https://rubykaigi.org/2020
   twitter: rubykaigi
 
-- name: RubyC
-  location: Kyiv, Ukraine
-  start_date: 2020-09-12
-  end_date: 2020-09-13
-  url: http://rubyc.eu/
-  twitter: rubyc_eu
-  cfp_phrase: CFP closes
-  cfp_date: 2020-05-15
-
 - name: RubyDay
   location: Verona, Italy
   start_date: 2020-09-16
