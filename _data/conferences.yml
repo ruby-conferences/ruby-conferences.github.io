@@ -1902,13 +1902,6 @@
   cfp_phrase: CFP closes
   cfp_date: 2020-01-19
 
-- name: RubyConfBY
-  location: Minsk, Belarus
-  start_date: 2020-04-18
-  end_date: 2020-04-18
-  url: https://rubyconference.by/
-  twitter: RubyConfBY
-
 - name: RubyConfIndia
   location: Goa, India
   start_date: 2020-04-25
@@ -1937,6 +1930,13 @@
   end_date: 2020-07-03
   url: https://brightonruby.com
   twitter: brightonruby
+
+- name: RubyConfBY
+  location: Minsk, Belarus
+  start_date: 2020-07-18
+  end_date: 2020-07-19
+  url: https://rubyconference.by/
+  twitter: RubyConfBY
 
 - name: Rails Camp West
   location: Diablo Lake, WA
