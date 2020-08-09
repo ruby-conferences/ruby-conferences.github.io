@@ -1937,6 +1937,15 @@
   end_date: 2020-07-19
   url: https://rubyconference.by/
   twitter: RubyConfBY
+  
+- name: NoRuKo
+  location: Online
+  start_date: 2020-08-21
+  end_date: 2020-08-21
+  url: https://www.noruko.org
+  twitter: amsrb
+  cfp_phrase: CFP closes
+  cfp_date: 2020-08-17
 
 - name: Rails Camp West
   location: Diablo Lake, WA
