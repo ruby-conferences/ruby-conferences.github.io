@@ -1968,6 +1968,13 @@
   url: https://2020.rubyday.it
   twitter: rubydayit
 
+- name: ROSS conf
+  location: Online
+  start_date: 2020-10-23
+  end_date: 2020-10-23
+  url: https://www.rossconf.io/event/remote/
+  twitter: rossconf
+
 - name: RubyConf
   location: Houston, TX
   start_date: 2020-11-17
