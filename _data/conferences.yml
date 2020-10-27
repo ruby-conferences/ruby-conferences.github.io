@@ -1954,12 +1954,13 @@
   url: https://west.railscamp.us/2020
   twitter: railscamp_usa
 
-- name: RubyKaigi
-  location: Nagano, Japan
-  start_date: 2020-09-03
+- name: RubyKaigi Takeout
+  location: Online
+  start_date: 2020-09-04
   end_date: 2020-09-05
-  url: https://rubykaigi.org/2020
+  url: https://rubykaigi.org/2020-takeout
   twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yZeLpdOLhYwORIF9UjBAFHw
 
 - name: RubyDay
   location: Verona, Italy
