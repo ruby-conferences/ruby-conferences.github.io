@@ -1978,6 +1978,13 @@
   twitter: rossconf
   video_link: https://www.youtube.com/playlist?list=PL9_A7olkztLkFMYU2ZgpL5XZ6UKlqFZrB
 
+- name: RubyRussia
+  location: Online
+  start_date: 2020-11-13
+  end_date: 2020-11-15
+  url: https://rubyrussia.club
+  twitter: railsclub_ru
+
 - name: RubyConf
   location: Houston, TX
   start_date: 2020-11-17
