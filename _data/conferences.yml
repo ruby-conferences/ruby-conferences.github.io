@@ -1993,6 +1993,14 @@
   url: https://rubyconf.org
   twitter: rubyconf
 
+- name: RubyWorld Conference
+  location: Online
+  start_date: 2020-12-17
+  end_date: 2020-12-17
+  url: https://2020.rubyworld-conf.org/en/
+  twitter: rubyworldconf
+  video_link: https://www.youtube.com/watch?v=2fldr2HcuVw
+
 - name: EuRuKo
   location: Helsinki, Finland
   start_date: 2021-05-28
