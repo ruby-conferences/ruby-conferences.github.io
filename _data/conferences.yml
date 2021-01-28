@@ -2002,9 +2002,19 @@
   twitter: rubyworldconf
   video_link: https://www.youtube.com/watch?v=2fldr2HcuVw
 
+- name: rubyday
+  location: Online
+  start_date: 2021-04-15
+  end_date: 2021-04-15
+  url: https://2021.rubyday.it
+  twitter: rubydayit  
+  cfp_phrase: CFP closes
+  cfp_date: 2021-02-15
+
 - name: EuRuKo
   location: Helsinki, Finland
   start_date: 2021-05-28
   end_date: 2021-05-29
   url: https://euruko2021.org/
   twitter: euruko
+  
