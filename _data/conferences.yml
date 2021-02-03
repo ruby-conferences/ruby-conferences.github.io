@@ -2002,9 +2002,11 @@
   twitter: rubyworldconf
   video_link: https://www.youtube.com/watch?v=2fldr2HcuVw
 
-- name: EuRuKo
-  location: Helsinki, Finland
+- name: Euruko
+  location: Online
   start_date: 2021-05-28
   end_date: 2021-05-29
   url: https://euruko2021.org/
   twitter: euruko
+  cfp_phrase: CFP closes
+  cfp_date: 2021-04-18
