@@ -1917,13 +1917,6 @@
   twitter: railsconf
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ-TzxlxdLvh6tDUfZHqm76
 
-- name: Saint P Rubyconf
-  location: Saint Petersburg, Russia
-  start_date: 2020-06-06
-  end_date: 2020-06-07
-  url: https://spbrubyconf.ru/
-  twitter: saintpruby
-
 - name: Brighton Ruby Conf
   location: Brighton, UK
   start_date: 2020-07-03
