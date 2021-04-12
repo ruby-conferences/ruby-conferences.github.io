@@ -1942,13 +1942,6 @@
   cfp_phrase: CFP closes
   cfp_date: 2020-08-17
 
-- name: Rails Camp West
-  location: Diablo Lake, WA
-  start_date: 2020-09-01
-  end_date: 2020-09-04
-  url: https://west.railscamp.us/2020
-  twitter: railscamp_usa
-
 - name: RubyKaigi Takeout
   location: Online
   start_date: 2020-09-04
@@ -2014,3 +2007,10 @@
   twitter: euruko
   cfp_phrase: CFP closes
   cfp_date: 2021-04-18
+
+- name: Rails Camp West
+  location: Diablo Lake, WA
+  start_date: 2022-08-30
+  end_date: 2022-09-02
+  url: https://west.railscamp.us/2022
+  twitter: railscamp_usa
