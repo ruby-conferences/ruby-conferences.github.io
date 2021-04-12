@@ -1999,6 +1999,13 @@
   cfp_phrase: CFP closes
   cfp_date: 2021-02-28  
 
+- name: RailsConf
+  location: Online
+  start_date: 2021-04-12
+  end_date: 2021-04-15
+  url: https://railsconf.com/
+  twitter: railsconf
+
 - name: Euruko
   location: Online
   start_date: 2021-05-28
