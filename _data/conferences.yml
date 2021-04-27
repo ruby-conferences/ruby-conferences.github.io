@@ -2014,6 +2014,13 @@
   twitter: euruko
   cfp_phrase: CFP closes
   cfp_date: 2021-04-18
+  
+- name: RubyConf
+  location: Denver, CO
+  start_date: 2021-11-08
+  end_date: 2021-11-10
+  url: http://rubyconf.org
+  twitter: rubyconf
 
 - name: Rails Camp West
   location: Diablo Lake, WA
