@@ -2015,7 +2015,14 @@
   twitter: euruko
   cfp_phrase: CFP closes
   cfp_date: 2021-04-18
-  
+
+- name: EMEA on Rails
+  location: Online
+  start_date: 2021-06-09
+  end_date: 2021-06-09
+  url: https://www.emeaonrails.com/
+  twitter: emeaonrails
+
 - name: RubyConf
   location: Denver, CO
   start_date: 2021-11-08
