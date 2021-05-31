@@ -2016,6 +2016,13 @@
   cfp_phrase: CFP closes
   cfp_date: 2021-04-18
 
+- name: Saint P Rubyconf 2021
+  location: Saint Petersburg, Russia
+  start_date: 2021-06-05
+  end_date: 2021-06-05
+  url: https://spbrubyconf.ru/
+  twitter: saintpruby
+
 - name: EMEA on Rails
   location: Online
   start_date: 2021-06-09
