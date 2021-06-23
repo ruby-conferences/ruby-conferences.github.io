@@ -2030,6 +2030,13 @@
   url: https://www.emeaonrails.com/
   twitter: emeaonrails
 
+- name: RubyConf Brasil
+  location: Online
+  start_date: 2021-07-29
+  end_date: 2021-07-30
+  url: https://online.rubyconf.com.br/
+  twitter: rubyconfbr
+
 - name: RubyConf
   location: Denver, CO
   start_date: 2021-11-08
