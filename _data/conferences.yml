@@ -2037,6 +2037,13 @@
   url: https://online.rubyconf.com.br/
   twitter: rubyconfbr
 
+- name: RubyKaigi Takeout
+  location: Online
+  start_date: 2021-09-09
+  end_date: 2021-09-11
+  url: https://rubykaigi.org/2021-takeout
+  twitter: rubykaigi
+
 - name: RubyConf
   location: Denver, CO
   start_date: 2021-11-08
