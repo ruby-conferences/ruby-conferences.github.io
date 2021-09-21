@@ -2051,6 +2051,13 @@
   url: https://rubykaigi.org/2021-takeout
   twitter: rubykaigi
 
+- name: RubyRussia
+  location: Online
+  start_date: 2021-09-24
+  end_date: 2021-09-25
+  url: https://rubyrussia.club/
+  twitter: railsclub_ru
+
 - name: RubyConf
   location: Denver, CO
   start_date: 2021-11-08
