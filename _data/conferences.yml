@@ -1997,7 +1997,7 @@
   url: https://2021.rubyday.it
   twitter: rubydayit
   cfp_phrase: CFP closes
-  cfp_date: 2021-02-28  
+  cfp_date: 2021-02-28
 
 - name: RailsConf
   location: Online
@@ -2069,6 +2069,7 @@
   end_date: 2021-11-10
   url: http://rubyconf.org
   twitter: rubyconf
+  video_link: https://www.youtube.com/watch?v=paZ5_3F22V8&list=PLbHJudTY1K0f0oMhWtY-UyzOb7tUlaHps
 
 - name: Rails Camp West
   location: Diablo Lake, WA
