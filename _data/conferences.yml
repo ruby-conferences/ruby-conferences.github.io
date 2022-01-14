@@ -2090,3 +2090,10 @@
   end_date: 2022-09-02
   url: https://west.railscamp.us/2022
   twitter: railscamp_usa
+
+- name: Euruko
+  location: Helsinki, Finland
+  start_date: 2022-10-13
+  end_date: 2022-10-14
+  url: https://2022.euruko.org
+  twitter: euruko
