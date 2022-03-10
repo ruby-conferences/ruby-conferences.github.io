@@ -2083,6 +2083,12 @@
   end_date: 2022-05-19
   url: https://railsconf.org
   twitter: railsconf
+  
+- name: Brighton Ruby
+  location: Brighton, England
+  start_date: 2022-06-30
+  end_date: 2022-06-30
+  url: https://brightonruby.com/  
 
 - name: Rails Camp West
   location: Diablo Lake, WA
