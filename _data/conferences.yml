@@ -2083,12 +2083,12 @@
   end_date: 2022-05-19
   url: https://railsconf.org
   twitter: railsconf
-  
+
 - name: Brighton Ruby
   location: Brighton, England
   start_date: 2022-06-30
   end_date: 2022-06-30
-  url: https://brightonruby.com/  
+  url: https://brightonruby.com/
 
 - name: Rails Camp West
   location: Diablo Lake, WA
@@ -2105,3 +2105,12 @@
   twitter: euruko
   cfp_phrase: CFP closes
   cfp_date: 2022-07-10
+
+- name: wrocloverb.com
+  location: Wrocław, Poland
+  start_date: 2022-09-16
+  end_date: 2022-09-18
+  url: https://wrocloverb.com/
+  twitter: wrocloverb
+  video_link: https://www.youtube.com/user/wrocloverb/videos
+
