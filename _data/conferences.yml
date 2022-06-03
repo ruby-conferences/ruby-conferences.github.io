@@ -2114,3 +2114,9 @@
   twitter: wrocloverb
   video_link: https://www.youtube.com/user/wrocloverb/videos
 
+- name: The Rails SaaS Conference
+  location: Los Angeles, CA, USA
+  start_date: 2022-10-06
+  end_date: 2022-10-07
+  url: https://railssaas.com/
+
