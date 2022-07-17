@@ -2133,3 +2133,10 @@
   end_date: 2022-12-01
   url: https://rubyconf.org/
   twitter: rubyconf
+
+- name: RubyConf TH 2022
+  location: Bangkok, Thailand
+  start_date: 2022-12-10
+  end_date: 2022-12-11
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
