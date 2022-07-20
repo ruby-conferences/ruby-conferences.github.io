@@ -2126,3 +2126,10 @@
   end_date: 2022-08-27
   url: https://rubyconf.in/
   twitter: rubyconfindia
+
+- name: RubyConf, 2022
+  location: Houston, Texas
+  start_date: 2022-11-29
+  end_date: 2022-12-01
+  url: https://rubyconf.org/
+  twitter: rubyconf
