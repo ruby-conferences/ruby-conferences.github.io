@@ -2136,7 +2136,9 @@
 
 - name: RubyConf TH 2022
   location: Bangkok, Thailand
-  start_date: 2022-12-10
-  end_date: 2022-12-11
+  start_date: 2022-12-09
+  end_date: 2022-12-10
   url: https://rubyconfth.com/
   twitter: rubyconfth
+  cfp_phrase: CFP closes
+  cfp_date: 2022-09-30
