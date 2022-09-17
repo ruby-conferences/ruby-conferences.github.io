@@ -2127,6 +2127,13 @@
   url: https://rubyconf.in/
   twitter: rubyconfindia
 
+- name: RubyKaigi 2022
+  location: Mie, Japan
+  start_date: 2022-09-08
+  end_date: 2022-09-10
+  url: https://rubykaigi.org/2022
+  twitter: rubykaigi
+
 - name: RubyConf, 2022
   location: Houston, Texas
   start_date: 2022-11-29
