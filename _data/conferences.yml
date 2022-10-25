@@ -2156,3 +2156,12 @@
   end_date: 2022-11-17
   url: https://www.rubyconfmini.com
   twitter: rubyconfmini
+
+- name: RubyConf Australia
+  location: Melbourne, Australia
+  start_date: 2023-02-20
+  end_date: 2023-02-21
+  url: https://www.rubyconf.org.au
+  twitter: rubyconf_au
+  cfp_phrase: CFP open
+  cfp_date: 2022-11-14
