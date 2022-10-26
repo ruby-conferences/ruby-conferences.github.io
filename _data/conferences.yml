@@ -2165,3 +2165,11 @@
   twitter: rubyconf_au
   cfp_phrase: CFP open
   cfp_date: 2022-11-14
+
+- name: RubyKaigi 2023
+  location: Nagano, Japan
+  start_date: 2023-05-11
+  end_date: 2023-05-13
+  url: https://rubykaigi.org/2023
+  twitter: rubykaigi
+  
