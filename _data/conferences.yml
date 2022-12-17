@@ -2166,6 +2166,13 @@
   cfp_phrase: CFP open
   cfp_date: 2022-11-14
 
+- name: RailsConf 2023
+  location: Atlanta, Georgia
+  start_date: 2023-04-24
+  end_date: 2023-04-26
+  url: https://railsconf.org
+  twitter: railsconf
+
 - name: RubyKaigi 2023
   location: Nagano, Japan
   start_date: 2023-05-11
