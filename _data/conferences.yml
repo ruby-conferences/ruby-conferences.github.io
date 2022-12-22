@@ -2157,6 +2157,15 @@
   cfp_phrase: CFP closes
   cfp_date: 2022-09-30
 
+- name: Ruby Global Summit'23
+  location: Online
+  start_date: 2023-01-24
+  end_date: 2023-01-25
+  url: https://events.geekle.us/ruby/
+  twitter: geekleofficial
+  cfp_phrase: CFP open
+  cfp_date: 2022-01-10
+
 - name: RubyConf Australia
   location: Melbourne, Australia
   start_date: 2023-02-20
