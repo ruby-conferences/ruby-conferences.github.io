@@ -2188,4 +2188,10 @@
   end_date: 2023-05-13
   url: https://rubykaigi.org/2023
   twitter: rubykaigi
-  
+
+- name: Blue Ridge Ruby 2023
+  location: Asheville, NC, USA
+  start_date: 2023-06-08
+  end_date: 2023-06-09
+  url: https://blueridgeruby.com
+  twitter: blueridgeruby
