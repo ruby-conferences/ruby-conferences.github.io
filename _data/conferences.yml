@@ -2133,7 +2133,7 @@
   end_date: 2022-09-10
   url: https://rubykaigi.org/2022
   twitter: rubykaigi
-  
+
 - name: RubyConf Mini, 2022
   location: Providence, RI, USA
   start_date: 2022-11-15
@@ -2198,3 +2198,10 @@
   end_date: 2023-06-09
   url: https://blueridgeruby.com
   twitter: blueridgeruby
+
+- name: Helvetic Ruby 2023
+  location: Bern, Switzerland
+  start_date: 2023-11-24
+  end_date: 2023-11-24
+  url: https://helvetic-ruby.ch
+  twitter: helvetic_ruby
