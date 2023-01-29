@@ -2199,6 +2199,13 @@
   url: https://blueridgeruby.com
   twitter: blueridgeruby
 
+- name: Brighton Ruby 2023
+  location: Brighton, UK
+  start_date: 2023-06-30
+  end_date: 2023-06-30
+  url: https://brightonruby.com
+  twitter: brightonruby
+
 - name: Helvetic Ruby 2023
   location: Bern, Switzerland
   start_date: 2023-11-24
