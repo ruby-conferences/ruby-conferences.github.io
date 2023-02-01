@@ -36,6 +36,9 @@
     {% if event.twitter %}
       <li><a href="https://twitter.com/{{ event.twitter }}">@{{ event.twitter }}</a></li>
     {% endif %}
+    {% if event.mastodon %}
+      <li><a href="{{ event.mastodon }}">Mastodon</a></li>
+    {% endif %}
     {% if event.video_link %}
       <li><a href="{{ event.video_link }}">Event Videos</a></li>
     {% endif %}

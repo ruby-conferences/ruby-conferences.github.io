@@ -35,6 +35,7 @@ Here is a list of the keys that can be used:
 * `end_date`: The date of the last day of the event - ISO8601 formatted (yyyy-mm-dd). For one day events this should equal `start_date`.
 * `url`: The url for the event.
 * `twitter`: The twitter handle for the event, you can leave off the "@".
+* `mastodon`: The mastodon url for the event, for example https://ruby.social/@conferencehandle
 
 Extra keys for the upcoming events:
 

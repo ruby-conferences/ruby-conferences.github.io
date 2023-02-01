@@ -22,6 +22,7 @@ task :verify_data do
     "end_date",
     "url",
     "twitter",
+    "mastodon",
     "reg_phrase",
     "reg_date",
     "cfp_phrase",
