@@ -2156,6 +2156,7 @@
   twitter: rubyconfth
   cfp_phrase: CFP closes
   cfp_date: 2022-09-30
+  video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIaxpMTv9dnWk3cq61xJcE2Pv
 
 - name: Ruby on Rails Global Summit'23
   location: Online
@@ -2205,6 +2206,14 @@
   end_date: 2023-06-30
   url: https://brightonruby.com
   twitter: brightonruby
+
+- name: RubyConf TH 2023
+  location: Bangkok, Thailand
+  start_date: 2023-10-06
+  end_date: 2023-10-17
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
+  mastodon: https://ruby.social/@rubyconfth
 
 - name: Helvetic Ruby 2023
   location: Bern, Switzerland
