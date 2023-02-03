@@ -2200,6 +2200,13 @@
   url: https://blueridgeruby.com
   twitter: blueridgeruby
 
+- name: The Rails SaaS Conference 2023
+  location: Athens, Greece
+  start_date: 2023-06-01
+  end_date: 2023-06-02
+  url: https://railssaas.com/
+  twitter: railssaas
+
 - name: Brighton Ruby 2023
   location: Brighton, UK
   start_date: 2023-06-30
