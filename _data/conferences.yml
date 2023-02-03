@@ -2193,19 +2193,19 @@
   cfp_date: 2023-01-31
   reg_phrase: Registration open
 
-- name: Blue Ridge Ruby 2023
-  location: Asheville, NC, USA
-  start_date: 2023-06-08
-  end_date: 2023-06-09
-  url: https://blueridgeruby.com
-  twitter: blueridgeruby
-
 - name: The Rails SaaS Conference 2023
   location: Athens, Greece
   start_date: 2023-06-01
   end_date: 2023-06-02
   url: https://railssaas.com/
   twitter: railssaas
+
+- name: Blue Ridge Ruby 2023
+  location: Asheville, NC, USA
+  start_date: 2023-06-08
+  end_date: 2023-06-09
+  url: https://blueridgeruby.com
+  twitter: blueridgeruby
 
 - name: Brighton Ruby 2023
   location: Brighton, UK
