@@ -2207,6 +2207,13 @@
   url: https://blueridgeruby.com
   twitter: blueridgeruby
 
+- name: RubyDay 2023
+  location: Verona, Italy
+  start_date: 2023-06-16
+  end_date: 2023-06-16
+  url: https://2023.rubyday.it
+  twitter: rubydayit
+
 - name: Brighton Ruby 2023
   location: Brighton, UK
   start_date: 2023-06-30
