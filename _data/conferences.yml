@@ -2221,6 +2221,14 @@
   url: https://brightonruby.com
   twitter: brightonruby
 
+- name: wrocloverb.com
+  location: Wrocław, Poland
+  start_date: 2023-09-15
+  end_date: 2023-09-17
+  url: https://wrocloverb.com/
+  twitter: wrocloverb
+  video_link: https://www.youtube.com/user/wrocloverb/videos
+
 - name: RubyConf TH 2023
   location: Bangkok, Thailand
   start_date: 2023-10-06
