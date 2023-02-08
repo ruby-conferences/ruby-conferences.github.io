@@ -2220,6 +2220,8 @@
   end_date: 2023-06-30
   url: https://brightonruby.com
   twitter: brightonruby
+  mastodon: https://ruby.social/@brightonruby
+  reg_phrase: Buy tickets!
 
 - name: wroclove.rb
   location: Wrocław, Poland
