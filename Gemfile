@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.7.5'
+ruby '3.0.3'
 #ruby-gemset=ruby-conferences
 
 gem 'danger'
