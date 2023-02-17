@@ -2207,6 +2207,13 @@
   url: https://blueridgeruby.com
   twitter: blueridgeruby
 
+- name: Ruby Unconf 2023
+  location: Hamburg, Germany
+  start_date: 2023-06-10
+  end_date: 2023-06-11
+  url: https://2023.rubyunconf.eu
+  twitter: rubyunconfeu
+
 - name: RubyDay 2023
   location: Verona, Italy
   start_date: 2023-06-16
