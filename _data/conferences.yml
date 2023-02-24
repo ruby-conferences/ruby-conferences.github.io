@@ -2229,6 +2229,8 @@
   twitter: brightonruby
   mastodon: https://ruby.social/@brightonruby
   reg_phrase: Buy tickets!
+  cfp_phrase: CFP open
+  cfp_date: 2023-03-31
 
 - name: wroclove.rb
   location: Wrocław, Poland
