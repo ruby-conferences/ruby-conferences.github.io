@@ -2239,7 +2239,14 @@
   url: https://wrocloverb.com/
   twitter: wrocloverb
   video_link: https://www.youtube.com/user/wrocloverb/videos
-  
+
+- name: Euruko 2023
+  location: Vilnius, Lithuania
+  start_date: 2023-09-21
+  end_date: 2023-09-23
+  url: https://2023.euruko.org
+  twitter: euruko
+
 - name: Friendly.rb
   location: Bucharest, Romania
   start_date: 2023-09-27
