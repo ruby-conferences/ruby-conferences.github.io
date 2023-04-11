@@ -2290,3 +2290,11 @@
   url: https://helvetic-ruby.ch
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
+
+- name: RubyConf 2023
+  location: San Diego, CA
+  start_date: 2023-11-06
+  end_date: 2023-11-08
+  url: https://rubyconf.org
+  twitter: rubyconf
+  mastodon: https://ruby.social/@rubyconf
