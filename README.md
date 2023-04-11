@@ -26,6 +26,10 @@ but it's probably not a Ruby conference.
 
 The list of events is driven by the conferences file in the `_data` directory - if you have an update for those things, just change the YAML and send a PR.
 
+The file to be changed is `_data/conferences.yml`. **NOTE: It is
+order-dependent, meaning, put your conference in the YAML file in the order in
+which it should appear on the page, which is chronological.**
+
 Here is a list of the keys that can be used:
 
 * `name`: The official name of the event
