@@ -2285,8 +2285,8 @@
 
 - name: RubyConf 2023
   location: San Diego, CA
-  start_date: 2023-11-06
-  end_date: 2023-11-08
+  start_date: 2023-11-13
+  end_date: 2023-11-15
   url: https://rubyconf.org
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
