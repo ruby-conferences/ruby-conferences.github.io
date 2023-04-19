@@ -2282,6 +2282,14 @@
   cfp_phrase: CFP closes
   cfp_date: 2023-06-04
   mastodon: https://ruby.social/@rubyconfth
+  
+- name: Kaigi on Rails 2023
+  location: Tokyo, Japan
+  start_date: 2023-10-27
+  end_date: 2023-10-28
+  url: https://kaigionrails.org
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
 
 - name: RubyConf 2023
   location: San Diego, CA
