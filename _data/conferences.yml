@@ -2270,8 +2270,9 @@
   location: Amsterdam, Netherlands
   start_date: 2023-10-05
   end_date: 2023-10-06
-  url: https://rubyonrails.org/2023/4/6/rails-world-is-coming
+  url: https://rubyonrails.org/2023/5/9/rails-world-call-for-papers-now-open
   twitter: rails
+  cfp_phrase: CFP open
 
 - name: RubyConf TH 2023
   location: Bangkok, Thailand
