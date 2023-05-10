@@ -2232,6 +2232,13 @@
   cfp_phrase: CFP open
   cfp_date: 2023-03-31
 
+- name: Ruby For Good 2023
+  location: Washington, DC
+  start_date: 2023-07-27
+  end_date: 2023-07-30
+  url: https://rubyforgood.org/events
+  twitter: rubyforgood
+
 - name: wroclove.rb
   location: Wrocław, Poland
   start_date: 2023-09-15
