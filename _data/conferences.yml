@@ -2323,3 +2323,11 @@
   url: https://www.railsconf.com
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
+
+- name: RubyKaigi 2024
+  location: Naha, Okinawa, Japan
+  start_date: 2024-05-15
+  end_date: 2024-05-17
+  url: https://rubykaigi.org
+  twitter: rubykaigi
+  mastodon: https://ruby.social/@rubykaigi
