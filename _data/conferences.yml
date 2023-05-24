@@ -2324,6 +2324,12 @@
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
 
+- name: Sin City Ruby 2024
+  location: Las Vegas, NV
+  start_date: 2024-03-21
+  end_date: 2024-03-22
+  url: https://www.sincityruby.com
+
 - name: RailsConf 2024
   location: Detroit, MI
   start_date: 2024-05-07
@@ -2331,12 +2337,6 @@
   url: https://www.railsconf.com
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
-
-- name: Sin City Ruby 2024
-  location: Las Vegas, NV
-  start_date: 2024-03-21
-  end_date: 2024-03-22
-  url: https://www.sincityruby.com
 
 - name: RubyKaigi 2024
   location: Naha, Okinawa, Japan
