@@ -2300,6 +2300,15 @@
   reg_phrase: Buy tickets!
   mastodon: https://ruby.social/@rubyconfth
 
+- name: Oh the Humanity!
+  location: Helsinki, Finalnd
+  start_date: 2023-10-13
+  end_date: 2023-10-13
+  url: https://oh.helsinkiruby.fi
+  cfp_phrase: CFP closes
+  cfp_date: 2023-06-30
+  mastodon: https://ruby.social/@helsinkiruby
+
 - name: Kaigi on Rails 2023
   location: Tokyo, Japan
   start_date: 2023-10-27
