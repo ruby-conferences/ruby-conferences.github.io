@@ -2239,6 +2239,12 @@
   url: https://rubyforgood.org/events
   twitter: rubyforgood
 
+- name: Rails Hackathon 2023
+  location: Online
+  start_date: 2023-07-28
+  end_date: 2023-07-30
+  url: https://railshackathon.com
+
 - name: wroclove.rb
   location: Wrocław, Poland
   start_date: 2023-09-15
