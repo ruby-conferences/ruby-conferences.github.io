@@ -1499,7 +1499,7 @@
   end_date: 2018-10-06
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
-  video_link: https://www.youtube.com/channel/UCpdY3gEqGW10EVrUbd1itug/videos
+  video_link: https://www.youtube.com/playlist?list=PLvpu5WTDxTKXWZvsg9iR4a6AeHWw0Hzu4
 
 - name: RubyRussia
   location: Moscow, Russia
@@ -1521,6 +1521,13 @@
   end_date: 2018-10-26
   url: http://rubyconf.my/
   twitter: rubyconfmy
+
+- name: "#pivorak Conf. 1.0"
+  location: Lviv, Ukraine
+  start_date: 2018-10-26
+  end_date: 2018-10-26
+  url: https://pivorak.com/
+  video_link: https://www.youtube.com/playlist?list=PLa4SYMEyNCu9BsDfI_e2y8vd8FVkeVvum
 
 - name: RubyWorld Conference
   location: Matsue, Japan
@@ -1554,7 +1561,7 @@
   twitter: rubyconfindia
   video_link: https://www.youtube.com/playlist?list=PLbgP71NCXCqEFr8nuY2mhAobKv_ldqL2f
 
-- name: "#pivorak conference"
+- name: "#pivorak Conf. 2.0"
   location: Lviv, Ukraine
   start_date: 2019-02-01
   end_date: 2019-02-01
@@ -1675,7 +1682,7 @@
   end_date: 2019-05-26
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
-  video_link: https://2019.rubyunconf.eu/#schedule
+  video_link: https://www.youtube.com/playlist?list=PLvpu5WTDxTKWPJMPTC33amjQnl6sAEEvH
 
 - name: Saint P Rubyconf
   location: Saint Petersburg, Russia
@@ -1683,7 +1690,7 @@
   end_date: 2019-06-02
   url: https://spbrubyconf.ru/
   twitter: saintpruby
-  video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIazzAKhtGxJvYCPCgP8HiB5k
+  video_link: https://www.youtube.com/watch?v=CjOwKbf8L3I
 
 - name: EuRuKo 2019
   location: Rotterdam, the Netherlands
