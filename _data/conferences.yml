@@ -2232,6 +2232,13 @@
   cfp_phrase: CFP open
   cfp_date: 2023-03-31
 
+- name: Ruby Warsaw Community Conference 2023
+  location: Warsaw, Poland
+  start_date: 2023-07-21
+  end_date: 2023-07-21
+  url: https://www.rubycommunityconference.com
+  twitter: visualitypl
+
 - name: Ruby For Good 2023
   location: Washington, DC
   start_date: 2023-07-27
