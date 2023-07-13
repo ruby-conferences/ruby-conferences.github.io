@@ -2337,6 +2337,8 @@
   url: https://rubyconf.org
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
+  cfp_phrase: CFP closes
+  cfp_date: 2023-08-20
 
 - name: Helvetic Ruby 2023
   location: Bern, Switzerland
