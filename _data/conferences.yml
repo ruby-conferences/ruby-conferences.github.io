@@ -129,7 +129,7 @@
   twitter: rubyconfuruguay
   video_link: https://www.youtube.com/playlist?list=PLxx5qlTQCf0zx-DIFVHlftznHExI7ONEV
 
-- name: 'RubyMotion #inspect'
+- name: "RubyMotion #inspect"
   location: San Francisco, CA
   start_date: 2014-05-28
   end_date: 2014-05-29
@@ -1380,7 +1380,7 @@
   twitter: utrubyhack
   video_link: https://confreaks.tv/events/rubyhack2018
 
-- name: 'Madison+ Ruby: Chicago'
+- name: "Madison+ Ruby: Chicago"
   location: Chicago, Illinois
   start_date: 2018-05-10
   end_date: 2018-05-11
@@ -2257,8 +2257,8 @@
   location: Pune, India
   start_date: 2023-08-26
   end_date: 2023-08-27
-  url: https://rubyconf.in/ 
-  twitter: rubyconfindia 
+  url: https://rubyconf.in/
+  twitter: rubyconfindia
   reg_phrase: Buy tickets!
 
 - name: wroclove.rb
@@ -2353,6 +2353,13 @@
   start_date: 2024-03-21
   end_date: 2024-03-22
   url: https://www.sincityruby.com
+
+- name: Tropical Ruby
+  location: São Paulo, Brazil
+  start_date: 2024-04-04
+  end_date: 2024-04-05
+  url: https://www.tropicalrb.com/
+  twitter: tropicalrb
 
 - name: RailsConf 2024
   location: Detroit, MI
