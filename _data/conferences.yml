@@ -2322,6 +2322,12 @@
   reg_phrase: Buy tickets!
   mastodon: https://ruby.social/@rubyconfth
 
+- name: Ruby Retreat 2023
+  location: Mount Cheeseman, Aotearoa New Zealand
+  start_date: 2023-10-27
+  end_date: 2023-10-30
+  url: https://retreat.ruby.nz
+
 - name: Kaigi on Rails 2023
   location: Tokyo, Japan
   start_date: 2023-10-27
