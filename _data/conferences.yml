@@ -2352,7 +2352,15 @@
   url: https://helvetic-ruby.ch
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
-
+- name: RubyConf Taiwan 2023
+  location: Taipei, Taiwan
+  start_date: 2023-12-15
+  end_date: 2023-12-16
+  twitter: rubyconftw
+  url: https://2023.rubyconf.tw
+  cfp_phrase: CFP open
+  cfp_date: 2023-10-20
+  
 - name: Sin City Ruby 2024
   location: Las Vegas, NV
   start_date: 2024-03-21
