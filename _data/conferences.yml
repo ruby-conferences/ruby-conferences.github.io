@@ -2257,9 +2257,16 @@
   location: Pune, India
   start_date: 2023-08-26
   end_date: 2023-08-27
-  url: https://rubyconf.in/ 
-  twitter: rubyconfindia 
+  url: https://rubyconf.in/
+  twitter: rubyconfindia
   reg_phrase: Buy tickets!
+
+- name: Osaka Ruby Kaigi 03
+  location: Osaka, Japan
+  start_date: 2023-09-09
+  end_date: 2023-09-09
+  url: https://regional.rubykaigi.org/osaka03/
+  twitter: rubykansai
 
 - name: wroclove.rb
   location: Wrocław, Poland
@@ -2369,7 +2376,7 @@
   url: https://2023.rubyconf.tw
   cfp_phrase: CFP open
   cfp_date: 2023-10-20
-  
+
 - name: Sin City Ruby 2024
   location: Las Vegas, NV
   start_date: 2024-03-21
