@@ -1909,13 +1909,11 @@
   twitter: rubyforgood
 
 - name: Ruby Wine 2.0
-  location: Chisinau, Moldova
+  location: Online
   start_date: 2020-04-04
   end_date: 2020-04-04
   url: https://www.rubywine.org
   twitter: rubymeditation
-  cfp_phrase: CFP closes
-  cfp_date: 2020-01-19
 
 - name: RubyConfIndia
   location: Goa, India
@@ -1923,6 +1921,7 @@
   end_date: 2020-04-26
   url: https://rubyconfindia.org
   twitter: rubyconfindia
+  status: Canceled
 
 - name: RailsConf 2020.2 COUCH EDITION
   location: Your Couch
