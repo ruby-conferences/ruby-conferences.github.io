@@ -1901,6 +1901,14 @@
   twitter: wrocloverb
   status: Canceled
 
+- name: Ruby Retreat NZ 2020
+  location: Mt Cheeseman, near Christchurch, New Zealand
+  url: https://retreat.ruby.nz
+  start_date: 2020-03-27
+  end_date: 2020-03-30
+  twitter: RubyNewZealand
+  status: Canceled
+
 - name: Ruby by the Bay (Ruby for Good)
   location: Sausalito, CA
   start_date: 2020-04-03
