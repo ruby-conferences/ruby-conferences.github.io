@@ -1947,6 +1947,14 @@
   twitter: balkanruby
   status: Canceled
 
+- name: Ruby Unconf Hamburg 2020
+  location: Hamburg, Germany
+  start_date: 2020-06-06
+  end_date: 2020-06-07
+  url: https://2020.rubyunconf.eu/
+  twitter: rubyunconfeu
+  status: Canceled
+
 - name: Brighton Ruby Conf
   location: Online
   start_date: 2020-07-03
