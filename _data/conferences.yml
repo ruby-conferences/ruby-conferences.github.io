@@ -1955,6 +1955,14 @@
   twitter: rubyunconfeu
   status: Canceled
 
+- name: Saint P Rubyconf 2020
+  location: Saint Petersburg, Russia
+  start_date: 2020-06-06
+  end_date: 2020-06-07
+  url: https://spbrubyconf.ru/
+  twitter: saintpruby
+  status: Canceled
+
 - name: Brighton Ruby Conf
   location: Online
   start_date: 2020-07-03
