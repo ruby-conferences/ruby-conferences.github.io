@@ -1996,6 +1996,15 @@
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yZeLpdOLhYwORIF9UjBAFHw
 
+- name: RubyC 2020
+  location: Kyiv, Ukraine
+  start_date: 2020-09-12
+  end_date: 2020-09-13
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  cfp_phrase: CFP closes
+  status: Canceled
+
 - name: RubyDay
   location: Online
   start_date: 2020-09-16
