@@ -1893,6 +1893,22 @@
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc1G0L8h-rMtO3fBSi4PJK26
 
+- name: wroclove.rb 2020
+  location: Wrocław, Poland
+  start_date: 2020-03-20
+  end_date: 2020-03-22
+  url: https://2020.wrocloverb.com
+  twitter: wrocloverb
+  status: Canceled
+
+- name: Ruby Retreat NZ 2020
+  location: Mt Cheeseman, near Christchurch, New Zealand
+  url: https://retreat.ruby.nz
+  start_date: 2020-03-27
+  end_date: 2020-03-30
+  twitter: RubyNewZealand
+  status: Canceled
+
 - name: Ruby by the Bay (Ruby for Good)
   location: Sausalito, CA
   start_date: 2020-04-03
@@ -1901,13 +1917,11 @@
   twitter: rubyforgood
 
 - name: Ruby Wine 2.0
-  location: Chisinau, Moldova
+  location: Online
   start_date: 2020-04-04
   end_date: 2020-04-04
   url: https://www.rubywine.org
   twitter: rubymeditation
-  cfp_phrase: CFP closes
-  cfp_date: 2020-01-19
 
 - name: RubyConfIndia
   location: Goa, India
@@ -1915,6 +1929,7 @@
   end_date: 2020-04-26
   url: https://rubyconfindia.org
   twitter: rubyconfindia
+  status: Canceled
 
 - name: RailsConf 2020.2 COUCH EDITION
   location: Your Couch
@@ -1924,15 +1939,47 @@
   twitter: railsconf
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ-TzxlxdLvh6tDUfZHqm76
 
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  start_date: 2020-05-15
+  end_date: 2020-05-16
+  url: https://balkanruby.com
+  twitter: balkanruby
+  status: Canceled
+
+- name: Ruby Unconf Hamburg 2020
+  location: Hamburg, Germany
+  start_date: 2020-06-06
+  end_date: 2020-06-07
+  url: https://2020.rubyunconf.eu/
+  twitter: rubyunconfeu
+  status: Canceled
+
+- name: Saint P Rubyconf 2020
+  location: Saint Petersburg, Russia
+  start_date: 2020-06-06
+  end_date: 2020-06-07
+  url: https://spbrubyconf.ru/
+  twitter: saintpruby
+  status: Canceled
+
 - name: Brighton Ruby Conf
-  location: Brighton, UK
+  location: Online
   start_date: 2020-07-03
   end_date: 2020-07-03
-  url: https://brightonruby.com
+  url: https://brightonruby.com/2020
   twitter: brightonruby
 
+- name: RubyNess
+  location: Inverness, Scotland
+  start_date: 2020-07-16
+  end_date: 2020-07-17
+  url: https://rubyness.org/
+  twitter: rubynessconf
+  status: Canceled
+
 - name: RubyConfBY
-  location: Minsk, Belarus
+  location: Online
   start_date: 2020-07-18
   end_date: 2020-07-19
   url: https://rubyconference.by/
@@ -1957,13 +2004,30 @@
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yZeLpdOLhYwORIF9UjBAFHw
 
+- name: RubyC 2020
+  location: Kyiv, Ukraine
+  start_date: 2020-09-12
+  end_date: 2020-09-13
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  cfp_phrase: CFP closes
+  status: Canceled
+
 - name: RubyDay
-  location: Verona, Italy
+  location: Online
   start_date: 2020-09-16
   end_date: 2020-09-16
   url: https://2020.rubyday.it
   twitter: rubydayit
   video_link: https://www.youtube.com/playlist?list=PLWK9j6ps_unl0S5Xmi6FVfDLFUkntQTfK
+
+- name: RubyConf TH
+  location: Bangkok, Thailand
+  start_date: 2020-10-16
+  end_date: 2020-10-17
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
+  status: Canceled
 
 - name: ROSS conf
   location: Online
