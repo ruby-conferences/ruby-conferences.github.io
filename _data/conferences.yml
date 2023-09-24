@@ -2406,6 +2406,13 @@
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
 
+- name: RubyWorld Conference 2023
+  location: Matsue, Japan
+  start_date: 2023-11-09
+  end_date: 2023-11-10
+  url: http://2023.rubyworld-conf.org/en/
+  twitter: rubyworldconf
+
 - name: RubyConf 2023
   location: San Diego, CA
   start_date: 2023-11-13
