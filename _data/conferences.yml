@@ -2378,7 +2378,6 @@
   end_date: 2023-10-06
   url: https://rubyonrails.org/world
   twitter: rails
-  cfp_phrase: CFP open
 
 - name: Rocky Mountain Ruby
   location: Boulder, Colorado
@@ -2386,7 +2385,6 @@
   end_date: 2023-10-06
   url: https://rockymtnruby.dev/
   mastodon: https://ruby.social/@rockymntruby
-  cfp_phrase: CFP open
 
 - name: RubyConf TH 2023
   location: Bangkok, Thailand
