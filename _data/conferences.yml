@@ -2273,6 +2273,7 @@
   end_date: 2023-07-21
   url: https://www.rubycommunityconference.com
   twitter: visualitypl
+  video_link: https://www.youtube.com/playlist?list=PLvMNoWK93wtmlQyKf59wu0IZk9N7ZpWpJ
 
 - name: Ruby For Good 2023
   location: Washington, DC
@@ -2280,6 +2281,12 @@
   end_date: 2023-07-30
   url: https://rubyforgood.org/events
   twitter: rubyforgood
+
+- name: RubyConf China 2023
+  location: Shanghai, China
+  start_date: 2023-08-19
+  end_date: 2023-08-20
+  url: https://www.rubyconfchina.org
 
 - name: RubyConf India 2023
   location: Pune, India
@@ -2302,7 +2309,7 @@
   end_date: 2023-09-17
   url: https://2023.wrocloverb.com
   twitter: wrocloverb
-  video_link: https://www.youtube.com/user/wrocloverb/videos
+  video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDwTvPjY1F_7ccYO7O26RJ9
 
 - name: Rails Camp West 2023
   location: North Shore O’ahu Hawaii
@@ -2340,7 +2347,6 @@
   end_date: 2023-10-06
   url: https://rockymtnruby.dev/
   mastodon: https://ruby.social/@rockymntruby
-  cfp_phrase: CFP open
 
 - name: RubyConf TH 2023
   location: Bangkok, Thailand
@@ -2367,6 +2373,13 @@
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
 
+- name: RubyWorld Conference 2023
+  location: Matsue, Japan
+  start_date: 2023-11-09
+  end_date: 2023-11-10
+  url: http://2023.rubyworld-conf.org/en/
+  twitter: rubyworldconf
+
 - name: RubyConf 2023
   location: San Diego, CA
   start_date: 2023-11-13
@@ -2382,14 +2395,6 @@
   url: https://helvetic-ruby.ch
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
-
-- name: RubyConf 2023
-  location: San Diego, CA
-  start_date: 2023-11-06
-  end_date: 2023-11-08
-  url: https://rubyconf.org
-  twitter: rubyconf
-  mastodon: https://ruby.social/@rubyconf
 
 - name: RubyConf Taiwan 2023
   location: Taipei, Taiwan
@@ -2427,3 +2432,18 @@
   url: https://rubykaigi.org
   twitter: rubykaigi
   mastodon: https://ruby.social/@rubykaigi
+
+- name: RubyDay 2024
+  location: Verona, Italy
+  start_date: 2024-05-31
+  end_date: 2024-05-31
+  url: https://2024.rubyday.it
+  twitter: rubydayit
+
+- name: Brighton Ruby 2024
+  location: Brighton, UK
+  start_date: 2024-06-28
+  end_date: 2024-06-28
+  url: https://brightonruby.com
+  twitter: brightonruby
+  mastodon: https://ruby.social/@brightonruby
