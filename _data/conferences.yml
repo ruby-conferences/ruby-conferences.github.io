@@ -2412,11 +2412,12 @@
   end_date: 2024-03-22
   url: https://www.sincityruby.com
 
-- name: Tropical Ruby
+- name: Tropical.rb
   location: São Paulo, Brazil
   start_date: 2024-04-04
   end_date: 2024-04-05
   url: https://www.tropicalrb.com/
+  twitter: tropical_rb
 
 - name: RailsConf 2024
   location: Detroit, MI
