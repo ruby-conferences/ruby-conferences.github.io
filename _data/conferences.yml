@@ -2326,14 +2326,13 @@
   twitter: euruko
   video_link: https://www.youtube.com/playlist?list=PLZW-kXE0oRyljniGHqYqtQVIXoI4M97ck
 
-- name: Friendly.rb
+- name: Friendly.rb 2023
   location: Bucharest, Romania
   start_date: 2023-09-27
   end_date: 2023-09-28
   url: https://friendlyrb.com/
   twitter: friendlyrb
   mastodon: https://ruby.social/@friendlyrb
-  reg_phrase: Community sponsorship available
 
 - name: Rails World 2023
   location: Amsterdam, Netherlands
@@ -2450,6 +2449,14 @@
   url: https://brightonruby.com
   twitter: brightonruby
   mastodon: https://ruby.social/@brightonruby
+
+- name: Friendly.rb 2024
+  location: Bucharest, Romania
+  start_date: 2024-09-18
+  end_date: 2024-09-19
+  url: https://friendlyrb.com/
+  twitter: friendlyrb
+  mastodon: https://ruby.social/@friendlyrb
 
 - name: Rubyfuza 2024
   location: Cape Town, South Africa
