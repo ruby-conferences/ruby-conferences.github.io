@@ -2334,6 +2334,14 @@
   twitter: friendlyrb
   mastodon: https://ruby.social/@friendlyrb
 
+- name: RubyRussia 2023
+  location: Online
+  start_date: 2023-09-30
+  end_date: 2023-09-30
+  url: https://rubyrussia.club/
+  twitter: railsclub_ru
+  video_link: https://www.youtube.com/watch?v=1bN2uBDylQU
+
 - name: Rails World 2023
   location: Amsterdam, Netherlands
   start_date: 2023-10-05
