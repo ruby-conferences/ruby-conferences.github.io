@@ -2468,6 +2468,13 @@
   twitter: brightonruby
   mastodon: https://ruby.social/@brightonruby
 
+- name: Madison+ Ruby 2024
+  location: Madison, WI
+  start_date: 2024-08-01
+  end_date: 2024-08-02
+  url: https://madisonruby.com
+  twitter: madisonruby
+
 - name: Friendly.rb 2024
   location: Bucharest, Romania
   start_date: 2024-09-18
