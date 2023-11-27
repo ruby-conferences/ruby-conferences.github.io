@@ -2498,6 +2498,14 @@
   url: https://madisonruby.com
   twitter: madisonruby
 
+- name: EuRuKo 2024
+  location: Tuzla, Bosnia & Herzegovina
+  start_date: 2023-09-12
+  end_date: 2023-09-13
+  url: https://2024.euruko.org
+  twitter: euruko
+  mastodon: https://ruby.social/@Euruko
+
 - name: Friendly.rb 2024
   location: Bucharest, Romania
   start_date: 2024-09-18
