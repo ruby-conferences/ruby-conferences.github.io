@@ -2443,6 +2443,9 @@
   end_date: 2024-04-05
   url: https://www.tropicalrb.com/
   twitter: tropical_rb
+  cfp_phrase: CFP closes
+  cfp_date: 2023-12-31
+  mastodon: https://ruby.social/@tropicalrb
 
 - name: RubyConf AU 2024
   location: Sydney, Australia
