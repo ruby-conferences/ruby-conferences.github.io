@@ -2491,6 +2491,14 @@
   cfp_phrase: CFP closes
   cfp_date: 2024-01-31
 
+- name: Blue Ridge Ruby 2024
+  location: Asheville, NC, USA
+  start_date: 2024-05-30
+  end_date: 2024-05-31
+  url: https://blueridgeruby.com
+  twitter: blueridgeruby
+  mastodon: https://ruby.social/@blueridgeruby
+
 - name: RubyDay 2024
   location: Verona, Italy
   start_date: 2024-05-31
