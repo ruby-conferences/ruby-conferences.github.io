@@ -2491,6 +2491,14 @@
   cfp_phrase: CFP closes
   cfp_date: 2024-01-31
 
+- name: Helvetic Ruby 2024
+  location: Zurich, Switzerland
+  start_date: 2024-05-17
+  end_date: 2024-05-17
+  url: https://helvetic-ruby.ch
+  twitter: helvetic_ruby
+  mastodon: https://ruby.social/@helvetic_ruby
+
 - name: Blue Ridge Ruby 2024
   location: Asheville, NC, USA
   start_date: 2024-05-30
@@ -2560,11 +2568,3 @@
   end_date: 2024-10-18
   url: https://www.rubyfuza.org
   twitter: rubyfuza
-
-- name: Helvetic Ruby 2024
-  location: Zurich, Switzerland
-  start_date: 2024-05-17
-  end_date: 2024-05-17
-  url: https://helvetic-ruby.ch
-  twitter: helvetic_ruby
-  mastodon: https://ruby.social/@helvetic_ruby
