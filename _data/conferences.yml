@@ -2584,3 +2584,13 @@
   end_date: 2024-10-18
   url: https://www.rubyfuza.org
   twitter: rubyfuza
+
+- name: RubyConf 2024
+  location: United States of America
+  start_date: 2024-11-30
+  end_date: 2024-11-30
+  date_precision: month
+  status: To be announced
+  url: https://rubyconf.org
+  twitter: rubyconf
+  mastodon: https://ruby.social/@rubyconf
