@@ -320,6 +320,10 @@ header {
 #news footer .older {
   float: right; }
 
-.cfp-link:hover {
+.cfp-link {
   text-decoration: underline;
+}
+
+.cfp-link:hover {
+  color: black !important;
 }
