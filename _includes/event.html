@@ -10,7 +10,10 @@
   {% if event.reg_phrase %}
   <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
   {% endif %}
-  {% if event.cfp_phrase %}
+
+  {% if event.cfp_phrase and event.cfp_link %}
+  <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_date }}" data-phrase="{{ event.cfp_phrase }}" target="_blank"></a>
+  {% elsif event.cfp_phrase %}
   <div class="cfp" data-date="{{ event.cfp_date }}" data-phrase="{{ event.cfp_phrase }}"></div>
   {% endif %}
 </dt>

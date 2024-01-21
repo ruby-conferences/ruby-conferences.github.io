@@ -46,7 +46,8 @@ Extra keys for the upcoming events:
 * `reg_phrase`: Typically you want to put "Registration open" here.
 * `reg_date`: If there is a registration deadline, enter that here - ISO8601 formatted (yyyy-mm-dd).
 * `cfp_phrase`: Typically you want to put "CFP open" here. If you also provide a `cfp_date` then you may prefer to write "CFP closes" so the site will render for example "CFP closes in 17 days".
-* `cfp_date`: If there is a cfp deadline, enter that here - ISO8601 formatted (yyyy-mm-dd).
+* `cfp_date`: If there is a CFP deadline, enter that here - ISO8601 formatted (yyyy-mm-dd).
+* `cfp_link`: A link to the CFP submission page.
 * `status`:  Typically you want to put "Canceled", "Postponed" or "To be announced" here.
 * `date_precision`: Controls the precision of the `start_date` and `end_date` when the conference dates aren't announced just yet but it's confirmed that the conference is happening. Possible values: `full` (implicit default), `month` or `year`. The `start_date` and `end_date` fields still need to be fully formatted ISO8601 dates, you can put the last day of the month/year in it so it also gets ordered properly.
 
