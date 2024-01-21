@@ -22,7 +22,11 @@
       {% assign start_year = event.start_date | date: '%Y' %}
       {% assign end_year = event.end_date | date: '%Y' %}
 
-      {% if event.start_date == event.end_date %}
+      {% if event.date_precision == 'month' %}
+        {{ event.start_date | date: '%B %Y' }}
+      {% elsif event.date_precision == 'year' %}
+        {{ event.start_date | date: '%Y' }}
+      {% elsif event.start_date == event.end_date %}
         {{ event.start_date | date: '%B %-d, %Y' }}
       {% elsif start_month == end_month %}
         {{ event.start_date | date: '%B %-d' }}–{{ event.end_date | date: '%-d, %Y' }}
