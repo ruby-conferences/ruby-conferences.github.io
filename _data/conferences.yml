@@ -2520,6 +2520,12 @@
   url: https://2024.rubyday.it
   twitter: rubydayit
 
+- name: Baltic Ruby 2024
+  location: Malmö, Sweden
+  start_date: 2024-06-01
+  end_date: 2024-06-03
+  url: https://balticruby.org
+
 - name: Ruby Unconf 2024
   location: Hamburg, Germany
   start_date: 2024-06-08
