@@ -2421,8 +2421,7 @@
   end_date: 2024-02-04
   twitter: rubybelgium
   url: https://fosdem.rubybelgium.be
-  cfp_phrase: CFP closes
-  cfp_date: 2023-12-01
+  cfp_phrase: CFP closed
 
 - name: Ruby Warsaw Community Conference 2024
   location: Warsaw, Poland
@@ -2443,8 +2442,7 @@
   end_date: 2024-04-05
   url: https://www.tropicalrb.com/
   twitter: tropical_rb
-  cfp_phrase: CFP closes
-  cfp_date: 2024-01-10
+  cfp_phrase: CFP closed
   mastodon: https://ruby.social/@tropicalrb
 
 - name: RubyConf AU 2024
@@ -2453,8 +2451,7 @@
   end_date: 2024-04-12
   url: https://rubyconf.org.au/
   twitter: rubyconf_au
-  cfp_phrase: CFP closes
-  cfp_date: 2024-01-12
+  cfp_phrase: CFP closed
 
 - name: wroclove.rb 2024
   location: Wrocław, Poland
@@ -2465,6 +2462,7 @@
   mastodon: https://ruby.social/@wrocloverb/
   cfp_phrase: CFP closes
   cfp_date: 2024-01-31
+  cfp_link: https://forms.gle/bgTVhWZzjRV74F1x7
 
 - name: Balkan Ruby 2024
   location: Sofia, Bulgaria
@@ -2474,6 +2472,7 @@
   twitter: balkanruby
   cfp_phrase: CFP closes
   cfp_date: 2024-02-02
+  cfp_link: https://forms.gle/NJY9PJWpud39ZQAr8
 
 - name: RailsConf 2024
   location: Detroit, MI
@@ -2487,11 +2486,12 @@
   location: Naha, Okinawa, Japan
   start_date: 2024-05-15
   end_date: 2024-05-17
-  url: https://rubykaigi.org
+  url: https://rubykaigi.org/2024
   twitter: rubykaigi
   mastodon: https://ruby.social/@rubykaigi
   cfp_phrase: CFP closes
   cfp_date: 2024-01-31
+  cfp_link: https://cfp.rubykaigi.org/events/2024
 
 - name: Helvetic Ruby 2024
   location: Zurich, Switzerland
@@ -2502,6 +2502,7 @@
   mastodon: https://ruby.social/@helvetic_ruby
   cfp_phrase: CFP closes
   cfp_date: 2024-02-25
+  cfp_link: https://helvetic-ruby.ch/call-for-speakers
 
 - name: Blue Ridge Ruby 2024
   location: Asheville, NC, USA
@@ -2512,15 +2513,17 @@
   mastodon: https://ruby.social/@blueridgeruby
   cfp_phrase: CFP closes
   cfp_date: 2024-03-01
+  cfp_link: https://blueridgeruby.com/cfp
 
 - name: RubyDay 2024
   location: Verona, Italy
   start_date: 2024-05-31
   end_date: 2024-05-31
-  cfp_phrase: CFP closes
-  cfp_date: 2024-01-31
   url: https://2024.rubyday.it
   twitter: rubydayit
+  cfp_phrase: CFP closes
+  cfp_date: 2024-01-31
+  cfp_link: https://2024.rubyday.it/welcome/cfp.html
 
 - name: Baltic Ruby 2024
   location: Malmö, Sweden
@@ -2545,6 +2548,7 @@
   mastodon: https://ruby.social/@brightonruby
   cfp_phrase: CFP closes
   cfp_date: 2024-02-29
+  cfp_link: https://forms.reform.app/goodscary/brighton-ruby-2024-cfp/gci0d6
 
 - name: Madison+ Ruby 2024
   location: Madison, WI
@@ -2562,6 +2566,7 @@
   mastodon: https://ruby.social/@Euruko
   cfp_phrase: CFP closes
   cfp_date: 2024-04-15
+  cfp_link: https://www.papercall.io/euruko2024
 
 - name: Friendly.rb 2024
   location: Bucharest, Romania

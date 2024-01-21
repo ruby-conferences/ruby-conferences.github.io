@@ -319,3 +319,11 @@ header {
 /* line 213, /Users/jon/code/rc/site/source/css/style.sass */
 #news footer .older {
   float: right; }
+
+.cfp-link {
+  text-decoration: underline;
+}
+
+.cfp-link:hover {
+  color: black !important;
+}
