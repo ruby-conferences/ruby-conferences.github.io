@@ -8,7 +8,7 @@ layout: default
     {% for event in conferences %}
       {% assign start_date = event.start_date | date: '%s' | plus: 0 %}
       {% assign cfp_date = event.cfp_date | date: '%s' | plus: 0 %}
-      {% if start_date > now and cfp_date > now %}
+      {% if start_date >= now and cfp_date >= now %}
         {% include event.html %}
       {% endif %}
     {% endfor %}
