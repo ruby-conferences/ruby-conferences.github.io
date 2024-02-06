@@ -1,0 +1,32 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://rubyconferences.org/cfp
+METHOD:PUBLISH
+{% for event in site.data.conferences %}
+{% if event.cfp_open_date %}
+BEGIN:VEVENT
+UID:{{ event.cfp_open_date | date: "%Y%m%d" | append: event.name }}-cfp-open@rubyconferences.org
+SUMMARY:{{ event.name }} CFP opens
+LOCATION:{{ event.location | replace: ",", "\\," }}
+CLASS:PUBLIC
+URL:{% if event.cfp_link %}{{ event.cfp_link }}{% else %}{{ event.url }}{% endif %}
+DTSTART;VALUE=DATE:{{ event.cfp_open_date | date: "%Y%m%d" }}
+DTEND;VALUE=DATE:{{ event.cfp_open_date | date: "%Y%m%d" | plus: 1 }}
+END:VEVENT
+{% endif %}
+{% if event.cfp_close_date %}
+BEGIN:VEVENT
+UID:{{ event.cfp_close_date | date: "%Y%m%d" | append: event.name }}-cfp-close@rubyconferences.org
+SUMMARY:{{ event.name }} CFP closes
+LOCATION:{{ event.location | replace: ",", "\\," }}
+CLASS:PUBLIC
+URL:{% if event.cfp_link %}{{ event.cfp_link }}{% else %}{{ event.url }}{% endif %}
+DTSTART;VALUE=DATE:{{ event.cfp_close_date | date: "%Y%m%d" }}
+DTEND;VALUE=DATE:{{ event.cfp_close_date | date: "%Y%m%d" | plus: 1 }}
+END:VEVENT
+{% endif %}
+{% endfor %}
+END:VCALENDAR
