@@ -2615,3 +2615,10 @@
   url: https://rubyconf.org
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
+
+- name: Ruby for Good 2024
+  location: Washington, DC
+  start_date: 2024-05-30
+  end_date: 2024-06-02
+  url: https://rubyforgood.org/events
+  twitter: rubyforgood
