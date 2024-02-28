@@ -2524,6 +2524,13 @@
   cfp_date: 2024-03-01
   cfp_link: https://blueridgeruby.com/cfp
 
+- name: Ruby for Good 2024
+  location: Washington, DC
+  start_date: 2024-05-30
+  end_date: 2024-06-02
+  url: https://rubyforgood.org/events
+  twitter: rubyforgood
+
 - name: RubyDay 2024
   location: Verona, Italy
   start_date: 2024-05-31
@@ -2622,10 +2629,3 @@
   url: https://rubyconf.org
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
-
-- name: Ruby for Good 2024
-  location: Washington, DC
-  start_date: 2024-05-30
-  end_date: 2024-06-02
-  url: https://rubyforgood.org/events
-  twitter: rubyforgood
