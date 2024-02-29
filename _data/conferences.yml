@@ -2584,6 +2584,13 @@
   url: https://madisonruby.com
   twitter: madisonruby
 
+- name: Rails Camp USA 2024
+  location: Cascade, Idaho
+  start_date: 2024-08-27
+  end_date: 2024-08-30
+  url: https://west.railscamp.us/2024
+  twitter: railscamp_usa
+
 - name: EuRuKo 2024
   location: Sarajevo, Bosnia & Herzegovina
   start_date: 2024-09-11
