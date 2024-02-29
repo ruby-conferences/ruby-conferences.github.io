@@ -2629,10 +2629,8 @@
 
 - name: RubyConf 2024
   location: Chicago, IL
-  start_date: 2024-11-30
-  end_date: 2024-11-30
-  date_precision: month
-  status: To be announced
+  start_date: 2024-11-13
+  end_date: 2024-11-15
   url: https://rubyconf.org
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
