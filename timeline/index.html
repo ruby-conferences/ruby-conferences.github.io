@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article id="home">
+  <pre class="mermaid">
+    gantt
+        dateFormat  YYYY-MM-DD
+
+    {% assign beginningOfYear = site.time | date: "%Y-01-01" | date: '%s' | plus: 0 -%}
+    {% assign now = site.time | date: '%s' | plus: 0 -%}
+    {% assign conferences = site.data.conferences | sort: "start_date" -%}
+    {%- for event in conferences -%}
+      {% assign start_date = event.start_date | date: '%s' | plus: 0 -%}
+      {%- assign dateStart = event.start_date | date: '%s' -%}
+      {%- assign dateEnd = event.end_date | date: '%s' -%}
+      {%- assign diffSeconds = dateEnd | minus: dateStart -%}
+      {%- assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | at_least: 1 %}
+      {%- if start_date >= beginningOfYear %}
+        {{ event.name | replace: "#", "#35;" | replace: ":", "#58;" }} {% if start_date >= now %}:active{% else %}:done{%endif%}, {{ event.name | slugify: "ascii" | replace: "-", "" }}, {{ event.start_date | date: '%Y-%m-%d' }}, {{ diffDays }}d
+      {%- endif -%}
+    {% endfor %}
+
+    {% for event in conferences -%}
+      {% assign start_date = event.start_date | date: '%s' | plus: 0 -%}
+      {%- if start_date >= beginningOfYear %}
+        click {{ event.name | slugify: "ascii" | replace: "-", "" }} href "{{ event.url }}"
+      {%- endif -%}
+    {% endfor -%}
+  </pre>
+
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+      theme: 'neutral',
+      themeVariables: {
+        sectionBkgColor: 'rgba(153, 153, 153, 0)',
+      }
+    });
+  </script>
+</article>
