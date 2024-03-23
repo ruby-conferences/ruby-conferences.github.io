@@ -2640,3 +2640,14 @@
   url: https://rubyconf.org
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
+
+- name: RedDotRubyConf 2024
+  location: Singapore
+  start_date: 2024-07-25
+  end_date: 2024-07-26
+  url: https://reddotrubyconf.com
+  twitter: reddotrubyconf
+  mastodon: https://ruby.social/@reddotrubyconf
+  cfp_phrase: CFP closes
+  cfp_date: 2024-06-01
+  cfp_link: https://reddotrubyconf.com/papers/new
