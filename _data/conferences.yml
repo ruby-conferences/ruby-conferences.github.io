@@ -2363,7 +2363,7 @@
   end_date: 2023-10-07
   url: https://rubyconfth.com/
   twitter: rubyconfth
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2023-06-04
   reg_phrase: Buy tickets!
   mastodon: https://ruby.social/@rubyconfth
@@ -2466,7 +2466,7 @@
   url: https://2024.wrocloverb.com
   twitter: wrocloverb
   mastodon: https://ruby.social/@wrocloverb/
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-01-31
   cfp_link: https://forms.gle/bgTVhWZzjRV74F1x7
 
@@ -2476,7 +2476,7 @@
   end_date: 2024-04-27
   url: https://balkanruby.com
   twitter: balkanruby
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-02-02
   cfp_link: https://forms.gle/NJY9PJWpud39ZQAr8
 
@@ -2487,7 +2487,7 @@
   url: https://www.railsconf.com
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-02-13
   cfp_link: https://sessionize.com/railsconf2024
 
@@ -2498,7 +2498,7 @@
   url: https://rubykaigi.org/2024
   twitter: rubykaigi
   mastodon: https://ruby.social/@rubykaigi
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-01-31
   cfp_link: https://cfp.rubykaigi.org/events/2024
 
@@ -2509,7 +2509,7 @@
   url: https://helvetic-ruby.ch
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-02-25
   cfp_link: https://helvetic-ruby.ch/call-for-speakers
 
@@ -2520,7 +2520,7 @@
   url: https://blueridgeruby.com
   twitter: blueridgeruby
   mastodon: https://ruby.social/@blueridgeruby
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-03-01
   cfp_link: https://blueridgeruby.com/cfp
 
@@ -2537,7 +2537,7 @@
   end_date: 2024-05-31
   url: https://2024.rubyday.it
   twitter: rubydayit
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-01-31
   cfp_link: https://2024.rubyday.it/welcome/cfp.html
 
@@ -2547,7 +2547,7 @@
   end_date: 2024-06-15
   url: https://balticruby.org
   twitter: balticruby
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-03-31
   cfp_link: https://www.papercall.io/balticruby
 
@@ -2566,9 +2566,20 @@
   url: https://brightonruby.com
   twitter: brightonruby
   mastodon: https://ruby.social/@brightonruby
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-02-29
   cfp_link: https://forms.reform.app/goodscary/brighton-ruby-2024-cfp/gci0d6
+
+- name: RedDotRubyConf
+  location: Singapore
+  start_date: 2024-07-25
+  end_date: 2024-07-26
+  url: https://reddotrubyconf.com
+  twitter: reddotrubyconf
+  mastodon: https://ruby.social/@reddotrubyconf
+  cfp_phrase: CFP open
+  cfp_date: 2024-03-22
+  cfp_link: https://reddotrubyconf.com/papers/new
 
 - name: RubyConf Africa 2024
   location: Nairobi, Kenya
@@ -2583,7 +2594,7 @@
   end_date: 2024-08-02
   url: https://madisonruby.com
   twitter: madisonruby
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-04-30
   cfp_link: https://cfp.madisonruby.com/events/2024/
 
@@ -2601,7 +2612,7 @@
   url: https://2024.euruko.org
   twitter: euruko
   mastodon: https://ruby.social/@Euruko
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-04-15
   cfp_link: https://www.papercall.io/euruko2024
 
@@ -2619,7 +2630,7 @@
   end_date: 2024-09-27
   url: https://rubyonrails.org/world/2024
   twitter: rails
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-03-21
   cfp_link: https://sessionize.com/rails-world/
 
@@ -2629,7 +2640,7 @@
   end_date: 2024-10-18
   url: https://www.rubyfuza.org
   twitter: rubyfuza
-  cfp_phrase: CFP closes
+  cfp_phrase: CFP closed
   cfp_date: 2024-08-10
   cfp_link: https://www.papercall.io/rubyfuza-2024
 
