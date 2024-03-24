@@ -1,22 +1,36 @@
 <dt>
   {% if event.url %}
-  <a href="{{ event.url }}">{{ event.name }}</a>
+    <a href="{{ event.url }}">{{ event.name }}</a>
   {% else %}
-  <a>{{ event.name }}</a>
-  {% endif %}
-  {% if event.status %}
-  <div class="status" data-phrase="{{ event.status }}"></div>
-  {% endif %}
-  {% if event.reg_phrase %}
-  <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
+    <a>{{ event.name }}</a>
   {% endif %}
 
-  {% if event.cfp_phrase and event.cfp_link %}
-  <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_date }}" data-phrase="{{ event.cfp_phrase }}" target="_blank"></a>
-  {% elsif event.cfp_phrase %}
-  <div class="cfp" data-date="{{ event.cfp_date }}" data-phrase="{{ event.cfp_phrase }}"></div>
+  {% if event.status %}
+    <div class="status" data-phrase="{{ event.status }}"></div>
+  {% endif %}
+
+  {% if event.reg_phrase %}
+    <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
+  {% endif %}
+
+  {% assign cfp_open_date = event.cfp_open_date | date: '%s' | plus: 0 %}
+  {% assign cfp_close_date = event.cfp_close_date | date: '%s' | plus: 0 %}
+
+  {% if event.cfp_open_date and cfp_open_date > now %}
+    {% if event.cfp_link %}
+      <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_open_date }}" data-phrase="{% if cfp_open_date > now %}CFP opens{% else %}CFP opened{% endif %}" target="_blank"></a>
+    {% elsif event.cfp_open_date %}
+      <div class="cfp" data-date="{{ event.cfp_open_date }}" data-phrase="{% if cfp_open_date > now %}CFP opens{% else %}CFP opened{% endif %}"></div>
+    {% endif %}
+  {% elsif event.cfp_close_date %}
+    {% if event.cfp_link %}
+      <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_close_date }}" data-phrase="{% if cfp_close_date > now %}CFP closes{% else %}CFP closed{% endif %}" target="_blank"></a>
+    {% elsif event.cfp_close_date %}
+      <div class="cfp" data-date="{{ event.cfp_close_date }}" data-phrase="{% if cfp_close_date > now %}CFP closes{% else %}CFP closed{% endif %}"></div>
+    {% endif %}
   {% endif %}
 </dt>
+
 <dd>
   <ul>
     <li>

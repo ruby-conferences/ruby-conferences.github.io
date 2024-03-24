@@ -4,10 +4,10 @@ layout: default
 <article id="home">
   <dl>
     {% assign now = site.time | date: '%s' | plus: 0 %}
-    {% assign conferences = site.data.conferences | sort: 'start_date' %}
+    {% assign conferences = site.data.conferences | sort: 'cfp_close_date' %}
     {% for event in conferences %}
       {% assign start_date = event.start_date | date: '%s' | plus: 0 %}
-      {% assign cfp_date = event.cfp_date | date: '%s' | plus: 0 %}
+      {% assign cfp_date = event.cfp_close_date | date: '%s' | plus: 0 %}
       {% if start_date >= now and cfp_date >= now %}
         {% include event.html %}
       {% endif %}
