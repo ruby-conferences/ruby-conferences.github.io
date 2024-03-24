@@ -3,7 +3,7 @@ layout: null
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:https://www.rubyconferences.org/
+PRODID:https://rubyconferences.org/
 METHOD:PUBLISH
 {% for event in site.data.conferences %}
 BEGIN:VEVENT
@@ -16,16 +16,5 @@ URL:{{ event.url }}
 DTSTART;VALUE=DATE:{{ event.start_date | date: "%Y%m%d" }}
 DTEND;VALUE=DATE:{{ event.end_date | date: "%Y%m%d" | plus: 1 }}
 END:VEVENT
-{% if event.cfp_date %}
-BEGIN:VEVENT
-UID:{{ event.cfp_date | date: "%Y%m%d" | append: event.name }}-cfp@rubyconferences.org
-SUMMARY:{{ event.name }} {{ event.cfp_phrase }}
-LOCATION:{{ event.location | replace: ",", "\\," }}
-CLASS:PUBLIC
-URL:{% if event.cfp_link %}{{ event.cfp_link }}{% else %}{{ event.url }}{% endif %}
-DTSTART;VALUE=DATE:{{ event.cfp_date | date: "%Y%m%d" }}
-DTEND;VALUE=DATE:{{ event.cfp_date | date: "%Y%m%d" | plus: 1 }}
-END:VEVENT
-{% endif %}
 {% endfor %}
 END:VCALENDAR
