@@ -2612,6 +2612,9 @@
   url: https://friendlyrb.com/
   twitter: friendlyrb
   mastodon: https://ruby.social/@friendlyrb
+  cfp_phrase: CFP closes
+  cfp_date: 2024-08-01
+  cfp_link: https://friendlyrb.com/cfp
 
 - name: Rails World 2024
   location: Toronto, Canada
