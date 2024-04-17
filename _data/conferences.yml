@@ -2350,7 +2350,7 @@
   twitter: rails
   video_link: https://www.youtube.com/playlist?list=PLHFP2OPUpCeY9IX3Ht727dwu5ZJ2BBbZP
 
-- name: Rocky Mountain Ruby
+- name: Rocky Mountain Ruby 2023
   location: Boulder, Colorado
   start_date: 2023-10-05
   end_date: 2023-10-06
@@ -2662,3 +2662,11 @@
   url: https://kaigionrails.org
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
+
+- name: Rocky Mountain Ruby 2024
+  location: Boulder, Colorado
+  start_date: 2024-10-03
+  end_date: 2023-10-04
+  url: https://rockymtnruby.dev/
+  twitter: rmrubyconf
+  mastodon: https://ruby.social/@rockymntruby
