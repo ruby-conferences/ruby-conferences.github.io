@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article id="home">
+  <dl>
+    {% assign now = site.time | date: "%s" | plus: 0 %}
+    {% assign meetups = site.data.meetups | sort: "date" %}
+    {% for event in meetups %}
+      {% assign date = event.date | date: "%s" | plus: 0 %}
+      {% if date > now %}
+        {% include meetup.html %}
+      {% endif %}
+    {% endfor %}
+  </dl>
+</article>

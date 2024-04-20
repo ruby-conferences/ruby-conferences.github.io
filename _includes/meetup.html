@@ -1,0 +1,14 @@
+<dt>
+  {% if event.url %}
+    <a href="{{ event.url }}">{{ event.name }}</a>
+  {% else %}
+    <a>{{ event.name }}</a>
+  {% endif %}
+</dt>
+
+<dd>
+  <ul>
+    <li>{{ event.date | date: "%B %-d, %Y" }}</li>
+    <li>{{ event.location }}</li>
+  </ul>
+</dd>
