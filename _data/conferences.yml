@@ -1994,6 +1994,23 @@
   twitter: rubydayit
   video_link: https://www.youtube.com/playlist?list=PLWK9j6ps_unl0S5Xmi6FVfDLFUkntQTfK
 
+- name: Kaigi on Rails 2020
+  location: Tokyo, Japan
+  status: Cancelled
+  start_date: 2020-09-28
+  end_date: 2020-09-29
+  url: https://kaigionrails.org/2020
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
+- name: Kaigi on Rails 2020 - Stay Home Edition
+  location: Online
+  start_date: 2020-10-03
+  end_date: 2020-10-03
+  url: https://kaigionrails.org/2020
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
 - name: RubyConf TH
   location: Bangkok, Thailand
   start_date: 2020-10-16
@@ -2103,6 +2120,14 @@
   twitter: railsclub_ru
   video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeMfiEGak_zwF_ULP8Rc6HcL
 
+- name: Kaigi on Rails 2021
+  location: Online
+  start_date: 2021-10-22
+  end_date: 2021-10-23
+  url: https://kaigionrails.org/2021
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
 - name: RubyConf 2021
   location: Denver, CO
   start_date: 2021-11-08
@@ -2175,6 +2200,14 @@
   end_date: 2022-09-10
   url: https://rubykaigi.org/2022
   twitter: rubykaigi
+
+- name: Kaigi on Rails 2022
+  location: Online
+  start_date: 2022-10-21
+  end_date: 2022-10-22
+  url: https://kaigionrails.org/2022
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
 
 - name: RubyConf Mini 2022
   location: Providence, RI, USA
@@ -2379,7 +2412,7 @@
   location: Tokyo, Japan
   start_date: 2023-10-27
   end_date: 2023-10-28
-  url: https://kaigionrails.org
+  url: https://kaigionrails.org/2023/
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
 
@@ -2670,7 +2703,7 @@
   location: Tokyo, Japan
   start_date: 2024-10-25
   end_date: 2024-10-26
-  url: https://kaigionrails.org
+  url: https://kaigionrails.org/2024/
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
 
