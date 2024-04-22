@@ -2553,8 +2553,8 @@
   end_date: 2024-06-15
   url: https://balticruby.org
   twitter: balticruby
-  cfp_phrase: CFP closes
-  cfp_date: 2024-04-07
+  cfp_open_date: 2024-02-26
+  cfp_close_date: 2024-04-07
   cfp_link: https://www.papercall.io/balticruby
 
 - name: Ruby Unconf 2024
@@ -2582,8 +2582,8 @@
   end_date: 2024-07-27
   url: https://rubyconf.africa/
   twitter: ruby_african
-  cfp_phrase: CFP closes
-  cfp_date: 2024-04-30
+  cfp_open_date: 2024-03-20
+  cfp_close_date: 2024-04-30
   cfp_link: https://www.papercall.io/rubyconfafrica2024
 
 - name: Madison+ Ruby 2024
@@ -2592,8 +2592,8 @@
   end_date: 2024-08-02
   url: https://madisonruby.com
   twitter: madisonruby
-  cfp_phrase: CFP closes
-  cfp_date: 2024-04-30
+  cfp_open_date: 2024-03-19
+  cfp_close_date: 2024-04-30
   cfp_link: https://cfp.madisonruby.com/events/2024/
 
 - name: Rails Camp USA 2024
@@ -2621,8 +2621,8 @@
   url: https://friendlyrb.com/
   twitter: friendlyrb
   mastodon: https://ruby.social/@friendlyrb
-  cfp_phrase: CFP closes
-  cfp_date: 2024-08-01
+  cfp_open_date: 2024-03-29
+  cfp_close_date: 2024-08-01
   cfp_link: https://friendlyrb.com/cfp
 
 - name: Rails World 2024
@@ -2641,8 +2641,8 @@
   end_date: 2024-10-18
   url: https://www.rubyfuza.org
   twitter: rubyfuza
-  cfp_phrase: CFP closes
-  cfp_date: 2024-08-10
+  cfp_open_date: 2023-12-05
+  cfp_close_date: 2024-08-10
   cfp_link: https://www.papercall.io/rubyfuza-2024
 
 - name: RubyConf 2024
@@ -2660,9 +2660,9 @@
   url: https://reddotrubyconf.com
   twitter: reddotrubyconf
   mastodon: https://ruby.social/@reddotrubyconf
-  cfp_phrase: CFP closes
-  cfp_date: 2024-06-01
   cfp_link: https://reddotrubyconf.com/papers/new
+  cfp_open_date: 2024-03-22
+  cfp_close_date: 2024-06-01
 
 - name: Kaigi on Rails 2024
   location: Tokyo, Japan
@@ -2679,5 +2679,5 @@
   url: https://rockymtnruby.dev/
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymntruby
-  cfp_phrase: CFP opens
-  cfp_date: 2024-05-15
+  cfp_open_date: 2024-05-15
+  cfp_close_date: 2024-06-30
