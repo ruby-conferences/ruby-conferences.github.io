@@ -11,6 +11,13 @@ collaboratively with the Ruby community. Updates are sometimes posted to
 [r]: https://rubyconferences.org/
 [t]: https://twitter.com/rubyconferences
 
+## ICS Calendar Feeds
+
+This page publishes `.ics` feed files for inclusion in personal calendars:
+
+- [`calendar.ics`](https://rubyconferences.org/calendar.ics) for the events only
+- [`cfp.ics`](https://rubyconferences.org/cfp.ics) for the CFP open/close dates
+
 ## Eligible Conferences
 
 Focus is a goal of this project and as a result, only conferences that are
