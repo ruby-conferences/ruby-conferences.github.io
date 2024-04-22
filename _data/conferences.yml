@@ -2576,6 +2576,17 @@
   cfp_close_date: 2024-02-29
   cfp_link: https://forms.reform.app/goodscary/brighton-ruby-2024-cfp/gci0d6
 
+- name: RedDotRubyConf 2024
+  location: Singapore
+  start_date: 2024-07-25
+  end_date: 2024-07-26
+  url: https://reddotrubyconf.com
+  twitter: reddotrubyconf
+  mastodon: https://ruby.social/@reddotrubyconf
+  cfp_link: https://reddotrubyconf.com/papers/new
+  cfp_open_date: 2024-03-22
+  cfp_close_date: 2024-06-01
+
 - name: RubyConf Africa 2024
   location: Nairobi, Kenya
   start_date: 2024-07-26
@@ -2645,33 +2656,6 @@
   cfp_close_date: 2024-08-10
   cfp_link: https://www.papercall.io/rubyfuza-2024
 
-- name: RubyConf 2024
-  location: Chicago, IL
-  start_date: 2024-11-13
-  end_date: 2024-11-15
-  url: https://rubyconf.org
-  twitter: rubyconf
-  mastodon: https://ruby.social/@rubyconf
-
-- name: RedDotRubyConf 2024
-  location: Singapore
-  start_date: 2024-07-25
-  end_date: 2024-07-26
-  url: https://reddotrubyconf.com
-  twitter: reddotrubyconf
-  mastodon: https://ruby.social/@reddotrubyconf
-  cfp_link: https://reddotrubyconf.com/papers/new
-  cfp_open_date: 2024-03-22
-  cfp_close_date: 2024-06-01
-
-- name: Kaigi on Rails 2024
-  location: Tokyo, Japan
-  start_date: 2024-10-25
-  end_date: 2024-10-26
-  url: https://kaigionrails.org
-  twitter: kaigionrails
-  mastodon: https://ruby.social/@kaigionrails
-
 - name: Rocky Mountain Ruby 2024
   location: Boulder, Colorado
   start_date: 2024-10-03
@@ -2681,3 +2665,19 @@
   mastodon: https://ruby.social/@rockymntruby
   cfp_open_date: 2024-05-15
   cfp_close_date: 2024-06-30
+
+- name: Kaigi on Rails 2024
+  location: Tokyo, Japan
+  start_date: 2024-10-25
+  end_date: 2024-10-26
+  url: https://kaigionrails.org
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
+- name: RubyConf 2024
+  location: Chicago, IL
+  start_date: 2024-11-13
+  end_date: 2024-11-15
+  url: https://rubyconf.org
+  twitter: rubyconf
+  mastodon: https://ruby.social/@rubyconf
