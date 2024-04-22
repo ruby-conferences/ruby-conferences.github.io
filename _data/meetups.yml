@@ -131,6 +131,13 @@
   end_time: 21:00:00 PDT
   url: https://lu.ma/r6d0lghm
 
+- name: Ruby::AZ - Tips and Techniques for Enhanced Programming Productivity
+  location: Chandler, AZ
+  date: 2024-03-28
+  start_time: 18:00:00 MST
+  end_time: 20:00:00 MST
+  url: https://www.meetup.com/ruby-az/events/299773440
+
 - name: Paris.rb
   location: Paris, France
   date: 2024-04-02
@@ -165,6 +172,13 @@
   start_time: 19:00:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/299288679
+
+- name: Ruby::AZ - Introduction to Turbo in Rails 7
+  location: Chandler, AZ
+  date: 2024-04-18
+  start_time: 18:00:00 MST
+  end_time: 20:00:00 MST
+  url: https://www.meetup.com/ruby-az/events/300435419
 
 - name: LA Ruby - Relaunch Social 2024!!
   location: Los Angeles, CA
