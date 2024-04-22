@@ -1,9 +1,5 @@
 # Ruby Conferences
 
-[![Build Status](https://travis-ci.org/ruby-conferences/ruby-conferences.github.io.svg)][travis]
-
-[travis]: https://travis-ci.org/ruby-conferences/ruby-conferences.github.io
-
 [RubyConferences.org][r] is a simple list of Ruby conferences, published
 collaboratively with the Ruby community. Updates are sometimes posted to
 [@rubyconferences][t].
