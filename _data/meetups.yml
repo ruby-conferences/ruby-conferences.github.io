@@ -236,6 +236,13 @@
   end_time: 21:00:00 PDT
   url: https://lu.ma/sfruby-may24
 
+- name: Ruby AI Happy Hour
+  location: New York, NY
+  date: 2024-05-22
+  start_time: 17:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://lu.ma/cbeeanbk
+
 - name: Paris.rb
   location: Paris, France
   date: 2024-06-04
