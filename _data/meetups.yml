@@ -1,4 +1,4 @@
-- name: London Ruby User Group: January 2024 Meeting
+- name: "London Ruby User Group: January 2024 Meeting"
   location: London, UK
   date: 2024-01-08
   start_time: 18:00:00 GMT
@@ -26,7 +26,7 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/geneva-rb/events/297635660
 
-- name: NYC.rb - Mob Programming: Book Summarizer
+- name: "NYC.rb - Mob Programming: Book Summarizer"
   location: Online
   date: 2024-01-10
   start_time: 17:30:00 EST
@@ -75,7 +75,7 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/geneva-rb/events/297635673
 
-- name: London Ruby User Group: February 2024 Meeting
+- name: "London Ruby User Group: February 2024 Meeting"
   location: London, UK
   date: 2024-02-12
   start_time: 18:00:00 GMT
@@ -89,7 +89,7 @@
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/298024752
 
-- name: NYC.rb - Mob Programming: Book Summarizer (continued)
+- name: "NYC.rb - Mob Programming: Book Summarizer (continued)"
   location: Online
   date: 2024-02-14
   start_time: 17:30:00 EST
@@ -117,7 +117,7 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/297635680
 
-- name: London Ruby User Group: March 2024 Meeting
+- name: "London Ruby User Group: March 2024 Meeting"
   location: London, UK
   date: 2024-03-11
   start_time: 18:00:00 GMT
@@ -173,7 +173,7 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/299466405
 
-- name: London Ruby User Group: April 2024 Meeting
+- name: "London Ruby User Group: April 2024 Meeting"
   location: London, UK
   date: 2024-04-08
   start_time: 18:00:00 BST
@@ -243,7 +243,7 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/300166981
 
-- name: London Ruby User Group: May 2024 Meeting
+- name: "London Ruby User Group: May 2024 Meeting"
   location: London, UK
   date: 2024-05-13
   start_time: 18:00:00 BST
