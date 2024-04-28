@@ -54,6 +54,13 @@
   end_time: 22:15:00 CET
   url: https://www.meetup.com/paris_rb/events/297791270
 
+- name: Ruby in London with Builder.ai
+  location: London, UK
+  date: 2024-02-07
+  start_time: 17:30:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://www.meetup.com/ruby-in-london/events/297633001
+
 - name: Geneva.rb - Share Your Favorite Gem, Tip, or Trick!
   location: Geneva, Switzerland
   date: 2024-02-07
@@ -193,6 +200,13 @@
   start_time: 18:00:00 CDT
   end_time: 20:00:00 CDT
   url: https://www.meetup.com/chicagoruby/events/300391251
+
+- name: Ruby in London with Mindful Chef
+  location: London, UK
+  date: 2024-05-01
+  start_time: 17:30:00 BST
+  end_time: 20:00:00 BST
+  url: https://www.meetup.com/ruby-in-london/events/299767863
 
 - name: Paris.rb
   location: Paris, France
