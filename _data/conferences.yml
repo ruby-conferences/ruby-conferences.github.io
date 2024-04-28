@@ -2513,7 +2513,7 @@
   location: Sofia, Bulgaria
   start_date: 2024-04-26
   end_date: 2024-04-27
-  url: https://balkanruby.com
+  url: https://balkanruby.com/2024
   twitter: balkanruby
   cfp_open_date: 2023-11-20
   cfp_close_date: 2024-02-02
@@ -2714,3 +2714,10 @@
   url: https://rubyconf.org
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
+
+- name: Balkan Ruby 2025
+  location: Sofia, Bulgaria
+  start_date: 2025-04-25
+  end_date: 2025-04-26
+  url: https://balkanruby.com
+  twitter: balkanruby
