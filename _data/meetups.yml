@@ -1,3 +1,10 @@
+- name: London Ruby User Group: January 2024 Meeting
+  location: London, UK
+  date: 2024-01-08
+  start_time: 18:00:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://lrug.org/meetings/2024/january
+
 - name: Paris.rb
   location: Paris, France
   date: 2024-01-09
@@ -68,6 +75,13 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/geneva-rb/events/297635673
 
+- name: London Ruby User Group: February 2024 Meeting
+  location: London, UK
+  date: 2024-02-12
+  start_time: 18:00:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://lrug.org/meetings/2024/february
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-02-14
@@ -102,6 +116,13 @@
   start_time: 19:00:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/297635680
+
+- name: London Ruby User Group: March 2024 Meeting
+  location: London, UK
+  date: 2024-03-11
+  start_time: 18:00:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://lrug.org/meetings/2024/march
 
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
@@ -151,6 +172,13 @@
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/299466405
+
+- name: London Ruby User Group: April 2024 Meeting
+  location: London, UK
+  date: 2024-04-08
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/april
 
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
@@ -214,6 +242,13 @@
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/300166981
+
+- name: London Ruby User Group: May 2024 Meeting
+  location: London, UK
+  date: 2024-05-13
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/may
 
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
