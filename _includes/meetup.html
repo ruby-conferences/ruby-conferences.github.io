@@ -10,5 +10,8 @@
   <ul>
     <li>{{ event.date | date: "%B %-d, %Y" }}</li>
     <li>{{ event.location }}</li>
+    {% if event.url %}
+      <li><a href="{{ event.url }}">Website</a></li>
+    {% endif %}
   </ul>
 </dd>
