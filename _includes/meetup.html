@@ -1,0 +1,17 @@
+<dt>
+  {% if meetup.url %}
+    <a href="{{ meetup.url }}">{{ meetup.name }}</a>
+  {% else %}
+    <a>{{ meetup.name }}</a>
+  {% endif %}
+</dt>
+
+<dd>
+  <ul>
+    <li>{{ meetup.date | date: "%B %-d, %Y" }}</li>
+    <li>{{ meetup.location }}</li>
+    {% if meetup.url %}
+      <li><a href="{{ meetup.url }}">Website</a></li>
+    {% endif %}
+  </ul>
+</dd>
