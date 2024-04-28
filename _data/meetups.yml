@@ -277,7 +277,7 @@
   start_time: 19:00:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/299288843
-
+  
 - name: NYC.rb - Mob Programming - Turbo!
   location: Online
   date: 2024-05-15
@@ -452,3 +452,18 @@
   start_time: 19:00:00 CET
   end_time: 21:30:00 CET
   url: https://www.rug-b.de/events/february-meetup-2024-769
+
+- name: AustinRB/Austin on Rails - Debugging with ruby/debug
+  location: Austin, TX
+  date: 2024-05-14
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/297610740/
+
+- name: AustinRB/Austin on Rails - Ruby Social (Morning)
+  location: Austin, TX
+  date: 2024-05-30
+  start_time: 08:00:00 CDT
+  end_time: 10:00:00 CDT
+  url: https://www.meetup.com/austinrb/events/300256914/
+  
