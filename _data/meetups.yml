@@ -47,6 +47,13 @@
   end_time: 20:00:00 CST
   url: https://www.meetup.com/chicagoruby/events/298091952
 
+- name: "Ruby User Group Berlin: February Meetup 2024"
+  location: Berlin, Germany
+  date: 2024-02-01
+  start_time: 19:00:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.rug-b.de/events/february-meetup-2024-769
+
 - name: ChicagoRuby - Jason Swett "How to Write Meaningful Tests"
   location: Chicago, IL
   date: 2024-02-05
@@ -116,6 +123,13 @@
   start_time: 19:00:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/297635680
+
+- name: "Ruby User Group Berlin: March Meetup 2024"
+  location: Berlin, Germany
+  date: 2024-03-07
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.rug-b.de/events/march-meetup-2024-771
 
 - name: "London Ruby User Group: March 2024 Meeting"
   location: London, UK
@@ -431,3 +445,10 @@
   start_time: 17:30:00 EST
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/qvfsktygcqbxb
+
+- name: "Ruby User Group Berlin: February Meetup 2024"
+  location: Online
+  date: 2024-02-01
+  start_time: 19:00:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.rug-b.de/events/february-meetup-2024-769
