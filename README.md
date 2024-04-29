@@ -29,6 +29,8 @@ but it's probably not a Ruby conference.
 
 The list of events is driven by the conferences file in the `_data` directory - if you have an update for those things, just change the YAML and send a PR.
 
+**Conferences**
+
 The file to be changed is `_data/conferences.yml`. It is NOT order-dependent.
 Put your conference in the YAML file at the end.
 The page will sort the conferences by `start_date`.
@@ -57,6 +59,26 @@ Extra keys for the upcoming events:
 Extra keys for the past events:
 
 * `video_link`: A url to the videos for the event.
+
+**Meetups**
+
+The file to be changed is `_data/meetups.yml`. It is NOT order-dependent.
+Put your meetup in the YAML file at the end.
+The page will sort the conferences by `date`.
+
+Here is a list of the keys that can be used:
+
+* `name`: The official name of the event
+* `location`: When the event is in the US, this would be "City, State", for any
+  other country, use "City, Country".
+* `date`: The date of the event - ISO8601 formatted (yyyy-mm-dd).
+* `start_time`: The start time of the event - formatted as (hh:mm:ss ZZZ)
+  * hh - between 0 and 23
+  * mm - between 0 and 59
+  * ss - between 0 and 59
+  * ZZZ - timezone (e.g. CDT or EST)
+* `end_time`: The end time of the event - ISO8601 formatted as (hh:mm:ss ZZZ) using same values as `start_time`
+* `url`: The url for the event.
 
 ## Getting started
 
