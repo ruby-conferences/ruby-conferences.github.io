@@ -250,6 +250,13 @@
   end_time: 20:00:00 BST
   url: https://www.meetup.com/ruby-in-london/events/299767863
 
+- name: "Ruby User Group Berlin: May Meetup 2024"
+  location: Berlin, Germany
+  date: 2024-05-02
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/may-meetup-2024-776
+
 - name: Paris.rb
   location: Paris, France
   date: 2024-05-07
