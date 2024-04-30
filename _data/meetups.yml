@@ -5,6 +5,13 @@
   end_time: 20:00:00 GMT
   url: https://lrug.org/meetings/2024/january
 
+- name: Białystok Ruby Users Group (BRUG) - Lightning Talks edition
+  location: Białystok, Poland
+  date: 2024-01-09
+  start_time: 18:00:00 CET
+  end_time: 20:00:00 CET
+  url: https://www.meetup.com/polishrubyusergroup/events/298300747
+
 - name: Paris.rb
   location: Paris, France
   date: 2024-01-09
@@ -46,6 +53,13 @@
   start_time: 18:00:00 CST
   end_time: 20:00:00 CST
   url: https://www.meetup.com/chicagoruby/events/298091952
+
+- name: Poznań Ruby User Group (PRUG) - January 2024
+  location: Poznań, Poland
+  date: 2024-01-25
+  start_time: 18:00:00 CET
+  end_time: 20:00:00 CET
+  url: https://www.meetup.com/polishrubyusergroup/events/298459627
 
 - name: "Ruby User Group Berlin: February Meetup 2024"
   location: Berlin, Germany
@@ -103,6 +117,20 @@
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/298024751
 
+- name: Poznań Ruby User Group (PRUG) - February 2024
+  location: Poznań, Poland
+  date: 2024-02-22
+  start_time: 18:00:00 CET
+  end_time: 20:00:00 CET
+  url: https://www.meetup.com/polishrubyusergroup/events/298881192
+
+- name: Polish Ruby User Group (PLRUG) - Meetup February 2024
+  location: Warsaw, Poland
+  date: 2024-02-29
+  start_time: 18:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/polishrubyusergroup/events/299211327
+
 - name: Paris.rb
   location: Paris, France
   date: 2024-03-05
@@ -158,6 +186,13 @@
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/299222897
+
+- name: Polish Ruby User Group (PLRUG) - Meetup March 2024
+  location: Warsaw, Poland
+  date: 2024-03-21
+  start_time: 18:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/polishrubyusergroup/events/299748352
 
 - name: Geneva.rb - Contribute! (Dimiter Petrov)
   location: Geneva, Switzerland
@@ -221,6 +256,13 @@
   start_time: 19:00:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/299288679
+
+- name: Polish Ruby User Group (PLRUG) - Meetup April 2024
+  location: Warsaw, Poland
+  date: 2024-04-18
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/300326352
 
 - name: Ruby::AZ - Introduction to Turbo in Rails 7
   location: Chandler, AZ
