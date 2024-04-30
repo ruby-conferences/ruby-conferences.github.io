@@ -13,20 +13,23 @@
     <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
   {% endif %}
 
-  {% assign cfp_open_date = event.cfp_open_date | date: '%s' | plus: 0 %}
-  {% assign cfp_close_date = event.cfp_close_date | date: '%s' | plus: 0 %}
+  {% assign cfp_open_timestamp = event.cfp_open_date | date: '%s' | plus: 0 %}
+  {% assign cfp_close_timestamp = event.cfp_close_date | date: '%s' | plus: 0 %}
 
-  {% if event.cfp_open_date and cfp_open_date > now %}
+  {% assign cfp_open_date = event.cfp_open_date | date: '%Y-%m-%d' %}
+  {% assign cfp_close_date = event.cfp_close_date | date: '%Y-%m-%d' %}
+
+  {% if event.cfp_open_date and (cfp_open_timestamp >= now or cfp_open_date == today) %}
     {% if event.cfp_link %}
-      <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_open_date }}" data-phrase="{% if cfp_open_date > now %}CFP opens{% else %}CFP opened{% endif %}" target="_blank"></a>
-    {% elsif event.cfp_open_date %}
-      <div class="cfp" data-date="{{ event.cfp_open_date }}" data-phrase="{% if cfp_open_date > now %}CFP opens{% else %}CFP opened{% endif %}"></div>
+      <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_open_date }}" data-phrase="{% if cfp_open_tiemstamp >= now  or cfp_open_date == today %}CFP opens{% else %}CFP opened{% endif %}" target="_blank"></a>
+    {% else %}
+      <div class="cfp" data-date="{{ event.cfp_open_date }}" data-phrase="{% if cfp_open_timestamp >= now or cfp_open_date == today %}CFP opens{% else %}CFP opened{% endif %}"></div>
     {% endif %}
   {% elsif event.cfp_close_date %}
     {% if event.cfp_link %}
-      <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_close_date }}" data-phrase="{% if cfp_close_date > now %}CFP closes{% else %}CFP closed{% endif %}" target="_blank"></a>
-    {% elsif event.cfp_close_date %}
-      <div class="cfp" data-date="{{ event.cfp_close_date }}" data-phrase="{% if cfp_close_date > now %}CFP closes{% else %}CFP closed{% endif %}"></div>
+      <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_close_date }}" data-phrase="{% if cfp_close_timestamp >= now or cfp_close_date == today %}CFP closes{% else %}CFP closed{% endif %}" target="_blank"></a>
+    {% else %}
+      <div class="cfp" data-date="{{ event.cfp_close_date }}" data-phrase="{% if cfp_close_timestamp >= now or cfp_close_date == today %}CFP closes{% else %}CFP closed{% endif %}"></div>
     {% endif %}
   {% endif %}
 </dt>
