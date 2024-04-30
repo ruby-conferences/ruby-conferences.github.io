@@ -4,7 +4,9 @@ layout: default
 <article id="home">
   <dl>
     {% assign now = site.time | date: '%s' | plus: 0 %}
+    {% assign today = site.time | date: '%Y-%m-%d' %}
     {% assign conferences = site.data.conferences | sort: "start_date" %}
+
     {% for event in conferences %}
       {% assign start_date = event.start_date | date: '%s' | plus: 0 %}
       {% if start_date > now %}
