@@ -173,6 +173,13 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/297635680
 
+- name: Ruby Montevideo Meetup - March 2024
+  location: Montevideo, Uruguay
+  date: 2024-03-06
+  start_time: 19:00:00 UYT
+  end_time: 22:00:00 UYT
+  url: https://www.meetup.com/ruby-montevideo/events/299462022
+
 - name: "Ruby User Group Berlin: March Meetup 2024"
   location: Berlin, Germany
   date: 2024-03-07
@@ -235,6 +242,13 @@
   start_time: 18:00:00 MST
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/299773440
+
+- name: Ruby Montevideo Meetup - April 2024
+  location: Montevideo, Uruguay
+  date: 2024-04-01
+  start_time: 19:00:00 UYT
+  end_time: 22:00:00 UYT
+  url: https://www.meetup.com/ruby-montevideo/events/299957596
 
 - name: Paris.rb
   location: Paris, France
@@ -340,6 +354,13 @@
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/300166981
+
+- name: Ruby Montevideo Meetup - May 2024
+  location: Montevideo, Uruguay
+  date: 2024-05-09
+  start_time: 19:00:00 UYT
+  end_time: 22:00:00 UYT
+  url: https://www.meetup.com/ruby-montevideo/events/300576250
 
 - name: "London Ruby User Group: May 2024 Meeting"
   location: London, UK
