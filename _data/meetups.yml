@@ -61,6 +61,13 @@
   end_time: 20:00:00 CET
   url: https://www.meetup.com/polishrubyusergroup/events/298459627
 
+- name: Ruby Frankfurt Meetup - January 2024
+  location: Frankfurt am Main, Germany
+  date: 2024-01-30
+  start_time: 18:30:00 CET
+  end_time: 20:30:00 CET
+  url: https://www.meetup.com/frankfurt-ruby-meetup/events/298436132
+
 - name: "Ruby User Group Berlin: February Meetup 2024"
   location: Berlin, Germany
   date: 2024-02-01
@@ -249,6 +256,13 @@
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/299753087
+
+- name: Ruby Frankfurt Meetup - April 2024
+  location: Frankfurt am Main, Germany
+  date: 2024-04-16
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/frankfurt-ruby-meetup/events/299586276
 
 - name: Geneva.rb - Revisiting the Hotwire Landscape after Turbo 8 (Marco Roth)
   location: Geneva, Switzerland
