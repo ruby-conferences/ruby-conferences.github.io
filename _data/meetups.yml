@@ -54,6 +54,13 @@
   end_time: 20:00:00 CST
   url: https://www.meetup.com/chicagoruby/events/298091952
 
+- name: "Toronto Ruby - Rails and the Ruby Garbage Collector: How to Speed Up Your Rails App"
+  location: Toronto, Canada
+  date: 2024-01-24
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://toronto-ruby.com/past-events
+
 - name: Poznań Ruby User Group (PRUG) - January 2024
   location: Poznań, Poland
   date: 2024-01-25
@@ -137,6 +144,13 @@
   start_time: 18:00:00 CET
   end_time: 21:00:00 CET
   url: https://www.meetup.com/polishrubyusergroup/events/299211327
+
+- name: Toronto Ruby - All About the Ruby LSP
+  location: Toronto, Canada
+  date: 2024-02-29
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://toronto-ruby.com/past-events
 
 - name: Paris.rb
   location: Paris, France
@@ -228,6 +242,13 @@
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/299466405
+
+- name: Toronto Ruby - Using Rails introspection to supercharge your editor
+  location: Toronto, Canada
+  date: 2024-04-03
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://toronto-ruby.com/past-events
 
 - name: "London Ruby User Group: April 2024 Meeting"
   location: London, UK
