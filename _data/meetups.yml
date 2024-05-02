@@ -564,3 +564,24 @@
   start_time: 17:30:00 EST
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/qvfsktygcqbxb
+
+- name: WNB.rb
+  location: Online
+  date: 2024-05-28
+  start_time: 12:00:00 EDT
+  end_time: 13:00:00 EDT
+  url: https://www.wnb-rb.dev/meetups
+
+- name: WNB.rb
+  location: Online
+  date: 2024-06-25
+  start_time: 12:00:00 EDT
+  end_time: 13:00:00 EDT
+  url: https://www.wnb-rb.dev/meetups
+
+- name: WNB.rb
+  location: Online
+  date: 2024-07-30
+  start_time: 12:00:00 EDT
+  end_time: 13:00:00 EDT
+  url: https://www.wnb-rb.dev/meetups
