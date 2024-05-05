@@ -397,9 +397,9 @@
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/297610740
 
-- name: NYC.rb - Mob Programming - Turbo!
+- name: NYC.rb - Mob Programming - Turbo Native!
   location: Online
-  date: 2024-05-15
+  date: 2024-05-08
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/299736979
@@ -460,9 +460,9 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/boulder_ruby_group/events/299591825
 
-- name: NYC.rb
+- name: NYC.rb - June 2024
   location: Online
-  date: 2024-06-16
+  date: 2024-06-19
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/300339701
@@ -481,7 +481,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/boulder_ruby_group/events/bbsqktygckbnb
 
-- name: NYC.rb
+- name: NYC.rb - July 2024
   location: Online
   date: 2024-07-17
   start_time: 17:30:00 EDT
@@ -509,7 +509,7 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/298503717
 
-- name: NYC.rb
+- name: NYC.rb - August 2024
   location: Online
   date: 2024-08-21
   start_time: 17:30:00 EDT
@@ -530,7 +530,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/boulder_ruby_group/events/bbsqktygcmbpb
 
-- name: NYC.rb
+- name: NYC.rb - September 2024
   location: Online
   date: 2024-09-18
   start_time: 17:30:00 EDT
@@ -551,21 +551,21 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/boulder_ruby_group/events/bbsqktygcnbmb
 
-- name: NYC.rb
+- name: NYC.rb - October 2024
   location: Online
   date: 2024-10-16
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/qvfsktygcnbvb
 
-- name: NYC.rb
+- name: NYC.rb - November 2024
   location: Online
   date: 2024-11-20
   start_time: 17:30:00 EST
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/qvfsktygcpbbc
 
-- name: NYC.rb
+- name: NYC.rb - December 2024
   location: Online
   date: 2024-12-18
   start_time: 17:30:00 EST
