@@ -474,6 +474,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/nnlgbtygckbmb
 
+- name: Ruby in London with BEAM
+  location: London, UK
+  date: 2024-07-10
+  start_time: 17:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://www.meetup.com/ruby-in-london/events/300777187
+
 - name: Boulder Ruby Group - Monthly Presentation Night
   location: Boulder, CO / Online
   date: 2024-07-10
