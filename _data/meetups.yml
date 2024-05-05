@@ -362,6 +362,13 @@
   end_time: 22:00:00 UYT
   url: https://www.meetup.com/ruby-montevideo/events/300576250
 
+- name: Ruby Fusion
+  location: Online
+  date: 2024-05-09
+  start_time: 21:00:00 EDT
+  end_time: 22:30:00 EDT
+  url: https://lu.ma/ruby_fusion
+
 - name: "London Ruby User Group: May 2024 Meeting"
   location: London, UK
   date: 2024-05-13
