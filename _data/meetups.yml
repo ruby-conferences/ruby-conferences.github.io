@@ -425,6 +425,13 @@
   end_time: 20:30:00 EDT
   url: https://lu.ma/cbeeanbk
 
+- name: Toronto Ruby - Spring edition!
+  location: Toronto, Canada
+  date: 2024-05-22
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://toronto-ruby.com/past-events
+
 - name: AustinRB/Austin on Rails - Ruby Social (Morning)
   location: Austin, TX
   date: 2024-05-30
