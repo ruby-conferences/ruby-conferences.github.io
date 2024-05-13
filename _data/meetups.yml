@@ -676,3 +676,10 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://bluegrassruby.club/
+
+- name: Frevo on Rails - May
+  location: Recife, Brazil
+  date: 2024-05-29
+  start_time: 18:00:00 BRT
+  end_time: 22:00:00 BRT
+  url: http://frevoonrails.com.br/posts,/events/2024/05/10/encontro-de-maio-2024/
