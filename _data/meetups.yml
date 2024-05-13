@@ -432,6 +432,13 @@
   end_time: 21:00:00 EST
   url: https://toronto-ruby.com/past-events
 
+- name: LA Ruby - Nil - Nothing is Easy, Is It?
+  location: Los Angeles, CA
+  date: 2024-05-22
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/de-DE/laruby/events/300616988
+
 - name: AustinRB/Austin on Rails - Ruby Social (Morning)
   location: Austin, TX
   date: 2024-05-30
