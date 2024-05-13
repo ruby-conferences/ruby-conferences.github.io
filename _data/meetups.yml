@@ -439,6 +439,13 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/de-DE/laruby/events/300616988
 
+- name: Ruby::AZ - AI Moderation of User Generated Content with OpenAI
+  location: Chandler, AZ
+  date: 2024-05-23
+  start_time: 18:00:00 MST
+  end_time: 20:00:00 MST
+  url: https://www.meetup.com/ruby-az/events/300938990
+
 - name: AustinRB/Austin on Rails - Ruby Social (Morning)
   location: Austin, TX
   date: 2024-05-30
