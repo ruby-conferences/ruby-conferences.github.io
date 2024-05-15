@@ -481,6 +481,13 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/boulder_ruby_group/events/299591825
 
+- name: SF Bay Area Ruby Meetup @ ProductBoard
+  location: San Francisco, CA
+  date: 2024-06-13
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://lu.ma/sfruby-june24
+
 - name: "NYC.rb - Obie Fernandez: Ruby and Rails & AI: Leading Prompt-Driven Development"
   location: Online
   date: 2024-06-19
