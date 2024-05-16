@@ -697,3 +697,18 @@
   start_time: 18:00:00 BRT
   end_time: 22:00:00 BRT
   url: http://frevoonrails.com.br/posts,/events/2024/05/10/encontro-de-maio-2024/
+
+- name: AustinRB/Austin on Rails - Contorted Frameworks
+  location: Austin, TX
+  date: 2024-06-11
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/297610742/
+
+- name: AustinRB/Austin on Rails - Ruby Social (Evening)
+  location: Austin, TX
+  date: 2024-06-27
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/300256966/
+
