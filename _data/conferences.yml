@@ -2691,8 +2691,8 @@
 
 - name: Rocky Mountain Ruby 2024
   location: Boulder, Colorado
-  start_date: 2024-10-03
-  end_date: 2023-10-04
+  start_date: 2024-10-07
+  end_date: 2023-10-08
   url: https://rockymtnruby.dev/
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymntruby
