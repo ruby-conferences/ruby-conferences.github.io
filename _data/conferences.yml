@@ -2722,3 +2722,11 @@
   end_date: 2025-04-26
   url: https://balkanruby.com
   twitter: balkanruby
+
+- name: Helvetic Ruby 2025
+  location: Geneva, Switzerland
+  start_date: 2025-05-23
+  end_date: 2025-05-23
+  url: https://helvetic-ruby.ch
+  twitter: helvetic_ruby
+  mastodon: https://ruby.social/@helvetic_ruby
