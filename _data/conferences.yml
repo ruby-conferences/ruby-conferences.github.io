@@ -2716,6 +2716,14 @@
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
 
+- name: RubyKaigi 2025
+  location: Matsuyama, Ehime, Japan
+  start_date: 2025-04-16
+  end_date: 2025-04-18
+  url: https://rubykaigi.org
+  twitter: rubykaigi
+  mastodon: https://ruby.social/@rubykaigi
+
 - name: Balkan Ruby 2025
   location: Sofia, Bulgaria
   start_date: 2025-04-25
