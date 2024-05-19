@@ -439,6 +439,13 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/de-DE/laruby/events/300616988
 
+- name: ChicagoRuby - Coffee + Code @ Swadesi Cafe
+  location: Chicago, IL
+  date: 2024-05-23
+  start_time: 14:00:00 CDT
+  end_time: 16:00:00 CDT
+  url: https://www.meetup.com/chicagoruby/events/301104045
+
 - name: Ruby::AZ - AI Moderation of User Generated Content with OpenAI
   location: Chandler, AZ
   date: 2024-05-23
@@ -711,4 +718,3 @@
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/300256966/
-
