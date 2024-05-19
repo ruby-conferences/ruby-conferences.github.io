@@ -131,6 +131,13 @@
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/298024751
 
+- name: brooklyn.rb - rails new happy_hack_hour
+  location: Brooklyn, NY
+  date: 2024-02-15
+  start_time: 17:00:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/brooklyn-rb/events/299183748
+
 - name: Poznań Ruby User Group (PRUG) - February 2024
   location: Poznań, Poland
   date: 2024-02-22
@@ -215,12 +222,26 @@
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/299222897
 
+- name: brooklyn.rb - rails new happy_hack_hour
+  location: Brooklyn, NY
+  date: 2024-03-14
+  start_time: 17:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/brooklyn-rb/events/299260716
+
 - name: Polish Ruby User Group (PLRUG) - Meetup March 2024
   location: Warsaw, Poland
   date: 2024-03-21
   start_time: 18:00:00 CET
   end_time: 21:00:00 CET
   url: https://www.meetup.com/polishrubyusergroup/events/299748352
+
+- name: brooklyn.rb - rails g talk --title="Turbo 8" --speaker="Fernando Ramirez"
+  location: Brooklyn, NY
+  date: 2024-03-21
+  start_time: 17:30:00 EDT
+  end_time: 19:30:00 EDT
+  url: https://www.meetup.com/brooklyn-rb/events/299261125
 
 - name: Geneva.rb - Contribute! (Dimiter Petrov)
   location: Geneva, Switzerland
@@ -292,6 +313,13 @@
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/299753087
 
+- name: brooklyn.rb - rails new happy_hack_hour
+  location: Brooklyn, NY
+  date: 2024-04-11
+  start_time: 17:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/brooklyn-rb/events/299260755
+
 - name: Ruby Frankfurt Meetup - April 2024
   location: Frankfurt am Main, Germany
   date: 2024-04-16
@@ -312,6 +340,13 @@
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/300326352
+
+- name: brooklyn.rb - Recurse Center + Approximate Formal Modeling w/ Brock Wilcox
+  location: Brooklyn, NY
+  date: 2024-04-18
+  start_time: 17:30:00 EDT
+  end_time: 19:30:00 EDT
+  url: https://www.meetup.com/brooklyn-rb/events/300384805
 
 - name: Ruby::AZ - Introduction to Turbo in Rails 7
   location: Chandler, AZ
@@ -368,6 +403,13 @@
   start_time: 21:00:00 EDT
   end_time: 22:30:00 EDT
   url: https://lu.ma/ruby_fusion
+
+- name: brooklyn.rb - rails new happy_hack_hour
+  location: Brooklyn, NY
+  date: 2024-05-09
+  start_time: 17:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/brooklyn-rb/events/299260764
 
 - name: "London Ruby User Group: May 2024 Meeting"
   location: London, UK
