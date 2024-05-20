@@ -495,6 +495,13 @@
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/300938990
 
+- name: "Krakow Ruby Users Group - KRUG #1 2024"
+  location: Krakow, Poland
+  date: 2024-05-28
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/krakow-ruby-users-group/events/300990948
+
 - name: AustinRB/Austin on Rails - Ruby Social (Morning)
   location: Austin, TX
   date: 2024-05-30
