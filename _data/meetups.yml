@@ -774,3 +774,10 @@
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/300256966/
+
+- name: Ruby Frankfurt Meetup - Summer Edition - June 2024
+  location: Frankfurt, Germany
+  date: 2024-06-17
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/frankfurt-ruby-meetup/events/301216095
