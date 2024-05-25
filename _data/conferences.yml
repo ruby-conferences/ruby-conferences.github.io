@@ -2304,7 +2304,7 @@
   location: Warsaw, Poland
   start_date: 2023-07-21
   end_date: 2023-07-21
-  url: https://www.rubycommunityconference.com
+  url: https://www.rubycommunityconference.com/summer2023.html
   twitter: visualitypl
   video_link: https://www.youtube.com/playlist?list=PLvMNoWK93wtmlQyKf59wu0IZk9N7ZpWpJ
 
@@ -2462,7 +2462,7 @@
   location: Warsaw, Poland
   start_date: 2024-02-02
   end_date: 2024-02-02
-  url: https://www.rubycommunityconference.com
+  url: https://www.rubycommunityconference.com/winter2024
   twitter: visualitypl
 
 - name: Sin City Ruby 2024
@@ -2609,6 +2609,13 @@
   cfp_close_date: 2024-02-29
   cfp_link: https://forms.reform.app/goodscary/brighton-ruby-2024-cfp/gci0d6
 
+- name: Ruby Warsaw Community Conference 2024 Summer Edition
+  location: Warsaw, Poland
+  start_date: 2024-07-19
+  end_date: 2024-07-19
+  url: https://www.rubycommunityconference.com
+  twitter: visualitypl
+
 - name: RedDotRubyConf 2024
   location: Singapore
   start_date: 2024-07-25
@@ -2627,7 +2634,7 @@
   url: https://rubyconf.africa/
   twitter: ruby_african
   cfp_open_date: 2024-03-20
-  cfp_close_date: 2024-04-30
+  cfp_close_date: 2024-05-31
   cfp_link: https://www.papercall.io/rubyconfafrica2024
 
 - name: Madison+ Ruby 2024
@@ -2691,13 +2698,14 @@
 
 - name: Rocky Mountain Ruby 2024
   location: Boulder, Colorado
-  start_date: 2024-10-03
-  end_date: 2023-10-04
+  start_date: 2024-10-07
+  end_date: 2023-10-08
   url: https://rockymtnruby.dev/
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymntruby
   cfp_open_date: 2024-05-15
   cfp_close_date: 2024-06-30
+  cfp_link: https://sessionize.com/rocky-mountain-ruby
 
 - name: Kaigi on Rails 2024
   location: Tokyo, Japan
@@ -2715,9 +2723,25 @@
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
 
+- name: RubyKaigi 2025
+  location: Matsuyama, Ehime, Japan
+  start_date: 2025-04-16
+  end_date: 2025-04-18
+  url: https://rubykaigi.org
+  twitter: rubykaigi
+  mastodon: https://ruby.social/@rubykaigi
+
 - name: Balkan Ruby 2025
   location: Sofia, Bulgaria
   start_date: 2025-04-25
   end_date: 2025-04-26
   url: https://balkanruby.com
   twitter: balkanruby
+
+- name: Helvetic Ruby 2025
+  location: Geneva, Switzerland
+  start_date: 2025-05-23
+  end_date: 2025-05-23
+  url: https://helvetic-ruby.ch
+  twitter: helvetic_ruby
+  mastodon: https://ruby.social/@helvetic_ruby
