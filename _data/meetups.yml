@@ -523,6 +523,13 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/299288852
 
+- name: Ruby Fusion - Function Composition
+  location: Online
+  date: 2024-06-06
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://lu.ma/ruby_fusion
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-06-11
