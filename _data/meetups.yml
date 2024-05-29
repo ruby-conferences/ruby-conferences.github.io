@@ -544,6 +544,13 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/300166992
 
+- name: Madison + Ruby + NYC @ Domino
+  location: Brooklyn, NY
+  date: 2024-06-04
+  start_time: 18:00:00 EDT
+  end_time: 19:30:00 EDT
+  url: https://lu.ma/j9qbs1ov
+
 - name: Geneva.rb - Semantic search in RubyOnRails with GPT-4 (Yannis Jaquet, EPFL)
   location: Geneva, Switzerland
   date: 2024-06-05
