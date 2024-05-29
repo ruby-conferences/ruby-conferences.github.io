@@ -551,6 +551,13 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/299288852
 
+- name: "Ruby User Group Berlin: June Meetup 2024"
+  location: Berlin, Germany
+  date: 2024-06-06
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/june-meetup-2024-781
+
 - name: Ruby Fusion - Function Composition
   location: Online
   date: 2024-06-06
