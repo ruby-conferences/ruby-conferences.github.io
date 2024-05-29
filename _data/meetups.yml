@@ -68,6 +68,13 @@
   end_time: 20:00:00 CET
   url: https://www.meetup.com/polishrubyusergroup/events/298459627
 
+- name: Upstate Ruby - Calm Rails Upgrades
+  location: Greenville, SC
+  date: 2024-01-25
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/upstate-ruby/events/298465949
+
 - name: Ruby Frankfurt Meetup - January 2024
   location: Frankfurt am Main, Germany
   date: 2024-01-30
@@ -200,6 +207,13 @@
   start_time: 18:00:00 GMT
   end_time: 20:00:00 GMT
   url: https://lrug.org/meetings/2024/march
+
+- name: "Upstate Ruby - Tech Topics: Flaky Tests"
+  location: Greenville, SC
+  date: 2024-03-12
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/upstate-ruby/events/299496096
 
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
@@ -369,6 +383,13 @@
   end_time: 20:00:00 CDT
   url: https://www.meetup.com/chicagoruby/events/300391251
 
+- name: Upstate Ruby - Dev tooling show and tell
+  location: Greenville, SC
+  date: 2024-04-30
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/upstate-ruby/events/300290562
+
 - name: Ruby in London with Mindful Chef
   location: London, UK
   date: 2024-05-01
@@ -508,6 +529,13 @@
   start_time: 08:00:00 CDT
   end_time: 10:00:00 CDT
   url: https://www.meetup.com/austinrb/events/300256914
+
+- name: "Upstate Ruby - Tech Topics: Hotwire"
+  location: Greenville, SC
+  date: 2024-05-30
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/upstate-ruby/events/301117587
 
 - name: Paris.rb
   location: Paris, France
