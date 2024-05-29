@@ -2723,6 +2723,13 @@
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
 
+- name: RubyWorld Conference 2024
+  location: Matsue, Japan
+  start_date: 2024-12-05
+  end_date: 2024-12-06
+  url: https://2024.rubyworld-conf.org/en/
+  twitter: rubyworldconf
+
 - name: RubyKaigi 2025
   location: Matsuyama, Ehime, Japan
   start_date: 2025-04-16
