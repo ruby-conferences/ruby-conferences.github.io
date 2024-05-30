@@ -579,6 +579,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/298382216
 
+- name: Barcelona.rb - Meetup June
+  location: Barcelona, Spain
+  date: 2024-06-12
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/barcelona-rb/events/301293554
+
 - name: Boulder Ruby Group - Monthly Presentation Night
   location: Boulder, CO / Online
   date: 2024-06-12
