@@ -844,3 +844,11 @@
   start_time: 18:00:00 HKT
   end_time: 20:00:00 HKT
   url: https://www.meetup.com/ruby-phil/events/301171721
+
+- name: "London Ruby User Group: June 2024 Meeting"
+  location: London, UK
+  date: 2024-06-10
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/june
+
