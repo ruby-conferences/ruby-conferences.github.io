@@ -551,6 +551,13 @@
   end_time: 19:30:00 EDT
   url: https://lu.ma/j9qbs1ov
 
+- name: Latvian Ruby Community - Ruby Community Meetup
+  location: Riga, Latvia
+  date: 2024-06-04
+  start_time: 17:00:00 EEST
+  end_time: 20:00:00 EEST
+  url: https://www.startuphouse.lv/event-details/ruby-community-meetup-1
+
 - name: Geneva.rb - Semantic search in RubyOnRails with GPT-4 (Yannis Jaquet, EPFL)
   location: Geneva, Switzerland
   date: 2024-06-05
