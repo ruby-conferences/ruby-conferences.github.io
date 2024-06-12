@@ -215,6 +215,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/upstate-ruby/events/299496096
 
+- name: Copenhagen Ruby Brigade - March Meetup
+  location: Copenhagen, Denmark
+  date: 2024-03-13
+  start_time: 17:00:00 CET
+  end_time: 20:00:00 CET
+  url: https://www.meetup.com/copenhagen-ruby-brigade/events/299619735
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-03-13
@@ -586,6 +593,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/298382216
 
+- name: Copenhagen Ruby Brigade - June Meetup
+  location: Copenhagen, Denmark
+  date: 2024-06-12
+  start_time: 17:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.copenhagenrb.dk
+
 - name: Barcelona.rb - Meetup June
   location: Barcelona, Spain
   date: 2024-06-12
@@ -865,4 +879,3 @@
   start_time: 18:00:00 BST
   end_time: 20:00:00 BST
   url: https://lrug.org/meetings/2024/june
-
