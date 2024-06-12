@@ -623,7 +623,7 @@
 
 - name: "NYC.rb - Obie Fernandez: Ruby and Rails & AI: Leading Prompt-Driven Development"
   location: Online
-  date: 2024-06-19
+  date: 2024-06-12
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/300339701
@@ -658,7 +658,7 @@
 
 - name: NYC.rb - July 2024
   location: Online
-  date: 2024-07-17
+  date: 2024-07-10
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/300339705
@@ -684,13 +684,6 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/298503717
 
-- name: NYC.rb - August 2024
-  location: Online
-  date: 2024-08-21
-  start_time: 17:30:00 EDT
-  end_time: 19:00:00 EDT
-  url: https://www.meetup.com/nyc-rb/events/qvfsktygclbcc
-
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-09-11
@@ -707,7 +700,7 @@
 
 - name: NYC.rb - September 2024
   location: Online
-  date: 2024-09-18
+  date: 2024-09-11
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/qvfsktygcmbxb
@@ -728,21 +721,21 @@
 
 - name: NYC.rb - October 2024
   location: Online
-  date: 2024-10-16
+  date: 2024-10-09
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/qvfsktygcnbvb
 
 - name: NYC.rb - November 2024
   location: Online
-  date: 2024-11-20
+  date: 2024-11-13
   start_time: 17:30:00 EST
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/qvfsktygcpbbc
 
 - name: NYC.rb - December 2024
   location: Online
-  date: 2024-12-18
+  date: 2024-12-11
   start_time: 17:30:00 EST
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/qvfsktygcqbxb
