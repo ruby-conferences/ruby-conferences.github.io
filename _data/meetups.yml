@@ -873,6 +873,20 @@
   end_time: 20:00:00 BST
   url: https://lrug.org/meetings/2024/june
 
+- name: "Lyon.rb - 2024.3 / Tous au SPA"
+  location: Lyon, France
+  date: 2024-03-12
+  start_time: 18:30:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.meetup.com/lyonrb/events/287815581
+
+- name: "Lyon.rb - 2024.6 / Lightning talks"
+  location: Lyon, France
+  date: 2024-07-09
+  start_time: 18:30:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.meetup.com/lyonrb/events/301316102
+
 - name: SF Bay Area Ruby Meetup in July @ Cisco Meraki
   location: San Francisco, CA
   date: 2024-07-18
