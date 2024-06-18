@@ -677,6 +677,13 @@
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062985
 
+- name: Ruby on Rails Switzerland - 20 Years of Rails
+  location: Zurich, Switzerland
+  date: 2024-07-24
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/rubyonrails-ch/events/301480681
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-08-14
