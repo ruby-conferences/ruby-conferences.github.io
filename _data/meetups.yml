@@ -901,6 +901,13 @@
   end_time: 21:30:00 CET
   url: https://www.meetup.com/lyonrb/events/287815581
 
+- name: "Madison+ Ruby + NYC @ Cisco Meraki"
+  location: New York, NY
+  date: 2024-07-09
+  start_time: 09:30:00 EDT
+  end_time: 11:00:00 EDT
+  url: https://lu.ma/4bliqbqr
+
 - name: "Lyon.rb - 2024.6 / Lightning talks"
   location: Lyon, France
   date: 2024-07-09
