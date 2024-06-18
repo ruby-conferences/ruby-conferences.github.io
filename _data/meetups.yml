@@ -635,7 +635,7 @@
   end_time: 19:30:00 EDT
   url: https://lu.ma/p53lc1vp
 
-- name: Ruby::AZ - Vite Ruby for your Rails app's frontend assets
+- name: "Ruby::AZ - Vite Ruby for your Rails app's frontend assets"
   location: Chandler, AZ
   date: 2024-06-20
   start_time: 18:00:00 MST
