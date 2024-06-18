@@ -642,6 +642,13 @@
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/301702012
 
+- name: ChicagoRuby - Madison+ Ruby + Chicago @ Chime
+  location: Chicago, IL
+  date: 2024-06-25
+  start_time: 18:00:00 CDT
+  end_time: 19:30:00 CDT
+  url: https://www.meetup.com/chicagoruby/events/301641748
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-07-09
