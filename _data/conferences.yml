@@ -2763,6 +2763,14 @@
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
 
+- name: Brighton Ruby 2025
+  location: Brighton, UK
+  start_date: 2025-06-19
+  end_date: 2025-06-19
+  url: https://brightonruby.com
+  twitter: brightonruby
+  mastodon: https://ruby.social/@brightonruby
+
 - name: Baltic Ruby 2025
   location: Riga, Latvia
   # TODO: update when dates are confirmed
