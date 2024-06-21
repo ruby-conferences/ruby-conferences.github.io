@@ -691,6 +691,13 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/301480681
 
+- name: Paris.rb - August Meetup
+  location: Paris, France
+  date: 2024-08-06
+  start_time: 19:15:00 CEST
+  end_time: 22:15:00 CEST
+  url: https://www.meetup.com/paris_rb/events/301437247
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-08-14
@@ -711,6 +718,13 @@
   start_time: 18:30:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/298503717
+
+- name: Paris.rb - September Meetup
+  location: Paris, France
+  date: 2024-09-03
+  start_time: 19:15:00 CEST
+  end_time: 22:15:00 CEST
+  url: https://www.meetup.com/paris_rb/events/301437249
 
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
