@@ -649,6 +649,13 @@
   end_time: 19:30:00 CDT
   url: https://www.meetup.com/chicagoruby/events/301641748
 
+- name: Paris.rb - July Meetup
+  location: Paris, France
+  date: 2024-07-02
+  start_time: 19:15:00 CEST
+  end_time: 22:15:00 CEST
+  url: https://www.meetup.com/paris_rb/events/301437243
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-07-09
