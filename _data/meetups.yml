@@ -177,7 +177,7 @@
   location: Zurich, Switzerland
   date: 2024-03-06
   start_time: 18:30:00 CET
-  end_time: 20:30:00 PDT
+  end_time: 20:30:00 CET
   url: https://www.meetup.com/rubyonrails-ch/events/298503697
 
 - name: Geneva.rb - Live load testing on a real production app (Alexis Bernard)
@@ -923,8 +923,15 @@
   url: https://lu.ma/bxzdp6mz
 
 - name: Houston Ruby - July 2024
-  location: Houston, TX 
+  location: Houston, TX
   date: 2024-07-10
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/houstonruby/events/301759244
+
+- name: Ruby on Rails Switzerland - Railshöck at On Running
+  location: Zurich, Switzerland
+  date: 2024-11-27
+  start_time: 18:30:00 CET
+  end_time: 20:30:00 CET
+  url: https://www.meetup.com/rubyonrails-ch/events/301751612
