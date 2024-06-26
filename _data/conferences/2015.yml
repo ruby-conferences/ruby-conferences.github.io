@@ -1,0 +1,339 @@
+- name: Garden City RubyConf
+  location: Bangalore, India
+  start_date: 2015-01-10
+  end_date: 2015-01-10
+  url: http://web.archive.org/web/20161226185837/http://2015.gardencityruby.org:80/
+  twitter: gardencityrb
+  video_link: http://confreaks.tv/events/gardencityrb2015
+
+- name: Ruby devroom at FOSDEM
+  location: Brussels, Belgium
+  start_date: 2015-01-31
+  end_date: 2015-02-01
+  url: http://fosdem-ruby.github.io/
+  twitter: ruby_fosdem
+
+- name: Ruby Conf Australia
+  location: Melbourne, Australia
+  start_date: 2015-02-04
+  end_date: 2015-02-07
+  url: https://rubyconf.org.au/2015
+  twitter: rubyconf_au
+  video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc2uUcqG2wjZ1ppt-TkFG-gm
+
+- name: Rubyfuza
+  location: Cape Town, South Africa
+  start_date: 2015-02-05
+  end_date: 2015-02-06
+  url: http://www.rubyfuza.org/2015/
+  twitter: rubyfuza
+  video_link: https://www.youtube.com/playlist?list=PLI113oIao_x63Ne1S8ObKYQwbPRcpb8kN
+
+- name: Ruby on Ales
+  location: Bend, OR
+  start_date: 2015-03-05
+  end_date: 2015-03-06
+  twitter: rbonales
+  video_link: http://confreaks.tv/events/roa2015
+
+- name: Tropical Ruby
+  location: Porto de Galinhas, Brazil
+  start_date: 2015-03-05
+  end_date: 2015-03-08
+  url: http://tropicalrb.com/
+  twitter: tropicalrb
+  video_link: http://tropicalrb.com/en/videos/
+
+- name: MountainWest RubyConf
+  location: Salt Lake City, UT
+  start_date: 2015-03-09
+  end_date: 2015-03-10
+  url: http://mtnwestrubyconf.org/2015/
+  twitter: mwrc
+  video_link: http://confreaks.tv/events/mwrc2015
+
+- name: Bath Ruby Conference
+  location: Bath, UK
+  start_date: 2015-03-13
+  end_date: 2015-03-13
+  url: http://2015.bathruby.org
+  twitter: BathRuby
+  video_link: http://confreaks.tv/events/bathruby2015
+
+- name: wroc_love.rb 2015
+  location: Wrocław, Poland
+  start_date: 2015-03-13
+  end_date: 2015-03-15
+  url: https://2015.wrocloverb.com
+  twitter: wrocloverb
+
+- name: RubyConfLT
+  location: Vilnius, Lithuania
+  start_date: 2015-03-21
+  end_date: 2015-03-21
+  url: https://2015.rubyconf.lt/
+  twitter: rubyconflt
+  video_link: https://www.youtube.com/user/rubyconflt
+
+- name: Ancient City Ruby
+  location: St. Augustine, FL
+  start_date: 2015-03-26
+  end_date: 2015-03-27
+  url: http://www.ancientcityruby.com/2015/
+  twitter: ancientcityruby
+  video_link: https://www.youtube.com/playlist?list=PLrjohaqTgNJOWPOGH3R3ww7AulwmOadr2
+
+- name: RubyConf Philippines
+  location: Boracay Island, Philippines
+  start_date: 2015-03-27
+  end_date: 2015-03-28
+  url: http://rubyconf.ph/2015/
+  twitter: rubyconfph
+  video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSGlKtZOeqZKUMOB2w8qlUC_
+
+- name: Ruby Conf India
+  location: Goa, India
+  start_date: 2015-04-03
+  end_date: 2015-04-05
+  url: https://2015.rubyconfindia.org/
+  twitter: rubyconfindia
+  video_link: https://www.youtube.com/channel/UCRNZy_ouJ1ai_uYwDBR2J5Q/videos
+
+- name: RailsConf
+  location: Atlanta, GA
+  start_date: 2015-04-21
+  end_date: 2015-04-23
+  url: http://www.railsconf.com/2015
+  twitter: railsconf
+  video_link: http://confreaks.tv/events/railsconf2015
+
+- name: ROSSConf Vienna
+  location: Vienna, Austria
+  start_date: 2015-04-25
+  end_date: 2015-04-25
+  url: http://www.rossconf.io/
+  twitter: rossconf
+
+- name: RubyConf Kenya
+  location: Nairobi, Kenya
+  start_date: 2015-05-08
+  end_date: 2015-05-09
+  url: http://rubyconf.nairuby.org/2015
+  twitter: nairubyke
+
+- name: Ruby Conference Kiev
+  location: Kiev, Ukraine
+  start_date: 2015-05-30
+  end_date: 2015-05-31
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  video_link: https://rubyc.eu/archives/5
+
+- name: RedDotRubyConf
+  location: Singapore
+  start_date: 2015-06-04
+  end_date: 2015-06-05
+  url: https://rdrc2015.herokuapp.com/
+  twitter: reddotrubyconf
+  video_link: http://confreaks.tv/events/rdrc2015
+
+- name: RubyNation
+  location: Washington, DC
+  start_date: 2015-06-12
+  end_date: 2015-06-13
+  url: http://www.rubynation.org/
+  twitter: rubynation
+
+- name: GORUCO 2015
+  location: New York, NY
+  start_date: 2015-07-20
+  end_date: 2015-07-20
+  url: http://2015.goruco.com/
+  twitter: goruco
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyb6MU6H8PratMhV4bWUL8bv
+
+- name: Brighton Ruby 2015
+  location: Brighton, UK
+  start_date: 2015-07-20
+  end_date: 2015-07-20
+  url: https://brightonruby.com/2015/
+  twitter: brightonruby
+  video_link: https://brightonruby.com/2015/
+
+- name: JRubyConf EU
+  location: Potsdam, Germany
+  start_date: 2015-07-31
+  end_date: 2015-07-31
+  url: http://jrubyconf.eu
+  twitter: jrubyconfeu
+  video_link: http://media.eurucamp.org/
+
+- name: Burlington Ruby Conference
+  location: Burlington, VT
+  start_date: 2015-07-31
+  end_date: 2015-08-02
+  url: http://burlingtonruby.github.io/burlingtonrubyconference2015/
+  twitter: btvrubyconf
+
+- name: eurucamp
+  location: Potsdam, Germany
+  start_date: 2015-07-31
+  end_date: 2015-08-02
+  url: http://eurucamp.org
+  twitter: eurucamp
+  video_link: http://media.eurucamp.org/
+
+- name: DeccanRubyConf
+  location: Pune, India
+  start_date: 2015-08-08
+  end_date: 2015-08-08
+  twitter: deccanrubyconf
+
+- name: Madison+ Ruby
+  location: Madison, WI
+  start_date: 2015-08-20
+  end_date: 2015-08-22
+  twitter: madisonruby
+
+- name: Ruby Midwest
+  location: Kansas City, MO
+  start_date: 2015-08-28
+  end_date: 2015-08-29
+  twitter: rubymidwest
+
+- name: Barcelona Ruby Conf
+  location: Barcelona, Spain
+  start_date: 2015-09-01
+  end_date: 2015-09-02
+  url: http://www.baruco.org/
+  twitter: baruco
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  start_date: 2015-09-11
+  end_date: 2015-09-12
+  url: https://2015.rubyconf.tw/
+  twitter: rubytaiwan
+  video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpDVKgAH_p_X7gtLSGsvmMJj
+
+- name: RubyConf Portugal
+  location: Braga, Portugal
+  start_date: 2015-09-14
+  end_date: 2015-09-15
+  url: http://2015.rubyconf.pt/
+  twitter: rubyconfpt
+  video_link: https://www.youtube.com/playlist?list=PLgGhdJEbwzoJSREjEZhKnDxyezC47Cgh5
+
+- name: WindyCityRails
+  location: Chicago, IL
+  start_date: 2015-09-17
+  end_date: 2015-09-18
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
+  video_link: https://windycityrails.com/videos/2015/
+
+- name: RubyConf Brazil
+  location: São Paulo, Brazil
+  start_date: 2015-09-18
+  end_date: 2015-09-19
+  twitter: rubyconfbr
+
+- name: Rocky Mountain Ruby Conference
+  location: Boulder, CO
+  start_date: 2015-09-23
+  end_date: 2015-09-25
+  url: http://www.rockymtnruby.com/
+  twitter: rockymtnruby
+  video_link: https://www.confreaks.tv/events/rmr2015
+
+- name: RailsClub
+  location: Moscow, Russia
+  start_date: 2015-09-26
+  end_date: 2015-09-26
+  url: https://rubyrussia.club/
+  twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOiwKkEcdRU7NvQr2IKaMBw
+
+- name: ROSSConf Berlin
+  location: Berlin, Germany
+  start_date: 2015-09-26
+  end_date: 2015-09-26
+  url: http://www.rossconf.io/
+  twitter: rossconf
+
+- name: ArrrrCamp
+  location: Ghent, Belgium
+  start_date: 2015-10-01
+  end_date: 2015-10-02
+  url: http://2015.arrrrcamp.be
+  twitter: arrrrcamp
+  video_link: http://confreaks.tv/events/arrrrcamp2015
+
+- name: Los Angeles Ruby Conference
+  location: Los Angeles, CA
+  start_date: 2015-10-10
+  end_date: 2015-10-10
+  twitter: larubyconf
+  video_link: https://www.confreaks.tv/events/larubyconf2015
+
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  start_date: 2015-10-15
+  end_date: 2015-10-16
+  url: http://2015.rubyconf.co/
+  twitter: rubyconfco
+  video_link: https://www.youtube.com/playlist?list=PLq_08z5fuQgFP64HqrRWd3RWUKmPFMdo6
+
+- name: EuRuKo 2015
+  location: Salzburg, Austria
+  start_date: 2015-10-17
+  end_date: 2015-10-18
+  url: https://2015.euruko.org
+  twitter: euruko
+
+- name: Keep Ruby Weird
+  location: Austin, Texas
+  start_date: 2015-10-23
+  end_date: 2015-10-23
+  url: http://keeprubyweird.com
+  twitter: keeprubyweird
+  video_link: http://confreaks.tv/events/keeprubyweird2015
+
+- name: RubyWorld Conference
+  location: Matsue, Japan
+  start_date: 2015-11-11
+  end_date: 2015-11-12
+  url: http://2015.rubyworld-conf.org/en/
+  twitter: rubyworldconf
+  video_link: http://2015.rubyworld-conf.org/en/program/
+
+- name: RubyDay
+  location: Turin, Italy
+  start_date: 2015-11-13
+  end_date: 2015-11-13
+  url: http://2015.rubyday.it/
+  twitter: rubydayit
+  video_link: https://www.youtube.com/playlist?list=PL5ImBN21eKvaTC30b0rwaIWe3DRLr062d
+
+- name: RubyConf 2015
+  location: San Antonio, TX
+  start_date: 2015-11-15
+  end_date: 2015-11-17
+  url: http://rubyconf.org/
+  twitter: rubyconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp
+
+- name: RailsIsrael
+  location: Tel Aviv, Israel
+  start_date: 2015-11-24
+  end_date: 2015-11-24
+  url: http://railsisrael2015.events.co.il
+  twitter: railsisrael
+
+- name: RubyKaigi
+  location: Tokyo, Japan
+  start_date: 2015-12-11
+  end_date: 2015-12-13
+  url: http://rubykaigi.org/2015
+  twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PL0irJ82JAlEic6IlpRdsPl5L5f5aLMuXf

@@ -1,0 +1,213 @@
+- name: Birmingham on Rails
+  location: Birmingham, Alabama
+  start_date: 2020-01-31
+  end_date: 2020-01-31
+  url: http://birminghamonrails.com
+  twitter: bhmonrails
+  video_link: https://www.youtube.com/playlist?&list=PLE7tQUdRKcyYC2lZzwTvEeJXghm4Ym4ZX
+
+- name: Rubyfuza
+  location: Cape Town, South Africa
+  start_date: 2020-02-06
+  end_date: 2020-02-08
+  url: https://www.rubyfuza.org
+  twitter: rubyfuza
+
+- name: ParisRB Conf
+  location: Paris, France
+  url: https://2020.rubyparis.org/
+  start_date: 2020-02-18
+  end_date: 2020-02-19
+  twitter: parisrb
+  video_link: https://www.youtube.com/playlist?list=PLjyiiigeVQV-rqM4LD2SUbUfxXLuta1yU
+
+- name: RubyConf AU
+  location: Melbourne, Australia
+  url: https://www.rubyconf.org.au/2020
+  start_date: 2020-02-20
+  end_date: 2020-02-21
+  twitter: rubyconf_au
+  video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc1G0L8h-rMtO3fBSi4PJK26
+
+- name: wroclove.rb 2020
+  location: Wrocław, Poland
+  start_date: 2020-03-20
+  end_date: 2020-03-22
+  url: https://2020.wrocloverb.com
+  twitter: wrocloverb
+  status: Canceled
+
+- name: Ruby Retreat NZ 2020
+  location: Mt Cheeseman, near Christchurch, New Zealand
+  url: https://retreat.ruby.nz
+  start_date: 2020-03-27
+  end_date: 2020-03-30
+  twitter: RubyNewZealand
+  status: Canceled
+
+- name: Ruby by the Bay (Ruby for Good)
+  location: Sausalito, CA
+  start_date: 2020-04-03
+  end_date: 2020-04-06
+  url: https://rubybythebay.org/
+  twitter: rubyforgood
+
+- name: Ruby Wine 2.0
+  location: Online
+  start_date: 2020-04-04
+  end_date: 2020-04-04
+  url: https://www.rubywine.org
+  twitter: rubymeditation
+
+- name: RubyConfIndia
+  location: Goa, India
+  start_date: 2020-04-25
+  end_date: 2020-04-26
+  url: https://rubyconfindia.org
+  twitter: rubyconfindia
+  status: Canceled
+
+- name: RailsConf 2020.2 Couch Edition
+  location: Your Couch
+  start_date: 2020-05-05
+  end_date: 2020-05-05
+  url: https://railsconf.com/
+  twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ-TzxlxdLvh6tDUfZHqm76
+
+- name: Balkan Ruby
+  location: Sofia, Bulgaria
+  start_date: 2020-05-15
+  end_date: 2020-05-16
+  url: https://balkanruby.com
+  twitter: balkanruby
+  status: Canceled
+
+- name: Ruby Unconf Hamburg 2020
+  location: Hamburg, Germany
+  start_date: 2020-06-06
+  end_date: 2020-06-07
+  url: https://2020.rubyunconf.eu/
+  twitter: rubyunconfeu
+  status: Canceled
+
+- name: Saint P Rubyconf 2020
+  location: Saint Petersburg, Russia
+  start_date: 2020-06-06
+  end_date: 2020-06-07
+  url: https://spbrubyconf.ru/
+  twitter: saintpruby
+  status: Canceled
+
+- name: Brighton Ruby 2020
+  location: Online
+  start_date: 2020-07-03
+  end_date: 2020-07-03
+  url: https://brightonruby.com/2020
+  twitter: brightonruby
+  video_link: https://brightonruby.com/2020/
+
+- name: RubyNess
+  location: Inverness, Scotland
+  start_date: 2020-07-16
+  end_date: 2020-07-17
+  url: https://rubyness.org/
+  twitter: rubynessconf
+  status: Canceled
+
+- name: RubyConfBY
+  location: Online
+  start_date: 2020-07-18
+  end_date: 2020-07-19
+  url: https://rubyconference.by/
+  twitter: RubyConfBY
+  video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCCle4AS77lvMYxg2Eqkd5dT
+
+- name: NoRuKo
+  location: Online
+  start_date: 2020-08-21
+  end_date: 2020-08-21
+  url: https://www.noruko.org
+  twitter: amsrb
+  video_link: https://www.youtube.com/playlist?list=PL9_A7olkztLlmJIAc567KQgKcMi7-qnjg
+
+- name: RubyKaigi Takeout
+  location: Online
+  start_date: 2020-09-04
+  end_date: 2020-09-05
+  url: https://rubykaigi.org/2020-takeout
+  twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yZeLpdOLhYwORIF9UjBAFHw
+
+- name: RubyC 2020
+  location: Kyiv, Ukraine
+  start_date: 2020-09-12
+  end_date: 2020-09-13
+  url: https://rubyc.eu/
+  twitter: rubyc_eu
+  status: Canceled
+
+- name: RubyDay
+  location: Online
+  start_date: 2020-09-16
+  end_date: 2020-09-16
+  url: https://2020.rubyday.it
+  twitter: rubydayit
+  video_link: https://www.youtube.com/playlist?list=PLWK9j6ps_unl0S5Xmi6FVfDLFUkntQTfK
+
+- name: Kaigi on Rails 2020
+  location: Tokyo, Japan
+  status: Cancelled
+  start_date: 2020-09-28
+  end_date: 2020-09-29
+  url: https://kaigionrails.org/2020
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
+- name: Kaigi on Rails 2020 - Stay Home Edition
+  location: Online
+  start_date: 2020-10-03
+  end_date: 2020-10-03
+  url: https://kaigionrails.org/2020
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
+- name: RubyConf TH
+  location: Bangkok, Thailand
+  start_date: 2020-10-16
+  end_date: 2020-10-17
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
+  status: Canceled
+
+- name: ROSS conf
+  location: Online
+  start_date: 2020-10-23
+  end_date: 2020-10-23
+  url: https://www.rossconf.io/event/remote/
+  twitter: rossconf
+  video_link: https://www.youtube.com/playlist?list=PL9_A7olkztLkFMYU2ZgpL5XZ6UKlqFZrB
+
+- name: RubyRussia
+  location: Online
+  start_date: 2020-11-13
+  end_date: 2020-11-15
+  url: https://rubyrussia.club
+  twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeO_YkVRot6JOLgTVSH9uUEB
+
+- name: RubyConf 2020
+  location: Houston, TX
+  start_date: 2020-11-17
+  end_date: 2020-11-19
+  url: https://rubyconf.org
+  twitter: rubyconf
+  video_link: https://www.youtube.com/playlist?list=PLbHJudTY1K0cyDs1ZwFLzlfQqvkDKt17N
+
+- name: RubyWorld Conference
+  location: Online
+  start_date: 2020-12-17
+  end_date: 2020-12-17
+  url: https://2020.rubyworld-conf.org/en/
+  twitter: rubyworldconf
+  video_link: https://www.youtube.com/watch?v=2fldr2HcuVw

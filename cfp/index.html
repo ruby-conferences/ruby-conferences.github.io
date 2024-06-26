@@ -5,7 +5,10 @@ layout: default
   <dl>
     {% assign now = site.time | date: '%s' | plus: 0 %}
     {% assign today = site.time | date: '%Y-%m-%d' %}
-    {% assign conferences = site.data.conferences | sort: 'cfp_close_date' %}
+
+    {% include prepare_conference_data.liquid %}
+
+    {% assign conferences = conferences | sort: 'cfp_close_date' %}
 
     {% for event in conferences %}
       {% assign start_date = event.start_date | date: '%s' | plus: 0 %}

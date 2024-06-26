@@ -1,0 +1,96 @@
+- name: Sin City Ruby
+  location: Las Vegas, NV
+  start_date: 2022-03-24
+  end_date: 2022-03-25
+  url: https://www.sincityruby.com
+
+- name: Railsconf 2022
+  location: Portland, OR
+  start_date: 2022-05-17
+  end_date: 2022-05-19
+  url: https://railsconf.org
+  twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyb2Mjtd1RBjeP3Jt9RukU7G
+
+- name: Brighton Ruby 2022
+  location: Brighton, England
+  start_date: 2022-06-30
+  end_date: 2022-06-30
+  url: https://brightonruby.com/2022
+  twitter: brightonruby
+  video_link: https://brightonruby.com/2022/
+
+- name: Rails Camp West
+  location: Diablo Lake, WA
+  start_date: 2022-08-30
+  end_date: 2022-09-02
+  url: https://west.railscamp.us/2022
+  twitter: railscamp_usa
+
+- name: Euruko 2022
+  location: Helsinki, Finland
+  start_date: 2022-10-13
+  end_date: 2022-10-14
+  url: https://2022.euruko.org
+  twitter: euruko
+  video_link: https://www.youtube.com/playlist?list=PLZW-kXE0oRykcraQ1b6tT5ozKPeK-Jttq
+
+- name: wroclove.rb 2022
+  location: Wrocław, Poland
+  start_date: 2022-09-16
+  end_date: 2022-09-18
+  url: https://2022.wrocloverb.com
+  twitter: wrocloverb
+  video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDWafhnWni-CwHkPJJuc0e5
+
+- name: The Rails SaaS Conference
+  location: Los Angeles, CA, USA
+  start_date: 2022-10-06
+  end_date: 2022-10-07
+  url: https://railssaas.com/
+
+- name: Ruby Conf India, 2022
+  location: Pune, India
+  start_date: 2022-08-27
+  end_date: 2022-08-27
+  url: https://rubyconf.in/
+  twitter: rubyconfindia
+
+- name: RubyKaigi 2022
+  location: Mie, Japan
+  start_date: 2022-09-08
+  end_date: 2022-09-10
+  url: https://rubykaigi.org/2022
+  twitter: rubykaigi
+
+- name: Kaigi on Rails 2022
+  location: Online
+  start_date: 2022-10-21
+  end_date: 2022-10-22
+  url: https://kaigionrails.org/2022
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
+- name: RubyConf Mini 2022
+  location: Providence, RI, USA
+  start_date: 2022-11-15
+  end_date: 2022-11-17
+  url: https://www.rubyconfmini.com
+  twitter: rubyconfmini
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZYz0O3d9ZDdo0-BkOWhrSk
+
+- name: RubyConf 2022
+  location: Houston, Texas
+  start_date: 2022-11-29
+  end_date: 2022-12-01
+  url: https://rubyconf.org/
+  twitter: rubyconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZYz0O3d9ZDdo0-BkOWhrSk
+
+- name: RubyConf TH 2022
+  location: Bangkok, Thailand
+  start_date: 2022-12-09
+  end_date: 2022-12-10
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
+  video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIaxpMTv9dnWk3cq61xJcE2Pv
