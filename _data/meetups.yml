@@ -956,3 +956,10 @@
   start_time: 18:30:00 CET
   end_time: 20:30:00 CET
   url: https://www.meetup.com/rubyonrails-ch/events/301751612
+
+- name: Ruby DF - July
+  location: Brasília, Brazil
+  date: 2024-07-27
+  start_time: 09:30:00 BRT
+  end_time: 12:00:00 BRT
+  url: https://rubydf.com/events/terceira-edicao
