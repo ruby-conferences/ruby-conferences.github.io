@@ -27,12 +27,12 @@ but it's probably not a Ruby conference.
 
 ## Contributing
 
-The list of events is driven by the conferences file in the `_data` directory - if you have an update for those things, just change the YAML and send a PR.
+The list of events is driven by the conferences files in the `_data/conferences` directory. If you have an update for these, please change the relevant YAML file and send a PR.
 
 **Conferences**
 
-The file to be changed is `_data/conferences.yml`. It is NOT order-dependent.
-Put your conference in the YAML file at the end.
+The files to be changed are located in the `_data/conferences` directory. Each year has its own file (e.g., `2024.yml`, `2025.yml`). These files are NOT order-dependent.
+Add your conference to the appropriate YAML file based on the year.
 The page will sort the conferences by `start_date`.
 
 Here is a list of the keys that can be used:

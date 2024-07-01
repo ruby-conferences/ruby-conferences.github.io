@@ -1,0 +1,317 @@
+- name: Ruby devroom at FOSDEM
+  location: Brussels, Belgium
+  start_date: 2016-01-31
+  end_date: 2016-01-31
+  url: http://fosdem.rubybelgium.be/
+  twitter: ruby_fosdem
+
+- name: Rubyfuza
+  location: Cape Town, South Africa
+  start_date: 2016-02-04
+  end_date: 2016-02-05
+  url: http://www.rubyfuza.org/2016/
+  twitter: rubyfuza
+
+- name: RubyConf Australia
+  location: Gold Coast, Australia
+  start_date: 2016-02-10
+  end_date: 2016-02-13
+  url: https://rubyconf.org.au/2016
+  twitter: rubyconf_au
+  video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc3ILv2Lxlt422NjIFWnXl0U
+
+- name: Bath Ruby Conference
+  location: Bath, UK
+  start_date: 2016-03-11
+  end_date: 2016-03-11
+  url: http://2016.bathruby.org
+  twitter: bathruby
+  video_link: http://confreaks.tv/events/bathruby2016
+
+- name: wroc_love.rb 2016
+  location: Wrocław, Poland
+  start_date: 2016-03-11
+  end_date: 2016-03-13
+  url: https://2016.wrocloverb.com
+  twitter: wrocloverb
+
+- name: RubyConfIndia
+  location: Kochi, India
+  start_date: 2016-03-19
+  end_date: 2016-03-20
+  url: https://2016.rubyconfindia.org/
+  twitter: rubyconfindia
+  video_link: https://www.youtube.com/playlist?list=PLNyYRB_d4fk2LfGLjyv8Oa-ruc4EgkfAQ
+
+- name: MountainWest RubyConf
+  location: Salt Lake City, UT
+  start_date: 2016-03-21
+  end_date: 2016-03-22
+  url: http://mtnwestrubyconf.org/2016/
+  twitter: mwrc
+  video_link: http://confreaks.tv/events/mwrc2016
+
+- name: Ruby on Ales
+  location: Bend, Oregon
+  start_date: 2016-03-31
+  end_date: 2016-04-01
+  url: http://web.archive.org/web/20171102215052/http://ruby.onales.com/
+  twitter: rbonales
+  video_link: http://confreaks.tv/events/roa2016
+
+- name: Ancient City Ruby
+  location: St. Augustine, FL
+  start_date: 2016-04-06
+  end_date: 2016-04-08
+  url: http://www.ancientcityruby.com/
+  twitter: ancientcityruby
+  video_link: https://www.youtube.com/playlist?list=PLrjohaqTgNJPq3h7UGYbqNwrerEM05t_Q
+
+- name: Rubyconf Philippines
+  location: Manila, Philippines
+  start_date: 2016-04-07
+  end_date: 2016-04-09
+  url: http://rubyconf.ph/2016/
+  twitter: rubyconfph
+  video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSH173SE64f28eQeTmXnufQj
+
+- name: RubyConfLT
+  location: Vilnius, Lithuania
+  start_date: 2016-04-23
+  end_date: 2016-04-23
+  url: https://2016.rubyconf.lt/
+  twitter: rubyconflt
+  video_link: https://www.youtube.com/user/rubyconflt
+
+- name: RubyConfBY
+  location: Minsk, Belarus
+  start_date: 2016-04-24
+  end_date: 2016-04-24
+  url: https://2016.rubyconference.by/en/
+  twitter: rubyconfby
+  video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCC82YnUz8sAsjmNyPWxIr9l
+
+- name: RailsConf 2016
+  location: Kansas City, MO
+  start_date: 2016-05-04
+  end_date: 2016-05-06
+  url: http://www.railsconf.com/2016
+  twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC
+
+- name: Rails Pacific
+  location: Taipei, Taiwan
+  start_date: 2016-05-20
+  end_date: 2016-05-21
+  url: http://www.railspacific.com/
+  twitter: railspacific
+  video_link: http://confreaks.tv/events/railspacific2016
+
+- name: RubyNation
+  location: Washington, DC
+  start_date: 2016-06-03
+  end_date: 2016-06-04
+  url: http://www.rubynation.org/
+  twitter: rubynation
+
+- name: RubyC
+  location: Kiev, Ukraine
+  start_date: 2016-06-04
+  end_date: 2016-06-05
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  video_link: https://rubyc.eu/posts/55
+
+- name: Ruby for Good
+  location: Washington, DC
+  start_date: 2016-06-16
+  end_date: 2016-06-19
+  url: http://www.rubyforgood.org/
+  twitter: rubyforgood
+
+- name: NordicRuby
+  location: Stockholm
+  start_date: 2016-06-17
+  end_date: 2016-06-19
+  url: http://www.nordicruby.org/
+  twitter: nordicruby
+
+- name: RedDotRubyConf
+  location: Singapore
+  start_date: 2016-06-23
+  end_date: 2016-06-24
+  url: https://rdrc2016.herokuapp.com/
+  twitter: reddotrubyconf
+  video_link: http://confreaks.tv/events/reddotruby2016
+
+- name: GrillRB
+  location: Wrocław, Poland
+  start_date: 2016-06-25
+  end_date: 2016-06-26
+  twitter: grill_rb
+
+- name: GORUCO 2016
+  location: New York, NY
+  start_date: 2016-06-25
+  end_date: 2016-06-25
+  url: http://2016.goruco.com/
+  twitter: goruco
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcybaE0Xm_yOK8-a-WAcltv1q
+
+- name: OpenCommerce Conf
+  location: Rise, New York City
+  start_date: 2016-06-28
+  end_date: 2016-06-29
+  url: http://opencommerceconf.org/
+  twitter: opencommerce_
+
+- name: Brighton Ruby 2016
+  location: Brighton, UK
+  start_date: 2016-07-08
+  end_date: 2016-07-08
+  url: https://brightonruby.com/2016/
+  twitter: brightonruby
+  video_link: https://brightonruby.com/2016/
+
+- name: Deccan Ruby Conference
+  location: Pune, India
+  start_date: 2016-08-06
+  end_date: 2016-08-06
+  twitter: deccanrubyconf
+  video_link: https://www.youtube.com/playlist?list=PLo3sQWbYZbskTlzH7Ert-FucR7QmIuwE5
+
+- name: RubyConf KL
+  location: Kuala Lumpur, Malaysia
+  start_date: 2016-08-13
+  end_date: 2016-08-13
+  url: http://rubyconf.my/2016
+  twitter: rubyconfmy
+
+- name: Tech Day by GURU-PR
+  location: Curitiba, Brazil
+  start_date: 2016-08-20
+  end_date: 2016-08-20
+  url: http://www.gurupr.org/eventos/2-tech-day-do-guru-pr
+  twitter: guru_pr
+
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  start_date: 2016-09-02
+  end_date: 2016-09-03
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco
+  video_link: https://www.youtube.com/playlist?list=PLq_08z5fuQgGLwr7cJtU27IBgtz3Q4PII
+
+- name: RubyKaigi
+  location: Kyoto, Japan
+  start_date: 2016-09-08
+  end_date: 2016-09-10
+  url: http://rubykaigi.org/2016
+  twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yYfT493G8C2fLvvhPDs-lIQ
+
+- name: WindyCityRails
+  location: Chicago, IL
+  start_date: 2016-09-15
+  end_date: 2016-09-16
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
+  video_link: https://windycityrails.com/videos/2016/
+
+- name: Rocky Mountain Ruby
+  location: Boulder, CO
+  start_date: 2016-09-21
+  end_date: 2016-09-23
+  url: http://rockymtnruby.com/
+  twitter: rockymtnruby
+  video_link: http://confreaks.tv/events/rockymountainruby2016
+
+- name: EuRuKo 2016
+  location: Sofia, Bulgaria
+  start_date: 2016-09-23
+  end_date: 2016-09-24
+  url: https://2016.euruko.org
+  twitter: euruko
+  video_link: https://www.youtube.com/channel/UChGs1td4ViQFqT0jlvkyUJg/videos
+
+- name: RubyConf Brazil
+  location: São Paulo, Brazil
+  start_date: 2016-09-23
+  end_date: 2016-09-24
+  twitter: rubyconfbr
+
+- name: Conferencia Rails
+  location: Madrid, Spain
+  start_date: 2016-10-14
+  end_date: 2016-10-15
+  url: http://conferenciaror.es/
+  twitter: conferenciaror
+
+- name: RailsClub
+  location: Moscow, Russia
+  start_date: 2016-10-22
+  end_date: 2016-10-22
+  url: https://rubyrussia.club/
+  twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOXZhotgDX7Y7qBsr24cu7o
+
+- name: London Ruby Unconference
+  location: London, UK
+  start_date: 2016-10-22
+  end_date: 2016-10-22
+  url: http://www.eventbrite.com/e/london-ruby-unconference-tickets-27663867372?aff=github
+  twitter: rubyunconf
+
+- name: RubyConf Portugal
+  location: Braga, Portugal
+  start_date: 2016-10-27
+  end_date: 2016-10-28
+  url: http://rubyconf.pt/
+  twitter: rubyconfpt
+  video_link: https://www.youtube.com/playlist?list=PLgGhdJEbwzoI6sUw_2wTlFHCGPRVoatln
+
+- name: Keep Ruby Weird
+  location: Austin, TX
+  start_date: 2016-10-28
+  end_date: 2016-10-28
+  url: https://2016.keeprubyweird.com/
+  twitter: keeprubyweird
+  video_link: http://confreaks.tv/events/keeprubyweird2016
+
+- name: RubyWorld Conference
+  location: Matsue, Shimane, Japan
+  start_date: 2016-11-03
+  end_date: 2016-11-04
+  url: http://2017.rubyworld-conf.org/en/
+  twitter: rubyworldconf
+  video_link: http://2016.rubyworld-conf.org/en/program/
+
+- name: RubyConf 2016
+  location: Cincinnati, OH
+  start_date: 2016-11-10
+  end_date: 2016-11-12
+  url: http://rubyconf.org/
+  twitter: rubyconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyaMUYwB6tTX5p2Z6fOCdGRE
+
+- name: Rail Israel
+  location: Tel Aviv, Israel
+  start_date: 2016-11-14
+  end_date: 2016-11-15
+  twitter: railsisrael
+
+- name: RubyDay
+  location: Florence, Italy
+  start_date: 2016-11-25
+  end_date: 2016-11-26
+  url: http://www.rubyday.it
+  twitter: rubydayit
+  video_link: https://www.youtube.com/playlist?list=PL5ImBN21eKvbFLhByXvzczzqtx9ApeKAY
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  start_date: 2016-12-02
+  end_date: 2016-12-03
+  url: https://2016.rubyconf.tw/
+  twitter: rubyconftw
+  video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpB7wxvDs02oGA9IRKw3dVYO

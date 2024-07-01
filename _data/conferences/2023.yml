@@ -1,0 +1,215 @@
+- name: Ruby on Rails Global Summit'23
+  location: Online
+  start_date: 2023-01-24
+  end_date: 2023-01-25
+  url: https://events.geekle.us/ruby/
+  twitter: geekleofficial
+
+- name: RubyConf Australia 2023
+  location: Melbourne, Australia
+  start_date: 2023-02-20
+  end_date: 2023-02-21
+  url: https://www.rubyconf.org.au
+  twitter: rubyconf_au
+
+- name: RailsConf 2023
+  location: Atlanta, Georgia
+  start_date: 2023-04-24
+  end_date: 2023-04-26
+  url: https://railsconf.org
+  twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyao1oqQA8dwG_uOk3-QZziO
+
+- name: RubyKaigi 2023
+  location: Nagano, Japan
+  start_date: 2023-05-11
+  end_date: 2023-05-13
+  url: https://rubykaigi.org/2023
+  twitter: rubykaigi
+  reg_phrase: Registration open
+
+- name: The Rails SaaS Conference 2023
+  location: Athens, Greece
+  start_date: 2023-06-01
+  end_date: 2023-06-02
+  url: https://railssaas.com/
+  twitter: railssaas
+
+- name: Blue Ridge Ruby 2023
+  location: Asheville, NC, USA
+  start_date: 2023-06-08
+  end_date: 2023-06-09
+  url: https://blueridgeruby.com
+  twitter: blueridgeruby
+
+- name: Ruby Unconf 2023
+  location: Hamburg, Germany
+  start_date: 2023-06-10
+  end_date: 2023-06-11
+  url: https://2023.rubyunconf.eu
+  twitter: rubyunconfeu
+
+- name: RubyDay 2023
+  location: Verona, Italy
+  start_date: 2023-06-16
+  end_date: 2023-06-16
+  url: https://2023.rubyday.it
+  twitter: rubydayit
+
+- name: Brighton Ruby 2023
+  location: Brighton, UK
+  start_date: 2023-06-30
+  end_date: 2023-06-30
+  url: https://brightonruby.com/2023/
+  video_link: https://brightonruby.com/2023/
+  twitter: brightonruby
+  mastodon: https://ruby.social/@brightonruby
+
+- name: Ruby Warsaw Community Conference 2023
+  location: Warsaw, Poland
+  start_date: 2023-07-21
+  end_date: 2023-07-21
+  url: https://www.rubycommunityconference.com/summer2023.html
+  twitter: visualitypl
+  video_link: https://www.youtube.com/playlist?list=PLvMNoWK93wtmlQyKf59wu0IZk9N7ZpWpJ
+
+- name: Ruby For Good 2023
+  location: Washington, DC
+  start_date: 2023-07-27
+  end_date: 2023-07-30
+  url: https://rubyforgood.org/events
+  twitter: rubyforgood
+
+- name: RubyConf China 2023
+  location: Shanghai, China
+  start_date: 2023-08-19
+  end_date: 2023-08-20
+  url: https://www.rubyconfchina.org
+
+- name: RubyConf India 2023
+  location: Pune, India
+  start_date: 2023-08-26
+  end_date: 2023-08-27
+  url: https://rubyconf.in/
+  twitter: rubyconfindia
+  reg_phrase: Buy tickets!
+
+- name: Osaka Ruby Kaigi 03
+  location: Osaka, Japan
+  start_date: 2023-09-09
+  end_date: 2023-09-09
+  url: https://regional.rubykaigi.org/osaka03/
+  twitter: rubykansai
+
+- name: wroclove.rb 2023
+  location: Wrocław, Poland
+  start_date: 2023-09-15
+  end_date: 2023-09-17
+  url: https://2023.wrocloverb.com
+  twitter: wrocloverb
+  video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDwTvPjY1F_7ccYO7O26RJ9
+
+- name: Rails Camp West 2023
+  location: North Shore O’ahu Hawaii
+  start_date: 2023-09-15
+  end_date: 2023-09-18
+  url: https://west.railscamp.us/2023
+  twitter: railscamp_usa
+
+- name: Euruko 2023
+  location: Vilnius, Lithuania
+  start_date: 2023-09-21
+  end_date: 2023-09-23
+  url: https://2023.euruko.org
+  twitter: euruko
+  video_link: https://www.youtube.com/playlist?list=PLZW-kXE0oRyljniGHqYqtQVIXoI4M97ck
+
+- name: Friendly.rb 2023
+  location: Bucharest, Romania
+  start_date: 2023-09-27
+  end_date: 2023-09-28
+  url: https://friendlyrb.com/
+  twitter: friendlyrb
+  mastodon: https://ruby.social/@friendlyrb
+
+- name: RubyRussia 2023
+  location: Online
+  start_date: 2023-09-30
+  end_date: 2023-09-30
+  url: https://rubyrussia.club/
+  twitter: railsclub_ru
+  video_link: https://www.youtube.com/watch?v=1bN2uBDylQU
+
+- name: Rails World 2023
+  location: Amsterdam, Netherlands
+  start_date: 2023-10-05
+  end_date: 2023-10-06
+  url: https://rubyonrails.org/world/2023
+  twitter: rails
+  video_link: https://www.youtube.com/playlist?list=PLHFP2OPUpCeY9IX3Ht727dwu5ZJ2BBbZP
+
+- name: Rocky Mountain Ruby 2023
+  location: Boulder, Colorado
+  start_date: 2023-10-05
+  end_date: 2023-10-06
+  url: https://2023.rockymtnruby.dev
+  mastodon: https://ruby.social/@rockymntruby
+
+- name: RubyConf TH 2023
+  location: Bangkok, Thailand
+  start_date: 2023-10-06
+  end_date: 2023-10-07
+  url: https://rubyconfth.com/
+  twitter: rubyconfth
+  mastodon: https://ruby.social/@rubyconfth
+  cfp_open_date: 2023-04-03
+  cfp_close_date: 2023-06-04
+  cfp_link: https://www.papercall.io/rubyconfth2023
+  video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIay0GaJcCHegGyk0MGyQIVA6
+
+- name: Ruby Retreat 2023
+  location: Mount Cheeseman, Aotearoa New Zealand
+  start_date: 2023-10-27
+  end_date: 2023-10-30
+  url: https://retreat.ruby.nz
+
+- name: Kaigi on Rails 2023
+  location: Tokyo, Japan
+  start_date: 2023-10-27
+  end_date: 2023-10-28
+  url: https://kaigionrails.org/2023/
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
+- name: RubyWorld Conference 2023
+  location: Matsue, Japan
+  start_date: 2023-11-09
+  end_date: 2023-11-10
+  url: http://2023.rubyworld-conf.org/en/
+  twitter: rubyworldconf
+
+- name: RubyConf 2023
+  location: San Diego, CA
+  start_date: 2023-11-13
+  end_date: 2023-11-15
+  url: https://rubyconf.org
+  twitter: rubyconf
+  mastodon: https://ruby.social/@rubyconf
+
+- name: Helvetic Ruby 2023
+  location: Bern, Switzerland
+  start_date: 2023-11-24
+  end_date: 2023-11-24
+  url: https://helvetic-ruby.ch/2023
+  twitter: helvetic_ruby
+  mastodon: https://ruby.social/@helvetic_ruby
+
+- name: RubyConf Taiwan 2023
+  location: Taipei, Taiwan
+  start_date: 2023-12-15
+  end_date: 2023-12-16
+  twitter: rubyconftw
+  url: https://2023.rubyconf.tw
+  cfp_open_date: 2023-08-03
+  cfp_close_date: 2023-10-20
+  cfp_link: https://cfp.rubyconf.tw/activities/2023

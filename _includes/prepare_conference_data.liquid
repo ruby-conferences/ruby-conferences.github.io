@@ -1,0 +1,7 @@
+{% assign conferences = nil %}
+
+{% for file in site.data.conferences %}
+  {% assign conferences = conferences | concat: file[1] %}
+{% endfor %}
+
+{% assign conferences = conferences | sort: "start_date" %}

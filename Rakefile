@@ -29,15 +29,18 @@ task :verify_data do
     "cfp_date",
     "video_link"
   ]
-  data = YAML.load File.read "_data/conferences.yml"
-  validator = DataFileValidator.validate(data, allowed_keys)
 
-  exit 3 if validator.missing_keys?
-  exit 4 if validator.bonus_keys?
+  Dir.glob("_data/conferences/*.yml").each do |conferences_file|
+    data = YAML.load(File.read(conferences_file), permitted_classes: [Date])
+    validator = DataFileValidator.validate(data, allowed_keys)
 
-  events = validator.events
-  dates = events.map { |event| event["start_date"] }
-  exit 5 unless dates.sort == dates
+    exit 3 if validator.missing_keys?
+    exit 4 if validator.bonus_keys?
+
+    events = validator.events
+    dates = events.map { |event| event["start_date"] }
+    exit 5 unless dates.sort == dates
+  end
 end
 
 task default: [:build, :verify_data, :verify_html]
