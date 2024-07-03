@@ -1,0 +1,84 @@
+- name: Rubyday 2021
+  location: Online
+  start_date: 2021-04-07
+  end_date: 2021-04-07
+  url: https://2021.rubyday.it
+  twitter: rubydayit
+
+- name: RailsConf 2021
+  location: Online
+  start_date: 2021-04-12
+  end_date: 2021-04-15
+  url: https://railsconf.com/
+  twitter: railsconf
+  video_link: https://www.youtube.com/playlist?list=PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6
+
+- name: Euruko 2021
+  location: Online
+  start_date: 2021-05-28
+  end_date: 2021-05-29
+  url: https://2021.euruko.org
+  twitter: euruko
+  video_link: https://www.youtube.com/playlist?list=PLZW-kXE0oRyknRwEUrg5o491KomjkNU16
+
+- name: Saint P Rubyconf
+  location: Saint Petersburg, Russia
+  start_date: 2021-06-05
+  end_date: 2021-06-05
+  url: https://spbrubyconf.ru/
+  twitter: saintpruby
+  video_link: https://www.youtube.com/watch?v=MIX8S3n9Nwc
+
+- name: EMEA on Rails
+  location: Online
+  start_date: 2021-06-09
+  end_date: 2021-06-09
+  url: https://www.emeaonrails.com/
+  twitter: emeaonrails
+
+- name: RubyConf Brasil
+  location: Online
+  start_date: 2021-07-29
+  end_date: 2021-07-30
+  url: https://online.rubyconf.com.br/
+  twitter: rubyconfbr
+
+- name: African Ruby Mini-Conference
+  location: Online
+  start_date: 2021-08-12
+  end_date: 2021-08-12
+  url: http://conference.nairuby.org/
+  twitter: NairubyKE
+  video_link: https://www.youtube.com/playlist?list=PLb6Zr8jHuhjz_v8223h1fWpCJjzy87iRZ
+
+- name: RubyKaigi Takeout
+  location: Online
+  start_date: 2021-09-09
+  end_date: 2021-09-11
+  url: https://rubykaigi.org/2021-takeout
+  twitter: rubykaigi
+  video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yYgc4sx2Dkb7WWcfflbt6AP
+
+- name: RubyRussia
+  location: Online
+  start_date: 2021-09-24
+  end_date: 2021-09-25
+  url: https://rubyrussia.club/
+  twitter: railsclub_ru
+  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeMfiEGak_zwF_ULP8Rc6HcL
+
+- name: Kaigi on Rails 2021
+  location: Online
+  start_date: 2021-10-22
+  end_date: 2021-10-23
+  url: https://kaigionrails.org/2021
+  twitter: kaigionrails
+  mastodon: https://ruby.social/@kaigionrails
+
+- name: RubyConf 2021
+  location: Denver, CO
+  start_date: 2021-11-08
+  end_date: 2021-11-10
+  url: https://rubyconf.org
+  twitter: rubyconf
+  video_link: https://www.youtube.com/watch?v=paZ5_3F22V8&list=PLbHJudTY1K0f0oMhWtY-UyzOb7tUlaHps
