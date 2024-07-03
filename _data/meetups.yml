@@ -963,3 +963,18 @@
   start_time: 09:30:00 BRT
   end_time: 12:00:00 BRT
   url: https://rubydf.com/events/terceira-edicao
+
+- name: AustinRB/Austin on Rails - Modern Authentication with WebAuthn
+  location: Austin, TX
+  date: 2024-07-09
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/297610747/
+
+- name: AustinRB/Austin on Rails - Ruby Social (Morning)
+  location: Austin, TX
+  date: 2024-07-25
+  start_time: 8:00:00 CDT
+  end_time: 10:00:00 CDT
+  url: https://www.meetup.com/austinrb/events/300257002/
+
