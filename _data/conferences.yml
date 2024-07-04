@@ -2713,6 +2713,12 @@
   cfp_close_date: 2024-06-30
   cfp_link: https://sessionize.com/rocky-mountain-ruby
 
+- name: Haggis Ruby 2024
+  location: Edinburgh, Scotland
+  start_date: 2024-10-24
+  end_date: 2024-10-24
+  url: https://haggisruby.co.uk
+
 - name: Kaigi on Rails 2024
   location: Tokyo, Japan
   start_date: 2024-10-25
@@ -2731,7 +2737,6 @@
   cfp_open_date: 2024-06-06
   cfp_close_date: 2024-07-22
   cfp_link: https://sessionize.com/rubyconf-2024/
-
 
 - name: RubyWorld Conference 2024
   location: Matsue, Japan
