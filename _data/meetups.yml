@@ -614,6 +614,13 @@
   end_time: 20:30:00 EDT
   url: https://lu.ma/ruby_fusion
 
+- nane: Ruby Montevideo - Meetup June
+  location: Montevideo, Uruguay
+  date: 2024-06-06
+  start_time: 19:00:00 UYT
+  end_time 22:00:00 UYT
+  url: https://www.meetup.com/ruby-montevideo/events/301320015
+
 - name: Boston Ruby Group - June 2024 meeting
   location: Boston, MA
   date: 2024-06-11
@@ -732,6 +739,13 @@
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062985
+
+- nane: Ruby Montevideo - Meetup July
+  location: Montevideo, Uruguay
+  date: 2024-07-12
+  start_time: 21:00:00 UYT
+  end_time 23:59:59 UYT
+  url: https://www.meetup.com/ruby-montevideo/events/302065709
 
 - name: Ruby on Rails Switzerland - 20 Years of Rails
   location: Zurich, Switzerland
