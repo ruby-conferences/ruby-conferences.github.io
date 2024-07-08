@@ -173,6 +173,13 @@
   end_time: 22:15:00 CET
   url: https://www.meetup.com/paris_rb/events/297791280
 
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-03-05
+  start_time: 18:00:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/bostonrb/events/299083357
+
 - name: Ruby on Rails Switzerland - Railshöck at Renuo
   location: Zurich, Switzerland
   date: 2024-03-06
@@ -298,6 +305,13 @@
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/299466405
+
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-04-02
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/bostonrb/events/299932407
 
 - name: Toronto Ruby - Using Rails introspection to supercharge your editor
   location: Toronto, Canada
@@ -446,6 +460,13 @@
   end_time: 20:00:00 BST
   url: https://lrug.org/meetings/2024/may
 
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-05-13
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/bostonrb/events/300022368
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-05-14
@@ -544,6 +565,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/upstate-ruby/events/301117587
 
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-06-03
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/bostonrb/events/300772513
+
 - name: Paris.rb
   location: Paris, France
   date: 2024-06-04
@@ -585,6 +613,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://lu.ma/ruby_fusion
+
+- name: Boston Ruby Group - June 2024 meeting
+  location: Boston, MA
+  date: 2024-06-11
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/bostonrb/events/300969682
 
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
@@ -649,12 +684,26 @@
   end_time: 19:30:00 CDT
   url: https://www.meetup.com/chicagoruby/events/301641748
 
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-07-01
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/bostonrb/events/301084091
+
 - name: Paris.rb - July Meetup
   location: Paris, France
   date: 2024-07-02
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437243
+
+- name: Boston Ruby Group - July 2024 meeting
+  location: Boston, MA
+  date: 2024-07-09
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/bostonrb/events/301988193
 
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
@@ -691,12 +740,26 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/301480681
 
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-08-05
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/bostonrb/events/301905492
+
 - name: Paris.rb - August Meetup
   location: Paris, France
   date: 2024-08-06
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437247
+
+- name: Boston Ruby Group - August 2024 meeting
+  location: Boston, MA
+  date: 2024-08-13
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/bostonrb/events/301996189
 
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
@@ -718,6 +781,13 @@
   start_time: 18:30:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/298503717
+
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-09-02
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/bostonrb/events/301905492
 
 - name: Paris.rb - September Meetup
   location: Paris, France
@@ -747,6 +817,13 @@
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062992
 
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-10-07
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/bostonrb/events/zxzdmtygcnbkb
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-10-08
@@ -767,6 +844,13 @@
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062997
+
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2024-11-04
+  start_time: 18:00:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/bostonrb/events/zxzdmtygcpbgb
 
 - name: NYC.rb - November 2024
   location: Online
