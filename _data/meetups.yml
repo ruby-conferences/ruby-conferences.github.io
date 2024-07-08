@@ -978,3 +978,9 @@
   end_time: 10:00:00 CDT
   url: https://www.meetup.com/austinrb/events/300257002/
 
+- name: "Ruby Romania Meetup #05"
+  location: Bucharest, Romania
+  date: 2024-07-11
+  start_time: 19:00:00 EEST
+  end_time: 21:00:00 EEST
+  url: https://www.meetup.com/ruby-romania/events/302016838/
