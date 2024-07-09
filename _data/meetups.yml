@@ -618,7 +618,7 @@
   location: Montevideo, Uruguay
   date: 2024-06-06
   start_time: 19:00:00 UYT
-  end_time 22:00:00 UYT
+  end_time: 22:00:00 UYT
   url: https://www.meetup.com/ruby-montevideo/events/301320015
 
 - name: Boston Ruby Group - June 2024 meeting
@@ -744,7 +744,7 @@
   location: Montevideo, Uruguay
   date: 2024-07-12
   start_time: 21:00:00 UYT
-  end_time 23:59:59 UYT
+  end_time: 23:59:59 UYT
   url: https://www.meetup.com/ruby-montevideo/events/302065709
 
 - name: Ruby on Rails Switzerland - 20 Years of Rails
