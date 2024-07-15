@@ -747,6 +747,13 @@
   end_time: 23:59:59 UYT
   url: https://www.meetup.com/ruby-montevideo/events/302065709
 
+- name: "Ruby::AZ - Implementing RAG in Rails"
+  location: Chandler, AZ
+  date: 2024-07-18
+  start_time: 18:00:00 MST
+  end_time: 20:00:00 MST
+  url: https://www.meetup.com/ruby-az/events/302201104
+
 - name: Ruby on Rails Switzerland - 20 Years of Rails
   location: Zurich, Switzerland
   date: 2024-07-24
