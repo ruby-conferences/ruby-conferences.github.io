@@ -2438,6 +2438,7 @@
   url: https://helvetic-ruby.ch/2023
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
+  video_link: https://www.youtube.com/playlist?list=PL4jngagx9f7TIyNkSkS15oDrVPCa7LXsT
 
 - name: RubyConf Taiwan 2023
   location: Taipei, Taiwan
@@ -2551,6 +2552,7 @@
   cfp_open_date: 2024-01-19
   cfp_close_date: 2024-02-25
   cfp_link: https://helvetic-ruby.ch/call-for-speakers
+  video_link: https://www.youtube.com/playlist?list=PL4jngagx9f7RGaAjXE0PR3z_jsA9cyCji
 
 - name: Blue Ridge Ruby 2024
   location: Asheville, NC, USA
