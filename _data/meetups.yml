@@ -789,6 +789,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/bostonrb/events/301996189
 
+- name: Toronto Ruby - Summer of Rails World Edition
+  location: Toronto, Canada
+  date: 2024-08-13
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://toronto-ruby.com
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-08-14
