@@ -59,7 +59,7 @@
   date: 2024-01-24
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
-  url: https://toronto-ruby.com/past-events
+  url: https://radius.to/groups/toronto-ruby/events/nkn3vrxhklze
 
 - name: Poznań Ruby User Group (PRUG) - January 2024
   location: Poznań, Poland
@@ -164,7 +164,7 @@
   date: 2024-02-29
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
-  url: https://toronto-ruby.com/past-events
+  url: https://radius.to/groups/toronto-ruby/events/vxmd8kyaxs3t
 
 - name: Paris.rb
   location: Paris, France
@@ -318,7 +318,7 @@
   date: 2024-04-03
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://toronto-ruby.com/past-events
+  url: https://radius.to/groups/toronto-ruby/events/bskxhdeqs6pq
 
 - name: "London Ruby User Group: April 2024 Meeting"
   location: London, UK
@@ -519,9 +519,9 @@
 - name: Toronto Ruby - Spring edition!
   location: Toronto, Canada
   date: 2024-05-22
-  start_time: 18:00:00 EST
-  end_time: 21:00:00 EST
-  url: https://toronto-ruby.com/past-events
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://radius.to/groups/toronto-ruby/events/pkgvym5ecyuc
 
 - name: LA Ruby - Nil - Nothing is Easy, Is It?
   location: Los Angeles, CA
@@ -683,6 +683,13 @@
   start_time: 18:00:00 MST
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/301702012
+
+- name: Toronto Ruby - June Edition
+  location: Toronto, Canada
+  date: 2024-06-20
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://radius.to/groups/toronto-ruby/events/s1tczn2usqf5
 
 - name: ChicagoRuby - Madison+ Ruby + Chicago @ Chime
   location: Chicago, IL
