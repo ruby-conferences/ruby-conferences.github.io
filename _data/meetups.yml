@@ -1110,3 +1110,11 @@
   start_time: 19:00:00 EEST
   end_time: 21:00:00 EEST
   url: https://www.meetup.com/ruby-romania/events/302016838/
+
+- name: "YC Ruby Meetup: Ruby & Rails powering YC startups in 2024"
+  location: San Francisco, CA
+  date: 2024-08-13
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://events.ycombinator.com/yc-ruby-meetup
+
