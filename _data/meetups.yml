@@ -1118,3 +1118,17 @@
   end_time: 21:00:00 PDT
   url: https://events.ycombinator.com/yc-ruby-meetup
 
+- name: "London Ruby User Group: July 2024 Meeting"
+  location: London, UK
+  date: 2024-07-08
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/july/
+
+- name: "London Ruby User Group: August 2024 Meeting"
+  location: London, UK
+  date: 2024-08-12
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/august/
+
