@@ -75,6 +75,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/upstate-ruby/events/298465949
 
+- name: SD Ruby - Meetup January 2024
+  location: San Diego, CA
+  date: 2024-01-25
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/sdruby/events/298656197
+
 - name: Ruby Frankfurt Meetup - January 2024
   location: Frankfurt am Main, Germany
   date: 2024-01-30
@@ -88,6 +95,13 @@
   start_time: 19:00:00 CET
   end_time: 21:30:00 CET
   url: https://www.rug-b.de/events/february-meetup-2024-769
+
+- name: SD Ruby - Lightning Talks
+  location: San Diego, CA
+  date: 2024-02-01
+  start_time: 19:00:00 PST
+  end_time: 20:30:00 PST
+  url: https://www.meetup.com/sdruby/events/297372058
 
 - name: ChicagoRuby - Jason Swett "How to Write Meaningful Tests"
   location: Chicago, IL
@@ -208,6 +222,13 @@
   end_time: 21:00:00 CET
   url: https://www.rug-b.de/events/march-meetup-2024-771
 
+- name: SD Ruby - Meetup March 2024
+  location: San Diego, CA
+  date: 2024-03-07
+  start_time: 19:00:00 PST
+  end_time: 20:30:00 PST
+  url: https://www.meetup.com/sdruby/events/297372059
+
 - name: "London Ruby User Group: March 2024 Meeting"
   location: London, UK
   date: 2024-03-11
@@ -320,6 +341,13 @@
   end_time: 21:00:00 EDT
   url: https://radius.to/groups/toronto-ruby/events/bskxhdeqs6pq
 
+- name: SD Ruby - Meetup April 2024
+  location: San Diego, CA
+  date: 2024-04-04
+  start_time: 19:00:00 PDT
+  end_time: 20:30:00 PDT
+  url: https://www.meetup.com/sdruby/events/297372060
+
 - name: "London Ruby User Group: April 2024 Meeting"
   location: London, UK
   date: 2024-04-08
@@ -424,6 +452,13 @@
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.rug-b.de/events/may-meetup-2024-776
+
+- name: SD Ruby - Meetup May 2024
+  location: San Diego, CA
+  date: 2024-05-02
+  start_time: 19:00:00 PDT
+  end_time: 20:30:00 PDT
+  url: https://www.meetup.com/sdruby/events/297372062
 
 - name: Paris.rb
   location: Paris, France
@@ -621,6 +656,13 @@
   end_time: 22:00:00 UYT
   url: https://www.meetup.com/ruby-montevideo/events/301320015
 
+- name: SD Ruby - Meetup June 2024
+  location: San Diego, CA
+  date: 2024-06-06
+  start_time: 19:00:00 PDT
+  end_time: 20:30:00 PDT
+  url: https://www.meetup.com/sdruby/events/297372063
+
 - name: Boston Ruby Group - June 2024 meeting
   location: Boston, MA
   date: 2024-06-11
@@ -761,6 +803,13 @@
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/302201104
 
+- name: SD Ruby - Summer Social
+  location: San Diego, CA
+  date: 2024-07-18
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/301083166
+
 - name: Ruby on Rails Switzerland - 20 Years of Rails
   location: Zurich, Switzerland
   date: 2024-07-24
@@ -774,6 +823,13 @@
   start_time: 17:30:00 EDT
   end_time: 19:30:00 EDT
   url: https://lu.ma/ntmonn8p
+
+- name: SD Ruby - Meetup August 2024
+  location: San Diego, CA
+  date: 2024-08-01
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/302290739
 
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
@@ -838,6 +894,13 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437249
 
+- name: SD Ruby - Meetup September 2024
+  location: San Diego, CA
+  date: 2024-09-05
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/hjmpmtygcmbhb
+
 - name: Philly.rb - Pubnite - Global/Virtual
   location: Online
   date: 2024-09-11
@@ -858,6 +921,13 @@
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062992
+
+- name: SD Ruby - Meetup October 2024
+  location: San Diego, CA
+  date: 2024-10-03
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/hjmpmtygcnbfb
 
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
@@ -894,12 +964,26 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/bostonrb/events/zxzdmtygcpbgb
 
+- name: SD Ruby - Meetup November 2024
+  location: San Diego, CA
+  date: 2024-11-07
+  start_time: 19:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://www.meetup.com/sdruby/events/hjmpmtygcpbkb
+
 - name: NYC.rb - November 2024
   location: Online
   date: 2024-11-13
   start_time: 17:30:00 EST
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/301063000
+
+- name: SD Ruby - Meetup December 2024
+  location: San Diego, CA
+  date: 2024-12-05
+  start_time: 19:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://www.meetup.com/sdruby/events/hjmpmtygcqbhb
 
 - name: NYC.rb - December 2024
   location: Online
@@ -1131,4 +1215,3 @@
   start_time: 18:00:00 BST
   end_time: 20:00:00 BST
   url: https://lrug.org/meetings/2024/august/
-
