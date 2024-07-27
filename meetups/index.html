@@ -3,11 +3,11 @@ layout: default
 ---
 <article id="home">
   <dl>
-    {% assign now = site.time | date: "%s" | plus: 0 %}
+    {% assign now = "now" | date: "%Y-%m-%d 00:00:00" | date: "%s" | plus: 0 %}
     {% assign meetups = site.data.meetups | sort: "date" %}
     {% for meetup in meetups %}
       {% assign date = meetup.date | date: "%s" | plus: 0 %}
-      {% if date > now %}
+      {% if date >= now %}
         {% include meetup.html %}
       {% endif %}
     {% endfor %}

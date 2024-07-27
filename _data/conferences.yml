@@ -2438,6 +2438,7 @@
   url: https://helvetic-ruby.ch/2023
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
+  video_link: https://www.youtube.com/playlist?list=PL4jngagx9f7TIyNkSkS15oDrVPCa7LXsT
 
 - name: RubyConf Taiwan 2023
   location: Taipei, Taiwan
@@ -2529,6 +2530,7 @@
   cfp_open_date: 2024-01-24
   cfp_close_date: 2024-02-13
   cfp_link: https://sessionize.com/railsconf2024
+  video_link: https://www.youtube.com/playlist?list=PLbHJudTY1K0chrs_E_XFz2pOJ3d8jCayh
 
 - name: RubyKaigi 2024
   location: Naha, Okinawa, Japan
@@ -2551,6 +2553,7 @@
   cfp_open_date: 2024-01-19
   cfp_close_date: 2024-02-25
   cfp_link: https://helvetic-ruby.ch/call-for-speakers
+  video_link: https://www.youtube.com/playlist?list=PL4jngagx9f7RGaAjXE0PR3z_jsA9cyCji
 
 - name: Blue Ridge Ruby 2024
   location: Asheville, NC, USA
@@ -2634,7 +2637,7 @@
   url: https://rubyconf.africa/
   twitter: ruby_african
   cfp_open_date: 2024-03-20
-  cfp_close_date: 2024-05-31
+  cfp_close_date: 2024-07-20
   cfp_link: https://www.papercall.io/rubyconfafrica2024
 
 - name: Madison+ Ruby 2024
@@ -2673,7 +2676,7 @@
   twitter: friendlyrb
   mastodon: https://ruby.social/@friendlyrb
   cfp_open_date: 2024-03-29
-  cfp_close_date: 2024-08-01
+  cfp_close_date: 2024-07-01
   cfp_link: https://friendlyrb.com/cfp
 
 - name: Rails World 2024
@@ -2696,16 +2699,28 @@
   cfp_close_date: 2024-08-10
   cfp_link: https://www.papercall.io/rubyfuza-2024
 
+- name: Ruby Retreat 2024
+  location: Warrnambool, VIC, Australia
+  url: https://retreat.ruby.org.au/
+  start_date: 2024-10-18
+  end_date: 2024-10-21
+
 - name: Rocky Mountain Ruby 2024
   location: Boulder, Colorado
   start_date: 2024-10-07
-  end_date: 2023-10-08
+  end_date: 2024-10-08
   url: https://rockymtnruby.dev/
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymntruby
   cfp_open_date: 2024-05-15
   cfp_close_date: 2024-06-30
   cfp_link: https://sessionize.com/rocky-mountain-ruby
+
+- name: Haggis Ruby 2024
+  location: Edinburgh, Scotland
+  start_date: 2024-10-24
+  end_date: 2024-10-24
+  url: https://haggisruby.co.uk
 
 - name: Kaigi on Rails 2024
   location: Tokyo, Japan
@@ -2722,6 +2737,26 @@
   url: https://rubyconf.org
   twitter: rubyconf
   mastodon: https://ruby.social/@rubyconf
+  cfp_open_date: 2024-06-06
+  cfp_close_date: 2024-07-22
+  cfp_link: https://sessionize.com/rubyconf-2024/
+
+- name: RubyConf India 2024
+  location: Jaipur, India
+  start_date: 2024-11-29
+  end_date: 2024-11-30
+  url: https://rubyconf.in
+  twitter: rubyconfindia
+  cfp_open_date: 2024-07-23
+  cfp_close_date: 2024-09-25
+  cfp_link: https://www.papercall.io/rubyconf-india-2024
+
+- name: RubyWorld Conference 2024
+  location: Matsue, Japan
+  start_date: 2024-12-05
+  end_date: 2024-12-06
+  url: https://2024.rubyworld-conf.org/en/
+  twitter: rubyworldconf
 
 - name: RubyKaigi 2025
   location: Matsuyama, Ehime, Japan
@@ -2745,3 +2780,31 @@
   url: https://helvetic-ruby.ch
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
+
+- name: Brighton Ruby 2025
+  location: Brighton, UK
+  start_date: 2025-06-19
+  end_date: 2025-06-19
+  url: https://brightonruby.com
+  twitter: brightonruby
+  mastodon: https://ruby.social/@brightonruby
+
+- name: Baltic Ruby 2025
+  location: Riga, Latvia
+  # TODO: update when dates are confirmed
+  start_date: 2025-06-30
+  end_date: 2025-06-30
+  date_precision: month
+  url: https://balticruby.org
+  twitter: balticruby
+  mastodon: https://ruby.social/@balticruby
+
+- name: RailsConf 2025
+  location: United States
+  # TODO: update when dates are confirmed
+  start_date: 2025-12-31
+  end_date: 2025-12-31
+  date_precision: year
+  url: https://www.railsconf.com
+  twitter: railsconf
+  mastodon: https://ruby.social/@railsconf
