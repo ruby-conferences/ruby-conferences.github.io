@@ -2730,6 +2730,9 @@
   url: https://kaigionrails.org/2024/
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
+  cfp_open_date: 2024-07-01
+  cfp_close_date: 2024-07-31
+  cfp_link: https://cfp.kaigionrails.org/events/2024
 
 - name: RubyConf 2024
   location: Chicago, IL
