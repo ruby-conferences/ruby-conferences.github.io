@@ -796,6 +796,13 @@
   end_time: 23:59:59 UYT
   url: https://www.meetup.com/ruby-montevideo/events/302065709
 
+- name: Ruby Montevideo - Meetup August 2024
+  location: Montevideo, Uruguay
+  date: 2024-08-13
+  start_time: 19:00:00 UYT
+  end_time: 22:00:00 UYT
+  url: https://www.meetup.com/ruby-montevideo/events/302455776
+
 - name: "Ruby::AZ - Implementing RAG in Rails"
   location: Chandler, AZ
   date: 2024-07-18
