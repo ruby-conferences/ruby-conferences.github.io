@@ -2587,11 +2587,12 @@
   location: Malmö, Sweden
   start_date: 2024-06-13
   end_date: 2024-06-15
-  url: https://balticruby.org
+  url: https://balticruby.org/archive/2024
   twitter: balticruby
   cfp_open_date: 2024-02-26
   cfp_close_date: 2024-04-07
   cfp_link: https://www.papercall.io/balticruby
+  video_url: https://balticruby.org/archive/2024/recordings
 
 - name: Ruby Unconf 2024
   location: Hamburg, Germany
