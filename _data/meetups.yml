@@ -1229,3 +1229,17 @@
   start_time: 18:00:00 BST
   end_time: 20:00:00 BST
   url: https://lrug.org/meetings/2024/august/
+
+- name: AustinRB/Austin on Rails - Ruby on AI "The magic Lego"
+  location: Austin, TX
+  date: 2024-08-13
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/297610749/
+
+- name: AustinRB/Austin on Rails - Ruby Social (Evening)
+  location: Austin, TX
+  date: 2024-08-29
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/302551912/
