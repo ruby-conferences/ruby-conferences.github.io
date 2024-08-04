@@ -89,6 +89,13 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/frankfurt-ruby-meetup/events/298436132
 
+- name: WNB.rb - January 2024 Meetup
+  location: Online
+  date: 2024-01-30
+  start_time: 12:00:00 EDT
+  end_time: 13:00:00 EDT
+  url: https://www.wnb-rb.dev/meetups/2024/01/30
+
 - name: "Ruby User Group Berlin - February Meetup 2024"
   location: Berlin, Germany
   date: 2024-02-01
@@ -165,6 +172,13 @@
   start_time: 18:00:00 CET
   end_time: 20:00:00 CET
   url: https://www.meetup.com/polishrubyusergroup/events/298881192
+
+- name: WNB.rb - February 2024 Meetup
+  location: Online
+  date: 2024-02-27
+  start_time: 12:00:00 EDT
+  end_time: 13:00:00 EDT
+  url: https://www.wnb-rb.dev/meetups/2024/02/27
 
 - name: Polish Ruby User Group (PLRUG) - Meetup February 2024
   location: Warsaw, Poland
@@ -256,6 +270,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/upstate-ruby/events/299496096
+
+- name: WNB.rb - March 2024 Meetup
+  location: Online
+  date: 2024-03-12
+  start_time: 12:00:00 EDT
+  end_time: 13:00:00 EDT
+  url: https://www.wnb-rb.dev/meetups/2024/03/12
 
 - name: Copenhagen Ruby Brigade - March Meetup
   location: Copenhagen, Denmark
@@ -460,6 +481,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/upstate-ruby/events/300290562
 
+- name: WNB.rb - April 2024 Meetup
+  location: Online
+  date: 2024-04-30
+  start_time: 12:00:00 EDT
+  end_time: 13:00:00 EDT
+  url: https://www.wnb-rb.dev/meetups/2024/04/30
+
 - name: Ruby in London with Mindful Chef
   location: London, UK
   date: 2024-05-01
@@ -614,12 +642,12 @@
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/300938990
 
-- name: WNB.rb
+- name: WNB.rb - May 2024
   location: Online
   date: 2024-05-28
   start_time: 12:00:00 EDT
   end_time: 13:00:00 EDT
-  url: https://www.wnb-rb.dev/meetups
+  url: https://www.wnb-rb.dev/meetups/2024/05/28
 
 - name: "Krakow Ruby Users Group - KRUG #1 2024"
   location: Krakow, Poland
@@ -817,12 +845,12 @@
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/301702012
 
-- name: WNB.rb
+- name: WNB.rb - June 2024
   location: Online
   date: 2024-06-25
   start_time: 12:00:00 EDT
   end_time: 13:00:00 EDT
-  url: https://www.wnb-rb.dev/meetups
+  url: https://www.wnb-rb.dev/meetups/2024/06/25
 
 - name: ChicagoRuby - Madison+ Ruby + Chicago @ Chime
   location: Chicago, IL
@@ -999,7 +1027,7 @@
   end_time: 12:00:00 BRT
   url: https://rubydf.com/events/terceira-edicao
 
-- name: WNB.rb
+- name: WNB.rb - July 2024
   location: Online
   date: 2024-07-30
   start_time: 12:00:00 EDT
