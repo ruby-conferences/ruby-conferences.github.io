@@ -1,3 +1,10 @@
+- name: Charlotte Ruby - Ruby Hack Night January 2024
+  location: Online
+  date: 2024-01-02
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/297725393
+
 - name: "London Ruby User Group: January 2024 Meeting"
   location: London, UK
   date: 2024-01-08
@@ -124,6 +131,13 @@
   end_time: 22:15:00 CET
   url: https://www.meetup.com/paris_rb/events/297791270
 
+- name: Charlotte Ruby - Ruby Hack Night February 2024
+  location: Online
+  date: 2024-02-06
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/298171391
+
 - name: Ruby in London with Builder.ai
   location: London, UK
   date: 2024-02-07
@@ -214,6 +228,13 @@
   start_time: 18:00:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/the-bluegrass-developers-guild/events/299357620
+
+- name: Charlotte Ruby - Ruby Hack Night March 2024
+  location: Online
+  date: 2024-03-05
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/298178146
 
 - name: Ruby on Rails Switzerland - Railshöck at Renuo
   location: Zurich, Switzerland
@@ -376,6 +397,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/the-bluegrass-developers-guild/events/300021220/
 
+- name: Charlotte Ruby - Ruby Hack Night April 2024
+  location: Online
+  date: 2024-04-02
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/298294592
+
 - name: Toronto Ruby - Using Rails introspection to supercharge your editor
   location: Toronto, Canada
   date: 2024-04-03
@@ -515,6 +543,13 @@
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/300166981
+
+- name: Charlotte Ruby - Ruby Hack Night May 2024
+  location: Online
+  date: 2024-05-07
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/298294608
 
 - name: NYC.rb - Mob Programming - Turbo Native!
   location: Online
@@ -719,6 +754,13 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/300166992
 
+- name: Charlotte Ruby - Ruby Hack Night June 2024
+  location: Online
+  date: 2024-06-04
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/298294644
+
 - name: Geneva.rb - Semantic search in RubyOnRails with GPT-4 (Yannis Jaquet, EPFL)
   location: Geneva, Switzerland
   date: 2024-06-05
@@ -893,6 +935,13 @@
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437243
+
+- name: Charlotte Ruby - Ruby Hack Night July 2024
+  location: Online
+  date: 2024-07-02
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/301353961
 
 - name: "London Ruby User Group: July 2024 Meeting"
   location: London, UK
@@ -1069,6 +1118,13 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437247
 
+- name: Charlotte Ruby - Ruby Hack Night August 2024
+  location: Online
+  date: 2024-08-06
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/301353966
+
 - name: "London Ruby User Group: August 2024 Meeting"
   location: London, UK
   date: 2024-08-12
@@ -1167,6 +1223,13 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437249
 
+- name: Charlotte Ruby - Ruby Hack Night September 2024
+  location: Online
+  date: 2024-09-03
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/301353968
+
 - name: SD Ruby - Meetup September 2024
   location: San Diego, CA
   date: 2024-09-05
@@ -1201,6 +1264,13 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://bluegrassruby.club/
+
+- name: Charlotte Ruby - Ruby Hack Night October 2024
+  location: Online
+  date: 2024-10-01
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/301353970
 
 - name: SD Ruby - Meetup October 2024
   location: San Diego, CA
@@ -1258,6 +1328,13 @@
   end_time: 20:00:00 EDT
   url: https://bluegrassruby.club/
 
+- name: Charlotte Ruby - Ruby Hack Night November 2024
+  location: Online
+  date: 2024-11-05
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/301353973
+
 - name: SD Ruby - Meetup November 2024
   location: San Diego, CA
   date: 2024-11-07
@@ -1292,6 +1369,13 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://bluegrassruby.club/
+
+- name: Charlotte Ruby - Ruby Hack Night December 2024
+  location: Online
+  date: 2024-12-03
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/nqchktygcqbfb
 
 - name: SD Ruby - Meetup December 2024
   location: San Diego, CA
