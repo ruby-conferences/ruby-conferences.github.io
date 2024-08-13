@@ -1167,6 +1167,13 @@
   end_time: 22:00:00 UYT
   url: https://www.meetup.com/ruby-montevideo/events/302455776
 
+- name: RubySur - Agosto 2024 - Refactoring
+  location: Buenos Aires, Argentina / Online
+  date: 2024-08-14
+  start_time: 19:30:00 ART
+  end_time: 20:30:00 ART
+  url: https://www.meetup.com/rubyba/events/302656192/
+
 - name: Boulder Ruby Group - Monthly Presentation Night
   location: Boulder, CO / Online
   date: 2024-08-14
@@ -1404,10 +1411,3 @@
   start_time: 20:30:00 EST
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/nnlgbtyhccbsb
-
-- name: RubySur - Agosto 2024 - Refactoring
-  location: Buenos Aires, Argentina / Online
-  date: 2024-08-14
-  start_time: 19:30:00 ART
-  end_time: 20:30:00 ART
-  url: https://www.meetup.com/rubyba/events/302656192/
