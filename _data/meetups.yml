@@ -327,6 +327,13 @@
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/298382203
 
+- name: RubySur - March 2024 - Debugging
+  location: Buenos Aires, Argentina / Online
+  date: 2024-03-14
+  start_time: 19:30:00 ART
+  end_time: 20:30:00 ART
+  url: https://www.meetup.com/rubyba/events/299590862
+
 - name: brooklyn.rb - rails new happy_hack_hour
   location: Brooklyn, NY
   date: 2024-03-14
@@ -467,6 +474,13 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/299288679
 
+- name: RubySur - April 2024
+  location: Buenos Aires, Argentina / Online
+  date: 2024-04-16
+  start_time: 19:30:00 ART
+  end_time: 20:30:00 ART
+  url: https://www.meetup.com/rubyba/events/300307806
+
 - name: brooklyn.rb - Recurse Center + Approximate Formal Modeling w/ Brock Wilcox
   location: Brooklyn, NY
   date: 2024-04-18
@@ -599,6 +613,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/bostonrb/events/300022368
+
+- name: RubySur - May 2024 - Hotwire
+  location: Buenos Aires, Argentina / Online
+  date: 2024-05-14
+  start_time: 19:30:00 ART
+  end_time: 20:30:00 ART
+  url: https://www.meetup.com/rubyba/events/300864089
 
 - name: AustinRB/Austin on Rails - Debugging with ruby/debug
   location: Austin, TX
@@ -852,6 +873,13 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/boulder_ruby_group/events/299591825
 
+- name: RubySur - June 2024 - Asset Pipeline
+  location: Buenos Aires, Argentina / Online
+  date: 2024-06-13
+  start_time: 19:30:00 ART
+  end_time: 20:30:00 ART
+  url: https://www.meetup.com/rubyba/events/301367143
+
 - name: SF Bay Area Ruby Meetup @ ProductBoard
   location: San Francisco, CA
   date: 2024-06-13
@@ -1027,6 +1055,13 @@
   end_time: 20:30:00 BST
   url: https://www.meetup.com/ruby-in-london/events/300777187
 
+- name: RubySur - July 2024 - Turbo!
+  location: Buenos Aires, Argentina / Online
+  date: 2024-07-18
+  start_time: 19:30:00 ART
+  end_time: 20:30:00 ART
+  url: https://www.meetup.com/rubyba/events/302163493
+
 - name: SF Bay Area Ruby Meetup in July @ Cisco Meraki
   location: San Francisco, CA
   date: 2024-07-18
@@ -1167,12 +1202,12 @@
   end_time: 22:00:00 UYT
   url: https://www.meetup.com/ruby-montevideo/events/302455776
 
-- name: RubySur - Agosto 2024 - Refactoring
+- name: RubySur - August 2024 - Refactoring
   location: Buenos Aires, Argentina / Online
   date: 2024-08-14
   start_time: 19:30:00 ART
   end_time: 20:30:00 ART
-  url: https://www.meetup.com/rubyba/events/302656192/
+  url: https://www.meetup.com/rubyba/events/302656192
 
 - name: Boulder Ruby Group - Monthly Presentation Night
   location: Boulder, CO / Online
