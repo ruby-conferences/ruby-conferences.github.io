@@ -2741,6 +2741,7 @@
   start_date: 2024-10-24
   end_date: 2024-10-24
   url: https://haggisruby.co.uk
+  mastodon: https://ruby.social/@haggisruby
 
 - name: Kaigi on Rails 2024
   location: Tokyo, Japan
