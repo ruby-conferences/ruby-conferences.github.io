@@ -1230,6 +1230,13 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/298503717
 
+- name: Polish Ruby User Group (PLRUG) - Meetup August 2024
+  location: Warsaw, Poland
+  date: 2024-08-22
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/302785548
+
 - name: AustinRB/Austin on Rails - Ruby Social (Evening)
   location: Austin, TX
   date: 2024-08-29
