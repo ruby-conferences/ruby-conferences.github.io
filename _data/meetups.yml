@@ -1223,6 +1223,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/nnlgbtygclbrb
 
+- name: Ruby Türkiye - Virtual Meetup August 2024
+  location: Online
+  date: 2024-08-20
+  start_time: 21:00:00 TRT
+  end_time: 22:30:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/walk-through-of-those-gems-3afc364c
+
 - name: Ruby on Rails Switzerland - Railshöck at Puzzle
   location: Zurich, Switzerland
   date: 2024-08-21
