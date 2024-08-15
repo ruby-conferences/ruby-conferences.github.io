@@ -59,6 +59,7 @@ Extra keys for the upcoming events:
 Extra keys for the past events:
 
 * `video_link`: A url to the videos for the event.
+* `announced_on`: The date on which the conference was announced - ISO8601 formatted (yyyy-mm-dd). This date is used as the publish date for the [RSS feed](https://rubyconferences.org/feed.xml) so people can stay up to date with newly announced conferences.
 
 **Meetups**
 
