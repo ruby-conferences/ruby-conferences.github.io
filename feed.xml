@@ -8,11 +8,11 @@
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ site.url }}/feed.xml</id>
 
-  {% assign latest_events = site.data.conferences | reverse | slice: 0, 30 %}
+  {% assign latest_events = site.data.conferences | reverse | slice: 0, 50 %}
   {% for event in latest_events %}
-    {% if event.announced_at %}
+    {% if event.announced_on %}
       <entry>
-        <published>{{ event.announced_at | date: "%Y-%m-%dT%H:%M:%S%z" }}</published>
+        <published>{{ event.announced_on | date: "%Y-%m-%dT%H:%M:%S%z" }}</published>
 
         <title>{{ event.name }}</title>
         <id>{{ event.url }}</id>

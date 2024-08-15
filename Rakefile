@@ -28,7 +28,7 @@ task :verify_data do
     "cfp_phrase",
     "cfp_date",
     "video_link",
-    "announced_at"
+    "announced_on"
   ]
   data = YAML.load File.read "_data/conferences.yml"
   validator = DataFileValidator.validate(data, allowed_keys)
