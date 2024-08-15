@@ -62,11 +62,11 @@ Extra keys for the upcoming events:
 * `cfp_link`: A link to the CFP submission page.
 * `status`:  Typically you want to put "Canceled", "Postponed" or "To be announced" here.
 * `date_precision`: Controls the precision of the `start_date` and `end_date` when the conference dates aren't announced just yet but it's confirmed that the conference is happening. Possible values: `full` (implicit default), `month` or `year`. The `start_date` and `end_date` fields still need to be fully formatted ISO8601 dates, you can put the last day of the month/year in it so it also gets ordered properly.
+* `announced_on`: The date on which the conference was announced - ISO8601 formatted (yyyy-mm-dd). This date is used as the publish date for the [RSS feed](https://rubyconferences.org/feed.xml) so people can stay up to date with newly announced conferences.
 
 Extra keys for the past events:
 
 * `video_link`: A url to the videos for the event.
-* `announced_on`: The date on which the conference was announced - ISO8601 formatted (yyyy-mm-dd). This date is used as the publish date for the [RSS feed](https://rubyconferences.org/feed.xml) so people can stay up to date with newly announced conferences.
 
 **Meetups**
 
