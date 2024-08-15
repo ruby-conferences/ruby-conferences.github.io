@@ -103,6 +103,13 @@
   end_time: 13:00:00 EDT
   url: https://www.wnb-rb.dev/meetups/2024/01/30
 
+- name: Ruby Türkiye - Virtual Meetup January 2024
+  location: Online
+  date: 2024-01-31
+  start_time: 20:30:00 TRT
+  end_time: 22:30:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/aksam-oturmasi-db06675a
+
 - name: "Ruby User Group Berlin - February Meetup 2024"
   location: Berlin, Germany
   date: 2024-02-01
@@ -207,6 +214,13 @@
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
   url: https://radius.to/groups/toronto-ruby/events/vxmd8kyaxs3t
+
+- name: Ruby Türkiye - Virtual Meetup February 2024
+  location: Online
+  date: 2024-02-29
+  start_time: 20:30:00 TRT
+  end_time: 22:30:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/aksam-oturmasi-202402-ea467ba1
 
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
@@ -361,6 +375,13 @@
   start_time: 19:00:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/299288500
+
+- name: Ruby Türkiye - Virtual Meetup March 2024
+  location: Online
+  date: 2024-03-28
+  start_time: 20:30:00 TRT
+  end_time: 22:30:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/aksam-oturmasi-202403-04624a0d
 
 - name: SF Bay Area Ruby Meetup @ GitHub HQ
   location: San Francisco, CA
@@ -739,6 +760,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/upstate-ruby/events/301117587
+
+- name: Ruby Türkiye - Virtual Meetup May 2024
+  location: Online
+  date: 2024-05-31
+  start_time: 20:30:00 TRT
+  end_time: 22:30:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/aksam-oturmasi-202404-eeae65c1
 
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
