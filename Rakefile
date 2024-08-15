@@ -25,12 +25,15 @@ task :verify_data do
     "mastodon",
     "reg_phrase",
     "reg_date",
-    "cfp_phrase",
-    "cfp_date",
+    "cfp_open_date",
+    "cfp_close_date",
+    "cfp_link",
+    "status",
+    "date_precision",
     "video_link",
     "announced_on"
   ]
-  data = YAML.load File.read "_data/conferences.yml"
+  data = YAML.load_file("_data/conferences.yml", permitted_classes: [Date])
   validator = DataFileValidator.validate(data, allowed_keys)
 
   exit 3 if validator.missing_keys?
