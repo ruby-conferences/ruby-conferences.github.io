@@ -14,6 +14,13 @@ This page publishes `.ics` feed files for inclusion in personal calendars:
 - [`calendar.ics`](https://rubyconferences.org/calendar.ics) for the events only
 - [`cfp.ics`](https://rubyconferences.org/cfp.ics) for the CFP open/close dates
 
+## RSS Feed
+
+This page publishes an RSS feed so you can stay up to date with newly announced Ruby conferences.
+
+- [`feed.xml`](https://rubyconferences.org/feed.xml) for RSS Readers
+
+
 ## Eligible Conferences
 
 Focus is a goal of this project and as a result, only conferences that are
