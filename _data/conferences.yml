@@ -97,7 +97,7 @@
   twitter: railsconf
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ5jfnbS_osIoWzK_FrwKz5
 
-- name: Abril Pro Ruby
+- name: Abril Pro Ruby 2014
   location: Porto de Galinhas, Brazil
   start_date: 2014-04-24
   end_date: 2014-04-27
@@ -411,7 +411,7 @@
   twitter: rbonales
   video_link: http://confreaks.tv/events/roa2015
 
-- name: Tropical Ruby
+- name: Tropical.rb 2015
   location: Porto de Galinhas, Brazil
   start_date: 2015-03-05
   end_date: 2015-03-08
@@ -2803,6 +2803,16 @@
   twitter: rubyworldconf
   announced_on: 2024-05-29
 
+- name: Tropical.rb 2025
+  location: São Paulo, Brazil
+  start_date: 2025-04-03
+  end_date: 2025-04-04
+  date_precision: year
+  url: https://www.tropicalrb.com/
+  twitter: tropical_rb
+  mastodon: https://ruby.social/@tropicalrb
+  announced_on: 2024-08-16
+
 - name: RubyKaigi 2025
   location: Matsuyama, Ehime, Japan
   start_date: 2025-04-16
@@ -2859,11 +2869,3 @@
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
   announced_on: 2024-05-07
-
-- name: Tropical on Rails
-  location: São Paulo, Brazil
-  start_date: 2025-04-03
-  end_date: 2025-04-04
-  date_precision: year
-  url: https://www.tropicalrb.com/
-  twitter: tropical_rb
