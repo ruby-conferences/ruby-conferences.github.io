@@ -1750,7 +1750,7 @@
   location: Bangkok, Thailand
   start_date: 2019-09-06
   end_date: 2019-09-07
-  url: https://rubyconfth.com/
+  url: https://rubyconfth.com/past/2019
   twitter: rubyconfth
   video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIazzAKhtGxJvYCPCgP8HiB5k
 
@@ -2011,7 +2011,7 @@
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
 
-- name: RubyConf TH
+- name: RubyConf TH 2020
   location: Bangkok, Thailand
   start_date: 2020-10-16
   end_date: 2020-10-17
@@ -2229,9 +2229,13 @@
   location: Bangkok, Thailand
   start_date: 2022-12-09
   end_date: 2022-12-10
-  url: https://rubyconfth.com/
+  url: https://rubyconfth.com/past/2022
   twitter: rubyconfth
   video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIaxpMTv9dnWk3cq61xJcE2Pv
+  announced_on: 2022-07-18
+  cfp_link: https://papercall.io/rubyconfth2022
+  cfp_open_date: 2022-08-16
+  cfp_close_date: 2022-09-30
 
 - name: Ruby on Rails Global Summit'23
   location: Online
@@ -2401,6 +2405,7 @@
   cfp_close_date: 2023-06-04
   cfp_link: https://www.papercall.io/rubyconfth2023
   video_link: https://www.youtube.com/playlist?list=PLM_LdV8tMIay0GaJcCHegGyk0MGyQIVA6
+  announced_on: 2023-03-31
 
 - name: Ruby Retreat 2023
   location: Mount Cheeseman, Aotearoa New Zealand
