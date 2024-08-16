@@ -2854,3 +2854,11 @@
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
   announced_on: 2024-05-07
+
+- name: Tropical on Rails
+  location: São Paulo, Brazil
+  start_date: 2025-04-03
+  end_date: 2025-04-04
+  date_precision: year
+  url: https://www.tropicalrb.com/
+  twitter: tropical_rb
