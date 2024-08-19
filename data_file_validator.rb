@@ -1,17 +1,18 @@
 class DataFileValidator
   attr_accessor :events
 
-  def self.validate(events, allowed_keys)
-    new(events, allowed_keys).tap &:validate
+  def self.validate(events, allowed_keys, type = :conference)
+    new(events, allowed_keys, type).tap &:validate
   end
 
-  def initialize(events, allowed_keys)
+  def initialize(events, allowed_keys, type = :conference)
     @events = events
     @allowed_keys = allowed_keys
+    @type = type
   end
 
   def validate
-    for event in events
+    events.each do |event|
       missing_keys = required_keys - event.keys
       unless missing_keys.empty?
         puts "Missing keys: #{missing_keys}"
@@ -38,7 +39,14 @@ class DataFileValidator
 
   private
 
-  def required_keys
-    ["start_date", "end_date", "name", "location"]
+  def required_keys(type = @type)
+    case type
+    when :conference
+      ["start_date", "end_date", "name", "location"]
+    when :meetup
+      ["date", "start_time", "end_time", "name", "location"]
+    else
+      raise "required_keys: unknown type '#{type}'"
+    end
   end
 end
