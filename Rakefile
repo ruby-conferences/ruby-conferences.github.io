@@ -54,13 +54,6 @@ task :verify_meetups do
     "url",
     "twitter",
     "mastodon",
-    "reg_phrase",
-    "reg_date",
-    "cfp_open_date",
-    "cfp_close_date",
-    "cfp_link",
-    "status",
-    "date_precision",
     "video_link"
   ]
   data = YAML.load_file("_data/meetups.yml", permitted_classes: [Date])
