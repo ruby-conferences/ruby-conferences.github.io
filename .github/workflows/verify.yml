@@ -13,7 +13,7 @@ jobs:
           bundler-cache: true
 
       - name: Verify Conference Data
-        run: bundle exec verify_data
+        run: bundle exec rake verify_data
 
       - name: Verify Meetups Data
-        run: bundle exec verify_meetups
+        run: bundle exec rake verify_meetups
