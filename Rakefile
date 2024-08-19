@@ -13,8 +13,8 @@ task :verify_html do
   exit 2 unless system "bundle exec htmlproofer ./_site"
 end
 
-desc "Verify event data"
-task :verify_data do
+desc "Verify event conferences"
+task :verify_conferences do
   allowed_keys = [
     "name",
     "location",
