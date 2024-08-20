@@ -1345,6 +1345,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/nnlgbtygcmbnb
 
+- name: 'Krakow Ruby Users Group - KRUG #2 2024'
+  location: Krakow, Poland
+  date: 2024-09-17
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/krakow-ruby-users-group/events/302822679
+
 - name: Bluegrass Ruby Users Group - October 2024
   location: Lexington, KY
   date: 2024-10-01
