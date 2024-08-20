@@ -1282,6 +1282,13 @@
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/302551912/
 
+- name: Philippine Ruby Users Group - A night of Ruby Community Roadmapping
+  location: Quezon City, Philippines
+  date: 2024-08-29
+  start_time: 18:00:00 PHT
+  end_time: 20:00:00 PHT
+  url: https://www.meetup.com/ruby-phil/events/302886229
+
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
   date: 2024-09-02
