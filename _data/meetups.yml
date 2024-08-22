@@ -1352,6 +1352,13 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/krakow-ruby-users-group/events/302822679
 
+- name: Ruby Frankfurt Meetup - September 2024 - Database MasKING
+  location: Frankfurt am Main, Germany
+  date: 2024-09-17
+  start_time: 18:30:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/frankfurt-ruby-meetup/events/302960601
+
 - name: Bluegrass Ruby Users Group - October 2024
   location: Lexington, KY
   date: 2024-10-01
