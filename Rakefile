@@ -2,6 +2,7 @@
 require 'yaml'
 require 'date'
 require './data_file_validator'
+require './meetup_client'
 
 desc "Build Jekyll site"
 task :build do
@@ -65,6 +66,18 @@ task :verify_meetups do
   events = validator.events
   dates = events.map { |event| event["start_date"] }
   exit 5 unless dates.sort == dates
+end
+
+task :fetch_meetups do
+  MeetupGroup.all.each do |group|
+    group.write_new_meetups!
+  end
+
+  events = YAML.load_file("./_data/meetups.yml", permitted_classes: [Date])
+
+  events.sort_by! { |event| [event["date"], event["name"]] }
+
+  File.write("./_data/meetups.yml", events.to_yaml.gsub("- name:", "\n- name:"))
 end
 
 task default: [:build, :verify_data, :verify_html]
