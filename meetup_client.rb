@@ -108,6 +108,10 @@ class MeetupGroup < FrozenRecord::Base
       events = events.select! { |event| event.title.include?(filter) }
     end
 
+    if exclude.present?
+      events = events.reject! { |event| event.title.include?(exclude) }
+    end
+
     events
   end
 

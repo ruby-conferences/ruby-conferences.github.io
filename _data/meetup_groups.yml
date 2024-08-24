@@ -62,6 +62,7 @@
 
 - id: nyc-rb
   name: NYC.rb
+  exclude: Rails Camp
   service: meetupdotcom
 
 - id: paris_rb
