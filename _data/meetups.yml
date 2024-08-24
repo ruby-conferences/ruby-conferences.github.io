@@ -1289,6 +1289,13 @@
   end_time: 20:00:00 PHT
   url: https://www.meetup.com/ruby-phil/events/302886229
 
+- name: Polish Ruby User Group - Warsztaty Przywódcze (PRUG) August 2024
+  location: Poznań, Poland
+  date: 2024-08-29
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/302823685
+
 - name: Bluegrass Ruby Users Group - September 2024
   location: Lexington, KY
   date: 2024-09-03
@@ -1317,12 +1324,26 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/sdruby/events/hjmpmtygcmbhb
 
+- name: SD Ruby - Monthly Meetup
+  location: San Diego, CA
+  date: 2024-09-05
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/302800203
+
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
   date: 2024-09-09
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://lu.ma/af2n3jwa
+
+- name: AustinRB - Placeholder
+  location: Austin, TX
+  date: 2024-09-10
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/297610752
 
 - name: Boulder Ruby Group - Monthly Presentation Night
   location: Boulder, CO / Online
@@ -1352,6 +1373,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/302815061
 
+- name: Boston Ruby Group - September 2024 meeting
+  location: Boston, MA
+  date: 2024-09-17
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://lu.ma/sbesulha
+
 - name: 'Krakow Ruby Users Group - KRUG #2 2024'
   location: Krakow, Poland
   date: 2024-09-17
@@ -1366,12 +1394,19 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/frankfurt-ruby-meetup/events/302960601
 
-- name: Boston Ruby Group - September 2024 meeting
-  location: Boston, MA
-  date: 2024-09-17
-  start_time: 18:00:00 EDT
-  end_time: 20:00:00 EDT
-  url: https://lu.ma/sbesulha
+- name: Geneva.rb - TBD
+  location: Genève, Switzerland
+  date: 2024-09-18
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/geneva-rb/events/303018636
+
+- name: AustinRB - Ruby Social - Morning
+  location: Austin, TX
+  date: 2024-09-26
+  start_time: '08:00:00 CDT'
+  end_time: 10:00:00 CDT
+  url: https://www.meetup.com/austinrb/events/302552064
 
 - name: Bluegrass Ruby Users Group - October 2024
   location: Lexington, KY
@@ -1401,6 +1436,13 @@
   end_time: 20:00:00 EDT
   url: https://lu.ma/5wyckv9i
 
+- name: AustinRB - Placeholder
+  location: Austin, TX
+  date: 2024-10-08
+  start_time: 18:30:00 CDT
+  end_time: 21:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/297610754
+
 - name: Philly.rb - Pubnite October 2024
   location: Online
   date: 2024-10-08
@@ -1428,6 +1470,20 @@
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062997
+
+- name: Geneva.rb - TBD
+  location: Genève, Switzerland
+  date: 2024-10-16
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/geneva-rb/events/303018643
+
+- name: AustinRB - Ruby Social - Evening
+  location: Austin, TX
+  date: 2024-10-24
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/302552273
 
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
@@ -1457,6 +1513,13 @@
   end_time: 21:00:00 PST
   url: https://www.meetup.com/sdruby/events/hjmpmtygcpbkb
 
+- name: AustinRB - Placeholder
+  location: Austin, TX
+  date: 2024-11-12
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/297610758
+
 - name: Philly.rb - Pubnite November 2024
   location: Online
   date: 2024-11-12
@@ -1470,6 +1533,13 @@
   start_time: 18:00:00 MST
   end_time: 20:30:00 MST
   url: https://lu.ma/y1c2jita
+
+- name: Geneva.rb - Rails deployment with Kamal (Sean Carroll, GitLab)
+  location: Genève, Switzerland
+  date: 2024-11-13
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/geneva-rb/events/303018670
 
 - name: NYC.rb - November 2024
   location: Online
