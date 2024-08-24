@@ -116,7 +116,7 @@ class MeetupGroup < FrozenRecord::Base
   end
 
   def new_events
-    upcoming = upcoming_events
+    upcoming = upcoming_events || []
     upcoming_ids = upcoming.map(&:id)
 
     new_event_ids = upcoming_ids - existing_event_ids
@@ -164,9 +164,9 @@ class MeetupGroup < FrozenRecord::Base
     end
 
     def event_to_location(event)
-      city = event.venue.dig("city") || event.group.dig("city")
-      state = event.venue.dig("state") || event.group.dig("state")
-      country_raw = event.venue.dig("country") || event.group.dig("country")
+      city = event.dig("venue", "city") || event.dig("group", "city")
+      state = event.dig("venue", "state") || event.dig("group", "state")
+      country_raw = event.dig("venue", "country") || event.dig("group", "country")
 
       country = ISO3166::Country.new(country_raw)
 
@@ -174,6 +174,8 @@ class MeetupGroup < FrozenRecord::Base
         "Online"
       elsif country.alpha2 == "US"
         "#{city}, #{state.upcase}"
+      elsif country.alpha2 == "UK"
+        "#{city}, UK"
       elsif country
         "#{city}, #{country&.iso_short_name}"
       elsif city
