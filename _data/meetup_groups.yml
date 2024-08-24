@@ -198,6 +198,7 @@
 - id: dusseldorf-ruby-elixir-meetup
   name: Düsseldorf Ruby
   service: meetupdotcom
+  filter: Ruby
 
 # - id: flexport-amsterdam-meetup-group
 #   name:
