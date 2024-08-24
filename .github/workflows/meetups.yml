@@ -30,13 +30,14 @@ jobs:
         run: |
           echo "FORMATTED_DATE=$(date +'%B %d, %Y')" >> $GITHUB_ENV
           echo "BRANCH_TO_MERGE=new-meetups-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "PULL_REQUEST_TITLE=$(cat ./pull_request_title.txt)" >> $GITHUB_ENV
 
       - name: Commit New Meetups
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           # Optional. Commit message for the created commit.
           # Defaults to "Apply automatic changes"
-          commit_message: New Meetups on ${{ env.FORMATTED_DATE }}
+          commit_message: ${{ env.PULL_REQUEST_TITLE }}
 
           # Optional. Local and remote branch name where commit is going to be pushed
           #  to. Defaults to the current branch.
@@ -96,6 +97,6 @@ jobs:
           create_branch: true
 
       - name: Create Pull Request
-        run: gh pr create -B main -H ${{ env.BRANCH_TO_MERGE }} --title "New Meetups on ${{ env.FORMATTED_DATE }}" --body "Newly added Meetups on ${{ env.FORMATTED_DATE }}."
+        run: gh pr create -B main -H ${{ env.BRANCH_TO_MERGE }} --title "${{ env.PULL_REQUEST_TITLE }}" --body-file "./new_meetups.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

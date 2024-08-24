@@ -71,6 +71,13 @@ EventsQuery = MeetupClient::Client.parse(<<-GRAPHQL
             createdAt
             eventType
             isOnline
+            group {
+              id
+              name
+              country
+              state
+              city
+            }
           }
         }
       }
@@ -88,26 +95,6 @@ end
 class MeetupGroup < FrozenRecord::Base
   scope :meetupdotcom, -> { where(service: "meetupdotcom" ) }
   scope :luma, -> { where(service: "luma" ) }
-
-  def location
-    unless @upcoming_events_result
-      upcoming_events
-    end
-
-    group = @upcoming_events_result.original_hash.dig("data", "groupByUrlname")
-
-    city = group.dig("city")
-    state = group.dig("state")
-    country = group.dig("country")
-
-    country = ISO3166::Country.new(country)
-
-    if country.alpha2 == "US"
-      "#{city}, #{state.upcase}"
-    else
-      "#{city}, #{country&.iso_short_name}"
-    end
-  end
 
   def upcoming_events
     result = MeetupClient::Client.query(EventsQuery, variables: { groupId: id })
@@ -142,27 +129,11 @@ class MeetupGroup < FrozenRecord::Base
   end
 
   def openstruct_to_yaml(event)
-    city = event.venue.dig("city")
-    state = event.venue.dig("state")
-    country = event.venue.dig("country")
-
-    country = ISO3166::Country.new(country)
-
-    if event.isOnline
-      meetup_location = "Online"
-    elsif country.alpha2 == "US"
-      meetup_location = "#{city}, #{state.upcase}"
-    elsif country
-      meetup_location = "#{city}, #{country&.iso_short_name}"
-    else
-      meetup_location = location
-    end
-
     timezone = TZInfo::Timezone.get(event.timezone).now.strftime("%Z")
 
     <<~YAML
-      - name: "#{name} - #{event.title.gsub(name, "").squeeze(" ").strip}"
-        location: "#{meetup_location}"
+      - name: "#{event_title(event)}"
+        location: "#{event_to_location(event)}"
         date: #{Date.parse(event.dateTime).iso8601}
         start_time: "#{Time.parse(event.dateTime).strftime("%H:%M:%S")} #{timezone}"
         end_time: "#{Time.parse(event.endTime).strftime("%H:%M:%S")} #{timezone}"
@@ -170,13 +141,43 @@ class MeetupGroup < FrozenRecord::Base
     YAML
   end
 
-  def write_new_meetups!
-    new_events.each do |event|
-      next unless Date.parse(event.dateTime).between?(Date.today - 1, Date.today + 90)
+  def openstruct_to_md(event)
+    <<~MD
+      | [#{event_title(event)}](#{event.eventUrl}) | #{Date.parse(event.dateTime).strftime("%b %d, %Y")} | [#{name}](https://www.meetup.com/#{id}) |
+    MD
+  end
 
+  def write_new_meetups!
+    new_events.sort_by(&:dateTime).select { |event| Date.parse(event.dateTime).between?(Date.today - 1, Date.today + 90) }.each do |event|
       File.write("./_data/meetups.yml", openstruct_to_yaml(event), mode: "a+")
     end
   end
+
+  private
+
+    def event_title(event)
+      "#{name} - #{event.title.gsub(name, "").squeeze(" ").strip}"
+    end
+
+    def event_to_location(event)
+      city = event.venue.dig("city") || event.group.dig("city")
+      state = event.venue.dig("state") || event.group.dig("state")
+      country_raw = event.venue.dig("country") || event.group.dig("country")
+
+      country = ISO3166::Country.new(country_raw)
+
+      if event.isOnline
+        "Online"
+      elsif country.alpha2 == "US"
+        "#{city}, #{state.upcase}"
+      elsif country
+        "#{city}, #{country&.iso_short_name}"
+      elsif city
+        "#{city}, #{state}, #{country_raw.upcase}"
+      else
+        "Unknown"
+      end
+    end
 end
 
 class Meetup < FrozenRecord::Base

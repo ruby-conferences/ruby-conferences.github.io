@@ -316,6 +316,14 @@
                 "name": "Boolean"
               },
               "args": []
+            },
+            {
+              "name": "group",
+              "type": {
+                "kind": "OBJECT",
+                "name": "Group"
+              },
+              "args": []
             }
           ]
         },
