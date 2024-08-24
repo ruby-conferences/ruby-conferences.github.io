@@ -94,17 +94,18 @@ class MeetupGroup < FrozenRecord::Base
       upcoming_events
     end
 
-    group = @upcoming_events_result.dig("data", "groupByUrlname")
+    group = @upcoming_events_result.original_hash.dig("data", "groupByUrlname")
 
     city = group.dig("city")
     state = group.dig("state")
     country = group.dig("country")
 
-    if country == "us"
+    country = ISO3166::Country.new(country)
+
+    if country.alpha2 == "US"
       "#{city}, #{state.upcase}"
     else
-      country = ISO3166::Country.new(country)
-      "#{city}, #{country&.iso_long_name}"
+      "#{city}, #{country&.iso_short_name}"
     end
   end
 
@@ -145,13 +146,14 @@ class MeetupGroup < FrozenRecord::Base
     state = event.venue.dig("state")
     country = event.venue.dig("country")
 
+    country = ISO3166::Country.new(country)
+
     if event.isOnline
       meetup_location = "Online"
-    elsif country == "us"
+    elsif country.alpha2 == "US"
       meetup_location = "#{city}, #{state.upcase}"
-    elsif country && country != "us"
-      country = ISO3166::Country.new(country)
-      meetup_location = "#{city}, #{country&.iso_long_name}"
+    elsif country
+      meetup_location = "#{city}, #{country&.iso_short_name}"
     else
       meetup_location = location
     end
