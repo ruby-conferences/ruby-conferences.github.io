@@ -1275,13 +1275,6 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/302785548
 
-- name: NYC.rb - Rails Camp 2024 in Cascade, ID
-  location: Cascade, ID
-  date: 2024-08-27
-  start_time: '09:00:00 EDT'
-  end_time: 17:00:00 EDT
-  url: https://www.meetup.com/nyc-rb/events/301590055
-
 - name: AustinRB/Austin on Rails - Ruby Social (Evening)
   location: Austin, TX
   date: 2024-08-29
