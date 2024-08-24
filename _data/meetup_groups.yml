@@ -1,0 +1,122 @@
+- id: austinrb
+  name: AustinRB
+  service: meetupdotcom
+
+- id: barcelona-rb
+  name: Barcelona.rb
+  service: meetupdotcom
+
+# - id: bostonrb
+#   name: Boston Ruby Group
+#   service: meetupdotcom
+
+- id: bostonrb
+  name: Boston Ruby Group
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-O0xLKEqq4Q8vc8f
+
+- id: boulder-ruby
+  name: Boulder Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-B9LZxdgJiXBxezw
+
+- id: brooklyn-rb
+  name: brooklyn.rb
+  service: meetupdotcom
+
+- id: charlotte-rb
+  name: Charlotte Ruby Meetup Group
+  service: meetupdotcom
+
+- id: chicagoruby
+  name: ChicagoRuby
+  service: meetupdotcom
+
+- id: copenhagen-ruby-brigade
+  name: Copenhagen Ruby Brigade
+  service: meetupdotcom
+
+- id: frankfurt-ruby-meetup
+  name: Frankfurt Ruby Meetup
+  service: meetupdotcom
+
+- id: geneva-rb
+  name: Geneva.rb
+  service: meetupdotcom
+
+- id: houstonruby
+  name: Houston Ruby
+  service: meetupdotcom
+
+- id: krakow-ruby-users-group
+  name: Krakow Ruby Users Group (KRUG)
+  service: meetupdotcom
+
+- id: laruby
+  name: LA Ruby - The Los Angeles Ruby Meetup Group
+  service: meetupdotcom
+
+- id: lyonrb
+  name: Lyon.rb
+  service: meetupdotcom
+
+- id: nyc-rb
+  name: NYC.rb
+  service: meetupdotcom
+
+- id: paris_rb
+  name: ParisRB.new
+  service: meetupdotcom
+
+- id: phillyrb
+  name: Philly.rb
+  service: meetupdotcom
+
+- id: polishrubyusergroup
+  name: Polish Ruby User Group
+  service: meetupdotcom
+
+- id: ruby-az
+  name: Ruby::AZ
+  service: meetupdotcom
+
+- id: ruby-in-london
+  name: Ruby in London
+  service: meetupdotcom
+
+- id: ruby-montevideo
+  name: Ruby Montevideo
+  service: meetupdotcom
+
+- id: ruby-phil
+  name: Philippine Ruby Users Group
+  service: meetupdotcom
+
+- id: ruby-romania
+  name: Ruby Romania
+  service: meetupdotcom
+
+- id: rubyba
+  name: Ruby Buenos Aires
+  service: meetupdotcom
+
+- id: rubyonrails-ch
+  name: Ruby on Rails Schweiz
+  service: meetupdotcom
+
+# - id: TODO
+#   name: SF
+#   service: luma
+
+- id: sdruby
+  name: SD Ruby
+  service: meetupdotcom
+
+- id: the-bluegrass-developers-guild
+  name: Bluegrass Ruby Users Group
+  filter: Bluegrass Ruby
+  service: meetupdotcom
+
+- id: upstate-ruby
+  name: Upstate Ruby
+  service: meetupdotcom
