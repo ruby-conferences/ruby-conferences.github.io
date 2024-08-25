@@ -1,0 +1,112 @@
+name: Fetch Meetups
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at 00:00 UTC time
+
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Ruby
+
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Check for new Meetups
+        run: bundle exec rake fetch_meetups
+
+      - name: Verify Meetups Data
+        run: bundle exec rake verify_meetups
+
+      - name: Set up the formatted date, branch name and PR title
+        run: |
+          echo "FORMATTED_DATE=$(date +'%B %d, %Y')" >> $GITHUB_ENV
+          echo "BRANCH_TO_MERGE=new-meetups-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "PULL_REQUEST_TITLE=$(cat ./pull_request_title.txt)" >> $GITHUB_ENV
+
+      - name: Check if there are any new meetups
+        run: |
+          if [[ -n $(git diff --name-only _data/meetups.yml) ]]; then
+            echo "NEW_MEETUPS=true" >> $GITHUB_ENV
+          else
+            echo "NEW_MEETUPS=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit New Meetups
+        uses: stefanzweifel/git-auto-commit-action@v5
+        if: ${{ env.NEW_MEETUPS == 'true' }}
+        with:
+          # Optional. Commit message for the created commit.
+          # Defaults to "Apply automatic changes"
+          commit_message: ${{ env.PULL_REQUEST_TITLE }}
+
+          # Optional. Local and remote branch name where commit is going to be pushed
+          #  to. Defaults to the current branch.
+          #  You might need to set `create_branch: true` if the branch does not exist.
+          branch: ${{ env.BRANCH_TO_MERGE }}
+
+          # Optional. Options used by `git-commit`.
+          # See https://git-scm.com/docs/git-commit#_options
+          # commit_options: '--no-verify --signoff'
+
+          # Optional glob pattern of files which should be added to the commit
+          # Defaults to all (.)
+          # See the `pathspec`-documentation for git
+          # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
+          # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
+          file_pattern: '_data/*.yml'
+
+          # Optional. Local file path to the repository.
+          # Defaults to the root of the repository.
+          # repository: .
+
+          # Optional commit user and author settings
+          # commit_user_name: My GitHub Actions Bot # defaults to "github-actions[bot]"
+          # commit_user_email: my-github-actions-bot@example.org # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          # commit_author: Author <actions@github.com> # defaults to "username <username@users.noreply.github.com>", where "username" belongs to the author of the commit that triggered the run
+
+          # Optional. Tag name being created in the local repository and
+          # pushed to remote repository and defined branch.
+          # tagging_message: 'v1.0.0'
+
+          # Optional. Option used by `git-status` to determine if the repository is
+          # dirty. See https://git-scm.com/docs/git-status#_options
+          status_options: '--untracked-files=no'
+
+          # Optional. Options used by `git-add`.
+          # See https://git-scm.com/docs/git-add#_options
+          # add_options: '-u'
+
+          # Optional. Options used by `git-push`.
+          # See https://git-scm.com/docs/git-push#_options
+          # push_options: '--force'
+
+          # Optional. Disable dirty check and always try to create a commit and push
+          # skip_dirty_check: true
+
+          # Optional. Skip internal call to `git fetch`
+          # skip_fetch: true
+
+          # Optional. Skip internal call to `git checkout`
+          # skip_checkout: true
+
+          # Optional. Prevents the shell from expanding filenames.
+          # Details: https://www.gnu.org/software/bash/manual/html_node/Filename-Expansion.html
+          # disable_globbing: true
+
+          # Optional. Create given branch name in local and remote repository.
+          create_branch: true
+
+      - name: Create Pull Request
+        if: ${{ env.NEW_MEETUPS == 'true' }}
+        run: gh pr create -B main -H ${{ env.BRANCH_TO_MERGE }} --title "${{ env.PULL_REQUEST_TITLE }}" --body-file "./new_meetups.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
