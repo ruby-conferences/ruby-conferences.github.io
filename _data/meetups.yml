@@ -2311,3 +2311,10 @@
   start_time: 20:30:00 EST
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/nnlgbtyhccbsb
+
+- name: Philippine Ruby Users Group - A night of Ruby Community Roadmapping
+  location: ProudCloud, Quezon City, Philippines
+  date: 2024-08-29
+  start_time: 18:00:00 HKT
+  end_time: 20:00:00 HKT
+  url: https://www.meetup.com/ruby-phil/events/302886229/
