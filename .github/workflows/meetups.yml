@@ -26,14 +26,23 @@ jobs:
       - name: Verify Meetups Data
         run: bundle exec rake verify_meetups
 
-      - name: Set up the formatted date and branch name
+      - name: Set up the formatted date, branch name and PR title
         run: |
           echo "FORMATTED_DATE=$(date +'%B %d, %Y')" >> $GITHUB_ENV
           echo "BRANCH_TO_MERGE=new-meetups-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
           echo "PULL_REQUEST_TITLE=$(cat ./pull_request_title.txt)" >> $GITHUB_ENV
 
+      - name: Check if there are any new meetups
+        run: |
+          if [[ -n $(git diff --name-only _data/meetups.yml) ]]; then
+            echo "NEW_MEETUPS=true" >> $GITHUB_ENV
+          else
+            echo "NEW_MEETUPS=false" >> $GITHUB_ENV
+          fi
+
       - name: Commit New Meetups
         uses: stefanzweifel/git-auto-commit-action@v5
+        if: ${{ env.NEW_MEETUPS == 'true' }}
         with:
           # Optional. Commit message for the created commit.
           # Defaults to "Apply automatic changes"
@@ -97,6 +106,7 @@ jobs:
           create_branch: true
 
       - name: Create Pull Request
+        if: ${{ env.NEW_MEETUPS == 'true' }}
         run: gh pr create -B main -H ${{ env.BRANCH_TO_MERGE }} --title "${{ env.PULL_REQUEST_TITLE }}" --body-file "./new_meetups.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
