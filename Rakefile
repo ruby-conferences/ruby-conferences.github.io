@@ -1,8 +1,12 @@
 #!/usr/bin/env rake
-require 'yaml'
-require 'date'
-require './data_file_validator'
-require './meetup_client'
+
+require "yaml"
+require "date"
+require "ostruct"
+
+require "./src/data_file_validator"
+require "./src/static"
+require "./src/meetup_client"
 
 desc "Build Jekyll site"
 task :build do
@@ -108,6 +112,10 @@ task :fetch_meetups do
   puts "pull_request_title: #{pull_request_title}"
   File.write("./pull_request_title.txt", pull_request_title)
 
+  Rake::Task["sort_meetups"].invoke
+end
+
+task :sort_meetups do
   events = YAML.load_file("./_data/meetups.yml", permitted_classes: [Date])
 
   events.sort_by! { |event| [event["date"], event["name"]] }
