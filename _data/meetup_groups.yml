@@ -11,6 +11,7 @@
 - id: african_ruby_community
   name: African Ruby Community
   service: meetupdotcom
+  remove: ARC
 
 - id: aloharb
   name: aloha.rb
@@ -35,6 +36,7 @@
 - id: atlantaruby
   name: Atlanta Ruby
   service: meetupdotcom
+  remove: "[VIRTUAL] "
 
 - id: aucklandruby
   name: Auckland Ruby
@@ -397,6 +399,7 @@
   name: Orange County Ruby Users Group
   service: meetupdotcom
   exclude: Rails Camp
+  remove: "(OCRuby)"
 
 - id: odense-rb
   name: odense.rb
@@ -424,8 +427,9 @@
   service: meetupdotcom
 
 - id: paris_rb
-  name: ParisRB.new
+  name: Paris.rb
   service: meetupdotcom
+  remove: "ParisRb.new(:monthly, on: :first_tuesday)"
 
 - id: parisrb
   name: ParisRB.old
@@ -434,6 +438,7 @@
 - id: phillyrb
   name: Philly.rb
   service: meetupdotcom
+  remove: " - Global/Virtual"
 
 - id: polishrubyusergroup
   name: Polish Ruby User Group
@@ -720,7 +725,7 @@
 #   service: meetupdotcom
 
 - id: rubyonrails-ch
-  name: Ruby on Rails Schweiz
+  name: Ruby on Rails Switzerland
   service: meetupdotcom
 
 - id: rubyonrio
@@ -765,7 +770,7 @@
 #   service: meetupdotcom
 
 - id: san-francisco-ruby-meetup-group
-  name: SF Bay Area Ruby Meetup Group
+  name: SF Bay Area Ruby
   service: meetupdotcom
 
 - id: santa-barbara-on-rails
@@ -902,6 +907,7 @@
 - id: utah-ruby-users-group
   name: Utah Ruby Users Group
   service: meetupdotcom
+  remove: "URUG Meetup:"
 
 - id: utrecht-rb
   name: Utrecht.rb

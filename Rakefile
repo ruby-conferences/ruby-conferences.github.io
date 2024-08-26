@@ -7,6 +7,7 @@ require "ostruct"
 require "./src/data_file_validator"
 require "./src/static"
 require "./src/meetup_client"
+require "./src/meetups_file"
 
 desc "Build Jekyll site"
 task :build do
@@ -73,54 +74,16 @@ task :verify_meetups do
 end
 
 task :fetch_meetups do
-  File.write("./new_meetups.md", <<~MD)
-    ### New Meetups on #{Date.today.strftime("%B %d, %Y")}
-
-    | Title | Date | Meetup Group |
-    | ----- | ---- | ------------ |
-  MD
-
-  new_events = []
-
-  MeetupGroup.meetupdotcom.each do |group|
-    puts "Fetching Meetup.com Group: #{group.id}"
-
-    new_group_events = group.write_new_meetups!
-
-    new_events << new_group_events.zip(
-      new_group_events.map { |event| group.openstruct_to_md(event) }
-    )
+  MeetupsFile.read.tap do |file|
+    file.fetch!
+    file.write!
   end
-
-  new_events = new_events.flatten(1).to_h
-
-  new_events.sort_by { |event, _md| event.dateTime }.each do |_event, md|
-    File.write("./new_meetups.md", md, mode: "a+")
-  end
-
-  new_meetups_from_groups = new_events.group_by { |event, md| event.group["name"] }.transform_values { |value| value.map(&:first) }
-
-  if new_meetups_from_groups.keys.count == 1
-    pull_request_title =  "Add #{new_meetups_from_groups.keys.first} #{Date.parse(new_meetups_from_groups.first.last.sort_by(&:dateTime).first.dateTime).strftime("%B %Y")} Meetup"
-  elsif new_meetups_from_groups.keys.count > 1
-    *groups, last = new_meetups_from_groups.keys
-    pull_request_title = "Add #{groups.join(", ")} and #{last} Meetups"
-  else
-    pull_request_title = "New Meetups on #{Date.today.strftime("%B %d, %Y")}"
-  end
-
-  puts "pull_request_title: #{pull_request_title}"
-  File.write("./pull_request_title.txt", pull_request_title)
-
-  Rake::Task["sort_meetups"].invoke
 end
 
 task :sort_meetups do
-  events = YAML.load_file("./_data/meetups.yml", permitted_classes: [Date])
-
-  events.sort_by! { |event| [event["date"], event["name"]] }
-
-  File.write("./_data/meetups.yml", events.to_yaml.gsub("- name:", "\n- name:"))
+  MeetupsFile.read.tap do |file|
+    file.write!
+  end
 end
 
 task default: [:build, :verify_data, :verify_html]

@@ -19,11 +19,11 @@ class MeetupGroup < FrozenRecord::Base
       events = events.map { |event| OpenStruct.new(event["node"]) }
 
       if filter.present?
-        events = events.select! { |event| event.title.include?(filter) }
+        events = events.select { |event| event.title.include?(filter) }
       end
 
       if exclude.present?
-        events = events.reject! { |event| event.title.include?(exclude) }
+        events = events.reject { |event| event.title.include?(exclude) }
       end
 
       events
@@ -36,7 +36,10 @@ class MeetupGroup < FrozenRecord::Base
 
     new_event_ids = upcoming_ids - existing_event_ids
 
-    new_event_ids.map { |new_id| upcoming.find { |upcoming| new_id == upcoming.id } }
+    new_event_ids
+      .map { |new_id| upcoming.find { |upcoming| new_id == upcoming.id } }
+      .sort_by(&:dateTime)
+      .select { |event| Date.parse(event.dateTime).between?(Date.today - 1, Date.today + 90) }
   end
 
   def existing_events
@@ -47,35 +50,34 @@ class MeetupGroup < FrozenRecord::Base
     existing_events.map(&:service_id)
   end
 
-  def openstruct_to_yaml(event)
+  def openstruct_to_file_entry(event)
     timezone = TZInfo::Timezone.get(event.timezone).now.strftime("%Z")
 
-    <<~YAML
-      - name: "#{event_title(event)}"
-        location: "#{event_to_location(event)}"
-        date: #{Date.parse(event.dateTime).iso8601}
-        start_time: "#{Time.parse(event.dateTime).strftime("%H:%M:%S")} #{timezone}"
-        end_time: "#{Time.parse(event.endTime).strftime("%H:%M:%S")} #{timezone}"
-        url: "#{event.eventUrl}"
-    YAML
-  end
-
-  def openstruct_to_md(event)
-    <<~MD
-      | [#{event_title(event)}](#{event.eventUrl}) | #{Date.parse(event.dateTime).strftime("%b %d, %Y")} | [#{name}](https://www.meetup.com/#{id}) |
-    MD
-  end
-
-  def write_new_meetups!
-    new_events.sort_by(&:dateTime).select { |event| Date.parse(event.dateTime).between?(Date.today - 1, Date.today + 90) }.each do |event|
-      File.write("./_data/meetups.yml", openstruct_to_yaml(event), mode: "a+")
-    end
+    MeetupsFileEntry.new(
+      name: event_title(event),
+      location: event_to_location(event),
+      date: Date.parse(event.dateTime).iso8601,
+      start_time: [Time.parse(event.dateTime).strftime("%H:%M:%S"), timezone].join(" "),
+      end_time: [Time.parse(event.endTime).strftime("%H:%M:%S"), timezone].join(" "),
+      url: event.eventUrl,
+      group: self,
+    )
   end
 
   private
 
     def event_title(event)
-      "#{name} - #{event.title.gsub(name, "").squeeze(" ").strip}"
+      title = event.title.gsub(name, "").squeeze(" ").gsub(remove || "", "").strip
+
+      duplicate_names = upcoming_events.map(&:title).tally.select { |key, value| value >= 2 }
+
+      if duplicate_names.any?
+        title += " #{Date.parse(event.dateTime).strftime("%B %Y")}" if duplicate_names.keys.include?(event.title)
+      end
+
+      title = "Meetup #{Date.parse(event.dateTime).strftime("%B %Y")}" if title.blank?
+
+      "#{name} - #{title}".gsub(/^-+|-+$/, "").gsub("- -", "-").gsub("- :", "-").squeeze(" ").strip
     end
 
     def event_to_location(event)
@@ -91,6 +93,10 @@ class MeetupGroup < FrozenRecord::Base
         "#{city}, #{state.upcase}"
       elsif country.alpha2 == "UK"
         "#{city}, UK"
+      elsif country.alpha2 == "TW"
+        "#{city}, Taiwan"
+      elsif country.alpha2 == "DK"
+        "#{city == "1606" ? "Copenhagen" : city}, #{country&.iso_short_name}"
       elsif country
         "#{city}, #{country&.iso_short_name}"
       elsif city
