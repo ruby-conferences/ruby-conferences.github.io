@@ -1924,6 +1924,14 @@
   twitter: balkanruby
   status: Canceled
 
+- name: Pivorak Conf. 5.0
+  location: Online
+  start_date: 2020-05-22
+  end_date: 2020-05-22
+  url: https://pivorak.com/
+  twitter: pivorakmeetup
+  video_link: https://www.youtube.com/playlist?list=PLa4SYMEyNCu86K63M_slCEVVNTc1QAUWm
+
 - name: Ruby Unconf Hamburg 2020
   location: Hamburg, Germany
   start_date: 2020-06-06
