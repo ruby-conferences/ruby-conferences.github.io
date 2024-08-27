@@ -324,6 +324,12 @@
   name: Lyon.rb
   service: meetupdotcom
 
+- id: madison-ruby
+  name: Madison+ Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-LlD9HPh8QnHgqEQ
+  timezone: America/Chicago
+
 - id: medellin-rb
   name: Medellín.rb
   service: meetupdotcom
