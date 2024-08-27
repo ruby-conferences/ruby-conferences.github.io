@@ -32,8 +32,8 @@ class MeetupsFile
   end
 
   def fetch!
-    MeetupGroup.meetupdotcom.each do |group|
-      puts "Fetching Meetup.com Group: #{group.id}"
+    MeetupGroup.all.each do |group|
+      puts "Fetching #{group.service} Group: #{group.id}"
 
       group.new_events.map { |event| group.openstruct_to_file_entry(event) }.each do |event|
         @new_events << event

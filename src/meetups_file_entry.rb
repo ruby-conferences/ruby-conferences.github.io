@@ -26,8 +26,14 @@ MeetupsFileEntry = Data.define(:name, :location, :date, :start_time, :end_time, 
 
   def service_id
     if url.start_with?("https://www.meetup.com/") || url.start_with?("https://meetup.com/")
-      url.split("/").last
+      return url.split("/").last
     end
+
+    if url.start_with?("https://lu.ma/")
+      return url.split("/").last
+    end
+
+    nil
   end
 
   def to_hash
