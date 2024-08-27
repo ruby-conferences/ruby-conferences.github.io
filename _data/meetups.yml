@@ -1380,6 +1380,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/302836796
 
+- name: SF Bay Area Ruby Meetup in September @ GitHub HQ
+  location: San Francisco, CA
+  date: 2024-09-03
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://lu.ma/qfyzbfkk
+
 - name: Montreal.rb - Ruby GUI Desktop Development Hands-On Tutorial
   location: Montréal, Canada
   date: 2024-09-04
@@ -1873,6 +1880,13 @@
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/cologne-rb/events/302980609
+
+- name: SF Bay Area Ruby Meetup in October @ Chime HQ
+  location: San Francisco, CA
+  date: 2024-10-10
+  start_time: 17:30:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://lu.ma/jfpfmh19
 
 - name: Orange County Ruby Users Group - Ruby Science October 2024
   location: Online
