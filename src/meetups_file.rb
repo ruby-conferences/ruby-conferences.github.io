@@ -113,16 +113,16 @@ class MeetupsFile
     new_meetups = @new_events.any? ? <<~MD : ""
       #### New Meetups
 
-      | Title | Date | Meetup Group |
-      | ----- | ---- | ------------ |
+      | Title | Date |
+      | ----- | ---- |
       #{@new_events.sort_by { |event| [event.date, event.name] }.map(&:to_md).join}
     MD
 
     updated_meetups = @updated_events.any? ? <<~MD : ""
       #### Updated Meetups
 
-      | Title | Date | Meetup Group |
-      | ----- | ---- | ------------ |
+      | Title | Date |
+      | ----- | ---- |
       #{@updated_events.sort_by { |event| [event.date, event.name] }.map(&:to_md).join}
     MD
 

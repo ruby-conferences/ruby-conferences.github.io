@@ -43,7 +43,7 @@ MeetupsFileEntry = Data.define(:name, :location, :date, :start_time, :end_time, 
 
   def to_md
     <<~MD
-      | [#{name}](#{url}) | #{date.strftime("%b %d, %Y")} | [#{group.name}](https://www.meetup.com/#{group.id}) |
+      | [#{name}](#{url}) | #{date.strftime("%b %d, %Y")} |
     MD
   end
 
