@@ -35,13 +35,13 @@ class MeetupsFile
     MeetupGroup.all.each do |group|
       puts "Fetching #{group.service} Group: #{group.id}"
 
-      group.new_events.map { |event| group.openstruct_to_file_entry(event) }.each do |event|
+      group.new_events.map { |event| event.meetup_file_entry }.each do |event|
         @new_events << event
         @events << event
         puts "New Meetup: #{event.name} - #{event.date}"
       end
 
-      group.upcoming_events.map { |event| group.openstruct_to_file_entry(event) }.each do |event|
+      group.upcoming_events.map { |event| event.meetup_file_entry }.each do |event|
         event_entry = find_by(url: event.url)
 
         if event_entry && event != event_entry
@@ -51,7 +51,7 @@ class MeetupsFile
         end
       end
 
-      puts "\n"
+      puts
     end
 
     puts "New Events: #{@new_events.count}"
