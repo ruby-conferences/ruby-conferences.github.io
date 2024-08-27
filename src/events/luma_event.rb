@@ -34,8 +34,4 @@ class LumaEvent < AbstractEvent
   def event_url
     object.description.scan(/https:\/\/lu.ma\/.+/).first
   end
-
-  def service_id
-    event_url.split("/").last
-  end
 end

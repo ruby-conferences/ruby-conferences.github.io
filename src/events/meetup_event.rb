@@ -19,10 +19,6 @@ class MeetupEvent < AbstractEvent
     object.eventUrl
   end
 
-  def service_id
-    event_url.split("/").last
-  end
-
   def event_location
     city = object.dig("venue", "city") || object.dig("group", "city")
     state = object.dig("venue", "state") || object.dig("group", "state")

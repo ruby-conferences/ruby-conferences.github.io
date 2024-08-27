@@ -10,6 +10,18 @@ class AbstractEvent
 
   def_delegators :meetup_file_entry, :name, :location, :date, :start_time, :end_time, :url
 
+  def self.service_id_for_url(url)
+    if url.start_with?("https://www.meetup.com/") || url.start_with?("https://meetup.com/")
+      return url.split("/").last
+    end
+
+    if url.start_with?("https://lu.ma/")
+      return url.split("/").last
+    end
+
+    nil
+  end
+
   def initialize(object:, group:)
     @object = object
     @group = group
@@ -45,6 +57,10 @@ class AbstractEvent
     )
   end
 
+  def service_id
+    self.class.service_id_for_url(event_url)
+  end
+
   def event_name
     raise "Must implement event_name"
   end
@@ -63,9 +79,5 @@ class AbstractEvent
 
   def event_url
     raise "Must implement event_url"
-  end
-
-  def service_id
-    raise "Must implement service_id"
   end
 end

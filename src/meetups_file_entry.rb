@@ -20,20 +20,8 @@ MeetupsFileEntry = Data.define(:name, :location, :date, :start_time, :end_time, 
     )
   end
 
-  def self.from_frozen_record(record)
-    from_yaml_item(record.attributes)
-  end
-
   def service_id
-    if url.start_with?("https://www.meetup.com/") || url.start_with?("https://meetup.com/")
-      return url.split("/").last
-    end
-
-    if url.start_with?("https://lu.ma/")
-      return url.split("/").last
-    end
-
-    nil
+    AbstractEvent.service_id_for_url(url)
   end
 
   def to_hash
