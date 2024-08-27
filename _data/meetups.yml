@@ -1380,7 +1380,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/302836796
 
-- name: Montreal.rb - **Talk Title To Be Determined**
+- name: Montreal.rb - Ruby GUI Desktop Development Hands-On Tutorial
   location: Montréal, Canada
   date: 2024-09-04
   start_time: 18:00:00 EDT
@@ -2259,6 +2259,13 @@
   start_time: 18:00:00 PDT
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcpbcc
+
+- name: Orange County Ruby Users Group - Ruby Science November 2024
+  location: Online
+  date: 2024-11-25
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltygcpbhc
 
 - name: Ruby on Rails Switzerland - Railshöck at On
   location: Zürich, Switzerland
