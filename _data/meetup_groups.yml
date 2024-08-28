@@ -320,6 +320,12 @@
   name: London Learn Ruby
   service: meetupdotcom
 
+- id: london-ruby-user-group
+  name: London Ruby User Group
+  service: ical
+  ical_url: https://lrug.org/meeting-calendar
+  timezone: Europe/London
+
 - id: lyonrb
   name: Lyon.rb
   service: meetupdotcom
@@ -706,6 +712,12 @@
   name: Ruby DF
   service: meetupdotcom
 
+- id: rubydf
+  name: Ruby DF
+  timezone: America/Sao_Paulo
+  ical_url: https://rubydf.com/events.ics
+  service: ical
+
 - id: rubyfloripa
   name: RubyFloripa
   service: meetupdotcom
@@ -902,6 +914,12 @@
 - id: torontoruby
   name: Toronto Ruby Brigade
   service: meetupdotcom
+
+- id: toronto-ruby
+  name: Toronto Ruby
+  service: ical
+  timezone: America/Toronto
+  ical_url: https://toronto-ruby.com/events/all.ics
 
 - id: toulouse-ruby-friends
   name: Toulouse.rb

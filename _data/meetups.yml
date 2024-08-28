@@ -1,5 +1,12 @@
 ---
 
+- name: Toronto Ruby - Inaugural Edition
+  location: Toronto, Canada
+  date: 2023-11-23
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://toronto-ruby.com/events/1
+
 - name: Charlotte Ruby - Ruby Hack Night January 2024
   location: Online
   date: 2024-01-02
@@ -7,7 +14,7 @@
   end_time: 21:30:00 EST
   url: https://www.meetup.com/charlotte-rb/events/297725393
 
-- name: 'London Ruby User Group: January 2024 Meeting'
+- name: London Ruby User Group - January 2024 Meeting
   location: London, UK
   date: 2024-01-08
   start_time: 18:00:00 GMT
@@ -63,8 +70,7 @@
   end_time: 20:00:00 CST
   url: https://www.meetup.com/chicagoruby/events/298091952
 
-- name: 'Toronto Ruby - Rails and the Ruby Garbage Collector: How to Speed Up Your
-    Rails App'
+- name: 'Toronto Ruby - Rails and the Ruby Garbage Collector: How to Speed Up Your Rails App'
   location: Toronto, Canada
   date: 2024-01-24
   start_time: 18:00:00 EST
@@ -162,7 +168,7 @@
   end_time: 20:00:00 GMT
   url: https://www.meetup.com/ruby-in-london/events/297633001
 
-- name: 'London Ruby User Group: February 2024 Meeting'
+- name: London Ruby User Group - February 2024 Meeting
   location: London, UK
   date: 2024-02-12
   start_time: 18:00:00 GMT
@@ -288,7 +294,7 @@
   end_time: 20:30:00 PST
   url: https://www.meetup.com/sdruby/events/297372059
 
-- name: 'London Ruby User Group: March 2024 Meeting'
+- name: London Ruby User Group - March 2024 Meeting
   location: London, UK
   date: 2024-03-11
   start_time: 18:00:00 GMT
@@ -449,7 +455,7 @@
   end_time: 20:30:00 PDT
   url: https://www.meetup.com/sdruby/events/297372060
 
-- name: 'London Ruby User Group: April 2024 Meeting'
+- name: London Ruby User Group - April 2024 Meeting
   location: London, UK
   date: 2024-04-08
   start_time: 18:00:00 BST
@@ -631,7 +637,7 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/bostonrb/events/300022368
 
-- name: 'London Ruby User Group: May 2024 Meeting'
+- name: London Ruby User Group - May 2024 Meeting
   location: London, UK
   date: 2024-05-13
   start_time: 18:00:00 BST
@@ -701,11 +707,11 @@
   end_time: 20:30:00 EDT
   url: https://lu.ma/cbeeanbk
 
-- name: Toronto Ruby - Spring edition!
+- name: Toronto Ruby - May Edition
   location: Toronto, Canada
   date: 2024-05-22
   start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  end_time: 20:00:00 EDT
   url: https://radius.to/groups/toronto-ruby/events/pkgvym5ecyuc
 
 - name: ChicagoRuby - Coffee + Code @ Swadesi Cafe
@@ -848,7 +854,7 @@
   end_time: 20:30:00 PDT
   url: https://www.meetup.com/sdruby/events/297372063
 
-- name: 'London Ruby User Group: June 2024 Meeting'
+- name: London Ruby User Group - June 2024 Meeting
   location: London, UK
   date: 2024-06-10
   start_time: 18:00:00 BST
@@ -943,7 +949,7 @@
   location: Toronto, Canada
   date: 2024-06-20
   start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  end_time: 20:00:00 EDT
   url: https://radius.to/groups/toronto-ruby/events/s1tczn2usqf5
 
 - name: ChicagoRuby - Madison+ Ruby + Chicago @ Chime
@@ -1002,12 +1008,12 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437243
 
-- name: 'London Ruby User Group: July 2024 Meeting'
+- name: London Ruby User Group - July 2024 Meeting
   location: London, UK
   date: 2024-07-08
   start_time: 18:00:00 BST
   end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/july/
+  url: https://lrug.org/meetings/2024/july
 
 - name: Austin.rb - Modern Authentication with WebAuthn
   location: Austin, TX
@@ -1198,12 +1204,12 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437247
 
-- name: 'London Ruby User Group: August 2024 Meeting'
+- name: London Ruby User Group - August 2024 Meeting
   location: London, UK
   date: 2024-08-12
   start_time: 18:00:00 BST
   end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/august/
+  url: https://lrug.org/meetings/2024/august
 
 - name: Austin.rb - Ruby on AI "The magic Lego"
   location: Austin, TX
@@ -1442,8 +1448,8 @@
   date: 2024-09-09
   start_time: 18:00:00 BST
   end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/september/
-  
+  url: https://lrug.org/meetings/2024/september
+
 - name: Boston Ruby Group - Project Night September 2024
   location: Boston, MA
   date: 2024-09-09

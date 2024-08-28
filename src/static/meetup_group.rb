@@ -7,6 +7,7 @@ require_relative "../static"
 require_relative "../meetup_client"
 require_relative "../events/luma_event"
 require_relative "../events/meetup_event"
+require_relative "../events/ical_event"
 require_relative "../queries/events_query"
 
 class MeetupGroup < FrozenRecord::Base
@@ -58,6 +59,10 @@ class MeetupGroup < FrozenRecord::Base
     service == "luma"
   end
 
+  def ical?
+    service == "ical"
+  end
+
   def tz
     @tz ||= timezone && TZInfo::Timezone.get(timezone)
   end
@@ -70,6 +75,8 @@ class MeetupGroup < FrozenRecord::Base
       fetch_meetup_events
     when "luma"
       fetch_luma_events
+    when "ical"
+      fetch_ical_events
     else
       raise "Unsupported service: #{service}"
     end
@@ -85,5 +92,11 @@ class MeetupGroup < FrozenRecord::Base
     ical_content = Net::HTTP.get(URI(ical_url))
     calendars = Icalendar::Calendar.parse(ical_content)
     calendars.first.events.map { |event| LumaEvent.new(object: event, group: self) }
+  end
+
+  def fetch_ical_events
+    ical_content = Net::HTTP.get(URI(ical_url))
+    calendars = Icalendar::Calendar.parse(ical_content)
+    calendars.first.events.map { |event| IcalEvent.new(object: event, group: self) }
   end
 end

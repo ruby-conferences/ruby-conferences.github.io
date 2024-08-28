@@ -11,6 +11,9 @@ class AbstractEvent
   def_delegators :meetup_file_entry, :name, :location, :date, :start_time, :end_time, :url
 
   def self.service_id_for_url(url)
+    return nil if url.nil?
+    return nil if url.blank?
+
     if url.start_with?("https://www.meetup.com/") || url.start_with?("https://meetup.com/")
       return url.split("/").last
     end
@@ -19,7 +22,7 @@ class AbstractEvent
       return url.split("/").last
     end
 
-    nil
+    url
   end
 
   def initialize(object:, group:)
@@ -49,7 +52,7 @@ class AbstractEvent
     @meetup_file_entry ||= MeetupsFileEntry.new(
       name: event_title,
       location: event_location,
-      date: event_start_time.iso8601,
+      date: event_date.iso8601,
       start_time: [event_start_time.strftime("%H:%M:%S"), tz.now.strftime("%Z")].join(" "),
       end_time: [event_end_time.strftime("%H:%M:%S"), tz.now.strftime("%Z")].join(" "),
       url: event_url,

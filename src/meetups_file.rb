@@ -52,7 +52,7 @@ class MeetupsFile
     end
 
     group.upcoming_events.map { |event| event.meetup_file_entry }.each do |event|
-      event_entry = find_by(url: event.url)
+      event_entry = find_by(service_id: event.service_id)
 
       if event_entry && event != event_entry
         @updated_events << event
