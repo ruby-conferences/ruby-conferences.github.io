@@ -393,7 +393,7 @@
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/299773440
 
-- name: SF Bay Area Ruby Meetup @ GitHub HQ
+- name: SF Bay Area Ruby - Meetup
   location: San Francisco, CA
   date: 2024-03-28
   start_time: 17:00:00 PDT
@@ -603,12 +603,12 @@
   end_time: 20:00:00 HKT
   url: https://www.facebook.com/events/758719776072660/
 
-- name: Ruby Fusion - May 2024
+- name: Ruby Fusion - Meetup May 2024
   location: Online
   date: 2024-05-09
-  start_time: 21:00:00 EDT
-  end_time: 22:30:00 EDT
-  url: https://lu.ma/ruby_fusion
+  start_time: 19:00:00 MDT
+  end_time: 20:30:00 MDT
+  url: https://lu.ma/ruby_fusion-inception
 
 - name: Ruby Montevideo - Meetup May 2024
   location: Montevideo, Uruguay
@@ -673,7 +673,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/boulder_ruby_group/events/299093266
 
-- name: SF Bay Area Ruby Meetup @ New Relic
+- name: SF Bay Area Ruby - Meetup @ New Relic
   location: San Francisco, CA
   date: 2024-05-16
   start_time: 17:00:00 PDT
@@ -820,11 +820,11 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/geneva-rb/events/299288852
 
-- name: Ruby Fusion - June 2024 - Function Composition
+- name: Ruby Fusion - Function Composition
   location: Online
   date: 2024-06-06
-  start_time: 18:30:00 EDT
-  end_time: 20:30:00 EDT
+  start_time: 18:30:00 MDT
+  end_time: 20:30:00 MDT
   url: https://lu.ma/ruby_fusion
 
 - name: Ruby Montevideo - Meetup June 2024
@@ -911,7 +911,7 @@
   end_time: 20:30:00 ART
   url: https://www.meetup.com/rubyba/events/301367143
 
-- name: SF Bay Area Ruby Meetup @ ProductBoard
+- name: SF Bay Area Ruby - Meetup in June @ Productboard
   location: San Francisco, CA
   date: 2024-06-13
   start_time: 17:00:00 PDT
@@ -1065,6 +1065,13 @@
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062985
 
+- name: Ruby Fusion - Milestones
+  location: Online
+  date: 2024-07-11
+  start_time: 18:30:00 MDT
+  end_time: 20:30:00 MDT
+  url: https://lu.ma/oyzfeg7u
+
 - name: 'Ruby Romania Meetup #05'
   location: Bucharest, Romania
   date: 2024-07-11
@@ -1107,7 +1114,7 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/sdruby/events/301083166
 
-- name: SF Bay Area Ruby Meetup in July @ Cisco Meraki
+- name: SF Bay Area Ruby - Meetup in July @ Cisco Meraki
   location: San Francisco, CA
   date: 2024-07-18
   start_time: 17:00:00 PDT
@@ -1240,8 +1247,8 @@
   end_time: 21:00:00 PDT
   url: https://events.ycombinator.com/yc-ruby-meetup
 
-- name: Boulder Ruby Group - Monthly Presentation Night
-  location: Boulder, CO / Online
+- name: Boulder Ruby - August 2024 Presentation Night
+  location: Boulder, CO
   date: 2024-08-14
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
@@ -1380,7 +1387,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/302836796
 
-- name: SF Bay Area Ruby Meetup in September @ GitHub HQ
+- name: SF Bay Area Ruby - Meetup in September @ GitHub
   location: San Francisco, CA
   date: 2024-09-03
   start_time: 17:00:00 PDT
@@ -1429,7 +1436,7 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/300548245
 
-- name: Boston Ruby Group - Project Night
+- name: Boston Ruby Group - Project Night September 2024
   location: Boston, MA
   date: 2024-09-09
   start_time: 18:00:00 EDT
@@ -1485,8 +1492,8 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/302989742
 
-- name: Boulder Ruby Group - Monthly Presentation Night
-  location: Boulder, CO / Online
+- name: Boulder Ruby - September 2024 Presentation Night
+  location: Boulder, CO
   date: 2024-09-11
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
@@ -1775,7 +1782,7 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtygcnbhb
 
-- name: Boston Ruby Group - Project Night
+- name: Boston Ruby Group - Project Night October 2024
   location: Boston, MA
   date: 2024-10-07
   start_time: 18:00:00 EDT
@@ -1831,8 +1838,8 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/tczcxrygcnbmb
 
-- name: Boulder Ruby Group - Monthly Presentation Night
-  location: Boulder, CO / Online
+- name: Boulder Ruby - October 2024 Presentation Night
+  location: Boulder, CO
   date: 2024-10-09
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
@@ -1881,7 +1888,7 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/cologne-rb/events/302980609
 
-- name: SF Bay Area Ruby Meetup in October @ Chime HQ
+- name: SF Bay Area Ruby - Meetup in October @ Chime
   location: San Francisco, CA
   date: 2024-10-10
   start_time: 17:30:00 PDT
@@ -2042,11 +2049,11 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtygcpbdb
 
-- name: Boston Ruby Group - Project Night
+- name: Boston Ruby Group - Project Night November 2024
   location: Boston, MA
   date: 2024-11-04
-  start_time: 18:00:00 EST
-  end_time: 20:00:00 EST
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
   url: https://lu.ma/zs5he82r
 
 - name: Bluegrass Ruby Users Group - November 2024
@@ -2154,11 +2161,11 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/tczcxrygcpbrb
 
-- name: Boulder Ruby Group - Monthly Presentation Night
-  location: Boulder, CO / Online
+- name: Boulder Ruby - November 2024 Presentation Night
+  location: Boulder, CO
   date: 2024-11-13
-  start_time: 18:00:00 MST
-  end_time: 20:30:00 MST
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
   url: https://lu.ma/y1c2jita
 
 - name: Geneva.rb - Rails deployment with Kamal (Sean Carroll, GitLab)

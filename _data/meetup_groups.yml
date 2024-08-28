@@ -95,6 +95,7 @@
   name: Boston Ruby Group
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-O0xLKEqq4Q8vc8f
+  timezone: America/New_York
 
 # - id: boulder-denver-railsbridge
 #   name:
@@ -104,6 +105,7 @@
   name: Boulder Ruby
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-B9LZxdgJiXBxezw
+  timezone: America/Denver
 
 - id: boulder_ruby_group
   name: Boulder Ruby Group
@@ -321,6 +323,12 @@
 - id: lyonrb
   name: Lyon.rb
   service: meetupdotcom
+
+- id: madison-ruby
+  name: Madison+ Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-LlD9HPh8QnHgqEQ
+  timezone: America/Chicago
 
 - id: medellin-rb
   name: Medellín.rb
@@ -555,6 +563,12 @@
 # - id: ruby-geneve-rb
 #   name:
 #   service: meetupdotcom
+
+- id: ruby-fusion
+  name: Ruby Fusion
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-HxTn4dLUlMlzEQX
+  timezone: America/Denver
 
 - id: ruby-in-london
   name: Ruby in London
@@ -810,6 +824,7 @@
   name: SF Bay Area Ruby
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-L4SDawu65B1grBV
+  timezone: America/Los_Angeles
 
 - id: silicon-valley-ruby
   name: Silicon Valley Ruby
