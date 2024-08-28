@@ -80,6 +80,15 @@ task :fetch_meetups do
   end
 end
 
+# to fetch a single group run:
+#   bundle exec rake fetch_meetup[sfruby]
+task :fetch_meetup, [:group_id] do |_, args|
+  MeetupsFile.read.tap do |file|
+    file.fetch!(args[:group_id])
+    file.write!
+  end
+end
+
 task :sort_meetups do
   MeetupsFile.read.tap do |file|
     file.write!

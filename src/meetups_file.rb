@@ -31,28 +31,33 @@ class MeetupsFile
     end
   end
 
-  def fetch!
-    MeetupGroup.all.each do |group|
-      puts "Fetching #{group.service} Group: #{group.id}"
+  def fetch_group!(group)
+    puts "Fetching #{group.service} Group: #{group.id}"
 
-      group.new_events.map { |event| event.meetup_file_entry }.each do |event|
-        @new_events << event
-        @events << event
-        puts "New Meetup: #{event.name} - #{event.date}"
-      end
-
-      group.upcoming_events.map { |event| event.meetup_file_entry }.each do |event|
-        event_entry = find_by(url: event.url)
-
-        if event_entry && event != event_entry
-          @updated_events << event
-          @events[@events.index(event_entry)] = event
-          puts "Changed Meetup: #{event.name} - #{event.date}"
-        end
-      end
-
-      puts
+    group.new_events.map { |event| event.meetup_file_entry }.each do |event|
+      @new_events << event
+      @events << event
+      puts "New Meetup: #{event.name} - #{event.date}"
     end
+
+    group.upcoming_events.map { |event| event.meetup_file_entry }.each do |event|
+      event_entry = find_by(url: event.url)
+
+      if event_entry && event != event_entry
+        @updated_events << event
+        @events[@events.index(event_entry)] = event
+        puts "Changed Meetup: #{event.name} - #{event.date}"
+      end
+    end
+
+    puts
+  end
+
+  def fetch!(id = nil)
+    groups = MeetupGroup.all
+    groups = groups.where(id: id) if id
+
+    groups.each { |group| fetch_group!(group) }
 
     puts "New Events: #{@new_events.count}"
     puts "Updated Events: #{@updated_events.count}"
