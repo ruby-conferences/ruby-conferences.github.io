@@ -15,8 +15,8 @@ class MeetupGroup < FrozenRecord::Base
 
   def upcoming_events
     @upcoming_events ||= fetch_events.tap do |events|
-      events.select! { |event| event.name.include?(filter) } if filter.present?
-      events.reject! { |event| event.name.include?(exclude) } if exclude.present?
+      events.select! { |event| event.event_name.include?(filter) } if filter.present?
+      events.reject! { |event| event.event_name.include?(exclude) } if exclude.present?
     end
   end
 
