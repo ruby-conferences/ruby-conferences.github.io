@@ -15,18 +15,17 @@ class MeetupGroup < FrozenRecord::Base
 
   def upcoming_events
     @upcoming_events ||= fetch_events.tap do |events|
+      events.select! { |event| event.event_date.between?(Date.today - 1, Date.today + 120) }
       events.select! { |event| event.event_name.include?(filter) } if filter.present?
       events.reject! { |event| event.event_name.include?(exclude) } if exclude.present?
+      events.sort_by { |event| [event.event_date, event.event_name] }
     end
   end
 
   def new_events
     existing_ids = existing_events.map(&:service_id)
 
-    upcoming_events
-      .select { |event| !existing_ids.include?(event.service_id) }
-      .select { |event| event.date.between?(Date.today - 1, Date.today + 120) }
-      .sort_by { |event| [event.date, event.name] }
+    upcoming_events.select { |event| !existing_ids.include?(event.service_id) }
   end
 
   def existing_events

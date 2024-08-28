@@ -61,6 +61,10 @@ class AbstractEvent
     self.class.service_id_for_url(event_url)
   end
 
+  def event_date
+    event_start_time.to_date
+  end
+
   def event_name
     raise "Must implement event_name"
   end
