@@ -1359,13 +1359,6 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/the-bluegrass-developers-guild/events/303108245
 
-- name: Bluegrass Ruby Users Group - September 2024
-  location: Lexington, KY
-  date: 2024-09-03
-  start_time: 18:00:00 EDT
-  end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
-
 - name: Charlotte Ruby - Ruby Hack Night September 2024
   location: Online
   date: 2024-09-03
@@ -1618,13 +1611,6 @@
   date: 2024-09-17
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtygcmbwb
-
-- name: RubyJax - Open Hax September 2024
-  location: Jacksonville, FL
-  date: 2024-09-17
-  start_time: 18:30:00 EDT
-  end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/303104994
 
 - name: Toulouse.rb - Conf & Apéro - Septembre
@@ -1646,13 +1632,6 @@
   date: 2024-09-18
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcmbxb
-
-- name: Rails Taiwan - 高雄 Rails Meetup September 2024
-  location: Kaohsiung, Taiwan
-  date: 2024-09-18
-  start_time: 19:00:00 CST
-  end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303114134
 
 - name: West Midlands Ruby User Group - Monthly Meetup September 2024
@@ -1660,21 +1639,7 @@
   date: 2024-09-18
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcmbxb
-
-- name: West Midlands Ruby User Group - Monthly Meetup September 2024
-  location: Online
-  date: 2024-09-18
-  start_time: 19:00:00 BST
-  end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/303122363
-
-- name: 'Christchurch Ruby Group - Monthly Meetup: TBD September 2024'
-  location: Christchurch, New Zealand
-  date: 2024-09-19
-  start_time: 19:30:00 NZST
-  end_time: 22:30:00 NZST
-  url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcmbzb
 
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD September 2024'
   location: Christchurch, New Zealand
