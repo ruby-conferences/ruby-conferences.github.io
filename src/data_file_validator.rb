@@ -33,9 +33,9 @@ class DataFileValidator
 
       duplicate_events = event_groups_by_date.tally.select { |group, count| count > 1 }
 
-      duplicate_events.each do |(group, date), _count|
+      duplicate_events.each do |(group, date), count|
         @duplicate_events_error = true
-        puts "Meetup Group '#{group}' has two events on #{date.iso8601}"
+        puts "Meetup Group '#{group}' has #{count} events on #{date.iso8601}"
       end
     end
   end
