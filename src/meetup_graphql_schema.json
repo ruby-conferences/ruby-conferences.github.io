@@ -83,7 +83,7 @@
               "args": []
             },
             {
-              "name": "unifiedEvents",
+              "name": "upcomingEvents",
               "type": {
                 "kind": "OBJECT",
                 "name": "EventConnection"
@@ -94,6 +94,20 @@
                   "type": {
                     "kind": "ENUM",
                     "name": "SortOrder"
+                  }
+                },
+                {
+                  "name": "input",
+                  "type": {
+                    "kind": "INPUT_OBJECT",
+                    "name": "ConnectionInput"
+                  }
+                },
+                {
+                  "name": "filter",
+                  "type": {
+                    "kind": "INPUT_OBJECT",
+                    "name": "GroupUpcomingEventsFilter"
                   }
                 }
               ]
@@ -158,6 +172,34 @@
                   "kind": "OBJECT",
                   "name": "EventEdge"
                 }
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "GroupUpcomingEventsFilter",
+          "inputFields": [
+            {
+              "name": "includeCancelled",
+              "type": {
+                "kind": "SCALAR",
+                "name": "Boolean"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "ConnectionInput",
+          "inputFields": [
+            {
+              "name": "first",
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int"
               },
               "args": []
             }

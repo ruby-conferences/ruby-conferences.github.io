@@ -19,6 +19,7 @@ class MeetupsFile
     @new_events = []
     @updated_events = []
     @removed_events = []
+    @cancelled_events = []
   end
 
   def find_by(service_id: nil, url: nil)
@@ -40,6 +41,16 @@ class MeetupsFile
       puts "New Meetup: #{event.name} - #{event.date}"
     end
 
+    group.cancelled_events.map { |event| event.meetup_file_entry }.each do |event|
+      event_entry = find_by(url: event.url)
+
+      if event_entry && event != event_entry
+        @cancelled_events << event
+        @events[@events.index(event_entry)] = event
+        puts "Cancelled Meetup: #{event.name} - #{event.date}"
+      end
+    end
+
     group.upcoming_events.map { |event| event.meetup_file_entry }.each do |event|
       event_entry = find_by(url: event.url)
 
@@ -48,6 +59,12 @@ class MeetupsFile
         @events[@events.index(event_entry)] = event
         puts "Changed Meetup: #{event.name} - #{event.date}"
       end
+    end
+
+    group.missing_events.map { |event| MeetupsFileEntry.from_yaml_item(event) }.each do |event|
+      @removed_events << event
+      @events.delete(event)
+      puts "Removed Meetup: #{event.name} - #{event.date}"
     end
 
     puts
@@ -131,11 +148,29 @@ class MeetupsFile
       #{@updated_events.sort_by { |event| [event.date, event.name] }.map(&:to_md).join}
     MD
 
+    removed_meetups = @removed_events.any? ? <<~MD : ""
+      #### Removed Meetups
+
+      | Title | Date |
+      | ----- | ---- |
+      #{@removed_events.sort_by { |event| [event.date, event.name] }.map(&:to_md).join}
+    MD
+
+    cancelled_meetups = @cancelled_events.any? ? <<~MD : ""
+      #### Cancelled Meetups
+
+      | Title | Date |
+      | ----- | ---- |
+      #{@cancelled_events.sort_by { |event| [event.date, event.name] }.map(&:to_md).join}
+    MD
+
     File.write("./pull_request_body.md", <<~MD)
       ### Meetups Update from #{Date.today.strftime("%B %d, %Y")}
 
       #{new_meetups}
       #{updated_meetups}
+      #{removed_meetups}
+      #{cancelled_meetups}
     MD
   end
 
