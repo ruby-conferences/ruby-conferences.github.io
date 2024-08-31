@@ -30,7 +30,7 @@ class MeetupEvent < AbstractEvent
       "Online"
     elsif country.alpha2 == "US"
       "#{city}, #{state.upcase}"
-    elsif country.alpha2 == "UK"
+    elsif country.alpha2 == "GB"
       "#{city}, UK"
     elsif country.alpha2 == "TW"
       "#{city}, Taiwan"
