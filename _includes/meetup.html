@@ -4,6 +4,10 @@
   {% else %}
     <a>{{ meetup.name }}</a>
   {% endif %}
+
+  {% if meetup.status %}
+    <div class="status" data-phrase="{{ meetup.status }}"></div>
+  {% endif %}
 </dt>
 
 <dd>

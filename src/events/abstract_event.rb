@@ -54,6 +54,7 @@ class AbstractEvent
       end_time: [event_end_time.strftime("%H:%M:%S"), tz.now.strftime("%Z")].join(" "),
       url: event_url,
       group: group,
+      status: event_status
     )
   end
 
@@ -63,6 +64,10 @@ class AbstractEvent
 
   def event_date
     event_start_time.to_date
+  end
+
+  def event_status
+    nil
   end
 
   def event_name

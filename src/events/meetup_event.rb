@@ -19,6 +19,10 @@ class MeetupEvent < AbstractEvent
     object.eventUrl
   end
 
+  def event_status
+    object.status == "published" ? nil : object.status
+  end
+
   def event_location
     city = object.dig("venue", "city") || object.dig("group", "city")
     state = object.dig("venue", "state") || object.dig("group", "state")

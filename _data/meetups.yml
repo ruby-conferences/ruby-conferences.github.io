@@ -1344,6 +1344,7 @@
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
   url: https://www.meetup.com/punerubymeetup/events/302884102
+  status: cancelled
 
 - name: Orange County Ruby Users Group - Ruby Science September 2024
   location: Online
@@ -1456,6 +1457,7 @@
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/302969766
+  status: cancelled
 
 - name: Philly.rb - Pubnite September 2024
   location: Online
@@ -1822,7 +1824,8 @@
   date: 2024-10-08
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsygcnblb
+  url: https://www.meetup.com/bmore-on-rails/events/303140069
+  status: cancelled
 
 - name: Philly.rb - Pubnite October 2024
   location: Online
@@ -2152,7 +2155,8 @@
   date: 2024-11-12
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsygcpbqb
+  url: https://www.meetup.com/bmore-on-rails/events/303140100
+  status: cancelled
 
 - name: Philly.rb - Pubnite November 2024
   location: Online
@@ -2433,7 +2437,8 @@
   date: 2024-12-10
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsygcqbnb
+  url: https://www.meetup.com/bmore-on-rails/events/303140116
+  status: cancelled
 
 - name: Philly.rb - Pubnite December 2024
   location: Online
