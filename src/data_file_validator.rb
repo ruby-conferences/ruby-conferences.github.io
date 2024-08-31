@@ -27,6 +27,17 @@ class DataFileValidator
         @bonus_keys_error = true
       end
     end
+
+    if @type == :meetup
+      event_groups_by_date = events.map { |event| [event["name"].split(" - ").first, event["date"]] }
+
+      duplicate_events = event_groups_by_date.tally.select { |group, count| count > 1 }
+
+      duplicate_events.each do |(group, date), count|
+        @duplicate_events_error = true
+        puts "Meetup Group '#{group}' has #{count} events on #{date.iso8601}"
+      end
+    end
   end
 
   def missing_keys?
@@ -35,6 +46,10 @@ class DataFileValidator
 
   def bonus_keys?
     @bonus_keys_error
+  end
+
+  def duplicate_events?
+    @duplicate_events_error
   end
 
   private

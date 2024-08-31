@@ -60,7 +60,8 @@ task :verify_meetups do
     "url",
     "twitter",
     "mastodon",
-    "video_link"
+    "video_link",
+    "status"
   ]
   data = YAML.load_file("_data/meetups.yml", permitted_classes: [Date])
   validator = DataFileValidator.validate(data, allowed_keys, :meetup)
@@ -71,6 +72,7 @@ task :verify_meetups do
   events = validator.events
   dates = events.map { |event| event["start_date"] }
   exit 5 unless dates.sort == dates
+  exit 6 if validator.duplicate_events?
 end
 
 task :fetch_meetups do

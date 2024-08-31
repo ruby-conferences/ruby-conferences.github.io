@@ -564,7 +564,7 @@
 #   name:
 #   service: meetupdotcom
 
-- id: ruby-fusion
+- id: ruby_fusion
   name: Ruby Fusion
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-HxTn4dLUlMlzEQX

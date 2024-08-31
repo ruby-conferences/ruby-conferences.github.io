@@ -14,7 +14,7 @@ EventsQuery = MeetupClient::Client.parse(<<-GRAPHQL
       country
       state
       city
-      unifiedEvents(sortOrder: ASC) {
+      upcomingEvents(input: { first: 50 }, filter: { includeCancelled: true }, sortOrder: ASC) {
         count
         edges {
           cursor

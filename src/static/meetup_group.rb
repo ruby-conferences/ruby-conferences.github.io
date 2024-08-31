@@ -22,10 +22,28 @@ class MeetupGroup < FrozenRecord::Base
     end
   end
 
+  def cancelled_events
+    if meetupdotcom?
+      upcoming_events.select { |event| event.object.status == "cancelled" }
+    else
+      []
+    end
+  end
+
   def new_events
-    existing_ids = existing_events.map(&:service_id)
+    existing_ids = upcomping_existing_events.map(&:service_id)
 
     upcoming_events.select { |event| !existing_ids.include?(event.service_id) }
+  end
+
+  def missing_events
+    upcoming_ids = upcoming_events.map(&:service_id)
+
+    upcomping_existing_events.reject { |event| upcoming_ids.include?(event.service_id) }
+  end
+
+  def upcomping_existing_events
+    existing_events.select { |event| event["date"].between?(Date.today - 1, Date.today + 120) }
   end
 
   def existing_events
@@ -59,7 +77,7 @@ class MeetupGroup < FrozenRecord::Base
 
   def fetch_meetup_events
     result = MeetupClient::Client.query(EventsQuery, variables: { groupId: id })
-    events = Array(result.original_hash.dig("data", "groupByUrlname", "unifiedEvents", "edges"))
+    events = Array(result.original_hash.dig("data", "groupByUrlname", "upcomingEvents", "edges"))
     events.map { |event| MeetupEvent.new(object: OpenStruct.new(event["node"]), group: self) }
   end
 

@@ -19,6 +19,10 @@ class MeetupEvent < AbstractEvent
     object.eventUrl
   end
 
+  def event_status
+    object.status == "published" ? nil : object.status
+  end
+
   def event_location
     city = object.dig("venue", "city") || object.dig("group", "city")
     state = object.dig("venue", "state") || object.dig("group", "state")
@@ -30,7 +34,7 @@ class MeetupEvent < AbstractEvent
       "Online"
     elsif country.alpha2 == "US"
       "#{city}, #{state.upcase}"
-    elsif country.alpha2 == "UK"
+    elsif country.alpha2 == "GB"
       "#{city}, UK"
     elsif country.alpha2 == "TW"
       "#{city}, Taiwan"
