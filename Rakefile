@@ -71,6 +71,7 @@ task :verify_meetups do
   events = validator.events
   dates = events.map { |event| event["start_date"] }
   exit 5 unless dates.sort == dates
+  exit 6 if validator.duplicate_events?
 end
 
 task :fetch_meetups do
