@@ -1,4 +1,4 @@
-<div class="meetup-item {{ meetup.date | date: '%Y%m' }}">
+<div class="meetup-item {{ meetup.date | date: '%Y%m' }} {% if meetup.location == 'Online' %}online{% else %}in-person{% endif %}">
   <dt>
     {% if meetup.url %}
       <a href="{{ meetup.url }}">{{ meetup.name }}</a>
