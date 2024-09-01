@@ -24,7 +24,10 @@
   <div class="filter-item filter-format" onclick="toggleFilter('format', 'online', this)">Online</div>
 </div>
 
-<div id="meetup-count"></div>
+<div class="filter-container filter-summary">
+  <div id="meetup-count"></div>
+  <div id="clear-filters" class="clear-filters" onclick="clearFilters()" style="display: none;">Clear filters</div>
+</div>
 
 <script>
   let activeFilters = {
@@ -43,6 +46,7 @@
       element.classList.add('selected');
     }
     applyFilters();
+    updateClearFiltersVisibility();
   }
 
   function applyFilters() {
@@ -75,9 +79,25 @@
     countElement.textContent = `Showing ${count} meetup${count !== 1 ? 's' : ''}`;
   }
 
+  function clearFilters() {
+    activeFilters.month = null;
+    activeFilters.format = null;
+    const filterItems = document.querySelectorAll('.filter-item');
+    filterItems.forEach(item => item.classList.remove('selected'));
+    showAllMeetups();
+    updateClearFiltersVisibility();
+  }
+
+  function updateClearFiltersVisibility() {
+    const clearFiltersButton = document.getElementById('clear-filters');
+    const filtersActive = activeFilters.month !== null || activeFilters.format !== null;
+    clearFiltersButton.style.display = filtersActive ? 'block' : 'none';
+  }
+
   document.addEventListener('DOMContentLoaded', () => {
     const meetups = document.getElementsByClassName('meetup-item');
     updateMeetupCount(meetups.length);
+    updateClearFiltersVisibility();
   });
 </script>
 
@@ -88,6 +108,11 @@
     gap: 12px;
     margin-bottom: 24px;
     white-space: nowrap;
+  }
+
+  .filter-summary {
+    justify-content: flex-start;
+    align-items: center;
   }
 
   .filter-item {
@@ -109,8 +134,18 @@
     }
   }
 
+  .clear-filters {
+    color: #444;
+    cursor: pointer;
+    margin-left: 8px;
+    text-decoration: underline;
+  }
+
+  .clear-filters:hover {
+    color: #c72c41;
+  }
+
   #meetup-count {
-    margin-bottom: 16px;
     font-weight: 500;
     color: #999;
   }
