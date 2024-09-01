@@ -1,4 +1,4 @@
-<div class="meetup-item {{ meetup.date | date: '%Y%m' }}">
+<div class="meetup-item {{ meetup.date | date: '%Y%m' }} {% continent %}{{  meetup.location | split: ', ' | last }}{% endcontinent %}">
   <dt>
     {% if meetup.url %}
       <a href="{{ meetup.url }}">{{ meetup.name }}</a>
