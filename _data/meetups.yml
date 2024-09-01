@@ -1657,6 +1657,13 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtygcmbcc
 
+- name: Pune Ruby Users Group - September Meetup
+  location: Pune, India
+  date: 2024-09-21
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://www.meetup.com/punerubymeetup/events/303153624
+
 - name: Ruby On Rails Belo Horizonte - 2º Encontro Trem on Rails
   location: Belo Horizonte, Brazil
   date: 2024-09-21
