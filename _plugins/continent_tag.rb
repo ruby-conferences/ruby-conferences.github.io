@@ -4,25 +4,15 @@ module Jekyll
   class ContinentTag < Liquid::Block
     def render(context)
       country_code = super
+      country = nil
 
       return "online" if country_code == "Online"
 
-      country = nil
-
-      if country.nil?
-        case country_code
-        when "UK"
-          country = ISO3166::Country.new("GB")
-        when "Taiwan"
-          country = ISO3166::Country.new("TW")
-        when *ISO3166::Country.new("US").subdivisions.keys
-          country = ISO3166::Country.new("US")
-        end
-      end
-
-      if country.nil?
-        country = ISO3166::Country.find_country_by_iso_short_name(country_code)
-      end
+      country = ISO3166::Country.new("US") if ISO3166::Country.new("US").subdivisions.keys.include?(country_code)
+      country = ISO3166::Country.new("GB") if country_code == "UK"
+      country = ISO3166::Country.new("GB") if country_code == "Scotland"
+      country = ISO3166::Country.find_country_by_iso_short_name(country_code) if country.nil?
+      country = ISO3166::Country.find_country_by_unofficial_names(country_code) if country.nil?
 
       if country.nil?
         raise "Country not found: #{country_code}"
