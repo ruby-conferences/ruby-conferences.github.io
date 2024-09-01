@@ -1338,14 +1338,6 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/302823685
 
-- name: Pune Ruby Users Group - August Meetup
-  location: Pune, India
-  date: 2024-08-31
-  start_time: 11:00:00 IST
-  end_time: 13:00:00 IST
-  url: https://www.meetup.com/punerubymeetup/events/302884102
-  status: cancelled
-
 - name: Orange County Ruby Users Group - Ruby Science September 2024
   location: Online
   date: 2024-09-02
@@ -1656,6 +1648,13 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtygcmbcc
+
+- name: Pune Ruby Users Group - September Meetup
+  location: Pune, India
+  date: 2024-09-21
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://www.meetup.com/punerubymeetup/events/303153624
 
 - name: Ruby On Rails Belo Horizonte - 2º Encontro Trem on Rails
   location: Belo Horizonte, Brazil
