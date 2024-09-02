@@ -1655,7 +1655,7 @@
   date: 2024-09-21
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtygcmbcc
+  url: https://www.meetup.com/african_ruby_community/events/303170792
 
 - name: Pune Ruby Users Group - September Meetup
   location: Pune, India
@@ -2615,6 +2615,13 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtygcqblc
+
+- name: RubyJax - Open Hax December 2024
+  location: Jacksonville, FL
+  date: 2024-12-31
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtygcqbpc
 
 - name: Philly.rb - Pubnite January 2025
   location: Online
