@@ -61,7 +61,7 @@ class AbstractEvent
       date: event_date.iso8601,
       start_time: [event_start_time.strftime("%H:%M:%S"), tz.now.strftime("%Z")].join(" "),
       end_time: [event_end_time.strftime("%H:%M:%S"), tz.now.strftime("%Z")].join(" "),
-      url: event_url,
+      url: event_url.gsub(/\/$/, ""),
       group: group,
       status: event_status
     )

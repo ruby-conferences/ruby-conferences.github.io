@@ -147,7 +147,7 @@
   date: 2024-02-03
   start_time: 10:00:00 -03
   end_time: 12:00:00 -03
-  url: https://rubydf.com/events/segunda-edicao/
+  url: https://rubydf.com/events/segunda-edicao
 
 - name: ChicagoRuby - Jason Swett "How to Write Meaningful Tests"
   location: Chicago, IL
@@ -441,7 +441,7 @@
   date: 2024-04-02
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/the-bluegrass-developers-guild/events/300021220/
+  url: https://www.meetup.com/the-bluegrass-developers-guild/events/300021220
 
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
@@ -637,7 +637,7 @@
   date: 2024-05-09
   start_time: 18:00:00 HKT
   end_time: 20:00:00 HKT
-  url: https://www.facebook.com/events/758719776072660/
+  url: https://www.facebook.com/events/758719776072660
 
 - name: Ruby Fusion - Meetup May 2024
   location: Online
@@ -777,14 +777,14 @@
   date: 2024-05-29
   start_time: 18:00:00 BRT
   end_time: 22:00:00 BRT
-  url: http://frevoonrails.com.br/posts,/events/2024/05/10/encontro-de-maio-2024/
+  url: http://frevoonrails.com.br/posts,/events/2024/05/10/encontro-de-maio-2024
 
 - name: Helsinki Ruby Brigade - Summer kick-off
   location: Helsinki, Finland
   date: 2024-05-29
   start_time: 17:30:00 EEST
   end_time: 20:30:00 EEST
-  url: https://rubybrigade.fi/event/2024/summer-kick-off/
+  url: https://rubybrigade.fi/event/2024/summer-kick-off
 
 - name: Austin.rb - Ruby Social (Morning)
   location: Austin, TX
@@ -819,7 +819,7 @@
   date: 2024-06-04
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
+  url: https://bluegrassruby.club
 
 - name: Charlotte Ruby - Ruby Hack Night June 2024
   location: Online
@@ -896,7 +896,7 @@
   date: 2024-06-11
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
-  url: https://www.meetup.com/austinrb/events/297610742/
+  url: https://www.meetup.com/austinrb/events/297610742
 
 - name: Boston Ruby Group - June 2024 meeting
   location: Boston, MA
@@ -1008,7 +1008,7 @@
   date: 2024-06-27
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
-  url: https://www.meetup.com/austinrb/events/300256966/
+  url: https://www.meetup.com/austinrb/events/300256966
 
 - name: Philippine Ruby Users Group - Heading Hybrid
   location: Multi-location hydrid (Makati & Batangas City, Philippines)
@@ -1065,7 +1065,7 @@
   date: 2024-07-09
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
-  url: https://www.meetup.com/austinrb/events/297610747/
+  url: https://www.meetup.com/austinrb/events/297610747
 
 - name: Boston Ruby Group - July 2024 meeting
   location: Boston, MA
@@ -1128,7 +1128,7 @@
   date: 2024-07-11
   start_time: 19:00:00 EEST
   end_time: 21:00:00 EEST
-  url: https://www.meetup.com/ruby-romania/events/302016838/
+  url: https://www.meetup.com/ruby-romania/events/302016838
 
 - name: Ruby Montevideo - Meetup July 2024
   location: Montevideo, Uruguay
@@ -1198,7 +1198,7 @@
   date: 2024-07-27
   start_time: '09:30:00 -03'
   end_time: 11:30:00 -03
-  url: https://rubydf.com/events/terceira-edicao/
+  url: https://rubydf.com/events/terceira-edicao
 
 - name: WNB.rb - July 2024
   location: Online
@@ -1212,7 +1212,7 @@
   date: 2024-07-31
   start_time: 18:00:00 HKT
   end_time: 20:00:00 HKT
-  url: https://www.meetup.com/ruby-phil/events/302437676/
+  url: https://www.meetup.com/ruby-phil/events/302437676
 
 - name: SD Ruby - Meetup August 2024
   location: San Diego, CA
@@ -1261,7 +1261,7 @@
   date: 2024-08-13
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
-  url: https://www.meetup.com/austinrb/events/297610749/
+  url: https://www.meetup.com/austinrb/events/297610749
 
 - name: Boston Ruby Group - August 2024 meeting
   location: Boston, MA
@@ -1812,7 +1812,7 @@
   date: 2024-10-01
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
+  url: https://bluegrassruby.club
 
 - name: Brighton Ruby Group - We're Back From The Dead
   location: Brighton, UK
@@ -2164,7 +2164,7 @@
   date: 2024-11-05
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
+  url: https://bluegrassruby.club
 
 - name: Charlotte Ruby - Ruby Hack Night November 2024
   location: Online
@@ -2446,7 +2446,7 @@
   date: 2024-12-03
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
+  url: https://bluegrassruby.club
 
 - name: Charlotte Ruby - Ruby Hack Night December 2024
   location: Online
