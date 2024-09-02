@@ -1,6 +1,6 @@
 name: Ruby Conferences
 url: https://rubyconferences.org
-safe: true
+safe: false
 lsi: false
 source: .
 exclude:

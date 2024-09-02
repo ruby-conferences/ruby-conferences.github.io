@@ -1,0 +1,207 @@
+<div class="filters-wrapper">
+  {% if meetups %}
+    <div class="filter-container month-filters">
+      {% assign unique_months = "" | split: "" %}
+      {% assign now = "now" | date: "%Y-%m-%d 00:00:00" | date: "%s" | plus: 0 %}
+      {% for meetup in meetups %}
+        {% assign date = meetup.date | date: "%s" | plus: 0 %}
+        {% if date >= now %}
+          {% assign formatted_month = meetup.date | date: "%Y%m" %}
+          {% unless unique_months contains formatted_month %}
+            <div
+              class="filter-item filter-month"
+              title="{{ meetup.date | date: '%B %Y' }}"
+              onclick="toggleFilter('month', '{{ meetup.date | date: '%Y%m' }}', this)"
+            >
+              {{ meetup.date | date: "%B %Y" }}
+            </div>
+            {% assign unique_months = unique_months | push: formatted_month %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <div class="filter-container continent-filters">
+    <div class="filter-item filter-continent" onclick="toggleFilter('continent', 'africa', this)">Africa</div>
+    <div class="filter-item filter-continent" onclick="toggleFilter('continent', 'asia', this)">Asia</div>
+    <div class="filter-item filter-continent" onclick="toggleFilter('continent', 'australia', this)">Australia & Oceania</div>
+    <div class="filter-item filter-continent" onclick="toggleFilter('continent', 'europe', this)">Europe</div>
+    <div class="filter-item filter-continent" onclick="toggleFilter('continent', 'north-america', this)">North America</div>
+    <div class="filter-item filter-continent" onclick="toggleFilter('continent', 'south-america', this)">South America</div>
+    <div class="filter-item filter-continent" onclick="toggleFilter('continent', 'online', this)">Online</div>
+  </div>
+
+  <div class="filter-container filter-summary">
+    <div id="list-item-count"></div>
+    <div id="clear-filters" class="clear-filters" onclick="clearFilters()" style="display: none;">Clear filters</div>
+  </div>
+</div>
+
+<div id="no-list-items-message" style="display: none;">
+  <p>No {{ item_name }} matched your current filter selection.</p>
+
+  <p>
+    But don't let that stop you! You could be the one to spark the Ruby community in your area.
+  </p>
+
+  <p>
+    Consider <a href="https://evilmartians.com/chronicles/lets-have-more-tech-meetups-a-quick-start-guide-to-holding-your-own" target="_blank" id="organize-link" class="highlight-link">organizing your own event</a>.
+    It's a great way to bring developers together, inspire others, and create amazing opportunities.
+    Your initiative could make a real difference!
+  </p>
+</div>
+
+<script>
+  let activeFilters = {
+    month: null,
+    continent: null
+  };
+
+  function toggleFilter(filterType, value, element) {
+    if (activeFilters[filterType] === value) {
+      activeFilters[filterType] = null;
+      element.classList.remove('selected');
+    } else {
+      activeFilters[filterType] = value;
+      const filterItems = document.querySelectorAll(`.filter-${filterType}`);
+      filterItems.forEach(item => item.classList.remove('selected'));
+      element.classList.add('selected');
+    }
+    applyFilters();
+    updateClearFiltersVisibility();
+  }
+
+  function applyFilters() {
+    const listItems = document.getElementsByClassName('list-item');
+    let visibleCount = 0;
+
+    Array.from(listItems).forEach(item => {
+      const monthMatch = !activeFilters.month || item.classList.contains(activeFilters.month);
+      const continentMatch = !activeFilters.continent || item.classList.contains(activeFilters.continent);
+      const isVisible = monthMatch && continentMatch;
+      item.style.display = isVisible ? 'block' : 'none';
+      if (isVisible) visibleCount++;
+    });
+
+    updateListItemCount(visibleCount);
+    updateNoListItemsMessage(visibleCount);
+  }
+
+  function showAllListItems() {
+    const listItems = document.getElementsByClassName('list-item');
+
+    Array.from(listItems).forEach(item => {
+      item.style.display = 'block';
+    });
+
+    updateListItemCount(listItems.length);
+    updateNoListItemsMessage(listItems.length);
+  }
+
+  function updateListItemCount(count) {
+    const countElement = document.getElementById('list-item-count');
+    countElement.textContent = `Showing ${count} ${count !== 1 ? '{{ item_name }}s' : '{{ item_name }}'}`;
+  }
+
+  function updateNoListItemsMessage(count) {
+    const noListItemsMessage = document.getElementById('no-list-items-message');
+    noListItemsMessage.style.display = count === 0 ? 'block' : 'none';
+  }
+
+  function clearFilters() {
+    activeFilters.month = null;
+    activeFilters.continent = null;
+    const filterItems = document.querySelectorAll('.filter-item');
+    filterItems.forEach(item => item.classList.remove('selected'));
+    showAllListItems();
+    updateClearFiltersVisibility();
+  }
+
+  function updateClearFiltersVisibility() {
+    const clearFiltersButton = document.getElementById('clear-filters');
+    const filtersActive = activeFilters.month !== null || activeFilters.continent !== null;
+    clearFiltersButton.style.display = filtersActive ? 'block' : 'none';
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const listItems = document.getElementsByClassName('list-item');
+    updateListItemCount(listItems.length);
+    updateNoListItemsMessage(listItems.length);
+    updateClearFiltersVisibility();
+  });
+</script>
+
+<style>
+  .filters-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+    margin-bottom: 24px;
+  }
+
+  .filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    white-space: nowrap;
+  }
+
+  .filter-container:empty {
+    display: none;
+  }
+
+  .filter-summary {
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .filter-item {
+    color: #444;
+    background-color: white;
+    padding: 4px 16px;
+    border-radius: 24px;
+    white-space: nowrap;
+    &:hover {
+      background-color: #f0f0f0;
+      cursor: pointer;
+    }
+    &.selected {
+      background-color: #c72c41;
+      color: white;
+    }
+    &.selected:hover {
+      background-color: #a52537;
+    }
+  }
+
+  .clear-filters {
+    color: #444;
+    cursor: pointer;
+    margin-left: 8px;
+    text-decoration: underline;
+  }
+
+  .clear-filters:hover {
+    color: #c72c41;
+  }
+
+  #list-item-count {
+    font-weight: 500;
+    color: #999;
+  }
+
+  #no-list-items-message {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    margin-top: 50px;
+    a {
+      color: #c72c41;
+      text-decoration: underline;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+  }
+</style>

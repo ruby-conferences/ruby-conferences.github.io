@@ -669,7 +669,7 @@
   twitter: euruko
 
 - name: Keep Ruby Weird
-  location: Austin, Texas
+  location: Austin, TX
   start_date: 2015-10-23
   end_date: 2015-10-23
   url: http://keeprubyweird.com
@@ -769,7 +769,7 @@
   video_link: http://confreaks.tv/events/mwrc2016
 
 - name: Ruby on Ales
-  location: Bend, Oregon
+  location: Bend, OR
   start_date: 2016-03-31
   end_date: 2016-04-01
   url: http://web.archive.org/web/20171102215052/http://ruby.onales.com/
@@ -847,7 +847,7 @@
   twitter: rubyforgood
 
 - name: NordicRuby
-  location: Stockholm
+  location: Stockholm, Sweden
   start_date: 2016-06-17
   end_date: 2016-06-19
   url: http://www.nordicruby.org/
@@ -876,7 +876,7 @@
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcybaE0Xm_yOK8-a-WAcltv1q
 
 - name: OpenCommerce Conf
-  location: Rise, New York City
+  location: Rise, NY
   start_date: 2016-06-28
   end_date: 2016-06-29
   url: http://opencommerceconf.org/
@@ -1095,7 +1095,7 @@
   video_link: https://www.youtube.com/playlist?list=PLpVeA1tdgfCBpR87Q5nw_3caqbVo71EP7
 
 - name: RubyHACK
-  location: Salt Lake City, Utah
+  location: Salt Lake City, UT
   start_date: 2017-04-20
   end_date: 2017-04-21
   url: https://rubyhack.com/archives/2017
@@ -1127,7 +1127,7 @@
   video_link: https://www.youtube.com/playlist?list=PLb6Zr8jHuhjzIAKR7l2r81P-hxBUftT2-
 
 - name: RubyNation
-  location: Arlington, Virginia
+  location: Arlington, VA
   start_date: 2017-06-16
   end_date: 2017-06-16
   url: http://www.rubynation.org/
@@ -1151,7 +1151,7 @@
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcybxOnh9S9Hk-RDRXZRkrWwR
 
 - name: GrillRB
-  location: Wrocław, PL
+  location: Wrocław, Poland
   start_date: 2017-07-01
   end_date: 2017-07-02
   twitter: grill_rb
@@ -1211,7 +1211,7 @@
   video_link: https://www.youtube.com/playlist?list=PLCrwBqiOtwpIRdk4VMfD6hbFVHZoKOyMg
 
 - name: Keep Ruby Weird
-  location: Austin, Texas
+  location: Austin, TX
   start_date: 2017-10-01
   end_date: 2017-10-01
   url: https://2017.keeprubyweird.com/
@@ -1249,7 +1249,7 @@
   video_link: https://www.youtube.com/playlist?list=PLrD6VJeUSN28nfWhU5PwlD-9vgPNV3WsU
 
 - name: Ruby Dev Summit
-  location: Online (Mountain Time)
+  location: Online
   start_date: 2017-10-16
   end_date: 2017-10-21
 
@@ -1376,7 +1376,7 @@
   video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpAdmjfDBiqiOKpk1PiCIb2A
 
 - name: RubyHACK
-  location: Salt Lake City, Utah
+  location: Salt Lake City, UT
   start_date: 2018-05-03
   end_date: 2018-05-04
   url: https://rubyhack.com/archives/2018
@@ -1384,14 +1384,14 @@
   video_link: https://confreaks.tv/events/rubyhack2018
 
 - name: 'Madison+ Ruby: Chicago'
-  location: Chicago, Illinois
+  location: Chicago, IL
   start_date: 2018-05-10
   end_date: 2018-05-11
   url: https://ti.to/adorable/madison-ruby-chicago/en
   twitter: MadisonRuby
 
 - name: ROSS conf Amsterdam
-  location: Amsterdam, the Netherlands
+  location: Amsterdam, Netherlands
   start_date: 2018-05-11
   end_date: 2018-05-12
   url: https://rossconfams.eventbrite.co.uk
@@ -1450,7 +1450,7 @@
   twitter: rubynation
 
 - name: Paris.rb Conf
-  location: Paris, FR
+  location: Paris, France
   start_date: 2018-06-28
   end_date: 2018-06-29
   url: http://2018.rubyparis.org/
@@ -1466,7 +1466,7 @@
   video_link: https://brightonruby.com/2018/
 
 - name: Southeast Ruby
-  location: Nashville, Tennessee
+  location: Nashville, TN
   start_date: 2018-08-02
   end_date: 2018-08-03
   url: https://southeastruby.com/
@@ -1696,7 +1696,7 @@
   video_link: https://www.youtube.com/watch?v=CjOwKbf8L3I
 
 - name: EuRuKo 2019
-  location: Rotterdam, the Netherlands
+  location: Rotterdam, Netherlands
   start_date: 2019-06-21
   end_date: 2019-06-22
   url: https://2019.euruko.org
@@ -1727,7 +1727,7 @@
   video_link: https://www.youtube.com/playlist?list=PLhKZ4RWngmpBgD6t068O_EZ4grSlUtl3Y
 
 - name: Southeast Ruby
-  location: Nashville, Tennessee
+  location: Nashville, TN
   start_date: 2019-08-01
   end_date: 2019-08-02
   url: https://southeastruby.com/
@@ -1833,14 +1833,14 @@
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZDE8nFrKaqkpd-XK4huygU
 
 - name: RubyConfBR
-  location: Sao Paulo, BR
+  location: São Paulo, Brazil
   start_date: 2019-11-28
   end_date: 2019-11-29
   url: https://callforpapers.locaweb.com.br/events/rubyconf-2019
   twitter: rubyconfbr
 
 - name: Birmingham on Rails
-  location: Birmingham, Alabama
+  location: Birmingham, AL
   start_date: 2020-01-31
   end_date: 2020-01-31
   url: http://birminghamonrails.com
@@ -1909,7 +1909,7 @@
   status: Cancelled
 
 - name: RailsConf 2020.2 Couch Edition
-  location: Your Couch
+  location: Online
   start_date: 2020-05-05
   end_date: 2020-05-05
   url: https://railsconf.com/
@@ -2161,7 +2161,7 @@
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyb2Mjtd1RBjeP3Jt9RukU7G
 
 - name: Brighton Ruby 2022
-  location: Brighton, England
+  location: Brighton, UK
   start_date: 2022-06-30
   end_date: 2022-06-30
   url: https://brightonruby.com/2022
@@ -2198,7 +2198,7 @@
   video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDWafhnWni-CwHkPJJuc0e5
 
 - name: The Rails SaaS Conference
-  location: Los Angeles, CA, USA
+  location: Los Angeles, CA
   start_date: 2022-10-06
   end_date: 2022-10-07
   url: https://railssaas.com/
@@ -2220,7 +2220,7 @@
   mastodon: https://ruby.social/@kaigionrails
 
 - name: RubyConf Mini 2022
-  location: Providence, RI, USA
+  location: Providence, RI
   start_date: 2022-11-15
   end_date: 2022-11-17
   url: https://www.rubyconfmini.com
@@ -2228,7 +2228,7 @@
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyZYz0O3d9ZDdo0-BkOWhrSk
 
 - name: RubyConf 2022
-  location: Houston, Texas
+  location: Houston, TX
   start_date: 2022-11-29
   end_date: 2022-12-01
   url: https://rubyconf.org/
@@ -2285,7 +2285,7 @@
   twitter: railssaas
 
 - name: Blue Ridge Ruby 2023
-  location: Asheville, NC, USA
+  location: Asheville, NC
   start_date: 2023-06-08
   end_date: 2023-06-09
   url: https://blueridgeruby.com
@@ -2359,7 +2359,7 @@
   video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDwTvPjY1F_7ccYO7O26RJ9
 
 - name: Rails Camp West 2023
-  location: North Shore O’ahu Hawaii
+  location: North Shore O’ahu, Hawaii, HI
   start_date: 2023-09-15
   end_date: 2023-09-18
   url: https://west.railscamp.us/2023
@@ -2398,7 +2398,7 @@
   video_link: https://www.youtube.com/playlist?list=PLHFP2OPUpCeY9IX3Ht727dwu5ZJ2BBbZP
 
 - name: Rocky Mountain Ruby 2023
-  location: Boulder, Colorado
+  location: Boulder, CO
   start_date: 2023-10-05
   end_date: 2023-10-06
   url: https://2023.rockymtnruby.dev
@@ -2418,7 +2418,7 @@
   announced_on: 2023-03-31
 
 - name: Ruby Retreat 2023
-  location: Mount Cheeseman, Aotearoa New Zealand
+  location: Mount Cheeseman, Aotearoa, New Zealand
   start_date: 2023-10-27
   end_date: 2023-10-30
   url: https://retreat.ruby.nz
@@ -2571,7 +2571,7 @@
   video_link: https://www.youtube.com/playlist?list=PL4jngagx9f7RGaAjXE0PR3z_jsA9cyCji
 
 - name: Blue Ridge Ruby 2024
-  location: Asheville, NC, USA
+  location: Asheville, NC
   start_date: 2024-05-30
   end_date: 2024-05-31
   url: https://blueridgeruby.com
@@ -2675,7 +2675,7 @@
   announced_on: 2024-03-28
 
 - name: Rails Camp USA 2024
-  location: Cascade, Idaho
+  location: Cascade, ID
   start_date: 2024-08-27
   end_date: 2024-08-30
   url: https://west.railscamp.us/2024
@@ -2691,7 +2691,7 @@
   announced_on: 2023-12-14
 
 - name: EuRuKo 2024
-  location: Sarajevo, Bosnia & Herzegovina
+  location: Sarajevo, Bosnia and Herzegovina
   start_date: 2024-09-11
   end_date: 2024-09-13
   url: https://2024.euruko.org
@@ -2739,7 +2739,7 @@
   announced_on: 2024-03-21
 
 - name: Rocky Mountain Ruby 2024
-  location: Boulder, Colorado
+  location: Boulder, CO
   start_date: 2024-10-07
   end_date: 2024-10-08
   url: https://rockymtnruby.dev/
