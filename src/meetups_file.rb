@@ -175,6 +175,6 @@ class MeetupsFile
   end
 
   def write!
-    PATH.write(@events.sort_by { |event| [event.date, event.name] }.map(&:to_hash).to_yaml.gsub("- name:", "\n- name:"))
+    PATH.write(@events.uniq.sort_by { |event| [event.date, event.name] }.map(&:to_hash).to_yaml.gsub("- name:", "\n- name:"))
   end
 end
