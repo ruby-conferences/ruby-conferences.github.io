@@ -76,6 +76,14 @@ class AbstractEvent
   end
 
   def event_status
+    if event_name.downcase.include?("cancelled") || event_name.downcase.include?("canceled")
+      return "cancelled"
+    end
+
+    if event_name.downcase.include?("postponed")
+      return "postponed"
+    end
+
     nil
   end
 

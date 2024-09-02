@@ -714,6 +714,7 @@
   remove:
     - "(watch the date)"
     - "Check the date!"
+    - "CANCELED"
 
 - id: ruby-usergroup-hamburg
   name: Ruby Usergroup Hamburg

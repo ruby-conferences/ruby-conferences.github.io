@@ -63,6 +63,13 @@
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/297923423
 
+- name: Ruby Usergroup Hamburg - January 2024
+  location: Hamburg, Germany
+  date: 2024-01-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-january-2024-770
+
 - name: Ruby User Group Berlin - January Meetup 2024
   location: Berlin, Germany
   date: 2024-01-11
@@ -204,6 +211,13 @@
   start_time: 20:30:00 EST
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/298024752
+
+- name: Ruby Usergroup Hamburg - February 2024
+  location: Hamburg, Germany
+  date: 2024-02-14
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-february-2024-774
 
 - name: brooklyn.rb - rails new happy_hack_hour
   location: Brooklyn, NY
@@ -366,6 +380,13 @@
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/298382203
 
+- name: Ruby Usergroup Hamburg - March 2024
+  location: Hamburg, Germany
+  date: 2024-03-13
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-march-2024-775
+
 - name: RubySur - March 2024 - Debugging
   location: Buenos Aires, Argentina / Online
   date: 2024-03-14
@@ -506,6 +527,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/298382205
 
+- name: Ruby Usergroup Hamburg - April 2024
+  location: Hamburg, Germany
+  date: 2024-04-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-april-2024-777
+
 - name: Ruby User Group Berlin - Elixir Crossover Birthday Event
   location: Berlin, Germany
   date: 2024-04-11
@@ -631,6 +659,13 @@
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/299736979
+
+- name: Ruby Usergroup Hamburg - May 2024
+  location: Hamburg, Germany
+  date: 2024-05-08
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-may-2024-778
 
 - name: Philippine Ruby Users Group - 2024 Restart Startup launchkit edition
   location: Makati, Philippines & Online
@@ -1116,6 +1151,13 @@
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062985
 
+- name: Ruby Usergroup Hamburg - July 2024
+  location: Hamburg, Germany
+  date: 2024-07-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-july-2024-780
+
 - name: Ruby Fusion - Milestones
   location: Online
   date: 2024-07-11
@@ -1304,6 +1346,13 @@
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
   url: https://lu.ma/16ykggyu
+
+- name: Ruby Usergroup Hamburg - August 2024
+  location: Hamburg, Germany
+  date: 2024-08-14
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-august-2024-881
 
 - name: RubySur - August 2024 - Refactoring
   location: Buenos Aires, Argentina / Online
@@ -1614,6 +1663,13 @@
   start_time: 19:00:00 -03
   end_time: 22:00:00 -03
   url: https://www.meetup.com/ruby-montevideo/events/303136598
+
+- name: Ruby Usergroup Hamburg - September 2024
+  location: Hamburg, Germany
+  date: 2024-09-11
+  start_time: 21:00:00 CEST
+  end_time: 23:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2024-914
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) September
     2024'
@@ -2307,6 +2363,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcpbrb
 
+- name: Ruby Usergroup Hamburg - November 2024
+  location: Hamburg, Germany
+  date: 2024-11-13
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-915
+
 - name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) November
     2024'
   location: Online
@@ -2581,6 +2644,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbpb
+
+- name: Ruby Usergroup Hamburg - Chrismas Edition - Dezember 2024
+  location: Hamburg, Germany
+  date: 2024-12-11
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-chrismas-edition-dezember-2024-916
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) December
     2024'
