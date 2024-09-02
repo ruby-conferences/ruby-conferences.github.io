@@ -21,6 +21,12 @@
   name: Amsterdam.rb
   service: meetupdotcom
 
+- id: andalucia-rb
+  name: Andalucia.rb
+  service: ical
+  timezone: Europe/Madrid
+  ical_url: https://andalucia.onruby.eu/events.ics
+
 - id: arlington-ruby
   name: Arlington Ruby
   service: meetupdotcom
@@ -335,6 +341,13 @@
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-LlD9HPh8QnHgqEQ
   timezone: America/Chicago
+
+- id: madrid-rb
+  name: Madrid.rb
+  service: ical
+  timezone: Europe/Madrid
+  default_location: Madrid, Spain
+  ical_url: https://www.madridrb.com/events.ics
 
 - id: medellin-rb
   name: Medellín.rb
@@ -689,8 +702,40 @@
   service: meetupdotcom
 
 - id: ruby-user-group-linz-rugl
-  name: Ruby User Group Linz (RUGL)
+  name: Ruby User Group Linz
   service: meetupdotcom
+
+- id: ruby-user-group-berlin
+  name: Ruby User Group Berlin
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Berlin, Germany
+  ical_url: https://www.rug-b.de/events.ics
+  remove:
+    - "(watch the date)"
+    - "Check the date!"
+
+- id: ruby-usergroup-hamburg
+  name: Ruby Usergroup Hamburg
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Hamburg, Germany
+  ical_url: https://hamburg.onruby.de/events.ics
+
+- id: ruby-user-group-cologne
+  name: Ruby User Group Cologne
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Cologne, Germany
+  ical_url: https://www.colognerb.de/events.ics
+  remove: "Kölsch.rb"
+
+- id: ruby-user-group-leipzig
+  name: Ruby User Group Leipzig
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Leipzig, Germany
+  ical_url: https://leipzig.onruby.de/events.ics
 
 # - id: ruby-user-group-saarland
 #   name:
@@ -709,11 +754,11 @@
   service: meetupdotcom
 
 - id: rubydf
-  name: Ruby DF
+  name: RubyDF
   service: meetupdotcom
 
 - id: rubydf
-  name: Ruby DF
+  name: RubyDF
   timezone: America/Sao_Paulo
   ical_url: https://rubydf.com/events.ics
   service: ical

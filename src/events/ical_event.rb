@@ -4,7 +4,9 @@ class IcalEvent < AbstractEvent
   def event_location
     location = object.location.to_s
 
-    return "Online" if location.start_with?("https://")
+    return "Online" if location.start_with?("https://") || location == "Online" || location == "Virtual" || event_name.include?("Virtual") || event_name.include?("Zoom")
+
+    return group.default_location if group.default_location
 
     location
   end
@@ -14,7 +16,7 @@ class IcalEvent < AbstractEvent
   end
 
   def event_name
-    object.summary
+    object.summary.force_encoding("utf-8")
   end
 
   def event_start_time

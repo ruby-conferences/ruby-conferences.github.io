@@ -63,6 +63,14 @@
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/297923423
 
+- name: Ruby User Group Berlin - January Meetup 2024
+  location: Berlin, Germany
+  date: 2024-01-11
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.rug-b.de/events/canceled-january-meetup-2024-watch-the-date-canceled-768
+  status: cancelled
+
 - name: ChicagoRuby - Totally Solid Cache and Queue by Daniel Schadd
   location: Chicago, IL
   date: 2024-01-17
@@ -70,7 +78,8 @@
   end_time: 20:00:00 CST
   url: https://www.meetup.com/chicagoruby/events/298091952
 
-- name: 'Toronto Ruby - Rails and the Ruby Garbage Collector: How to Speed Up Your Rails App'
+- name: 'Toronto Ruby - Rails and the Ruby Garbage Collector: How to Speed Up Your
+    Rails App'
   location: Toronto, Canada
   date: 2024-01-24
   start_time: 18:00:00 EST
@@ -132,6 +141,13 @@
   start_time: 19:00:00 PST
   end_time: 20:30:00 PST
   url: https://www.meetup.com/sdruby/events/297372058
+
+- name: RubyDF - Fevereiro de 2024 - Segunda edição
+  location: Brasilia, Brazil
+  date: 2024-02-03
+  start_time: 10:00:00 -03
+  end_time: 12:00:00 -03
+  url: https://rubydf.com/events/segunda-edicao/
 
 - name: ChicagoRuby - Jason Swett "How to Write Meaningful Tests"
   location: Chicago, IL
@@ -364,6 +380,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/brooklyn-rb/events/299260716
 
+- name: Ruby User Group Cologne - März 2024
+  location: Cologne, Germany
+  date: 2024-03-20
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.colognerb.de/events/kolsch-rb-marz-2024-773
+
 - name: Polish Ruby User Group (PLRUG) - Meetup March 2024
   location: Warsaw, Poland
   date: 2024-03-21
@@ -482,6 +505,13 @@
   start_time: 20:30:00 EDT
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/298382205
+
+- name: Ruby User Group Berlin - Elixir Crossover Birthday Event
+  location: Berlin, Germany
+  date: 2024-04-11
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/elixir-crossover-birthday-event-check-the-date-772
 
 - name: brooklyn.rb - rails new happy_hack_hour
   location: Brooklyn, NY
@@ -938,6 +968,13 @@
   end_time: 19:30:00 EDT
   url: https://lu.ma/p53lc1vp
 
+- name: Ruby User Group Cologne - Juni 2024 Meetup
+  location: Cologne, Germany
+  date: 2024-06-20
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.colognerb.de/events/juni-2024-meetup-779
+
 - name: Ruby::AZ - Vite Ruby for your Rails app's frontend assets
   location: Chandler, AZ
   date: 2024-06-20
@@ -1007,6 +1044,14 @@
   start_time: 19:15:00 CEST
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437243
+
+- name: Ruby User Group Berlin - July 2024 outdoor social gathering
+  location: Berlin, Germany
+  date: 2024-07-04
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.rug-b.de/events/canceled-july-2024-outdoor-social-gathering-815
+  status: cancelled
 
 - name: London Ruby User Group - July 2024 Meeting
   location: London, UK
@@ -1148,12 +1193,12 @@
   end_time: 10:00:00 CDT
   url: https://www.meetup.com/austinrb/events/300257002
 
-- name: Ruby DF - July
-  location: Brasília, Brazil
+- name: RubyDF - Julho de 2024 - Terceira edição
+  location: Brasilia, Brazil
   date: 2024-07-27
-  start_time: '09:30:00 BRT'
-  end_time: 12:00:00 BRT
-  url: https://rubydf.com/events/terceira-edicao
+  start_time: '09:30:00 -03'
+  end_time: 11:30:00 -03
+  url: https://rubydf.com/events/terceira-edicao/
 
 - name: WNB.rb - July 2024
   location: Online
@@ -1287,6 +1332,13 @@
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/302785548
+
+- name: Ruby User Group Cologne - August 2024 Meetup
+  location: Cologne, Germany
+  date: 2024-08-22
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.colognerb.de/events/august-2024-meetup-782
 
 - name: 'Bangkok.rb - Ruby Tuesday #56'
   location: เขตวัฒนา, Thailand
@@ -1422,6 +1474,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/302844480
 
+- name: Ruby User Group Berlin - September Meetup 2024
+  location: Berlin, Germany
+  date: 2024-09-05
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/september-meetup-2024-848
+
 - name: SD Ruby - Monthly Meetup September 2024
   location: San Diego, CA
   date: 2024-09-05
@@ -1443,19 +1502,19 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/300548245
 
-- name: London Ruby User Group - September 2024 Meeting
-  location: London, UK
-  date: 2024-09-09
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/september
-
 - name: Boston Ruby Group - Project Night September 2024
   location: Boston, MA
   date: 2024-09-09
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://lu.ma/af2n3jwa
+
+- name: London Ruby User Group - September 2024 Meeting
+  location: London, UK
+  date: 2024-09-09
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/september
 
 - name: 'Austin.rb - Visualizing Problems: From Abstract to Concrete'
   location: Austin, TX
@@ -1558,7 +1617,7 @@
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) September
     2024'
-  location: Nairobi, Kenya
+  location: Online
   date: 2024-09-12
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
@@ -1919,7 +1978,7 @@
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) October
     2024'
-  location: Nairobi, Kenya
+  location: Online
   date: 2024-10-10
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
@@ -2250,7 +2309,7 @@
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) November
     2024'
-  location: Nairobi, Kenya
+  location: Online
   date: 2024-11-14
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
@@ -2525,7 +2584,7 @@
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) December
     2024'
-  location: Nairobi, Kenya
+  location: Online
   date: 2024-12-12
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
