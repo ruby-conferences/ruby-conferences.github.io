@@ -481,6 +481,8 @@
 - id: polishrubyusergroup
   name: Polish Ruby User Group
   service: meetupdotcom
+  remove:
+    - (PLRUG)
 
 - id: portland-ruby-brigade
   name: Portland Ruby Brigade
