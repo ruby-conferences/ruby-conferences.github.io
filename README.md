@@ -38,9 +38,8 @@ The list of events is driven by the conferences file in the `_data` directory - 
 
 **Conferences**
 
-The file to be changed is `_data/conferences.yml`. It is NOT order-dependent.
-Put your conference in the YAML file at the end.
-The page will sort the conferences by `start_date`.
+The file to be changed is `_data/conferences.yml`.
+This file is order-dependent. Put your conference in the YAML file sorted by it's `start_date`.
 
 Here is a list of the keys that can be used:
 
@@ -70,9 +69,10 @@ Extra keys for the past events:
 
 **Meetups**
 
-The file to be changed is `_data/meetups.yml`. It is NOT order-dependent.
-Put your meetup in the YAML file at the end.
-The page will sort the conferences by `date`.
+The file to be changed is `_data/meetups.yml`.
+This file is order-dependent. Put your meetup in the YAML file sorted by it's date.
+Otherwise, put the meetup at the end of the YAML file and run `rake sort_meetups`.
+Please make sure to preserve any comments in the YAML file.
 
 Here is a list of the keys that can be used:
 
