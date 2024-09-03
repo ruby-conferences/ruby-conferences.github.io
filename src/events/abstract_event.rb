@@ -35,13 +35,13 @@ class AbstractEvent
   end
 
   def event_title
-    title = event_name.gsub(group.name, "").squeeze(" ")
+    title = event_name
 
     Array(group.remove || "").each do |remove|
       title = title.gsub(remove, "")
     end
 
-    title = title.strip
+    title = title.gsub(group.name, "").squeeze(" ").strip
 
     duplicate_names = group.upcoming_events.map { |event| event.event_name }.tally.select { |key, value| value >= 2 }
 

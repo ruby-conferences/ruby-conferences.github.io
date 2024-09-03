@@ -44,7 +44,9 @@
 - id: atlantaruby
   name: Atlanta Ruby
   service: meetupdotcom
-  remove: "[VIRTUAL] "
+  remove:
+    - "[VIRTUAL] "
+    - "The Atlanta Ruby Meetup Group"
 
 - id: aucklandruby
   name: Auckland Ruby
@@ -166,6 +168,8 @@
 - id: cologne-rb
   name: Cologne.rb
   service: meetupdotcom
+  remove:
+    - "Ruby Usergroup: "
 
 - id: columbus-ruby-on-rails-mind-meld
   name: Columbus Ruby
@@ -253,8 +257,11 @@
   service: meetupdotcom
 
 - id: indyrb
-  name: Indy.rb
+  name: Indianapolis Ruby Brigade
   service: meetupdotcom
+  remove:
+    - "The Indianapolis Ruby Brigade"
+    - "Indy.rb"
 
 - id: israel-rb
   name: israel.rb
@@ -425,10 +432,12 @@
   service: meetupdotcom
 
 - id: ocruby
-  name: Orange County Ruby Users Group
+  name: Orange County Ruby
   service: meetupdotcom
   exclude: Rails Camp
-  remove: "(OCRuby)"
+  remove:
+    - "(OCRuby)"
+    - "Orange County Ruby Users Group"
 
 - id: odense-rb
   name: odense.rb
@@ -668,8 +677,10 @@
   service: meetupdotcom
 
 - id: ruby-on-rails-oceania-melbourne
-  name: Ruby and Rails Melbourne
+  name: Melbourne Ruby
   service: meetupdotcom
+  remove:
+    - "Melbourne Ruby"
 
 - id: ruby-on-rails-oceania-perth
   name: Ruby and Rails Perth
@@ -933,9 +944,11 @@
   service: meetupdotcom
 
 - id: the-bluegrass-developers-guild
-  name: Bluegrass Ruby Users Group
+  name: Bluegrass Ruby
   filter: Bluegrass Ruby
   service: meetupdotcom
+  remove:
+    - Bluegrass Ruby Users Group
 
 - id: the-seattle-ruby-on-rails-developers-meetup-group
   name: Seattle Ruby on Rails

@@ -261,7 +261,7 @@
   end_time: 21:00:00 EST
   url: https://radius.to/groups/toronto-ruby/events/vxmd8kyaxs3t
 
-- name: Bluegrass Ruby Users Group - March 2024
+- name: Bluegrass Ruby - March 2024
   location: Lexington, KY
   date: 2024-03-05
   start_time: 18:00:00 EST
@@ -457,7 +457,7 @@
   end_time: 22:00:00 UYT
   url: https://www.meetup.com/ruby-montevideo/events/299957596
 
-- name: Bluegrass Ruby Users Group - April 2024
+- name: Bluegrass Ruby - April 2024
   location: Lexington, KY
   date: 2024-04-02
   start_time: 18:00:00 EDT
@@ -751,7 +751,7 @@
   end_time: 21:00:00 PDT
   url: https://lu.ma/sfruby-may24
 
-- name: Bluegrass Ruby Users Group - May 2024
+- name: Bluegrass Ruby - May 2024
   location: Lexington, KY
   date: 2024-05-21
   start_time: 18:00:00 EDT
@@ -849,7 +849,7 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/bostonrb/events/300772513
 
-- name: Bluegrass Ruby Users Group - June 2024
+- name: Bluegrass Ruby - June 2024
   location: Lexington, KY
   date: 2024-06-04
   start_time: 18:00:00 EDT
@@ -1059,7 +1059,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/bostonrb/events/301084091
 
-- name: Bluegrass Ruby Users Group - July 2024
+- name: Bluegrass Ruby - July 2024
   location: Lexington, KY
   date: 2024-07-02
   start_time: 18:00:00 EDT
@@ -1270,7 +1270,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/bostonrb/events/301905492
 
-- name: Bluegrass Ruby Users Group - August 2024
+- name: Bluegrass Ruby - August 2024
   location: Lexington, KY
   date: 2024-08-06
   start_time: 18:00:00 EDT
@@ -1424,7 +1424,7 @@
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/302551912
 
-- name: Orange County Ruby Users Group - Meetup August 2024
+- name: Orange County Ruby - Meetup August 2024
   location: Dana Point, CA
   date: 2024-08-29
   start_time: 19:00:00 PDT
@@ -1453,14 +1453,14 @@
   url: https://www.meetup.com/punerubymeetup/events/302884102
   status: cancelled
 
-- name: Orange County Ruby Users Group - Ruby Science September 2024
+- name: Orange County Ruby - Ruby Science September 2024
   location: Online
   date: 2024-09-02
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/302809972
 
-- name: Bluegrass Ruby Users Group - September
+- name: Bluegrass Ruby - September
   location: Lexington, KY
   date: 2024-09-03
   start_time: 18:00:00 EDT
@@ -1608,7 +1608,7 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/vancouver-ruby/events/302810382
 
-- name: Atlanta Ruby - The Meetup Group Monthly Meetup September 2024
+- name: Atlanta Ruby - Monthly Meetup September 2024
   location: Online
   date: 2024-09-11
   start_time: 18:30:00 EDT
@@ -1629,7 +1629,7 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/copenhagen-ruby-brigade/events/302958358
 
-- name: Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup September 2024
+- name: Indianapolis Ruby Brigade - Monthly Meetup September 2024
   location: Indianapolis, IN
   date: 2024-09-11
   start_time: 19:00:00 EDT
@@ -1671,8 +1671,7 @@
   end_time: 23:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2024-914
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) September
-    2024'
+- name: 'African Ruby Community - Ruby Thursdays: To be determined September 2024'
   location: Online
   date: 2024-09-12
   start_time: 18:00:00 EAT
@@ -1693,7 +1692,7 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/miamirb/events/303077048
 
-- name: Orange County Ruby Users Group - Ruby Science September 2024
+- name: Orange County Ruby - Ruby Science September 2024
   location: Online
   date: 2024-09-16
   start_time: 10:00:00 PDT
@@ -1842,28 +1841,28 @@
   end_time: 10:00:00 CDT
   url: https://www.meetup.com/austinrb/events/302552064
 
-- name: Orange County Ruby Users Group - Meetup September 2024
-  location: Dana Point, CA
-  date: 2024-09-26
-  start_time: 19:00:00 PDT
-  end_time: 21:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/pbgwwqygcmbjc
-
-- name: Ruby and Rails Melbourne - Melbourne Ruby September 2024
+- name: Melbourne Ruby - September 2024
   location: Southbank, Australia
   date: 2024-09-26
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781285
 
-- name: Orange County Ruby Users Group - Ruby Science September 2024
+- name: Orange County Ruby - Meetup September 2024
+  location: Dana Point, CA
+  date: 2024-09-26
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqygcmbjc
+
+- name: Orange County Ruby - Ruby Science September 2024
   location: Online
   date: 2024-09-30
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltygcmbnc
 
-- name: Bluegrass Ruby Users Group - October 2024
+- name: Bluegrass Ruby - October 2024
   location: Lexington, KY
   date: 2024-10-01
   start_time: 18:00:00 EDT
@@ -1990,7 +1989,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/utah-ruby-users-group/events/302950248
 
-- name: Atlanta Ruby - The Meetup Group Monthly Meetup October 2024
+- name: Atlanta Ruby - Monthly Meetup October 2024
   location: Online
   date: 2024-10-09
   start_time: 18:30:00 EDT
@@ -2004,7 +2003,7 @@
   end_time: 20:30:00 MDT
   url: https://lu.ma/57vrruyr
 
-- name: Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup October 2024
+- name: Indianapolis Ruby Brigade - Monthly Meetup October 2024
   location: Indianapolis, IN
   date: 2024-10-09
   start_time: 19:00:00 EDT
@@ -2032,15 +2031,14 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcnbmb
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) October
-    2024'
+- name: 'African Ruby Community - Ruby Thursdays: To be determined October 2024'
   location: Online
   date: 2024-10-10
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/301578294
 
-- name: 'Cologne.rb - Ruby Usergroup: Oktober 2024 Meetup'
+- name: Cologne.rb - Oktober 2024 Meetup
   location: Köln, Germany
   date: 2024-10-10
   start_time: 19:00:00 CEST
@@ -2054,7 +2052,7 @@
   end_time: 21:00:00 PDT
   url: https://lu.ma/jfpfmh19
 
-- name: Orange County Ruby Users Group - Ruby Science October 2024
+- name: Orange County Ruby - Ruby Science October 2024
   location: Online
   date: 2024-10-14
   start_time: 10:00:00 PDT
@@ -2159,14 +2157,14 @@
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/302552273
 
-- name: Ruby and Rails Melbourne - Melbourne Ruby October 2024
+- name: Melbourne Ruby - October 2024
   location: Southbank, Australia
   date: 2024-10-24
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781289
 
-- name: Orange County Ruby Users Group - Ruby Science October 2024
+- name: Orange County Ruby - Ruby Science October 2024
   location: Online
   date: 2024-10-28
   start_time: 10:00:00 PDT
@@ -2187,7 +2185,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcnbnc
 
-- name: Orange County Ruby Users Group - Meetup October 2024
+- name: Orange County Ruby - Meetup October 2024
   location: Dana Point, CA
   date: 2024-10-31
   start_time: 19:00:00 PDT
@@ -2215,7 +2213,7 @@
   end_time: 20:00:00 EDT
   url: https://lu.ma/zs5he82r
 
-- name: Bluegrass Ruby Users Group - November 2024
+- name: Bluegrass Ruby - November 2024
   location: Lexington, KY
   date: 2024-11-05
   start_time: 18:00:00 EDT
@@ -2271,7 +2269,7 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/sdruby/events/hjmpmtygcpbkb
 
-- name: Orange County Ruby Users Group - Ruby Science November 2024
+- name: Orange County Ruby - Ruby Science November 2024
   location: Online
   date: 2024-11-11
   start_time: 10:00:00 PDT
@@ -2314,7 +2312,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/utah-ruby-users-group/events/302953305
 
-- name: Atlanta Ruby - The Meetup Group Monthly Meetup November 2024
+- name: Atlanta Ruby - Monthly Meetup November 2024
   location: Online
   date: 2024-11-13
   start_time: 18:30:00 EDT
@@ -2335,7 +2333,7 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/geneva-rb/events/303018670
 
-- name: Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup November 2024
+- name: Indianapolis Ruby Brigade - Monthly Meetup November 2024
   location: Indianapolis, IN
   date: 2024-11-13
   start_time: 19:00:00 EDT
@@ -2370,8 +2368,7 @@
   end_time: 21:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-915
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) November
-    2024'
+- name: 'African Ruby Community - Ruby Thursdays: To be determined November 2024'
   location: Online
   date: 2024-11-14
   start_time: 18:00:00 EAT
@@ -2448,7 +2445,7 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcpbcc
 
-- name: Orange County Ruby Users Group - Ruby Science November 2024
+- name: Orange County Ruby - Ruby Science November 2024
   location: Online
   date: 2024-11-25
   start_time: 10:00:00 PDT
@@ -2476,19 +2473,19 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/301751612
 
-- name: Orange County Ruby Users Group - Meetup November 2024
-  location: Dana Point, CA
-  date: 2024-11-28
-  start_time: 19:00:00 PDT
-  end_time: 21:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/pbgwwqygcpblc
-
-- name: Ruby and Rails Melbourne - Melbourne Ruby November 2024
+- name: Melbourne Ruby - November 2024
   location: Southbank, Australia
   date: 2024-11-28
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781304
+
+- name: Orange County Ruby - Meetup November 2024
+  location: Dana Point, CA
+  date: 2024-11-28
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqygcpblc
 
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
@@ -2504,7 +2501,7 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/301647150
 
-- name: Bluegrass Ruby Users Group - December 2024
+- name: Bluegrass Ruby - December 2024
   location: Lexington, KY
   date: 2024-12-03
   start_time: 18:00:00 EDT
@@ -2560,7 +2557,7 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/sdruby/events/hjmpmtygcqbhb
 
-- name: Orange County Ruby Users Group - Ruby Science December 2024
+- name: Orange County Ruby - Ruby Science December 2024
   location: Online
   date: 2024-12-09
   start_time: 10:00:00 PDT
@@ -2603,7 +2600,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/utah-ruby-users-group/events/302953317
 
-- name: Atlanta Ruby - The Meetup Group Monthly Meetup December 2024
+- name: Atlanta Ruby - Monthly Meetup December 2024
   location: Online
   date: 2024-12-11
   start_time: 18:30:00 EDT
@@ -2617,7 +2614,7 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/geneva-rb/events/303018673
 
-- name: Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup December 2024
+- name: Indianapolis Ruby Brigade - Monthly Meetup December 2024
   location: Indianapolis, IN
   date: 2024-12-11
   start_time: 19:00:00 EDT
@@ -2652,8 +2649,7 @@
   end_time: 21:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-chrismas-edition-dezember-2024-916
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) December
-    2024'
+- name: 'African Ruby Community - Ruby Thursdays: To be determined December 2024'
   location: Online
   date: 2024-12-12
   start_time: 18:00:00 EAT
@@ -2716,7 +2712,7 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcqbzb
 
-- name: Orange County Ruby Users Group - Ruby Science December 2024
+- name: Orange County Ruby - Ruby Science December 2024
   location: Online
   date: 2024-12-23
   start_time: 10:00:00 PDT
@@ -2737,7 +2733,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbhc
 
-- name: Orange County Ruby Users Group - Meetup December 2024
+- name: Orange County Ruby - Meetup December 2024
   location: Dana Point, CA
   date: 2024-12-26
   start_time: 19:00:00 PDT
