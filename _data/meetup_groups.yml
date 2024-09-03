@@ -11,7 +11,9 @@
 - id: african_ruby_community
   name: African Ruby Community
   service: meetupdotcom
-  remove: ARC
+  remove:
+    - "ARC"
+    - "(Zoom)"
 
 - id: aloharb
   name: aloha.rb
@@ -326,11 +328,11 @@
   name: London Learn Ruby
   service: meetupdotcom
 
-- id: london-ruby-user-group
-  name: London Ruby User Group
-  service: ical
-  ical_url: https://lrug.org/meeting-calendar
-  timezone: Europe/London
+# - id: london-ruby-user-group
+#   name: London Ruby User Group
+#   service: ical
+#   ical_url: https://lrug.org/meeting-calendar
+#   timezone: Europe/London
 
 - id: lyonrb
   name: Lyon.rb
@@ -861,6 +863,12 @@
   name: SD Ruby
   service: meetupdotcom
 
+# - id: seattle-rb
+#   name: Seattle.rb
+#   service: ical
+#   timezone: America/Los_Angeles
+#   ical_url: https://seattlerb.org/events.ics
+
 - id: seoul-ruby-meetup
   name: Seoul Ruby Meetup
   service: meetupdotcom
@@ -958,14 +966,14 @@
   service: meetupdotcom
 
 - id: torontoruby
-  name: Toronto Ruby Brigade
+  name: Toronto Ruby
   service: meetupdotcom
 
-- id: toronto-ruby
-  name: Toronto Ruby
-  service: ical
-  timezone: America/Toronto
-  ical_url: https://toronto-ruby.com/events/all.ics
+# - id: toronto-ruby
+#   name: Toronto Ruby
+#   service: ical
+#   timezone: America/Toronto
+#   ical_url: https://toronto-ruby.com/events/all.ics
 
 - id: toulouse-ruby-friends
   name: Toulouse.rb
