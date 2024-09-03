@@ -11,7 +11,9 @@
 - id: african_ruby_community
   name: African Ruby Community
   service: meetupdotcom
-  remove: ARC
+  remove:
+    - "ARC"
+    - "(Zoom)"
 
 - id: aloharb
   name: aloha.rb
@@ -20,6 +22,12 @@
 - id: amsterdam-rb
   name: Amsterdam.rb
   service: meetupdotcom
+
+- id: andalucia-rb
+  name: Andalucia.rb
+  service: ical
+  timezone: Europe/Madrid
+  ical_url: https://andalucia.onruby.eu/events.ics
 
 - id: arlington-ruby
   name: Arlington Ruby
@@ -36,7 +44,9 @@
 - id: atlantaruby
   name: Atlanta Ruby
   service: meetupdotcom
-  remove: "[VIRTUAL] "
+  remove:
+    - "[VIRTUAL] "
+    - "The Atlanta Ruby Meetup Group"
 
 - id: aucklandruby
   name: Auckland Ruby
@@ -158,6 +168,8 @@
 - id: cologne-rb
   name: Cologne.rb
   service: meetupdotcom
+  remove:
+    - "Ruby Usergroup: "
 
 - id: columbus-ruby-on-rails-mind-meld
   name: Columbus Ruby
@@ -245,8 +257,11 @@
   service: meetupdotcom
 
 - id: indyrb
-  name: Indy.rb
+  name: Indianapolis Ruby Brigade
   service: meetupdotcom
+  remove:
+    - "The Indianapolis Ruby Brigade"
+    - "Indy.rb"
 
 - id: israel-rb
   name: israel.rb
@@ -320,6 +335,12 @@
   name: London Learn Ruby
   service: meetupdotcom
 
+# - id: london-ruby-user-group
+#   name: London Ruby User Group
+#   service: ical
+#   ical_url: https://lrug.org/meeting-calendar
+#   timezone: Europe/London
+
 - id: lyonrb
   name: Lyon.rb
   service: meetupdotcom
@@ -329,6 +350,13 @@
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-LlD9HPh8QnHgqEQ
   timezone: America/Chicago
+
+- id: madrid-rb
+  name: Madrid.rb
+  service: ical
+  timezone: Europe/Madrid
+  default_location: Madrid, Spain
+  ical_url: https://www.madridrb.com/events.ics
 
 - id: medellin-rb
   name: Medellín.rb
@@ -404,10 +432,12 @@
   service: meetupdotcom
 
 - id: ocruby
-  name: Orange County Ruby Users Group
+  name: Orange County Ruby
   service: meetupdotcom
   exclude: Rails Camp
-  remove: "(OCRuby)"
+  remove:
+    - "(OCRuby)"
+    - "Orange County Ruby Users Group"
 
 - id: odense-rb
   name: odense.rb
@@ -647,8 +677,10 @@
   service: meetupdotcom
 
 - id: ruby-on-rails-oceania-melbourne
-  name: Ruby and Rails Melbourne
+  name: Melbourne Ruby
   service: meetupdotcom
+  remove:
+    - "Melbourne Ruby"
 
 - id: ruby-on-rails-oceania-perth
   name: Ruby and Rails Perth
@@ -683,8 +715,41 @@
   service: meetupdotcom
 
 - id: ruby-user-group-linz-rugl
-  name: Ruby User Group Linz (RUGL)
+  name: Ruby User Group Linz
   service: meetupdotcom
+
+- id: ruby-user-group-berlin
+  name: Ruby User Group Berlin
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Berlin, Germany
+  ical_url: https://www.rug-b.de/events.ics
+  remove:
+    - "(watch the date)"
+    - "Check the date!"
+    - "CANCELED"
+
+- id: ruby-usergroup-hamburg
+  name: Ruby Usergroup Hamburg
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Hamburg, Germany
+  ical_url: https://hamburg.onruby.de/events.ics
+
+- id: ruby-user-group-cologne
+  name: Ruby User Group Cologne
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Cologne, Germany
+  ical_url: https://www.colognerb.de/events.ics
+  remove: "Kölsch.rb"
+
+- id: ruby-user-group-leipzig
+  name: Ruby User Group Leipzig
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Leipzig, Germany
+  ical_url: https://leipzig.onruby.de/events.ics
 
 # - id: ruby-user-group-saarland
 #   name:
@@ -703,8 +768,14 @@
   service: meetupdotcom
 
 - id: rubydf
-  name: Ruby DF
+  name: RubyDF
   service: meetupdotcom
+
+- id: rubydf
+  name: RubyDF
+  timezone: America/Sao_Paulo
+  ical_url: https://rubydf.com/events.ics
+  service: ical
 
 - id: rubyfloripa
   name: RubyFloripa
@@ -803,6 +874,12 @@
   name: SD Ruby
   service: meetupdotcom
 
+# - id: seattle-rb
+#   name: Seattle.rb
+#   service: ical
+#   timezone: America/Los_Angeles
+#   ical_url: https://seattlerb.org/events.ics
+
 - id: seoul-ruby-meetup
   name: Seoul Ruby Meetup
   service: meetupdotcom
@@ -867,9 +944,11 @@
   service: meetupdotcom
 
 - id: the-bluegrass-developers-guild
-  name: Bluegrass Ruby Users Group
+  name: Bluegrass Ruby
   filter: Bluegrass Ruby
   service: meetupdotcom
+  remove:
+    - Bluegrass Ruby Users Group
 
 - id: the-seattle-ruby-on-rails-developers-meetup-group
   name: Seattle Ruby on Rails
@@ -900,8 +979,14 @@
   service: meetupdotcom
 
 - id: torontoruby
-  name: Toronto Ruby Brigade
+  name: Toronto Ruby
   service: meetupdotcom
+
+# - id: toronto-ruby
+#   name: Toronto Ruby
+#   service: ical
+#   timezone: America/Toronto
+#   ical_url: https://toronto-ruby.com/events/all.ics
 
 - id: toulouse-ruby-friends
   name: Toulouse.rb

@@ -6,6 +6,8 @@ class Meetup < FrozenRecord::Base
       Meetup.all.select { |meetup| meetup.url.include?(group.id) }
     elsif group.luma?
       Meetup.all.select { |meetup| meetup.name.include?(group.name) }
+    elsif group.ical?
+      Meetup.all.select { |meetup| meetup.name.include?(group.name) }
     else
       raise "Unsupported service: #{group.service}"
     end

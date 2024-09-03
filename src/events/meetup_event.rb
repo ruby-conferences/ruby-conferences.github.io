@@ -30,7 +30,7 @@ class MeetupEvent < AbstractEvent
 
     country = ISO3166::Country.new(country_raw)
 
-    if object.isOnline
+    if object.isOnline || event_name.include?("Virtual") || event_name.include?("Zoom")
       "Online"
     elsif country.alpha2 == "US"
       "#{city}, #{state.upcase}"

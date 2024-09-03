@@ -1,5 +1,12 @@
 ---
 
+- name: Toronto Ruby - Inaugural Edition
+  location: Toronto, Canada
+  date: 2023-11-23
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://toronto-ruby.com/events/1
+
 - name: Charlotte Ruby - Ruby Hack Night January 2024
   location: Online
   date: 2024-01-02
@@ -7,7 +14,7 @@
   end_time: 21:30:00 EST
   url: https://www.meetup.com/charlotte-rb/events/297725393
 
-- name: 'London Ruby User Group: January 2024 Meeting'
+- name: London Ruby User Group - January 2024 Meeting
   location: London, UK
   date: 2024-01-08
   start_time: 18:00:00 GMT
@@ -55,6 +62,21 @@
   start_time: 20:30:00 EST
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/297923423
+
+- name: Ruby Usergroup Hamburg - January 2024
+  location: Hamburg, Germany
+  date: 2024-01-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-january-2024-770
+
+- name: Ruby User Group Berlin - January Meetup 2024
+  location: Berlin, Germany
+  date: 2024-01-11
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.rug-b.de/events/canceled-january-meetup-2024-watch-the-date-canceled-768
+  status: cancelled
 
 - name: ChicagoRuby - Totally Solid Cache and Queue by Daniel Schadd
   location: Chicago, IL
@@ -127,6 +149,13 @@
   end_time: 20:30:00 PST
   url: https://www.meetup.com/sdruby/events/297372058
 
+- name: RubyDF - Fevereiro de 2024 - Segunda edição
+  location: Brasilia, Brazil
+  date: 2024-02-03
+  start_time: 10:00:00 -03
+  end_time: 12:00:00 -03
+  url: https://rubydf.com/events/segunda-edicao
+
 - name: ChicagoRuby - Jason Swett "How to Write Meaningful Tests"
   location: Chicago, IL
   date: 2024-02-05
@@ -162,7 +191,7 @@
   end_time: 20:00:00 GMT
   url: https://www.meetup.com/ruby-in-london/events/297633001
 
-- name: 'London Ruby User Group: February 2024 Meeting'
+- name: London Ruby User Group - February 2024 Meeting
   location: London, UK
   date: 2024-02-12
   start_time: 18:00:00 GMT
@@ -182,6 +211,13 @@
   start_time: 20:30:00 EST
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/298024752
+
+- name: Ruby Usergroup Hamburg - February 2024
+  location: Hamburg, Germany
+  date: 2024-02-14
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-february-2024-774
 
 - name: brooklyn.rb - rails new happy_hack_hour
   location: Brooklyn, NY
@@ -225,7 +261,7 @@
   end_time: 21:00:00 EST
   url: https://radius.to/groups/toronto-ruby/events/vxmd8kyaxs3t
 
-- name: Bluegrass Ruby Users Group - March 2024
+- name: Bluegrass Ruby - March 2024
   location: Lexington, KY
   date: 2024-03-05
   start_time: 18:00:00 EST
@@ -288,7 +324,7 @@
   end_time: 20:30:00 PST
   url: https://www.meetup.com/sdruby/events/297372059
 
-- name: 'London Ruby User Group: March 2024 Meeting'
+- name: London Ruby User Group - March 2024 Meeting
   location: London, UK
   date: 2024-03-11
   start_time: 18:00:00 GMT
@@ -344,6 +380,13 @@
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/298382203
 
+- name: Ruby Usergroup Hamburg - March 2024
+  location: Hamburg, Germany
+  date: 2024-03-13
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-march-2024-775
+
 - name: RubySur - March 2024 - Debugging
   location: Buenos Aires, Argentina / Online
   date: 2024-03-14
@@ -357,6 +400,13 @@
   start_time: 17:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/brooklyn-rb/events/299260716
+
+- name: Ruby User Group Cologne - März 2024
+  location: Cologne, Germany
+  date: 2024-03-20
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.colognerb.de/events/kolsch-rb-marz-2024-773
 
 - name: Polish Ruby User Group (PLRUG) - Meetup March 2024
   location: Warsaw, Poland
@@ -407,12 +457,12 @@
   end_time: 22:00:00 UYT
   url: https://www.meetup.com/ruby-montevideo/events/299957596
 
-- name: Bluegrass Ruby Users Group - April 2024
+- name: Bluegrass Ruby - April 2024
   location: Lexington, KY
   date: 2024-04-02
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/the-bluegrass-developers-guild/events/300021220/
+  url: https://www.meetup.com/the-bluegrass-developers-guild/events/300021220
 
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
@@ -449,7 +499,7 @@
   end_time: 20:30:00 PDT
   url: https://www.meetup.com/sdruby/events/297372060
 
-- name: 'London Ruby User Group: April 2024 Meeting'
+- name: London Ruby User Group - April 2024 Meeting
   location: London, UK
   date: 2024-04-08
   start_time: 18:00:00 BST
@@ -476,6 +526,20 @@
   start_time: 20:30:00 EDT
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/298382205
+
+- name: Ruby Usergroup Hamburg - April 2024
+  location: Hamburg, Germany
+  date: 2024-04-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-april-2024-777
+
+- name: Ruby User Group Berlin - Elixir Crossover Birthday Event
+  location: Berlin, Germany
+  date: 2024-04-11
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/elixir-crossover-birthday-event-check-the-date-772
 
 - name: brooklyn.rb - rails new happy_hack_hour
   location: Brooklyn, NY
@@ -596,12 +660,19 @@
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/299736979
 
+- name: Ruby Usergroup Hamburg - May 2024
+  location: Hamburg, Germany
+  date: 2024-05-08
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-may-2024-778
+
 - name: Philippine Ruby Users Group - 2024 Restart Startup launchkit edition
   location: Makati, Philippines & Online
   date: 2024-05-09
   start_time: 18:00:00 HKT
   end_time: 20:00:00 HKT
-  url: https://www.facebook.com/events/758719776072660/
+  url: https://www.facebook.com/events/758719776072660
 
 - name: Ruby Fusion - Meetup May 2024
   location: Online
@@ -631,7 +702,7 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/bostonrb/events/300022368
 
-- name: 'London Ruby User Group: May 2024 Meeting'
+- name: London Ruby User Group - May 2024 Meeting
   location: London, UK
   date: 2024-05-13
   start_time: 18:00:00 BST
@@ -680,7 +751,7 @@
   end_time: 21:00:00 PDT
   url: https://lu.ma/sfruby-may24
 
-- name: Bluegrass Ruby Users Group - May 2024
+- name: Bluegrass Ruby - May 2024
   location: Lexington, KY
   date: 2024-05-21
   start_time: 18:00:00 EDT
@@ -701,11 +772,11 @@
   end_time: 20:30:00 EDT
   url: https://lu.ma/cbeeanbk
 
-- name: Toronto Ruby - Spring edition!
+- name: Toronto Ruby - May Edition
   location: Toronto, Canada
   date: 2024-05-22
   start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  end_time: 20:00:00 EDT
   url: https://radius.to/groups/toronto-ruby/events/pkgvym5ecyuc
 
 - name: ChicagoRuby - Coffee + Code @ Swadesi Cafe
@@ -741,14 +812,14 @@
   date: 2024-05-29
   start_time: 18:00:00 BRT
   end_time: 22:00:00 BRT
-  url: http://frevoonrails.com.br/posts,/events/2024/05/10/encontro-de-maio-2024/
+  url: http://frevoonrails.com.br/posts,/events/2024/05/10/encontro-de-maio-2024
 
 - name: Helsinki Ruby Brigade - Summer kick-off
   location: Helsinki, Finland
   date: 2024-05-29
   start_time: 17:30:00 EEST
   end_time: 20:30:00 EEST
-  url: https://rubybrigade.fi/event/2024/summer-kick-off/
+  url: https://rubybrigade.fi/event/2024/summer-kick-off
 
 - name: Austin.rb - Ruby Social (Morning)
   location: Austin, TX
@@ -778,12 +849,12 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/bostonrb/events/300772513
 
-- name: Bluegrass Ruby Users Group - June 2024
+- name: Bluegrass Ruby - June 2024
   location: Lexington, KY
   date: 2024-06-04
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
+  url: https://bluegrassruby.club
 
 - name: Charlotte Ruby - Ruby Hack Night June 2024
   location: Online
@@ -848,7 +919,7 @@
   end_time: 20:30:00 PDT
   url: https://www.meetup.com/sdruby/events/297372063
 
-- name: 'London Ruby User Group: June 2024 Meeting'
+- name: London Ruby User Group - June 2024 Meeting
   location: London, UK
   date: 2024-06-10
   start_time: 18:00:00 BST
@@ -860,7 +931,7 @@
   date: 2024-06-11
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
-  url: https://www.meetup.com/austinrb/events/297610742/
+  url: https://www.meetup.com/austinrb/events/297610742
 
 - name: Boston Ruby Group - June 2024 meeting
   location: Boston, MA
@@ -932,6 +1003,13 @@
   end_time: 19:30:00 EDT
   url: https://lu.ma/p53lc1vp
 
+- name: Ruby User Group Cologne - Juni 2024 Meetup
+  location: Cologne, Germany
+  date: 2024-06-20
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.colognerb.de/events/juni-2024-meetup-779
+
 - name: Ruby::AZ - Vite Ruby for your Rails app's frontend assets
   location: Chandler, AZ
   date: 2024-06-20
@@ -943,7 +1021,7 @@
   location: Toronto, Canada
   date: 2024-06-20
   start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  end_time: 20:00:00 EDT
   url: https://radius.to/groups/toronto-ruby/events/s1tczn2usqf5
 
 - name: ChicagoRuby - Madison+ Ruby + Chicago @ Chime
@@ -965,7 +1043,7 @@
   date: 2024-06-27
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
-  url: https://www.meetup.com/austinrb/events/300256966/
+  url: https://www.meetup.com/austinrb/events/300256966
 
 - name: Philippine Ruby Users Group - Heading Hybrid
   location: Multi-location hydrid (Makati & Batangas City, Philippines)
@@ -981,7 +1059,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/bostonrb/events/301084091
 
-- name: Bluegrass Ruby Users Group - July 2024
+- name: Bluegrass Ruby - July 2024
   location: Lexington, KY
   date: 2024-07-02
   start_time: 18:00:00 EDT
@@ -1002,19 +1080,27 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437243
 
-- name: 'London Ruby User Group: July 2024 Meeting'
+- name: Ruby User Group Berlin - July 2024 outdoor social gathering
+  location: Berlin, Germany
+  date: 2024-07-04
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.rug-b.de/events/canceled-july-2024-outdoor-social-gathering-815
+  status: cancelled
+
+- name: London Ruby User Group - July 2024 Meeting
   location: London, UK
   date: 2024-07-08
   start_time: 18:00:00 BST
   end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/july/
+  url: https://lrug.org/meetings/2024/july
 
 - name: Austin.rb - Modern Authentication with WebAuthn
   location: Austin, TX
   date: 2024-07-09
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
-  url: https://www.meetup.com/austinrb/events/297610747/
+  url: https://www.meetup.com/austinrb/events/297610747
 
 - name: Boston Ruby Group - July 2024 meeting
   location: Boston, MA
@@ -1065,6 +1151,13 @@
   end_time: 19:00:00 EDT
   url: https://www.meetup.com/nyc-rb/events/301062985
 
+- name: Ruby Usergroup Hamburg - July 2024
+  location: Hamburg, Germany
+  date: 2024-07-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-july-2024-780
+
 - name: Ruby Fusion - Milestones
   location: Online
   date: 2024-07-11
@@ -1077,7 +1170,7 @@
   date: 2024-07-11
   start_time: 19:00:00 EEST
   end_time: 21:00:00 EEST
-  url: https://www.meetup.com/ruby-romania/events/302016838/
+  url: https://www.meetup.com/ruby-romania/events/302016838
 
 - name: Ruby Montevideo - Meetup July 2024
   location: Montevideo, Uruguay
@@ -1142,11 +1235,11 @@
   end_time: 10:00:00 CDT
   url: https://www.meetup.com/austinrb/events/300257002
 
-- name: Ruby DF - July
-  location: Brasília, Brazil
+- name: RubyDF - Julho de 2024 - Terceira edição
+  location: Brasilia, Brazil
   date: 2024-07-27
-  start_time: '09:30:00 BRT'
-  end_time: 12:00:00 BRT
+  start_time: '09:30:00 -03'
+  end_time: 11:30:00 -03
   url: https://rubydf.com/events/terceira-edicao
 
 - name: WNB.rb - July 2024
@@ -1161,7 +1254,7 @@
   date: 2024-07-31
   start_time: 18:00:00 HKT
   end_time: 20:00:00 HKT
-  url: https://www.meetup.com/ruby-phil/events/302437676/
+  url: https://www.meetup.com/ruby-phil/events/302437676
 
 - name: SD Ruby - Meetup August 2024
   location: San Diego, CA
@@ -1177,7 +1270,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/bostonrb/events/301905492
 
-- name: Bluegrass Ruby Users Group - August 2024
+- name: Bluegrass Ruby - August 2024
   location: Lexington, KY
   date: 2024-08-06
   start_time: 18:00:00 EDT
@@ -1198,19 +1291,19 @@
   end_time: 22:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/301437247
 
-- name: 'London Ruby User Group: August 2024 Meeting'
+- name: London Ruby User Group - August 2024 Meeting
   location: London, UK
   date: 2024-08-12
   start_time: 18:00:00 BST
   end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/august/
+  url: https://lrug.org/meetings/2024/august
 
 - name: Austin.rb - Ruby on AI "The magic Lego"
   location: Austin, TX
   date: 2024-08-13
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
-  url: https://www.meetup.com/austinrb/events/297610749/
+  url: https://www.meetup.com/austinrb/events/297610749
 
 - name: Boston Ruby Group - August 2024 meeting
   location: Boston, MA
@@ -1254,6 +1347,13 @@
   end_time: 20:30:00 MDT
   url: https://lu.ma/16ykggyu
 
+- name: Ruby Usergroup Hamburg - August 2024
+  location: Hamburg, Germany
+  date: 2024-08-14
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-august-2024-881
+
 - name: RubySur - August 2024 - Refactoring
   location: Buenos Aires, Argentina / Online
   date: 2024-08-14
@@ -1281,6 +1381,13 @@
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/302785548
+
+- name: Ruby User Group Cologne - August 2024 Meetup
+  location: Cologne, Germany
+  date: 2024-08-22
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.colognerb.de/events/august-2024-meetup-782
 
 - name: 'Bangkok.rb - Ruby Tuesday #56'
   location: เขตวัฒนา, Thailand
@@ -1317,7 +1424,7 @@
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/302551912
 
-- name: Orange County Ruby Users Group - Meetup August 2024
+- name: Orange County Ruby - Meetup August 2024
   location: Dana Point, CA
   date: 2024-08-29
   start_time: 19:00:00 PDT
@@ -1346,14 +1453,14 @@
   url: https://www.meetup.com/punerubymeetup/events/302884102
   status: cancelled
 
-- name: Orange County Ruby Users Group - Ruby Science September 2024
+- name: Orange County Ruby - Ruby Science September 2024
   location: Online
   date: 2024-09-02
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/302809972
 
-- name: Bluegrass Ruby Users Group - September
+- name: Bluegrass Ruby - September
   location: Lexington, KY
   date: 2024-09-03
   start_time: 18:00:00 EDT
@@ -1416,6 +1523,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/302844480
 
+- name: Ruby User Group Berlin - September Meetup 2024
+  location: Berlin, Germany
+  date: 2024-09-05
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/september-meetup-2024-848
+
 - name: SD Ruby - Monthly Meetup September 2024
   location: San Diego, CA
   date: 2024-09-05
@@ -1437,19 +1551,19 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/300548245
 
-- name: London Ruby User Group - September 2024 Meeting
-  location: London, UK
-  date: 2024-09-09
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/september/
-  
 - name: Boston Ruby Group - Project Night September 2024
   location: Boston, MA
   date: 2024-09-09
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://lu.ma/af2n3jwa
+
+- name: London Ruby User Group - September 2024 Meeting
+  location: London, UK
+  date: 2024-09-09
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/september
 
 - name: 'Austin.rb - Visualizing Problems: From Abstract to Concrete'
   location: Austin, TX
@@ -1494,7 +1608,7 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/vancouver-ruby/events/302810382
 
-- name: Atlanta Ruby - The Meetup Group Monthly Meetup September 2024
+- name: Atlanta Ruby - Monthly Meetup September 2024
   location: Online
   date: 2024-09-11
   start_time: 18:30:00 EDT
@@ -1515,7 +1629,7 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/copenhagen-ruby-brigade/events/302958358
 
-- name: Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup September 2024
+- name: Indianapolis Ruby Brigade - Monthly Meetup September 2024
   location: Indianapolis, IN
   date: 2024-09-11
   start_time: 19:00:00 EDT
@@ -1550,9 +1664,15 @@
   end_time: 22:00:00 -03
   url: https://www.meetup.com/ruby-montevideo/events/303136598
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) September
-    2024'
-  location: Nairobi, Kenya
+- name: Ruby Usergroup Hamburg - September 2024
+  location: Hamburg, Germany
+  date: 2024-09-11
+  start_time: 21:00:00 CEST
+  end_time: 23:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2024-914
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined September 2024'
+  location: Online
   date: 2024-09-12
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
@@ -1572,7 +1692,7 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/miamirb/events/303077048
 
-- name: Orange County Ruby Users Group - Ruby Science September 2024
+- name: Orange County Ruby - Ruby Science September 2024
   location: Online
   date: 2024-09-16
   start_time: 10:00:00 PDT
@@ -1721,33 +1841,33 @@
   end_time: 10:00:00 CDT
   url: https://www.meetup.com/austinrb/events/302552064
 
-- name: Orange County Ruby Users Group - Meetup September 2024
-  location: Dana Point, CA
-  date: 2024-09-26
-  start_time: 19:00:00 PDT
-  end_time: 21:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/pbgwwqygcmbjc
-
-- name: Ruby and Rails Melbourne - Melbourne Ruby September 2024
+- name: Melbourne Ruby - September 2024
   location: Southbank, Australia
   date: 2024-09-26
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781285
 
-- name: Orange County Ruby Users Group - Ruby Science September 2024
+- name: Orange County Ruby - Meetup September 2024
+  location: Dana Point, CA
+  date: 2024-09-26
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqygcmbjc
+
+- name: Orange County Ruby - Ruby Science September 2024
   location: Online
   date: 2024-09-30
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltygcmbnc
 
-- name: Bluegrass Ruby Users Group - October 2024
+- name: Bluegrass Ruby - October 2024
   location: Lexington, KY
   date: 2024-10-01
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
+  url: https://bluegrassruby.club
 
 - name: Brighton Ruby Group - We're Back From The Dead
   location: Brighton, UK
@@ -1869,7 +1989,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/utah-ruby-users-group/events/302950248
 
-- name: Atlanta Ruby - The Meetup Group Monthly Meetup October 2024
+- name: Atlanta Ruby - Monthly Meetup October 2024
   location: Online
   date: 2024-10-09
   start_time: 18:30:00 EDT
@@ -1883,7 +2003,7 @@
   end_time: 20:30:00 MDT
   url: https://lu.ma/57vrruyr
 
-- name: Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup October 2024
+- name: Indianapolis Ruby Brigade - Monthly Meetup October 2024
   location: Indianapolis, IN
   date: 2024-10-09
   start_time: 19:00:00 EDT
@@ -1911,15 +2031,14 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcnbmb
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) October
-    2024'
-  location: Nairobi, Kenya
+- name: 'African Ruby Community - Ruby Thursdays: To be determined October 2024'
+  location: Online
   date: 2024-10-10
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/301578294
 
-- name: 'Cologne.rb - Ruby Usergroup: Oktober 2024 Meetup'
+- name: Cologne.rb - Oktober 2024 Meetup
   location: Köln, Germany
   date: 2024-10-10
   start_time: 19:00:00 CEST
@@ -1933,7 +2052,7 @@
   end_time: 21:00:00 PDT
   url: https://lu.ma/jfpfmh19
 
-- name: Orange County Ruby Users Group - Ruby Science October 2024
+- name: Orange County Ruby - Ruby Science October 2024
   location: Online
   date: 2024-10-14
   start_time: 10:00:00 PDT
@@ -2038,14 +2157,14 @@
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/302552273
 
-- name: Ruby and Rails Melbourne - Melbourne Ruby October 2024
+- name: Melbourne Ruby - October 2024
   location: Southbank, Australia
   date: 2024-10-24
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781289
 
-- name: Orange County Ruby Users Group - Ruby Science October 2024
+- name: Orange County Ruby - Ruby Science October 2024
   location: Online
   date: 2024-10-28
   start_time: 10:00:00 PDT
@@ -2066,7 +2185,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcnbnc
 
-- name: Orange County Ruby Users Group - Meetup October 2024
+- name: Orange County Ruby - Meetup October 2024
   location: Dana Point, CA
   date: 2024-10-31
   start_time: 19:00:00 PDT
@@ -2094,12 +2213,12 @@
   end_time: 20:00:00 EDT
   url: https://lu.ma/zs5he82r
 
-- name: Bluegrass Ruby Users Group - November 2024
+- name: Bluegrass Ruby - November 2024
   location: Lexington, KY
   date: 2024-11-05
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
+  url: https://bluegrassruby.club
 
 - name: Charlotte Ruby - Ruby Hack Night November 2024
   location: Online
@@ -2150,7 +2269,7 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/sdruby/events/hjmpmtygcpbkb
 
-- name: Orange County Ruby Users Group - Ruby Science November 2024
+- name: Orange County Ruby - Ruby Science November 2024
   location: Online
   date: 2024-11-11
   start_time: 10:00:00 PDT
@@ -2193,7 +2312,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/utah-ruby-users-group/events/302953305
 
-- name: Atlanta Ruby - The Meetup Group Monthly Meetup November 2024
+- name: Atlanta Ruby - Monthly Meetup November 2024
   location: Online
   date: 2024-11-13
   start_time: 18:30:00 EDT
@@ -2214,7 +2333,7 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/geneva-rb/events/303018670
 
-- name: Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup November 2024
+- name: Indianapolis Ruby Brigade - Monthly Meetup November 2024
   location: Indianapolis, IN
   date: 2024-11-13
   start_time: 19:00:00 EDT
@@ -2242,9 +2361,15 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcpbrb
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) November
-    2024'
-  location: Nairobi, Kenya
+- name: Ruby Usergroup Hamburg - November 2024
+  location: Hamburg, Germany
+  date: 2024-11-13
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-915
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined November 2024'
+  location: Online
   date: 2024-11-14
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
@@ -2320,7 +2445,7 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcpbcc
 
-- name: Orange County Ruby Users Group - Ruby Science November 2024
+- name: Orange County Ruby - Ruby Science November 2024
   location: Online
   date: 2024-11-25
   start_time: 10:00:00 PDT
@@ -2348,19 +2473,19 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/301751612
 
-- name: Orange County Ruby Users Group - Meetup November 2024
-  location: Dana Point, CA
-  date: 2024-11-28
-  start_time: 19:00:00 PDT
-  end_time: 21:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/pbgwwqygcpblc
-
-- name: Ruby and Rails Melbourne - Melbourne Ruby November 2024
+- name: Melbourne Ruby - November 2024
   location: Southbank, Australia
   date: 2024-11-28
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781304
+
+- name: Orange County Ruby - Meetup November 2024
+  location: Dana Point, CA
+  date: 2024-11-28
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqygcpblc
 
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
@@ -2376,12 +2501,12 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/301647150
 
-- name: Bluegrass Ruby Users Group - December 2024
+- name: Bluegrass Ruby - December 2024
   location: Lexington, KY
   date: 2024-12-03
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club/
+  url: https://bluegrassruby.club
 
 - name: Charlotte Ruby - Ruby Hack Night December 2024
   location: Online
@@ -2432,7 +2557,7 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/sdruby/events/hjmpmtygcqbhb
 
-- name: Orange County Ruby Users Group - Ruby Science December 2024
+- name: Orange County Ruby - Ruby Science December 2024
   location: Online
   date: 2024-12-09
   start_time: 10:00:00 PDT
@@ -2475,7 +2600,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/utah-ruby-users-group/events/302953317
 
-- name: Atlanta Ruby - The Meetup Group Monthly Meetup December 2024
+- name: Atlanta Ruby - Monthly Meetup December 2024
   location: Online
   date: 2024-12-11
   start_time: 18:30:00 EDT
@@ -2489,7 +2614,7 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/geneva-rb/events/303018673
 
-- name: Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup December 2024
+- name: Indianapolis Ruby Brigade - Monthly Meetup December 2024
   location: Indianapolis, IN
   date: 2024-12-11
   start_time: 19:00:00 EDT
@@ -2517,9 +2642,15 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbpb
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom) December
-    2024'
-  location: Nairobi, Kenya
+- name: Ruby Usergroup Hamburg - Chrismas Edition - Dezember 2024
+  location: Hamburg, Germany
+  date: 2024-12-11
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-chrismas-edition-dezember-2024-916
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined December 2024'
+  location: Online
   date: 2024-12-12
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
@@ -2581,7 +2712,7 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcqbzb
 
-- name: Orange County Ruby Users Group - Ruby Science December 2024
+- name: Orange County Ruby - Ruby Science December 2024
   location: Online
   date: 2024-12-23
   start_time: 10:00:00 PDT
@@ -2602,7 +2733,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbhc
 
-- name: Orange County Ruby Users Group - Meetup December 2024
+- name: Orange County Ruby - Meetup December 2024
   location: Dana Point, CA
   date: 2024-12-26
   start_time: 19:00:00 PDT

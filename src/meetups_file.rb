@@ -52,7 +52,7 @@ class MeetupsFile
     end
 
     group.upcoming_events.map { |event| event.meetup_file_entry }.each do |event|
-      event_entry = find_by(url: event.url)
+      event_entry = find_by(service_id: event.service_id)
 
       if event_entry && event != event_entry
         @updated_events << event
@@ -175,6 +175,6 @@ class MeetupsFile
   end
 
   def write!
-    PATH.write(@events.sort_by { |event| [event.date, event.name] }.map(&:to_hash).to_yaml.gsub("- name:", "\n- name:"))
+    PATH.write(@events.uniq.sort_by { |event| [event.date, event.name] }.map(&:to_hash).to_yaml.gsub("- name:", "\n- name:"))
   end
 end
