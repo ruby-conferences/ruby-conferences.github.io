@@ -4,7 +4,8 @@ on:
   push:
     branches: ["main"]
   schedule:
-    - cron: "0 0 * * *" # Runs every day at 00:00 UTC time
+    - cron: "0 7 * * *" # Runs every day at 00:00 UTC time
+    
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
