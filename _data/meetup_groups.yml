@@ -986,11 +986,11 @@
   name: Toronto Ruby
   service: meetupdotcom
 
-# - id: toronto-ruby
-#   name: Toronto Ruby
-#   service: ical
-#   timezone: America/Toronto
-#   ical_url: https://toronto-ruby.com/events/all.ics
+- id: toronto-ruby
+  name: Toronto Ruby
+  service: ical
+  timezone: America/Toronto
+  ical_url: https://toronto-ruby.com/events/all.ics
 
 - id: toulouse-ruby-friends
   name: Toulouse.rb
