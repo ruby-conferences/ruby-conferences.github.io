@@ -898,6 +898,8 @@
   name: The San Francisco Ruby
   service: meetupdotcom
   exclude: Tech Leadership Tuesday Tea Time
+  remove:
+    - Code and Connect
 
 - id: sfruby
   name: SF Bay Area Ruby
