@@ -1667,8 +1667,8 @@
 - name: Ruby Usergroup Hamburg - September 2024
   location: Hamburg, Germany
   date: 2024-09-11
-  start_time: 21:00:00 CEST
-  end_time: 23:00:00 CEST
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2024-914
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined September 2024'
@@ -1742,6 +1742,13 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/geneva-rb/events/303018636
 
+- name: Portland Ruby Brigade - Cocktails + Code September 2024
+  location: Portland, OR
+  date: 2024-09-18
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/302855296
+
 - name: Rails Taiwan - 高雄 Rails Meetup September 2024
   location: Kaohsiung, Taiwan
   date: 2024-09-18
@@ -1769,13 +1776,6 @@
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/303197441
-
-- name: Portland Ruby Brigade - Cocktails + Code September 2024
-  location: Portland, OR
-  date: 2024-09-19
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/302855296
 
 - name: Ruby and Rails Adelaide - Ruby Burgers September 2024
   location: Adelaide, Australia
@@ -1832,7 +1832,7 @@
   date: 2024-09-24
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtygcmbgc
+  url: https://www.meetup.com/rubyjax/events/303245553
 
 - name: Rails Taiwan - 高雄 Rails Meetup September 2024
   location: Kaohsiung, Taiwan
@@ -1889,13 +1889,6 @@
   start_time: 19:00:00 EDT
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/301353970
-
-- name: Portland Ruby Brigade - Ruby Tuesday October 2024
-  location: Online
-  date: 2024-10-01
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/fnsqctygcnbcb
 
 - name: RubyJax - Open Hax October 2024
   location: Jacksonville, FL
@@ -1967,6 +1960,13 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/303140069
   status: cancelled
+
+- name: Paris.rb - Meetup October 2024
+  location: Paris, France
+  date: 2024-10-08
+  start_time: 19:15:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://www.meetup.com/paris_rb/events/303209426
 
 - name: Philly.rb - Pubnite October 2024
   location: Online
@@ -2080,6 +2080,13 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/geneva-rb/events/303018643
 
+- name: Portland Ruby Brigade - Cocktails + Code October 2024
+  location: Portland, OR
+  date: 2024-10-16
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntygcnbvb
+
 - name: Rails Taiwan - 高雄 Rails Meetup October 2024
   location: Kaohsiung, Taiwan
   date: 2024-10-16
@@ -2100,13 +2107,6 @@
   start_time: 19:30:00 NZST
   end_time: 22:30:00 NZST
   url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcnbwb
-
-- name: Portland Ruby Brigade - Cocktails + Code October 2024
-  location: Portland, OR
-  date: 2024-10-17
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcnbwb
 
 - name: Ruby and Rails Adelaide - Ruby Burgers October 2024
   location: Adelaide, Australia
@@ -2233,13 +2233,6 @@
   start_time: 19:00:00 EDT
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/301353973
-
-- name: Portland Ruby Brigade - Ruby Tuesday November 2024
-  location: Online
-  date: 2024-11-05
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/fnsqctygcpbhb
 
 - name: RubyJax - Open Hax November 2024
   location: Jacksonville, FL
@@ -2424,6 +2417,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcpbzb
 
+- name: Portland Ruby Brigade - Cocktails + Code November 2024
+  location: Portland, OR
+  date: 2024-11-20
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntygcpbbc
+
 - name: Rails Taiwan - 高雄 Rails Meetup November 2024
   location: Kaohsiung, Taiwan
   date: 2024-11-20
@@ -2444,13 +2444,6 @@
   start_time: 19:30:00 NZST
   end_time: 22:30:00 NZST
   url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcpbcc
-
-- name: Portland Ruby Brigade - Cocktails + Code November 2024
-  location: Portland, OR
-  date: 2024-11-21
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcpbcc
 
 - name: Orange County Ruby - Ruby Science November 2024
   location: Online
@@ -2521,13 +2514,6 @@
   start_time: 19:00:00 EDT
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/nqchktygcqbfb
-
-- name: Portland Ruby Brigade - Ruby Tuesday December 2024
-  location: Online
-  date: 2024-12-03
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/fnsqctygcqbfb
 
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
@@ -2614,7 +2600,8 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/tczcxrygcqbpb
 
-- name: Geneva.rb - TBD
+- name: Geneva.rb - More everyday performance rules for Ruby on Rails developers (Alexis
+    Bernard)
   location: Genève, Switzerland
   date: 2024-12-11
   start_time: 19:00:00 CEST
@@ -2691,6 +2678,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcqbwb
 
+- name: Portland Ruby Brigade - Cocktails + Code December 2024
+  location: Portland, OR
+  date: 2024-12-18
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntygcqbxb
+
 - name: Rails Taiwan - 高雄 Rails Meetup December 2024
   location: Kaohsiung, Taiwan
   date: 2024-12-18
@@ -2711,13 +2705,6 @@
   start_time: 19:30:00 NZST
   end_time: 22:30:00 NZST
   url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcqbzb
-
-- name: Portland Ruby Brigade - Cocktails + Code December 2024
-  location: Portland, OR
-  date: 2024-12-19
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcqbzb
 
 - name: Orange County Ruby - Ruby Science December 2024
   location: Online
