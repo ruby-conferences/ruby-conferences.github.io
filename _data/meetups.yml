@@ -1509,6 +1509,20 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/montrealrb/events/302320603
 
+- name: Prague.rb - First Wednesday Of The Month - Ruby September 2024
+   location: Prague, Czechia
+   date: 2024-09-04
+   start_time: 19:00:00 CEST
+   end_time: 19:00:00 CEST
+   url: https://www.meetup.com/praguerb/events/302851699
+
+ - name: Rails Taiwan - 高雄 Rails Meetup September 2024
+   location: Kaohsiung, Taiwan
+   date: 2024-09-04
+   start_time: 19:00:00 CST
+   end_time: 19:00:00 CST
+   url: https://www.meetup.com/rails-taiwan/events/302844480
+
 - name: Ruby User Group Berlin - September Meetup 2024
   location: Berlin, Germany
   date: 2024-09-05
