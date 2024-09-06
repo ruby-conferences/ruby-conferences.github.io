@@ -1671,13 +1671,6 @@
   end_time: 21:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2024-914
 
-- name: The San Francisco Ruby - Veterans and Friends Meet
-  location: San Francisco, CA
-  date: 2024-09-11
-  start_time: 17:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/sfruby/events/303245872
-
 - name: 'African Ruby Community - Ruby Thursdays: To be determined September 2024'
   location: Online
   date: 2024-09-12
@@ -1769,6 +1762,13 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/303122363
+
+- name: 'Christchurch Ruby Group - Monthly Meetup: How to Train your Manager September 2024'
+  location: Christchurch, New Zealand
+  date: 2024-09-19
+  start_time: 19:30:00 NZST
+  end_time: 22:30:00 NZST
+  url: https://christchurch.ruby.nz/events/2024/2024-09-19-meetup
 
 - name: 'Polish Ruby User Group - Warsaw meetup #September'
   location: Warszawa, Poland
@@ -2108,6 +2108,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcnbvb
 
+- name: 'Christchurch Ruby Group - Monthly Meetup: TBD October 2024'
+  location: Christchurch, New Zealand
+  date: 2024-10-17
+  start_time: 19:30:00 NZST
+  end_time: 22:30:00 NZST
+  url: https://christchurch.ruby.nz
+
 - name: Ruby and Rails Adelaide - Ruby Burgers October 2024
   location: Adelaide, Australia
   date: 2024-10-18
@@ -2438,6 +2445,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcpbbc
 
+- name: 'Christchurch Ruby Group - Monthly Meetup: TBD November 2024'
+  location: Christchurch, New Zealand
+  date: 2024-11-21
+  start_time: 19:30:00 NZST
+  end_time: 22:30:00 NZST
+  url: https://christchurch.ruby.nz
+
 - name: Orange County Ruby - Ruby Science November 2024
   location: Online
   date: 2024-11-25
@@ -2691,6 +2705,13 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcqbxb
+
+- name: 'Christchurch Ruby Group - Monthly Meetup: TBD December 2024'
+  location: Christchurch, New Zealand
+  date: 2024-12-19
+  start_time: 19:30:00 NZST
+  end_time: 22:30:00 NZST
+  url: https://christchurch.ruby.nz
 
 - name: Orange County Ruby - Ruby Science December 2024
   location: Online
