@@ -335,11 +335,11 @@
   name: London Learn Ruby
   service: meetupdotcom
 
-# - id: london-ruby-user-group
-#   name: London Ruby User Group
-#   service: ical
-#   ical_url: https://lrug.org/meeting-calendar
-#   timezone: Europe/London
+- id: london-ruby-user-group
+  name: London Ruby User Group
+  service: ical
+  ical_url: https://lrug.org/meetings.ics
+  timezone: Europe/London
 
 - id: lyonrb
   name: Lyon.rb
