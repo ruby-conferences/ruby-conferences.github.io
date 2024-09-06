@@ -1671,6 +1671,13 @@
   end_time: 21:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2024-914
 
+- name: The San Francisco Ruby - Veterans and Friends Meet
+  location: San Francisco, CA
+  date: 2024-09-11
+  start_time: 17:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/sfruby/events/303245872
+
 - name: 'African Ruby Community - Ruby Thursdays: To be determined September 2024'
   location: Online
   date: 2024-09-12
@@ -1763,19 +1770,19 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/303122363
 
-- name: 'Christchurch Ruby Group - Monthly Meetup: TBD September 2024'
-  location: Christchurch, New Zealand
-  date: 2024-09-19
-  start_time: 19:30:00 NZST
-  end_time: 22:30:00 NZST
-  url: https://www.meetup.com/christchurch-ruby-group/events/303133371
-
 - name: 'Polish Ruby User Group - Warsaw meetup #September'
   location: Warszawa, Poland
   date: 2024-09-19
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/303197441
+
+- name: 'RubyJax - From Theory to Practice: Building Comprehensive PL/SQL Test Suites'
+  location: Online
+  date: 2024-09-19
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/rubyjax/events/303264670
 
 - name: Ruby and Rails Adelaide - Ruby Burgers September 2024
   location: Adelaide, Australia
@@ -1839,7 +1846,7 @@
   date: 2024-09-25
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcmbhc
+  url: https://www.meetup.com/rails-taiwan/events/303253481
 
 - name: Austin.rb - Ruby Social - Morning
   location: Austin, TX
@@ -2101,13 +2108,6 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcnbvb
 
-- name: 'Christchurch Ruby Group - Monthly Meetup: TBD October 2024'
-  location: Christchurch, New Zealand
-  date: 2024-10-17
-  start_time: 19:30:00 NZST
-  end_time: 22:30:00 NZST
-  url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcnbwb
-
 - name: Ruby and Rails Adelaide - Ruby Burgers October 2024
   location: Adelaide, Australia
   date: 2024-10-18
@@ -2134,7 +2134,7 @@
   date: 2024-10-21
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/xwwkltygcnbcc
+  url: https://www.meetup.com/columbusrb/events/303256232
 
 - name: Miami Ruby Brigade - October 2024
   location: Coral Gables, FL
@@ -2401,7 +2401,7 @@
   date: 2024-11-18
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/xwwkltygcpbxb
+  url: https://www.meetup.com/columbusrb/events/303256250
 
 - name: Miami Ruby Brigade - November 2024
   location: Coral Gables, FL
@@ -2437,13 +2437,6 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcpbbc
-
-- name: 'Christchurch Ruby Group - Monthly Meetup: TBD November 2024'
-  location: Christchurch, New Zealand
-  date: 2024-11-21
-  start_time: 19:30:00 NZST
-  end_time: 22:30:00 NZST
-  url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcpbcc
 
 - name: Orange County Ruby - Ruby Science November 2024
   location: Online
@@ -2698,13 +2691,6 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcqbxb
-
-- name: 'Christchurch Ruby Group - Monthly Meetup: TBD December 2024'
-  location: Christchurch, New Zealand
-  date: 2024-12-19
-  start_time: 19:30:00 NZST
-  end_time: 22:30:00 NZST
-  url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcqbzb
 
 - name: Orange County Ruby - Ruby Science December 2024
   location: Online
