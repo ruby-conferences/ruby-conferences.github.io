@@ -157,9 +157,9 @@
   name: ChicagoRuby
   service: meetupdotcom
 
-- id: christchurch-ruby-group
-  name: Christchurch Ruby Group
-  service: meetupdotcom
+# - id: christchurch-ruby-group
+#   name: Christchurch Ruby Group
+#   service: meetupdotcom
 
 - id: clevelandruby
   name: Cleveland Ruby Brigade
@@ -897,8 +897,8 @@
 - id: sfruby
   name: The San Francisco Ruby
   service: meetupdotcom
-  exclude: Tech Leadership Tuesday Tea Time
-  remove:
+  exclude: 
+    - Tech Leadership Tuesday Tea Time
     - Code and Connect
 
 - id: sfruby

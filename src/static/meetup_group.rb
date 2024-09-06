@@ -18,7 +18,7 @@ class MeetupGroup < FrozenRecord::Base
     @upcoming_events ||= fetch_events.tap do |events|
       events.select! { |event| event.event_date.between?(Date.today - 1, Date.today + 120) }
       events.select! { |event| event.event_name.include?(filter) } if filter.present?
-      events.reject! { |event| event.event_name.include?(exclude) } if exclude.present?
+      events.reject! { |event| Array(exclude).any? { |e| event.event_name.include?(e) } } if exclude.present?
       events.sort_by { |event| [event.event_date, event.event_name] }
     end
   end
