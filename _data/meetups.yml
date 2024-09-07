@@ -1537,13 +1537,6 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/sdruby/events/302800203
 
-- name: Ruby and Rails Adelaide - Ruby Burgers September 2024
-  location: Adelaide, Australia
-  date: 2024-09-06
-  start_time: 18:00:00 ACST
-  end_time: 20:00:00 ACST
-  url: https://www.meetup.com/adelaiderb/events/dzcvqsygcmbjb
-
 - name: African Ruby Community - Kampala Chapter Mini workshop September 2024
   location: Online
   date: 2024-09-07
@@ -1557,13 +1550,6 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://lu.ma/af2n3jwa
-
-- name: London Ruby User Group - September 2024 Meeting
-  location: London, UK
-  date: 2024-09-09
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/september
 
 - name: 'Austin.rb - Visualizing Problems: From Abstract to Concrete'
   location: Austin, TX
@@ -1677,6 +1663,13 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/301578297
+
+- name: Ruby Buenos Aires - Ruby Meetup - Septiembre 2024 - Dual Booting
+  location: CABA, Argentina
+  date: 2024-09-12
+  start_time: 19:00:00 -03
+  end_time: 21:00:00 -03
+  url: https://www.meetup.com/rubyba/events/303276300
 
 - name: Columbus Ruby Brigade - Monthly Meetup September 2024
   location: Columbus, OH
