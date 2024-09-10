@@ -1558,13 +1558,6 @@
   end_time: 20:00:00 EDT
   url: https://lu.ma/af2n3jwa
 
-- name: London Ruby User Group - September 2024 Meeting
-  location: London, UK
-  date: 2024-09-09
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/september
-
 - name: 'Austin.rb - Visualizing Problems: From Abstract to Concrete'
   location: Austin, TX
   date: 2024-09-10
@@ -1601,7 +1594,7 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/utah-ruby-users-group/events/302948352
 
-- name: VanRuby - September meetup at Jane!
+- name: VanRuby - CI at Scale and Challenges with Rails Monolith
   location: North Vancouver, Canada
   date: 2024-09-10
   start_time: 19:00:00 PDT
@@ -1813,13 +1806,6 @@
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
   url: https://www.meetup.com/punerubymeetup/events/303153624
-
-- name: Ruby On Rails Belo Horizonte - 2º Encontro Trem on Rails
-  location: Belo Horizonte, Brazil
-  date: 2024-09-21
-  start_time: '09:00:00 -03'
-  end_time: 11:00:00 -03
-  url: https://www.meetup.com/ruby-on-rails-bh/events/302980660
 
 - name: 'Auckland Ruby - Ruby Night September: Hacknight - Write your AI battle ship
     - Take 2'
@@ -2074,6 +2060,13 @@
   start_time: 17:30:00 PDT
   end_time: 21:00:00 PDT
   url: https://lu.ma/jfpfmh19
+
+- name: London Ruby User Group - October 2024 Meeting
+  location: London, UK
+  date: 2024-10-14
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/october
 
 - name: Orange County Ruby - Ruby Science October 2024
   location: Online
@@ -2812,6 +2805,41 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhccbkb
+
+- name: Atlanta Ruby - Monthly Meetup January 2025
+  location: Online
+  date: 2025-01-08
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/atlantaruby/events/tczcxryhccblb
+
+- name: Indianapolis Ruby Brigade - Monthly Meetup January 2025
+  location: Indianapolis, IN
+  date: 2025-01-08
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/indyrb/events/pqvlhtyhccblb
+
+- name: NYC.rb - Event January 2025
+  location: Online
+  date: 2025-01-08
+  start_time: 17:30:00 EDT
+  end_time: 19:00:00 EDT
+  url: https://www.meetup.com/nyc-rb/events/hkbsltyhccblb
+
+- name: Paris Ruby Workshop - Workshop chez January 2025
+  location: Paris, France
+  date: 2025-01-08
+  start_time: 19:15:00 CEST
+  end_time: 21:15:00 CEST
+  url: https://www.meetup.com/paris-ruby-workshop/events/gtswgtyhccblb
+
+- name: Rails Taiwan - 高雄 Rails Meetup January 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-01-08
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhccblb
 
 - name: Philly.rb - Pubnite January 2025
   location: Online
