@@ -1836,7 +1836,7 @@
   end_time: 20:30:00 +07
   url: https://www.meetup.com/bangkok-rb/events/303075559
 
-- name: 'BelfastRuby - Ruby On Rails: TBD'
+- name: BelfastRuby - Ruby On Rails
   location: Belfast, UK
   date: 2024-09-24
   start_time: 19:00:00 BST
@@ -1878,6 +1878,13 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/303289879
 
+- name: Polish Ruby User Group - PRUG - September 2024
+  location: Poznań, Poland
+  date: 2024-09-26
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/303347188
+
 - name: "Nantes.rb - \U0001F680 C'est la rentrée pour les fans de Ruby ! \U0001F680"
   location: Nantes, France
   date: 2024-09-27
@@ -1918,7 +1925,14 @@
   date: 2024-10-01
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtygcnbcb
+  url: https://www.meetup.com/rubyjax/events/303379089
+
+- name: 'Barcelona.rb - meetup #October'
+  location: Barcelona, Spain
+  date: 2024-10-02
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/barcelona-rb/events/303366619
 
 - name: Montreal.rb - **Talk Title To be Determined** October 2024
   location: Montréal, Canada
@@ -2283,7 +2297,7 @@
   date: 2024-11-06
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/jwqgmtygcpbjb
+  url: https://www.meetup.com/montrealrb/events/nzkgntygcpbjb
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby November 2024
   location: Prague, Czechia
@@ -2564,7 +2578,7 @@
   date: 2024-12-04
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/jwqgmtygcqbgb
+  url: https://www.meetup.com/montrealrb/events/nzkgntygcqbgb
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby December 2024
   location: Prague, Czechia
@@ -2868,6 +2882,13 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhccbmb
+
+- name: Ruby and Rails Adelaide - Ruby Burgers January 2025
+  location: Adelaide, Australia
+  date: 2025-01-10
+  start_time: 18:00:00 ACST
+  end_time: 20:00:00 ACST
+  url: https://www.meetup.com/adelaiderb/events/dzcvqsyhccbnb
 
 - name: Philly.rb - Pubnite January 2025
   location: Online
