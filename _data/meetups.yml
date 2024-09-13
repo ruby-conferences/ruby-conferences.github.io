@@ -1934,7 +1934,7 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/barcelona-rb/events/303366619
 
-- name: Montreal.rb - **Talk Title To be Determined** October 2024
+- name: Montreal.rb - Scenic Database Views in Rails
   location: Montréal, Canada
   date: 2024-10-02
   start_time: 18:00:00 EDT
@@ -1946,14 +1946,14 @@
   date: 2024-10-02
   start_time: 19:00:00 CEST
   end_time: 19:00:00 CEST
-  url: https://www.meetup.com/praguerb/events/dkmktfygcnbdb
+  url: https://www.meetup.com/praguerb/events/303395693
 
 - name: Rails Taiwan - 高雄 Rails Meetup October 2024
   location: Kaohsiung, Taiwan
   date: 2024-10-02
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcnbdb
+  url: https://www.meetup.com/rails-taiwan/events/303388604
 
 - name: SD Ruby - Monthly Meetup October 2024
   location: San Diego, CA
@@ -2038,7 +2038,7 @@
   date: 2024-10-09
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
-  url: https://www.meetup.com/atlantaruby/events/tczcxrygcnbmb
+  url: https://www.meetup.com/atlantaruby/events/303393799
 
 - name: Boulder Ruby - October 2024 Presentation Night
   location: Boulder, CO
@@ -2889,6 +2889,13 @@
   start_time: 18:00:00 ACST
   end_time: 20:00:00 ACST
   url: https://www.meetup.com/adelaiderb/events/dzcvqsyhccbnb
+
+- name: African Ruby Community - Kampala Chapter Mini workshop January 2025
+  location: Online
+  date: 2025-01-11
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhccbpb
 
 - name: Philly.rb - Pubnite January 2025
   location: Online
