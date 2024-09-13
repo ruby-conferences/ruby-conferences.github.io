@@ -68,7 +68,7 @@
   date: 2024-01-10
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-january-2024-770
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-january-2024-770
 
 - name: Ruby User Group Berlin - January Meetup 2024
   location: Berlin, Germany
@@ -217,7 +217,7 @@
   date: 2024-02-14
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-february-2024-774
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-february-2024-774
 
 - name: brooklyn.rb - rails new happy_hack_hour
   location: Brooklyn, NY
@@ -385,7 +385,7 @@
   date: 2024-03-13
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-march-2024-775
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-march-2024-775
 
 - name: RubySur - March 2024 - Debugging
   location: Buenos Aires, Argentina / Online
@@ -532,7 +532,7 @@
   date: 2024-04-10
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-april-2024-777
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-april-2024-777
 
 - name: Ruby User Group Berlin - Elixir Crossover Birthday Event
   location: Berlin, Germany
@@ -665,7 +665,7 @@
   date: 2024-05-08
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-may-2024-778
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-may-2024-778
 
 - name: Philippine Ruby Users Group - 2024 Restart Startup launchkit edition
   location: Makati, Philippines & Online
@@ -1156,7 +1156,7 @@
   date: 2024-07-10
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-july-2024-780
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-july-2024-780
 
 - name: Ruby Fusion - Milestones
   location: Online
@@ -1352,7 +1352,7 @@
   date: 2024-08-14
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-august-2024-881
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-august-2024-881
 
 - name: RubySur - August 2024 - Refactoring
   location: Buenos Aires, Argentina / Online
@@ -1670,8 +1670,8 @@
   date: 2024-09-11
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-september-2024-914
-  
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2024-914
+
 - name: 'African Ruby Community - Ruby Thursdays: To be determined September 2024'
   location: Online
   date: 2024-09-12
@@ -2417,7 +2417,7 @@
   date: 2024-11-13
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-november-2024-915
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-915
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined November 2024'
   location: Online
@@ -2692,7 +2692,7 @@
   date: 2024-12-11
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
-  url: https://ruby.de/events/ruby-usergroup-hamburg-chrismas-edition-dezember-2024-916
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-chrismas-edition-dezember-2024-916
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined December 2024'
   location: Online
