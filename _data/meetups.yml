@@ -1843,6 +1843,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/belfastruby/events/303119630
 
+- name: Ruby Zagreb - RubyZG September meetup @ MaMa
+  location: Zagreb, Croatia
+  date: 2024-09-24
+  start_time: 18:00:00 CEST
+  end_time: 19:30:00 CEST
+  url: https://www.meetup.com/rubyzg/events/303416478
+
 - name: RubyJax - Open Hax September 2024
   location: Jacksonville, FL
   date: 2024-09-24
@@ -1934,8 +1941,8 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/barcelona-rb/events/303366619
 
-- name: Montreal.rb - Scenic Database Views in Rails
-  location: Montréal, Canada
+- name: Montreal.rb - Tame Complex Queries with Database Views
+  location: Montreal, Canada
   date: 2024-10-02
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
@@ -2096,19 +2103,19 @@
   end_time: 21:00:00 PDT
   url: https://lu.ma/jfpfmh19
 
-- name: London Ruby User Group - October 2024 Meeting
-  location: London, UK
-  date: 2024-10-14
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/october
-
 - name: Orange County Ruby - Ruby Science October 2024
   location: Online
   date: 2024-10-14
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltygcnbsb
+
+- name: 'STLRuby - Bring Your Ruby Tricks: A Fun Exploration of Ruby’s Quirks'
+  location: Saint Louis, MO
+  date: 2024-10-14
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://www.meetup.com/stlruby/events/303298491
 
 - name: Boston Ruby Group - October 2024 meeting
   location: Boston, MA
@@ -2293,11 +2300,11 @@
   url: https://www.meetup.com/rubyjax/events/llklbtygcpbhb
 
 - name: Montreal.rb - **Talk Title To be Determined** November 2024
-  location: Montréal, Canada
+  location: Montreal, Canada
   date: 2024-11-06
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/nzkgntygcpbjb
+  url: https://www.meetup.com/montrealrb/events/zxzgntygcpbjb
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby November 2024
   location: Prague, Czechia
@@ -2574,11 +2581,11 @@
   url: https://www.meetup.com/rubyjax/events/llklbtygcqbfb
 
 - name: Montreal.rb - **Talk Title To be Determined** December 2024
-  location: Montréal, Canada
+  location: Montreal, Canada
   date: 2024-12-04
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/nzkgntygcqbgb
+  url: https://www.meetup.com/montrealrb/events/zxzgntygcqbgb
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby December 2024
   location: Prague, Czechia
