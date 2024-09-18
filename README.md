@@ -39,7 +39,7 @@ The list of events is driven by the conferences file in the `_data` directory - 
 **Conferences**
 
 The file to be changed is `_data/conferences.yml`.
-This file is order-dependent. Put your conference in the YAML file sorted by it's `start_date`.
+This file is order-dependent. Put your conference in the YAML file sorted by its `start_date`.
 
 Here is a list of the keys that can be used:
 
@@ -60,8 +60,8 @@ Extra keys for the upcoming events:
 * `cfp_close_date`: If there is a CFP deadline, enter that here - ISO8601 formatted (yyyy-mm-dd).
 * `cfp_link`: A link to the CFP submission page.
 * `status`:  Typically you want to put "Cancelled", "Postponed" or "To be announced" here.
-* `date_precision`: Controls the precision of the `start_date` and `end_date` when the conference dates aren't announced just yet but it's confirmed that the conference is happening. Possible values: `full` (implicit default), `month` or `year`. The `start_date` and `end_date` fields still need to be fully formatted ISO8601 dates, you can put the last day of the month/year in it so it also gets ordered properly.
-* `announced_on`: The date on which the conference was announced - ISO8601 formatted (yyyy-mm-dd). This date is used as the publish date for the [RSS feed](https://rubyconferences.org/feed.xml) so people can stay up to date with newly announced conferences.
+* `date_precision`: Controls the precision of the `start_date` and `end_date` when the conference dates aren't announced just yet, but it's confirmed that the conference is happening. Possible values: `full` (implicit default), `month` or `year`. The `start_date` and `end_date` fields still need to be fully formatted ISO8601 dates, you can put the last day of the month/year in it so it also gets ordered properly.
+* `announced_on`: The date on which the conference was announced - ISO8601 formatted (yyyy-mm-dd). This date is used as the publishing date for the [RSS feed](https://rubyconferences.org/feed.xml) so people can stay up to date with newly announced conferences.
 
 Extra keys for the past events:
 
@@ -70,7 +70,7 @@ Extra keys for the past events:
 **Meetups**
 
 The file to be changed is `_data/meetups.yml`.
-This file is order-dependent. Put your meetup in the YAML file sorted by it's date.
+This file is order-dependent. Put your meetup in the YAML file sorted by its date.
 Otherwise, put the meetup at the end of the YAML file and run `rake sort_meetups`.
 Please make sure to preserve any comments in the YAML file.
 
