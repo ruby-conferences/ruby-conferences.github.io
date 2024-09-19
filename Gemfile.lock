@@ -44,7 +44,7 @@ GEM
     forwardable-extended (2.6.0)
     frozen_record (0.27.2)
       activemodel
-    google-protobuf (4.27.1)
+    google-protobuf (4.27.5)
       bigdecimal
       rake (>= 13)
     graphql (2.3.14)
