@@ -1780,13 +1780,6 @@
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz/events/2024/2024-09-19-meetup
 
-- name: 'Polish Ruby User Group - Warsaw meetup #September'
-  location: Warszawa, Poland
-  date: 2024-09-19
-  start_time: 18:00:00 CEST
-  end_time: 21:00:00 CEST
-  url: https://www.meetup.com/polishrubyusergroup/events/303197441
-
 - name: 'RubyJax - From Theory to Practice: Building Comprehensive PL/SQL Test Suites'
   location: Online
   date: 2024-09-19
@@ -1858,12 +1851,26 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/303245553
 
+- name: 'Saigon.rb - Ruby Tuesday #21'
+  location: Quận 1, Viet Nam
+  date: 2024-09-24
+  start_time: 19:00:00 +07
+  end_time: 20:30:00 +07
+  url: https://www.meetup.com/saigonrb/events/303479332
+
 - name: Rails Taiwan - 高雄 Rails Meetup September 2024
   location: Kaohsiung, Taiwan
   date: 2024-09-25
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303253481
+
+- name: Stockholm Ruby - Cozy Ruby Meetup at Hemnet
+  location: Stockholm, Sweden
+  date: 2024-09-25
+  start_time: 17:30:00 CEST
+  end_time: 19:30:00 CEST
+  url: https://www.meetup.com/sthlmrb/events/303483996
 
 - name: Austin.rb - Ruby Social - Morning
   location: Austin, TX
@@ -1943,10 +1950,10 @@
   url: https://www.meetup.com/barcelona-rb/events/303366619
 
 - name: Montreal.rb - Tame Complex Queries with Database Views
-  location: Montreal, Canada
+  location: Montréal, Canada
   date: 2024-10-02
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
   url: https://www.meetup.com/montrealrb/events/302430342
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby October 2024
@@ -2032,7 +2039,7 @@
   date: 2024-10-08
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtygcnblb
+  url: https://www.meetup.com/rubyjax/events/303515511
 
 - name: Utah Ruby Users Group - Agentic AI in Ruby
   location: Lehi, UT
@@ -2060,7 +2067,7 @@
   date: 2024-10-09
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/indyrb/events/pqvlhtygcnbmb
+  url: https://www.meetup.com/indyrb/events/303535514
 
 - name: NYC.rb - Event October 2024
   location: Online
@@ -2074,14 +2081,14 @@
   date: 2024-10-09
   start_time: 19:15:00 CEST
   end_time: 21:15:00 CEST
-  url: https://www.meetup.com/paris-ruby-workshop/events/gtswgtygcnbmb
+  url: https://www.meetup.com/paris-ruby-workshop/events/303530497
 
 - name: Rails Taiwan - 高雄 Rails Meetup October 2024
   location: Kaohsiung, Taiwan
   date: 2024-10-09
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcnbmb
+  url: https://www.meetup.com/rails-taiwan/events/303523489
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined October 2024'
   location: Online
@@ -2103,13 +2110,6 @@
   start_time: 17:30:00 PDT
   end_time: 21:00:00 PDT
   url: https://lu.ma/jfpfmh19
-
-- name: London Ruby User Group - October 2024 Meeting
-  location: London, UK
-  date: 2024-10-14
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/october
 
 - name: Orange County Ruby - Ruby Science October 2024
   location: Online
@@ -2139,6 +2139,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcnbtb
 
+- name: VanRuby - Klue
+  location: Vancouver, Canada
+  date: 2024-10-15
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/vancouver-ruby/events/303533573
+
 - name: Geneva.rb - Developer Tooling for the Modern Rails & Hotwire era (Marco Roth)
   location: Genève, Switzerland
   date: 2024-10-16
@@ -2151,7 +2158,7 @@
   date: 2024-10-16
   start_time: 18:00:00 PDT
   end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntygcnbvb
+  url: https://www.meetup.com/portland-ruby-brigade/events/303526402
 
 - name: Rails Taiwan - 高雄 Rails Meetup October 2024
   location: Kaohsiung, Taiwan
@@ -2215,6 +2222,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcnbdc
+
+- name: Toulouse.rb - Conf & Apéro - Octobre
+  location: Toulouse, France
+  date: 2024-10-22
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/toulouse-ruby-friends/events/303370450
 
 - name: Rails Taiwan - 高雄 Rails Meetup October 2024
   location: Kaohsiung, Taiwan
