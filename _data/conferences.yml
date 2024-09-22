@@ -2820,11 +2820,10 @@
   twitter: rubyworldconf
   announced_on: 2024-05-29
 
-- name: Tropical.rb 2025
+- name: Tropical on Rails 2025
   location: São Paulo, Brazil
   start_date: 2025-04-03
   end_date: 2025-04-04
-  date_precision: year
   url: https://www.tropicalrb.com/
   twitter: tropical_rb
   mastodon: https://ruby.social/@tropicalrb
