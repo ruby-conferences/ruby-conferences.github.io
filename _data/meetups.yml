@@ -1801,6 +1801,27 @@
   end_time: 20:00:00 ACST
   url: https://www.meetup.com/adelaiderb/events/dzcvqsygcmbbc
 
+- name: African Ruby Community - Kampala Chapter Mini workshop September 2024
+  location: Online
+  date: 2024-09-21
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/303170792
+
+- name: Bangalore Ruby Users Group - Bengaluru Ruby Users Meetup - September 2024
+  location: Bangalore, India
+  date: 2024-09-21
+  start_time: 10:00:00 IST
+  end_time: 12:00:00 IST
+  url: https://www.meetup.com/bangalore-ruby-users-group/events/303346229
+
+- name: Pune Ruby Users Group - September Meetup
+  location: Pune, India
+  date: 2024-09-21
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://www.meetup.com/punerubymeetup/events/303153624
+
 - name: 'Auckland Ruby - Ruby Night September: Hacknight - Write your AI battle ship
     - Take 2'
   location: Auckland, New Zealand
@@ -2110,6 +2131,13 @@
   start_time: 17:30:00 PDT
   end_time: 21:00:00 PDT
   url: https://lu.ma/jfpfmh19
+
+- name: London Ruby User Group - October 2024 Meeting
+  location: London, UK
+  date: 2024-10-14
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/october
 
 - name: Orange County Ruby - Ruby Science October 2024
   location: Online
