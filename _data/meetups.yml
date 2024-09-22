@@ -2995,3 +2995,17 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhccbtb
+
+- name: Miami Ruby Brigade - January 2025
+  location: Coral Gables, FL
+  date: 2025-01-20
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/pdvctsyhccbbc
+
+- name: Orange County Ruby - Ruby Science January 2025
+  location: Online
+  date: 2025-01-20
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhccbbc
