@@ -1851,6 +1851,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/belfastruby/events/303119630
 
+- name: Iowa City Ruby - [Ruby] Meet and Greet Lunch
+  location: Iowa City, IA
+  date: 2024-09-24
+  start_time: 11:30:00 CDT
+  end_time: 13:00:00 CDT
+  url: https://www.meetup.com/icruby/events/303588137
+
 - name: Ruby Zagreb - RubyZG September meetup @ MaMa
   location: Zagreb, Croatia
   date: 2024-09-24
@@ -2200,7 +2207,7 @@
   date: 2024-10-16
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcnbvb
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/303590621
 
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD October 2024'
   location: Christchurch, New Zealand
@@ -3009,3 +3016,10 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhccbbc
+
+- name: RubyJax - Open Hax January 2025
+  location: Jacksonville, FL
+  date: 2025-01-21
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhccbcc
