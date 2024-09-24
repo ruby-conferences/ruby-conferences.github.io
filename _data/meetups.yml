@@ -1822,7 +1822,8 @@
   end_time: 13:00:00 IST
   url: https://www.meetup.com/punerubymeetup/events/303153624
 
-- name: 'Auckland Ruby - Ruby Night September: Hacknight - Write your AI battle ship - Take 2'
+- name: 'Auckland Ruby - Ruby Night September: Hacknight - Write your AI battle ship
+    - Take 2'
   location: Auckland, New Zealand
   date: 2024-09-23
   start_time: 18:30:00 NZST
@@ -2221,6 +2222,13 @@
   start_time: 19:30:00 NZST
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz
+
+- name: 'Polish Ruby User Group - Ruby Warsaw Meetup AI Edition #October'
+  location: Warszawa, Poland
+  date: 2024-10-17
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/303621402
 
 - name: Ruby and Rails Adelaide - Ruby Burgers October 2024
   location: Adelaide, Australia
