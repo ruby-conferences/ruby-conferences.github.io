@@ -1822,21 +1822,6 @@
   end_time: 13:00:00 IST
   url: https://www.meetup.com/punerubymeetup/events/303153624
 
-- name: 'Auckland Ruby - Ruby Night September: Hacknight - Write your AI battle ship
-    - Take 2'
-  location: Auckland, New Zealand
-  date: 2024-09-23
-  start_time: 18:30:00 NZST
-  end_time: 21:30:00 NZST
-  url: https://www.meetup.com/aucklandruby/events/299606026
-
-- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #133 Wrzesień 2024'
-  location: Wrocław, Poland
-  date: 2024-09-23
-  start_time: 19:00:00 CEST
-  end_time: 21:00:00 CEST
-  url: https://www.meetup.com/drugpl/events/303543533
-
 - name: 'Bangkok.rb - Ruby Tuesday #57'
   location: เขตวัฒนา, Thailand
   date: 2024-09-24
@@ -2118,6 +2103,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303523489
 
+- name: Ruby Usergroup Hamburg - Oktober 2024
+  location: Hamburg, Germany
+  date: 2024-10-09
+  start_time: 21:00:00 CEST
+  end_time: 23:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-oktober-2024-915
+
 - name: 'African Ruby Community - Ruby Thursdays: To be determined October 2024'
   location: Online
   date: 2024-10-10
@@ -2138,13 +2130,6 @@
   start_time: 17:30:00 PDT
   end_time: 21:00:00 PDT
   url: https://lu.ma/jfpfmh19
-
-- name: London Ruby User Group - October 2024 Meeting
-  location: London, UK
-  date: 2024-10-14
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/october
 
 - name: Orange County Ruby - Ruby Science October 2024
   location: Online
@@ -2475,13 +2460,6 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcpbrb
-
-- name: Ruby Usergroup Hamburg - November 2024
-  location: Hamburg, Germany
-  date: 2024-11-13
-  start_time: 20:00:00 CEST
-  end_time: 22:00:00 CEST
-  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-915
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined November 2024'
   location: Online
@@ -3023,3 +3001,10 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhccbcc
+
+- name: Rails Taiwan - 高雄 Rails Meetup January 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-01-22
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhccbdc
