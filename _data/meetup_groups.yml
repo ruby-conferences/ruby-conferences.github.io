@@ -897,7 +897,7 @@
 - id: sfruby
   name: The San Francisco Ruby
   service: meetupdotcom
-  exclude: 
+  exclude:
     - Tech Leadership Tuesday Tea Time
     - Code and Connect
 
@@ -926,6 +926,12 @@
 - id: srugpl
   name: Silesian Ruby Users Group
   service: meetupdotcom
+
+- id: startups-on-rails
+  name: Startups on Rails
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Nby97Hu3ubMSLDU
+  timezone: America/New_York
 
 - id: sthlmrb
   name: Stockholm Ruby
