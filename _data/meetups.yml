@@ -1837,47 +1837,12 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/drugpl/events/303543533
 
-- name: 'Bangkok.rb - Ruby Tuesday #57'
-  location: เขตวัฒนา, Thailand
-  date: 2024-09-24
-  start_time: 18:30:00 +07
-  end_time: 20:30:00 +07
-  url: https://www.meetup.com/bangkok-rb/events/303075559
-
-- name: BelfastRuby - Ruby On Rails
-  location: Belfast, UK
-  date: 2024-09-24
-  start_time: 19:00:00 BST
-  end_time: 21:00:00 BST
-  url: https://www.meetup.com/belfastruby/events/303119630
-
-- name: Iowa City Ruby - [Ruby] Meet and Greet Lunch
-  location: Iowa City, IA
-  date: 2024-09-24
-  start_time: 11:30:00 CDT
-  end_time: 13:00:00 CDT
-  url: https://www.meetup.com/icruby/events/303588137
-
-- name: Ruby Zagreb - RubyZG September meetup @ MaMa
-  location: Zagreb, Croatia
-  date: 2024-09-24
-  start_time: 18:00:00 CEST
-  end_time: 19:30:00 CEST
-  url: https://www.meetup.com/rubyzg/events/303416478
-
 - name: RubyJax - Open Hax September 2024
   location: Jacksonville, FL
   date: 2024-09-24
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/303245553
-
-- name: 'Saigon.rb - Ruby Tuesday #21'
-  location: Quận 1, Viet Nam
-  date: 2024-09-24
-  start_time: 19:00:00 +07
-  end_time: 20:30:00 +07
-  url: https://www.meetup.com/saigonrb/events/303479332
 
 - name: Rails Taiwan - 高雄 Rails Meetup September 2024
   location: Kaohsiung, Taiwan
@@ -1921,13 +1886,6 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/303347188
 
-- name: Startups on Rails Social Event - Rails World Toronto
-  location: Toronto, Canada
-  date: 2024-09-26
-  start_time: 19:00:00 EDT
-  end_time: 23:00:00 EDT
-  url: https://lu.ma/rq2pgkxk
-
 - name: "Nantes.rb - \U0001F680 C'est la rentrée pour les fans de Ruby ! \U0001F680"
   location: Nantes, France
   date: 2024-09-27
@@ -1970,6 +1928,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/303379089
 
+- name: Singapore Ruby Group - RubySG September Meetup
+  location: Singapore, Singapore
+  date: 2024-10-01
+  start_time: 19:00:00 +08
+  end_time: 21:00:00 +08
+  url: https://www.meetup.com/singapore-ruby-group/events/303616940
+
 - name: 'Barcelona.rb - meetup #October'
   location: Barcelona, Spain
   date: 2024-10-02
@@ -1983,6 +1948,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/montrealrb/events/302430342
+
+- name: NYC.rb - Ruby Europe, and NYC on Rails join forces on Oct 2nd
+  location: New York, NY
+  date: 2024-10-02
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/nyc-rb/events/303614858
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby October 2024
   location: Prague, Czechia
@@ -2153,19 +2125,12 @@
   end_time: 21:00:00 PDT
   url: https://lu.ma/jfpfmh19
 
-- name: London Ruby User Group - October 2024 Meeting
-  location: London, UK
-  date: 2024-10-14
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2024/october
-
 - name: Orange County Ruby - Ruby Science October 2024
   location: Online
   date: 2024-10-14
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltygcnbsb
+  url: https://www.meetup.com/ocruby/events/303624231
 
 - name: 'STLRuby - Bring Your Ruby Tricks: A Fun Exploration of Ruby’s Quirks'
   location: Saint Louis, MO
@@ -2215,6 +2180,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcnbvb
+
+- name: Rzeszow Ruby User Group - RRUG#40 Sidekiq. Git internals.
+  location: Rzeszów, Poland
+  date: 2024-10-16
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/rzeszow-ruby-user-group/events/303625550
 
 - name: West Midlands Ruby User Group - Monthly Meetup October 2024
   location: Online
@@ -2496,13 +2468,6 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcpbrb
-
-- name: Ruby Usergroup Hamburg - November 2024
-  location: Hamburg, Germany
-  date: 2024-11-13
-  start_time: 20:00:00 CEST
-  end_time: 22:00:00 CEST
-  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-915
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined November 2024'
   location: Online
