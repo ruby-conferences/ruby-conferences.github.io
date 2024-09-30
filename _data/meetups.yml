@@ -3051,3 +3051,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhccbdc
+
+- name: Philippine Ruby Users Group - Eyes on the prize
+  location: Narra Labs Quezon City, Philippines
+  date: 2024-10-03
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/303699566
