@@ -29,20 +29,20 @@ jobs:
       - name: Set up the formatted date, branch name and PR title
         run: |
           echo "FORMATTED_DATE=$(date +'%B %d, %Y')" >> $GITHUB_ENV
-          echo "BRANCH_TO_MERGE=new-meetups-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "BRANCH_TO_MERGE=meetups-update-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
           echo "PULL_REQUEST_TITLE=$(cat ./pull_request_title.txt)" >> $GITHUB_ENV
 
       - name: Check if there are any new meetups
         run: |
           if [[ -n $(git diff --name-only _data/meetups.yml) ]]; then
-            echo "NEW_MEETUPS=true" >> $GITHUB_ENV
+            echo "MEETUPS_CHANGED=true" >> $GITHUB_ENV
           else
-            echo "NEW_MEETUPS=false" >> $GITHUB_ENV
+            echo "MEETUPS_CHANGED=false" >> $GITHUB_ENV
           fi
 
       - name: Commit New Meetups
         uses: stefanzweifel/git-auto-commit-action@v5
-        if: ${{ env.NEW_MEETUPS == 'true' }}
+        if: ${{ env.MEETUPS_CHANGED == 'true' }}
         with:
           # Optional. Commit message for the created commit.
           # Defaults to "Apply automatic changes"
@@ -106,7 +106,7 @@ jobs:
           create_branch: true
 
       - name: Create Pull Request
-        if: ${{ env.NEW_MEETUPS == 'true' }}
-        run: gh pr create -B main -H ${{ env.BRANCH_TO_MERGE }} --title "${{ env.PULL_REQUEST_TITLE }}" --body-file "./new_meetups.md"
+        if: ${{ env.MEETUPS_CHANGED == 'true' }}
+        run: gh pr create -B ${{ github.head_ref || github.ref_name }} -H ${{ env.BRANCH_TO_MERGE }} --title "${{ env.PULL_REQUEST_TITLE }}" --body-file "./pull_request_body.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -5,6 +5,10 @@ layout: default
   <dl>
     {% assign now = "now" | date: "%Y-%m-%d 00:00:00" | date: "%s" | plus: 0 %}
     {% assign meetups = site.data.meetups | sort: "date" %}
+    {% assign item_name = "meetup" %}
+
+    {% include filters.html %}
+
     {% for meetup in meetups %}
       {% assign date = meetup.date | date: "%s" | plus: 0 %}
       {% if date >= now %}

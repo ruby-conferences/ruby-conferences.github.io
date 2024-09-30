@@ -1,5 +1,5 @@
 _site
 .jekyll-metadata
 bin/
-new_meetups.md
 pull_request_title.txt
+pull_request_body.md

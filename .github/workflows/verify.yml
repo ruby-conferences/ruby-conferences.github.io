@@ -17,3 +17,6 @@ jobs:
 
       - name: Verify Meetups Data
         run: bundle exec rake verify_meetups
+
+      - name: Verify Website build
+        run: bundle exec jekyll build

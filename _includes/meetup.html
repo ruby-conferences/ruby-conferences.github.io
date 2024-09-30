@@ -1,17 +1,20 @@
-<dt>
-  {% if meetup.url %}
-    <a href="{{ meetup.url }}">{{ meetup.name }}</a>
-  {% else %}
-    <a>{{ meetup.name }}</a>
-  {% endif %}
-</dt>
-
-<dd>
-  <ul>
-    <li>{{ meetup.date | date: "%B %-d, %Y" }}</li>
-    <li>{{ meetup.location }}</li>
+<div class="list-item {{ meetup.date | date: '%Y%m' }} {% continent %}{{ meetup.location | split: ', ' | last }}{% endcontinent %}">
+  <dt>
     {% if meetup.url %}
-      <li><a href="{{ meetup.url }}">Website</a></li>
+      <a href="{{ meetup.url }}">{{ meetup.name }}</a>
+    {% else %}
+      <a>{{ meetup.name }}</a>
     {% endif %}
-  </ul>
-</dd>
+
+    {% if meetup.status %}
+      <div class="status" data-phrase="{{ meetup.status }}"></div>
+    {% endif %}
+  </dt>
+
+  <dd>
+    <ul>
+      <li>{{ meetup.date | date: "%B %-d, %Y" }}</li>
+      <li>{{ meetup.location }}</li>
+    </ul>
+  </dd>
+</div>
