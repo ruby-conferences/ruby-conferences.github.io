@@ -2026,6 +2026,12 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303388604
 
+- name: Philippine Ruby Users Group - Eyes on the prize
+  location: Quezon City, Philippines
+  date: 2024-10-03
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+
 - name: SD Ruby - Monthly Meetup October 2024
   location: San Diego, CA
   date: 2024-10-03
