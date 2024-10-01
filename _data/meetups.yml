@@ -1893,12 +1893,40 @@
   end_time: 19:30:00 CEST
   url: https://www.meetup.com/sthlmrb/events/303483996
 
+- name: Austin.rb - Ruby Social - Morning
+  location: Austin, TX
+  date: 2024-09-26
+  start_time: '08:00:00 CDT'
+  end_time: 10:00:00 CDT
+  url: https://www.meetup.com/austinrb/events/302552064
+
+- name: Melbourne Ruby - September 2024
+  location: Southbank, Australia
+  date: 2024-09-26
+  start_time: 18:00:00 AEST
+  end_time: 21:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781285
+
 - name: Orange County Ruby - Meetup September 2024
   location: Dana Point, CA
   date: 2024-09-26
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/303289879
+
+- name: Polish Ruby User Group - PRUG - September 2024
+  location: Poznań, Poland
+  date: 2024-09-26
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/303347188
+
+- name: Startups on Rails Social Event - Rails World Toronto
+  location: Toronto, Canada
+  date: 2024-09-26
+  start_time: 19:00:00 EDT
+  end_time: 23:00:00 EDT
+  url: https://lu.ma/rq2pgkxk
 
 - name: "Nantes.rb - \U0001F680 C'est la rentrée pour les fans de Ruby ! \U0001F680"
   location: Nantes, France
@@ -2159,6 +2187,13 @@
   start_time: 13:00:00 CDT
   end_time: 15:00:00 CDT
   url: https://www.meetup.com/stlruby/events/303298491
+
+- name: London Ruby User Group - October 2024 Meeting
+  location: London, UK
+  date: 2024-10-14
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2024/october
 
 - name: Orange County Ruby - Ruby Science October 2024
   location: Online
@@ -2503,6 +2538,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcpbrb
+
+- name: Ruby Usergroup Hamburg - November 2024
+  location: Hamburg, Germany
+  date: 2024-11-13
+  start_time: 20:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-915
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined November 2024'
   location: Online
