@@ -2055,6 +2055,13 @@
   end_time: 22:00:00 CEST
   url: https://www.meetup.com/paris_rb/events/303209426
 
+- name: Ruby Banitsa - Authentication Scheming with Hristo Vladev
+  location: Sofia, Bulgaria
+  date: 2024-10-08
+  start_time: 19:00:00 EEST
+  end_time: 21:00:00 EEST
+  url: https://rubybanitsa.com/events/99
+
 - name: Philly.rb - Pubnite October 2024
   location: Online
   date: 2024-10-08
