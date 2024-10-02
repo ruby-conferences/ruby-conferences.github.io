@@ -12,6 +12,8 @@ class DataFileValidator
   end
 
   def validate
+    requires_announced_on_after = Date.parse("2024-08-01")
+
     events.each do |event|
       missing_keys = required_keys - event.keys
       unless missing_keys.empty?
@@ -25,6 +27,12 @@ class DataFileValidator
         puts "Bonus keys: #{bonus_keys}"
         puts event
         @bonus_keys_error = true
+      end
+
+      if @type == :conference && event["start_date"].after?(requires_announced_on_after) && !event.key?("announced_on")
+        @missing_announced_on_date_error = true
+
+        puts "Conference '#{event["name"]}' doesn't have an 'announced_on' key."
       end
     end
 
@@ -50,6 +58,10 @@ class DataFileValidator
 
   def duplicate_events?
     @duplicate_events_error
+  end
+
+  def missing_announced_on_date?
+    @missing_announced_on_date_error
   end
 
   private
