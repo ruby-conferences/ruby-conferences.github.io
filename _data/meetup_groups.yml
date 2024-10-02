@@ -984,6 +984,14 @@
   name: Tokyo Rails
   service: meetupdotcom
 
+- id: toronto-ruby-on-rails-group
+  name: Toronto Ruby on Rails
+  service: meetupdotcom
+
+- id: torontoruby
+  name: Toronto Ruby
+  service: meetupdotcom
+
 - id: toronto-ruby
   name: Toronto Ruby
   service: ical
