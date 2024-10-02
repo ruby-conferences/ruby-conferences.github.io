@@ -48,6 +48,7 @@ task :verify_conferences do
   events = validator.events
   dates = events.map { |event| event["start_date"] }
   exit 5 unless dates.sort == dates
+  exit 6 if validator.missing_announced_on_date?
 end
 
 task :verify_meetups do
