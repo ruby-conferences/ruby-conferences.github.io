@@ -106,6 +106,8 @@
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-O0xLKEqq4Q8vc8f
   timezone: America/New_York
+  remove:
+    - BostonRB
 
 # - id: boulder-denver-railsbridge
 #   name:
