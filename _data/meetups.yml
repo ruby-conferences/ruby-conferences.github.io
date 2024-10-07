@@ -2054,13 +2054,6 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/303442712
 
-- name: 'Ruby Nepal - Ruby and Rails Nepal meetup - Episode #28'
-  location: Kathmandu, Nepal
-  date: 2024-10-05
-  start_time: 12:30:00 +0545
-  end_time: 15:00:00 +0545
-  url: https://www.meetup.com/nepal-ruby-users-group/events/303542484
-
 - name: Boston Ruby Group - Project Night October 2024
   location: Boston, MA
   date: 2024-10-07
