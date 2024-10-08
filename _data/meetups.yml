@@ -2307,12 +2307,12 @@
   end_time: 21:00:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781289
 
-- name: Toronto Ruby - October 2024
+- name: Toronto Ruby - October 2024 Edition
   location: Toronto, Canada
   date: 2024-10-24
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://toronto-ruby.com
+  url: https://toronto-ruby.com/events/october-2024-edition
   
 - name: Orange County Ruby - Ruby Science October 2024
   location: Online
