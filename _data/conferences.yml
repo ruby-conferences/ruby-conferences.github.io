@@ -2820,6 +2820,14 @@
   twitter: rubyworldconf
   announced_on: 2024-05-29
 
+- name: Ruby Banitsa Conf 2024
+  location: Sofia, Bulgaria
+  start_date: 2024-12-07
+  end_date: 2024-12-07
+  url: https://conf.rubybanitsa.com
+  twitter: rubybanitsa
+  announced_on: 2024-10-10
+
 - name: Tropical on Rails 2025
   location: São Paulo, Brazil
   start_date: 2025-04-03
