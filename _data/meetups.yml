@@ -2286,6 +2286,13 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/303621402
 
+- name: RubyJax - Lightning Talks
+  location: Jacksonville Beach, FL
+  date: 2024-10-17
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/rubyjax/events/303705839
+
 - name: 'ada.rb - Live: O que rolou na Rails World 2024?'
   location: Online
   date: 2024-10-17
@@ -2349,6 +2356,13 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/toulouse-ruby-friends/events/303370450
 
+- name: 'Upstate Ruby - Rails World 2024: Greenville Edition'
+  location: Greenville, SC
+  date: 2024-10-22
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/upstate-ruby/events/303984045
+
 - name: Rails Taiwan - 高雄 Rails Meetup October 2024
   location: Kaohsiung, Taiwan
   date: 2024-10-23
@@ -2370,12 +2384,19 @@
   end_time: 21:00:00 AEDT
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781289
 
+- name: Ruby Zagreb - RubyZG October meetup @ Kodius
+  location: Zagreb, Croatia
+  date: 2024-10-24
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/rubyzg/events/303954490
+
 - name: Toronto Ruby - October 2024 Edition
   location: Toronto, Canada
   date: 2024-10-24
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
-  url: https://toronto-ruby.com/events/october-2024-edition
+  start_time: 22:00:00 EDT
+  end_time: 01:00:00 EDT
+  url: https://lu.ma/tjqs6iky
 
 - name: Nantes.rb - Ruby talk
   location: Nantes, France
@@ -2403,7 +2424,7 @@
   date: 2024-10-29
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtygcnbmc
+  url: https://www.meetup.com/rubyjax/events/303930500
 
 - name: Rails Taiwan - 高雄 Rails Meetup October 2024
   location: Kaohsiung, Taiwan
@@ -2411,6 +2432,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303937943
+
+- name: Winnipeg Ruby User Group - How to Keep Rails App Development Fast
+  location: Winnipeg, Canada
+  date: 2024-10-30
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://www.meetup.com/winnipegrb/events/303877241
 
 - name: Orange County Ruby - Meetup October 2024
   location: Dana Point, CA
@@ -3233,6 +3261,13 @@
   start_time: 19:00:00 EDT
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/nqchktyhcdbgb
+
+- name: RubyJax - Open Hax February 2025
+  location: Jacksonville, FL
+  date: 2025-02-04
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcdbgb
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby February 2025
   location: Prague, Czechia
