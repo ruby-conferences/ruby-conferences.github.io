@@ -2595,13 +2595,6 @@
   end_time: 21:15:00 CEST
   url: https://www.meetup.com/paris-ruby-workshop/events/gtswgtygcpbrb
 
-- name: Paris Ruby Workshop - Workshop chez vous (en ligne)
-  location: Online
-  date: 2024-11-13
-  start_time: 19:00:00 CEST
-  end_time: 21:00:00 CEST
-  url: https://www.meetup.com/paris-ruby-workshop/events/303920169
-
 - name: Rails Taiwan - 高雄 Rails Meetup November 2024
   location: Kaohsiung, Taiwan
   date: 2024-11-13

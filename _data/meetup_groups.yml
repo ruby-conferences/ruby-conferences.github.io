@@ -740,13 +740,13 @@
   default_location: Hamburg, Germany
   ical_url: https://hamburg.onruby.de/events.ics
 
-- id: ruby-user-group-cologne
-  name: Ruby User Group Cologne
-  service: ical
-  timezone: Europe/Berlin
-  default_location: Cologne, Germany
-  ical_url: https://www.colognerb.de/events.ics
-  remove: "Kölsch.rb"
+# - id: ruby-user-group-cologne
+#   name: Ruby User Group Cologne
+#   service: ical
+#   timezone: Europe/Berlin
+#   default_location: Cologne, Germany
+#   ical_url: https://www.colognerb.de/events.ics
+#   remove: "Kölsch.rb"
 
 - id: ruby-user-group-leipzig
   name: Ruby User Group Leipzig
