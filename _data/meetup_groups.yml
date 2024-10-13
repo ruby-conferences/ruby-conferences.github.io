@@ -465,6 +465,8 @@
 - id: paris-ruby-workshop
   name: Paris Ruby Workshop
   service: meetupdotcom
+  exclude:
+    - "(en ligne)"
 
 - id: paris_rb
   name: Paris.rb
