@@ -2349,6 +2349,13 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/miamirb/events/303719541
 
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #3 / 2024 powered by Maxio'
+  location: Kraków, Poland
+  date: 2024-10-22
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://www.meetup.com/krakow-ruby-users-group/events/303783863
+
 - name: RubyJax - Open Hax October 2024
   location: Jacksonville, FL
   date: 2024-10-22
