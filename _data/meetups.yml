@@ -2258,6 +2258,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303660345
 
+- name: Ruby Buenos Aires - Ruby Meetup - Octubre 2024 - View Components
+  location: Online
+  date: 2024-10-16
+  start_time: 19:00:00 -03
+  end_time: 21:00:00 -03
+  url: https://www.meetup.com/rubyba/events/304012554
+
 - name: Rzeszow Ruby User Group - RRUG#40 Sidekiq. Git internals.
   location: Rzeszów, Poland
   date: 2024-10-16
