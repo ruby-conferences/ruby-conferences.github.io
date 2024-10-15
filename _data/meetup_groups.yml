@@ -1059,6 +1059,10 @@
   name: WellingtonRuby
   service: meetupdotcom
 
+- id: rubywellington
+  name: Ruby Wellington
+  service: meetupdotcom
+
 - id: west-midlands-ruby-user-group-wmrug
   name: West Midlands Ruby User Group
   service: meetupdotcom
