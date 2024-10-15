@@ -2328,7 +2328,7 @@
   end_time: 13:00:00 IST
   url: https://www.meetup.com/punerubymeetup/events/303700137
 
-- name: 'Auckland Ruby - Ruby Night October: TBC'
+- name: 'Auckland Ruby - Ruby Night October: DDD from Richard, Litestack from Juri'
   location: Auckland, New Zealand
   date: 2024-10-21
   start_time: 18:30:00 NZDT
@@ -2530,6 +2530,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303720985
+
+- name: Madrid.rb - Ruby Europe - Madrid
+  location: Madrid, Spain
+  date: 2024-11-07
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.madridrb.com/events/ruby-europe-madrid-1046
 
 - name: Ruby User Group Berlin - November Meetup 2024
   location: Berlin, Germany
@@ -3310,3 +3317,59 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcdblb
+
+- name: B'more on Rails - Monthly Meetup February 2025
+  location: Online
+  date: 2025-02-11
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcdbpb
+
+- name: Philly.rb - Pubnite February 2025
+  location: Online
+  date: 2025-02-11
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
+  url: https://www.meetup.com/phillyrb/events/nnlgbtyhcdbpb
+
+- name: RubyJax - Open Hax February 2025
+  location: Jacksonville, FL
+  date: 2025-02-11
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcdbpb
+
+- name: Atlanta Ruby - Monthly Meetup February 2025
+  location: Online
+  date: 2025-02-12
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/atlantaruby/events/tczcxryhcdbqb
+
+- name: Indianapolis Ruby Brigade - Monthly Meetup February 2025
+  location: Indianapolis, IN
+  date: 2025-02-12
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/indyrb/events/pqvlhtyhcdbqb
+
+- name: NYC.rb - Event February 2025
+  location: Online
+  date: 2025-02-12
+  start_time: 17:30:00 EDT
+  end_time: 19:00:00 EDT
+  url: https://www.meetup.com/nyc-rb/events/hkbsltyhcdbqb
+
+- name: Paris Ruby Workshop - Workshop chez February 2025
+  location: Paris, France
+  date: 2025-02-12
+  start_time: 19:15:00 CEST
+  end_time: 21:15:00 CEST
+  url: https://www.meetup.com/paris-ruby-workshop/events/gtswgtyhcdbqb
+
+- name: Rails Taiwan - 高雄 Rails Meetup February 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-02-12
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcdbqb
