@@ -1055,6 +1055,11 @@
   name: Visakhapatnam Ruby on Rails
   service: meetupdotcom
 
+- id: vlctechhub
+  name: Valencia.rb
+  service: meetupdotcom
+  include: Valencia.rb
+
 - id: wellingtonruby
   name: WellingtonRuby
   service: meetupdotcom
