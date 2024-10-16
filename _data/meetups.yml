@@ -2531,6 +2531,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303720985
 
+- name: Valencia.rb - Spain Triangle project - Ruby Europe Initiative & Kick-off
+  location: Valencia, Spain
+  date: 2024-11-06
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/vlctechhub/events/304025350
+
 - name: Madrid.rb - Ruby Europe - Madrid
   location: Madrid, Spain
   date: 2024-11-07
