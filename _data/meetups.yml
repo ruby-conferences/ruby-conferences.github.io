@@ -2363,6 +2363,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/303795300
 
+- name: 'Saigon.rb - Ruby Tuesday #22'
+  location: Quận 1, Viet Nam
+  date: 2024-10-22
+  start_time: 19:00:00 +07
+  end_time: 20:30:00 +07
+  url: https://www.meetup.com/saigonrb/events/304022497
+
 - name: Toulouse.rb - Conf & Apéro - Octobre
   location: Toulouse, France
   date: 2024-10-22
@@ -2517,11 +2524,11 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcpbhb
 
-- name: Montreal.rb - **Talk Title To be Determined** November 2024
-  location: Montreal, Canada
+- name: 'Montreal.rb - Hack Night: Hunt The Wampus'
+  location: Montréal, Canada
   date: 2024-11-06
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
   url: https://www.meetup.com/montrealrb/events/303804858
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby November 2024
@@ -2763,6 +2770,13 @@
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz
 
+- name: Ruby Wellington - November Meetup - Topics TBD
+  location: Wellington, New Zealand
+  date: 2024-11-21
+  start_time: 17:10:00 NZDT
+  end_time: 19:10:00 NZDT
+  url: https://www.meetup.com/rubywellington/events/300206003
+
 - name: Orange County Ruby - Ruby Science November 2024
   location: Online
   date: 2024-11-25
@@ -2847,7 +2861,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcqbfb
 
-- name: Montreal.rb - **Talk Title To be Determined** December 2024
+- name: Montreal.rb - **Talk Title To be Determined**
   location: Montreal, Canada
   date: 2024-12-04
   start_time: 18:00:00 EDT
@@ -3387,3 +3401,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcdbqb
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined February 2025'
+  location: Online
+  date: 2025-02-13
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcdbrb
