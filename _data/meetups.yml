@@ -2237,13 +2237,6 @@
   end_time: 20:30:00 MDT
   url: https://lu.ma/57vrruyr
 
-- name: Geneva.rb - Developer Tooling for the Modern Rails & Hotwire era (Marco Roth)
-  location: Genève, Switzerland
-  date: 2024-10-16
-  start_time: 19:00:00 CEST
-  end_time: 21:00:00 CEST
-  url: https://www.meetup.com/geneva-rb/events/303018643
-
 - name: Portland Ruby Brigade - Cocktails + Code October 2024
   location: Portland, OR
   date: 2024-10-16
@@ -2251,33 +2244,12 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/303526402
 
-- name: Rails Taiwan - 高雄 Rails Meetup October 2024
-  location: Kaohsiung, Taiwan
-  date: 2024-10-16
-  start_time: 19:00:00 CST
-  end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/303660345
-
 - name: Ruby Buenos Aires - Ruby Meetup - Octubre 2024 - View Components
   location: Online
   date: 2024-10-16
   start_time: 19:00:00 -03
   end_time: 21:00:00 -03
   url: https://www.meetup.com/rubyba/events/304012554
-
-- name: Rzeszow Ruby User Group - RRUG#40 Sidekiq. Git internals.
-  location: Rzeszów, Poland
-  date: 2024-10-16
-  start_time: 18:30:00 CEST
-  end_time: 20:30:00 CEST
-  url: https://www.meetup.com/rzeszow-ruby-user-group/events/303625550
-
-- name: West Midlands Ruby User Group - Monthly Meetup October 2024
-  location: Online
-  date: 2024-10-16
-  start_time: 19:00:00 BST
-  end_time: 21:00:00 BST
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/303590621
 
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD October 2024'
   location: Christchurch, New Zealand
@@ -2287,7 +2259,7 @@
   url: https://christchurch.ruby.nz
 
 - name: 'Polish Ruby User Group - Ruby Warsaw Meetup AI Edition #October'
-  location: Warszawa, Poland
+  location: Warsaw, Poland
   date: 2024-10-17
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
@@ -2306,6 +2278,13 @@
   start_time: 19:45:00 -03
   end_time: 21:15:00 -03
   url: https://www.meetup.com/arquitetura-e-design-de-aplicacoes-ruby/events/303831529
+
+- name: African Ruby Community - Call for Speakers for Ruby Mini Conference
+  location: Nairobi, Kenya
+  date: 2024-10-18
+  start_time: 18:00:00 EAT
+  end_time: 19:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/301578289
 
 - name: Ruby and Rails Adelaide - Ruby Burgers October 2024
   location: Adelaide, Australia
@@ -2412,13 +2391,6 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/rubyzg/events/303954490
 
-- name: Toronto Ruby - October 2024 Edition
-  location: Toronto, Canada
-  date: 2024-10-24
-  start_time: 22:00:00 EDT
-  end_time: 01:00:00 EDT
-  url: https://lu.ma/tjqs6iky
-
 - name: Nantes.rb - Ruby talk
   location: Nantes, France
   date: 2024-10-28
@@ -2517,12 +2489,19 @@
   end_time: 22:00:00 CEST
   url: https://www.meetup.com/paris_rb/events/303637189
 
+- name: 'Ruby Malaysia - Ruby Tuesdays KL #111'
+  location: Kuala Lumpur, Malaysia
+  date: 2024-11-05
+  start_time: 18:30:00 +08
+  end_time: 20:30:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/304019968
+
 - name: RubyJax - Open Hax November 2024
   location: Jacksonville, FL
   date: 2024-11-05
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtygcpbhb
+  url: https://www.meetup.com/rubyjax/events/304051365
 
 - name: 'Montreal.rb - Hack Night: Hunt The Wampus'
   location: Montréal, Canada
@@ -2679,13 +2658,6 @@
   end_time: 21:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-1013
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined November 2024'
-  location: Online
-  date: 2024-11-14
-  start_time: 18:00:00 EAT
-  end_time: 20:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/301578289
-
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
   date: 2024-11-15
@@ -2734,6 +2706,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcpbzb
+
+- name: South West Ruby - informal meetup
+  location: Bristol , UK
+  date: 2024-11-19
+  start_time: 18:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/south-west-ruby/events/304039254
 
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
   location: Portland, OR
