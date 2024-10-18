@@ -2447,6 +2447,13 @@
   end_time: 19:00:00 EEST
   url: https://www.meetup.com/ruby-on-rails-latvia/events/303829526
 
+- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition 🎃 👻"
+  location: Lyon, France
+  date: 2024-10-29
+  start_time: 19:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://www.meetup.com/lyonrb/events/303824727
+
 - name: RubyJax - Open Hax October 2024
   location: Jacksonville, FL
   date: 2024-10-29
