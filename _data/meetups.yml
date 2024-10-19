@@ -2349,6 +2349,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/303256232
 
+- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #134 Październik 2024'
+  location: Wrocław, Poland
+  date: 2024-10-21
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/drugpl/events/304084691
+
 - name: Miami Ruby Brigade - October 2024
   location: Coral Gables, FL
   date: 2024-10-21
@@ -2468,11 +2475,12 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303937943
 
-- name: Winnipeg Ruby User Group - How to Keep Rails App Development Fast
+- name: Winnipeg Ruby User Group - Integrating Threat Modelling + Keeping Rails App
+    Development Fast
   location: Winnipeg, Canada
   date: 2024-10-30
-  start_time: 18:00:00 CDT
-  end_time: 20:00:00 CDT
+  start_time: 17:30:00 CDT
+  end_time: 19:30:00 CDT
   url: https://www.meetup.com/winnipegrb/events/303877241
 
 - name: Orange County Ruby - Meetup October 2024
