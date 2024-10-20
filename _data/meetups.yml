@@ -2895,7 +2895,7 @@
   date: 2024-12-04
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/zxzgntygcqbgb
+  url: https://www.meetup.com/montrealrb/events/304095501
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby December 2024
   location: Prague, Czechia
@@ -3437,3 +3437,24 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcdbrb
+
+- name: Columbus Ruby Brigade - Monthly Meetup February 2025
+  location: Columbus, OH
+  date: 2025-02-17
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/columbusrb/events/xwwkltyhcdbwb
+
+- name: Miami Ruby Brigade - February 2025
+  location: Coral Gables, FL
+  date: 2025-02-17
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/pdvctsyhcdbwb
+
+- name: Orange County Ruby - Ruby Science February 2025
+  location: Online
+  date: 2025-02-17
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcdbwb
