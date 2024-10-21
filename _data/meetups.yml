@@ -2467,6 +2467,7 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/303930500
+  status: cancelled
 
 - name: Rails Taiwan - 高雄 Rails Meetup October 2024
   location: Kaohsiung, Taiwan
@@ -2812,6 +2813,13 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltygcpbhc
+
+- name: Ottawa Ruby - November '24
+  location: Ottawa, Canada
+  date: 2024-11-26
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/ottawaruby/events/304117874
 
 - name: RubyJax - Open Hax November 2024
   location: Jacksonville, FL
@@ -3458,3 +3466,10 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhcdbwb
+
+- name: RubyJax - Open Hax February 2025
+  location: Jacksonville, FL
+  date: 2025-02-18
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcdbxb
