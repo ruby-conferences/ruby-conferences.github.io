@@ -2781,6 +2781,13 @@
   end_time: 15:00:00 EET
   url: https://www.meetup.com/vilniusrb/events/304506053
 
+- name: Singapore Ruby Group - RubySG November 2024 Meetup
+  location: Singapore, Singapore
+  date: 2024-11-13
+  start_time: 18:30:00 SGT
+  end_time: 20:30:00 SGT
+  url: https://lu.ma/29fzctx5
+
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
   date: 2024-11-15
