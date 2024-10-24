@@ -2608,7 +2608,7 @@
   date: 2024-11-11
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltygcpbpb
+  url: https://www.meetup.com/ocruby/events/304147462
 
 - name: Austin.rb - Placeholder November 2024
   location: Austin, TX
@@ -3025,6 +3025,13 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/mbgmgtygcqbqb
+
+- name: Rotterdam.rb - Talks, Food & Drinks
+  location: Rotterdam, Netherlands
+  date: 2024-12-12
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/rotterdam-rb/events/304125044
 
 - name: Ruby and Rails Adelaide - Ruby Burgers December 2024
   location: Adelaide, Australia
