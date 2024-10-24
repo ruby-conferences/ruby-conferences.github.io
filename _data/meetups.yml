@@ -2454,6 +2454,13 @@
   end_time: 19:00:00 EEST
   url: https://www.meetup.com/ruby-on-rails-latvia/events/303829526
 
+- name: 'Bangkok.rb - Ruby Tuesday #58'
+  location: เขตวัฒนา, Thailand
+  date: 2024-10-29
+  start_time: 19:00:00 +07
+  end_time: 21:00:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/304156776
+
 - name: "Lyon.rb - 2024.10 / The Spooky Rails Edition 🎃 👻"
   location: Lyon, France
   date: 2024-10-29
@@ -2554,6 +2561,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/304051365
 
+- name: Cleveland Ruby Brigade - Tools for the Dev Toolbox
+  location: Independence, OH
+  date: 2024-11-06
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/clevelandruby/events/304161797
+
 - name: 'Montreal.rb - Hack Night: Hunt The Wampus'
   location: Montreal, Canada
   date: 2024-11-06
@@ -2644,7 +2658,7 @@
   date: 2024-11-12
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtygcpbqb
+  url: https://www.meetup.com/rubyjax/events/304172319
 
 - name: Utah Ruby Users Group - Topic TBD November 2024
   location: Lehi, UT
@@ -2757,6 +2771,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcpbzb
+
+- name: SF Bay Area Ruby - Meetup in November @ Academia.edu
+  location: San Francisco, CA
+  date: 2024-11-19
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://lu.ma/f4pfsigc
 
 - name: South West Ruby - informal meetup
   location: Bristol , UK
@@ -3501,3 +3522,10 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcdbzb
+
+- name: Ruby and Rails Adelaide - Ruby Burgers February 2025
+  location: Adelaide, Australia
+  date: 2025-02-21
+  start_time: 18:00:00 ACDT
+  end_time: 20:00:00 ACDT
+  url: https://www.meetup.com/adelaiderb/events/dzcvqsyhcdbcc
