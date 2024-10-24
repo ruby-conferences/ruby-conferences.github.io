@@ -940,6 +940,12 @@
 - id: sthlmrb
   name: Stockholm Ruby
   service: meetupdotcom
+  
+- id: sthlmrb
+  name: Stockholm Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-endgATTZCF1KdPk
+  timezone: Europe/Stockholm
 
 - id: stlruby
   name: STLRuby
