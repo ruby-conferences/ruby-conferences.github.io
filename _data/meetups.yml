@@ -2651,7 +2651,7 @@
   date: 2024-11-12
   start_time: 20:30:00 EDT
   end_time: 22:00:00 EDT
-  url: https://www.meetup.com/phillyrb/events/nnlgbtygcpbqb
+  url: https://www.meetup.com/phillyrb/events/304172825
 
 - name: RubyJax - Open Hax November 2024
   location: Jacksonville, FL
@@ -2870,7 +2870,14 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/301751612
 
-- name: Melbourne Ruby - November 2024
+- name: Stockholm Ruby - Winterish Ruby Meetup
+  location: 111 57 Stockholm, Sweden
+  date: 2024-11-27
+  start_time: 17:30:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://lu.ma/56s5dtmn
+
+- name: Melbourne Ruby - Meetup November 2024
   location: Southbank, Australia
   date: 2024-11-28
   start_time: 18:00:00 AEDT
