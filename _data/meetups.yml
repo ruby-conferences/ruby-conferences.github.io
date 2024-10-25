@@ -2497,6 +2497,7 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/303970385
+  status: cancelled
 
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
@@ -2672,7 +2673,7 @@
   date: 2024-11-13
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
-  url: https://www.meetup.com/atlantaruby/events/tczcxrygcpbrb
+  url: https://www.meetup.com/atlantaruby/events/304189595
 
 - name: Boulder Ruby - November 2024 Presentation Night
   location: Boulder, CO
@@ -2693,7 +2694,7 @@
   date: 2024-11-13
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/indyrb/events/pqvlhtygcpbrb
+  url: https://www.meetup.com/indyrb/events/304188995
 
 - name: NYC.rb - Event November 2024
   location: Online
@@ -2707,7 +2708,7 @@
   date: 2024-11-13
   start_time: 19:15:00 CEST
   end_time: 21:15:00 CEST
-  url: https://www.meetup.com/paris-ruby-workshop/events/gtswgtygcpbrb
+  url: https://www.meetup.com/paris-ruby-workshop/events/304184381
 
 - name: Rails Taiwan - 高雄 Rails Meetup November 2024
   location: Kaohsiung, Taiwan
@@ -3543,3 +3544,10 @@
   start_time: 18:00:00 ACDT
   end_time: 20:00:00 ACDT
   url: https://www.meetup.com/adelaiderb/events/dzcvqsyhcdbcc
+
+- name: African Ruby Community - Kampala Chapter Mini workshop February 2025
+  location: Online
+  date: 2025-02-22
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcdbdc
