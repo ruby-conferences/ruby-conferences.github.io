@@ -917,7 +917,9 @@
 
 - id: singapore-ruby-group
   name: Singapore Ruby Group
-  service: meetupdotcom
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-LjNde6eShrrzWbX
+  timezone: Asia/Singapore
 
 - id: sofloruby-broward
   name: SoFloRuby Broward
