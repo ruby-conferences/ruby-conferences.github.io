@@ -2461,7 +2461,7 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/304156776
 
-- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition 🎃 👻"
+- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition \U0001F383 \U0001F47B"
   location: Lyon, France
   date: 2024-10-29
   start_time: 19:00:00 CEST
@@ -2724,11 +2724,11 @@
   end_time: 21:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-1013
 
-- name: Singapore Ruby Group - RubySG November 2024 Meetup
-  location: Singapore, Singapore
+- name: Singapore Ruby Group - Ruby SG November Meetup
+  location: 380 Jln Besar, Singapore 209000
   date: 2024-11-13
-  start_time: 18:30:00 SGT
-  end_time: 20:30:00 SGT
+  start_time: 18:30:00 +08
+  end_time: 20:30:00 +08
   url: https://lu.ma/29fzctx5
 
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
@@ -2829,7 +2829,7 @@
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz
 
-- name: Ruby Wellington - November Meetup - Topics TBD
+- name: Ruby Wellington - November Meetup
   location: Wellington, New Zealand
   date: 2024-11-21
   start_time: 17:10:00 NZDT
