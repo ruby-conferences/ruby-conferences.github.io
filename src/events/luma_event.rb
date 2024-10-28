@@ -6,6 +6,8 @@ class LumaEvent < AbstractEvent
 
     if location.start_with?("https://")
       location = "Online"
+    elsif location.include?("Singapore")
+      location = "Singapore"
     else
       location_parts = location.split(",").map(&:strip)
       location_parts.delete("USA")
