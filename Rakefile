@@ -51,6 +51,7 @@ task :verify_conferences do
   exit 6 if validator.missing_announced_on_date?
 end
 
+desc "verify meetups"
 task :verify_meetups do
   allowed_keys = [
     "name",
@@ -76,6 +77,7 @@ task :verify_meetups do
   exit 6 if validator.duplicate_events?
 end
 
+desc "fetch meetups"
 task :fetch_meetups do
   MeetupsFile.read.tap do |file|
     file.fetch!
@@ -85,6 +87,7 @@ end
 
 # to fetch a single group run:
 #   bundle exec rake fetch_meetup[sfruby]
+desc "fetch a single group"
 task :fetch_meetup, [:group_id] do |_, args|
   MeetupsFile.read.tap do |file|
     file.fetch!(args[:group_id])
@@ -92,6 +95,7 @@ task :fetch_meetup, [:group_id] do |_, args|
   end
 end
 
+desc "sort meetups"
 task :sort_meetups do
   MeetupsFile.read.tap do |file|
     file.write!
