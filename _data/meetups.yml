@@ -2433,27 +2433,6 @@
   end_time: 01:00:00 EDT
   url: https://lu.ma/tjqs6iky
 
-- name: Nantes.rb - Ruby talk
-  location: Nantes, France
-  date: 2024-10-28
-  start_time: 18:30:00 CET
-  end_time: 20:30:00 CET
-  url: https://www.meetup.com/nantes-rb/events/303898436
-
-- name: Orange County Ruby - Ruby Science October 2024
-  location: Online
-  date: 2024-10-28
-  start_time: 10:00:00 PDT
-  end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/303904064
-
-- name: Ruby on Rails Latvia - Ruby community meetup – October 2024
-  location: Riga, Latvia
-  date: 2024-10-28
-  start_time: 17:00:00 EET
-  end_time: 19:00:00 EET
-  url: https://www.meetup.com/ruby-on-rails-latvia/events/303829526
-
 - name: 'Bangkok.rb - Ruby Tuesday #58'
   location: เขตวัฒนา, Thailand
   date: 2024-10-29
@@ -2461,7 +2440,7 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/304156776
 
-- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition 🎃 👻"
+- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition \U0001F383 \U0001F47B"
   location: Lyon, France
   date: 2024-10-29
   start_time: 19:00:00 CET
@@ -2745,6 +2724,13 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304228425
 
+- name: Pune Ruby Users Group - November Ruby Meetup
+  location: Pune, India
+  date: 2024-11-16
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://www.meetup.com/punerubymeetup/events/304252082
+
 - name: 'Ruby Nepal - Ruby and Rails Nepal meetup - Episode #28'
   location: Kathmandu, Nepal
   date: 2024-11-16
@@ -2820,7 +2806,7 @@
   date: 2024-11-20
   start_time: 19:00:00 GMT
   end_time: 21:00:00 GMT
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcpbbc
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/304251200
 
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD November 2024'
   location: Christchurch, New Zealand
@@ -2841,7 +2827,7 @@
   date: 2024-11-25
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltygcpbhc
+  url: https://www.meetup.com/ocruby/events/304251005
 
 - name: Ottawa Ruby - November '24
   location: Ottawa, Canada
@@ -3558,3 +3544,10 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcdbhc
+
+- name: Rails Taiwan - 高雄 Rails Meetup February 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-02-26
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcdbjc
