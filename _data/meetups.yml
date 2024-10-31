@@ -2520,6 +2520,13 @@
   end_time: 20:00:00 EDT
   url: https://lu.ma/zs5he82r
 
+- name: 'Tech Kafi #ruby: Kamal'
+  location: Bern, Switzerland
+  date: 2024-11-05
+  start_time: 11:00:00 CET
+  end_time: 12:00:00 CET
+  url: https://www.puzzle.ch/events/tech-kafi-ruby-kamal
+
 - name: 'Barcelona.rb - meetup #November'
   location: Barcelona, Spain
   date: 2024-11-05
