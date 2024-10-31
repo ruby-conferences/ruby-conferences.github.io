@@ -2461,7 +2461,7 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/304156776
 
-- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition 🎃 👻"
+- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition \U0001F383 \U0001F47B"
   location: Lyon, France
   date: 2024-10-29
   start_time: 19:00:00 CET
@@ -2475,21 +2475,6 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/303930500
   status: cancelled
-
-- name: Rails Taiwan - 高雄 Rails Meetup October 2024
-  location: Kaohsiung, Taiwan
-  date: 2024-10-30
-  start_time: 19:00:00 CST
-  end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/303937943
-
-- name: Winnipeg Ruby User Group - Integrating Threat Modelling + Keeping Rails App
-    Development Fast
-  location: Winnipeg, Canada
-  date: 2024-10-30
-  start_time: 17:30:00 CDT
-  end_time: 19:30:00 CDT
-  url: https://www.meetup.com/winnipegrb/events/303877241
 
 - name: Orange County Ruby - Meetup October 2024
   location: Dana Point, CA
@@ -2519,13 +2504,6 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://lu.ma/zs5he82r
-
-- name: 'Tech Kafi #ruby: Kamal'
-  location: Bern, Switzerland
-  date: 2024-11-05
-  start_time: 11:00:00 CET
-  end_time: 12:00:00 CET
-  url: https://www.puzzle.ch/events/tech-kafi-ruby-kamal
 
 - name: 'Barcelona.rb - meetup #November'
   location: Barcelona, Spain
@@ -2568,6 +2546,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/304051365
+
+- name: 'Tech Kafi #ruby: Kamal'
+  location: Bern, Switzerland
+  date: 2024-11-05
+  start_time: 11:00:00 CET
+  end_time: 12:00:00 CET
+  url: https://www.puzzle.ch/events/tech-kafi-ruby-kamal
 
 - name: Cleveland Ruby Brigade - Tools for the Dev Toolbox
   location: Independence, OH
@@ -2758,13 +2743,6 @@
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
   url: https://www.meetup.com/punerubymeetup/events/304252082
-
-- name: 'Ruby Nepal - Ruby and Rails Nepal meetup - Episode #28'
-  location: Kathmandu, Nepal
-  date: 2024-11-16
-  start_time: 12:30:00 +0545
-  end_time: 14:30:00 +0545
-  url: https://www.meetup.com/nepal-ruby-users-group/events/303542484
 
 - name: 'Auckland Ruby - Final Ruby Night 2024: Spec-taculous rspec, Advanced Caching
     for CI/CD Pipelines'
@@ -3033,6 +3011,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/tczcxrygcqbpb
+
+- name: Brighton Ruby Group - Silicon Brighton Big Festive Meetup
+  location: Hove, UK
+  date: 2024-12-11
+  start_time: 18:00:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://www.meetup.com/brighton-ruby-group/events/304303023
 
 - name: Geneva.rb - More everyday performance rules for Ruby on Rails developers (Alexis
     Bernard)
