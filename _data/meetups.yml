@@ -2520,13 +2520,6 @@
   end_time: 20:00:00 EDT
   url: https://lu.ma/zs5he82r
 
-- name: 'Tech Kafi #ruby: Kamal'
-  location: Bern, Switzerland
-  date: 2024-11-05
-  start_time: 11:00:00 CET
-  end_time: 12:00:00 CET
-  url: https://www.puzzle.ch/events/tech-kafi-ruby-kamal
-
 - name: 'Barcelona.rb - meetup #November'
   location: Barcelona, Spain
   date: 2024-11-05
@@ -2569,6 +2562,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/304051365
 
+- name: 'Tech Kafi #ruby: Kamal'
+  location: Bern, Switzerland
+  date: 2024-11-05
+  start_time: 11:00:00 CET
+  end_time: 12:00:00 CET
+  url: https://www.puzzle.ch/events/tech-kafi-ruby-kamal
+
 - name: Cleveland Ruby Brigade - Tools for the Dev Toolbox
   location: Independence, OH
   date: 2024-11-06
@@ -2603,6 +2603,7 @@
   start_time: 18:30:00 CET
   end_time: 20:30:00 CET
   url: https://www.meetup.com/vlctechhub/events/304025350
+  status: cancelled
 
 - name: Madrid.rb - Ruby Europe - Madrid
   location: Madrid, Spain
@@ -2814,7 +2815,7 @@
   date: 2024-11-20
   start_time: 18:00:00 PDT
   end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntygcpbbc
+  url: https://www.meetup.com/portland-ruby-brigade/events/304311681
 
 - name: Rails Taiwan - 高雄 Rails Meetup November 2024
   location: Kaohsiung, Taiwan
@@ -2984,6 +2985,13 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/sdruby/events/303820137
 
+- name: 'vienna.rb - #62 - Ruby December Meetup'
+  location: Wien, Austria
+  date: 2024-12-05
+  start_time: 18:30:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.meetup.com/vienna-rb/events/304271765
+
 - name: Orange County Ruby - Ruby Science December 2024
   location: Online
   date: 2024-12-09
@@ -3033,6 +3041,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/tczcxrygcqbpb
+
+- name: Brighton Ruby Group - Silicon Brighton Big Festive Meetup
+  location: Hove, UK
+  date: 2024-12-11
+  start_time: 18:00:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://www.meetup.com/brighton-ruby-group/events/304303023
 
 - name: Geneva.rb - More everyday performance rules for Ruby on Rails developers (Alexis
     Bernard)
