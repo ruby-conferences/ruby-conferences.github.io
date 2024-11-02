@@ -2461,7 +2461,7 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/304156776
 
-- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition 🎃 👻"
+- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition \U0001F383 \U0001F47B"
   location: Lyon, France
   date: 2024-10-29
   start_time: 19:00:00 CET
@@ -2498,13 +2498,6 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/303970385
   status: cancelled
-
-- name: Ruby and Rails Adelaide - Ruby Burgers November 2024
-  location: Adelaide, Australia
-  date: 2024-11-01
-  start_time: 18:00:00 ACDT
-  end_time: 20:00:00 ACDT
-  url: https://www.meetup.com/adelaiderb/events/303973001
 
 - name: African Ruby Community - Kampala Chapter Mini workshop November 2024
   location: Online
@@ -2766,6 +2759,7 @@
   start_time: 12:30:00 +0545
   end_time: 14:30:00 +0545
   url: https://www.meetup.com/nepal-ruby-users-group/events/303542484
+  status: cancelled
 
 - name: 'Auckland Ruby - Final Ruby Night 2024: Spec-taculous rspec, Advanced Caching
     for CI/CD Pipelines'
