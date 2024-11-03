@@ -2461,7 +2461,7 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/304156776
 
-- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition 🎃 👻"
+- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition \U0001F383 \U0001F47B"
   location: Lyon, France
   date: 2024-10-29
   start_time: 19:00:00 CET
@@ -2505,13 +2505,6 @@
   start_time: 18:00:00 ACDT
   end_time: 20:00:00 ACDT
   url: https://www.meetup.com/adelaiderb/events/303973001
-
-- name: African Ruby Community - Kampala Chapter Mini workshop November 2024
-  location: Online
-  date: 2024-11-02
-  start_time: 11:00:00 EAT
-  end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/303722089
 
 - name: Boston Ruby Group - November 2024 meeting
   location: Boston, MA
@@ -2732,6 +2725,14 @@
   end_time: 21:00:00 CET
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-1013
 
+- name: 'San Francisco Ruby on Rails - Product Engineering for AI Enabled Tech: Panel
+    + Networking [Free partner event]'
+  location: San Francisco, CA
+  date: 2024-11-13
+  start_time: 17:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/sfrails/events/304345661
+
 - name: Singapore Ruby Group - Ruby SG November Meetup
   location: Singapore
   date: 2024-11-13
@@ -2766,6 +2767,7 @@
   start_time: 12:30:00 +0545
   end_time: 14:30:00 +0545
   url: https://www.meetup.com/nepal-ruby-users-group/events/303542484
+  status: cancelled
 
 - name: 'Auckland Ruby - Final Ruby Night 2024: Spec-taculous rspec, Advanced Caching
     for CI/CD Pipelines'
@@ -3118,7 +3120,7 @@
   date: 2024-12-14
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtygcqbsb
+  url: https://www.meetup.com/african_ruby_community/events/304339811
 
 - name: Miami Ruby Brigade - December 2024
   location: Coral Gables, FL
@@ -3202,7 +3204,7 @@
   date: 2024-12-28
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtygcqblc
+  url: https://www.meetup.com/african_ruby_community/events/304339813
 
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
@@ -3300,7 +3302,7 @@
   date: 2025-01-11
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhccbpb
+  url: https://www.meetup.com/african_ruby_community/events/304339816
 
 - name: B'more on Rails - Monthly Meetup January 2025
   location: Online
@@ -3384,7 +3386,7 @@
   date: 2025-01-25
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhccbhc
+  url: https://www.meetup.com/african_ruby_community/events/304339817
 
 - name: Columbus Ruby Brigade - Monthly Meetup January 2025
   location: Columbus, OH
@@ -3461,7 +3463,7 @@
   date: 2025-02-08
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcdblb
+  url: https://www.meetup.com/african_ruby_community/events/304339818
 
 - name: B'more on Rails - Monthly Meetup February 2025
   location: Online
@@ -3587,7 +3589,7 @@
   date: 2025-02-22
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcdbdc
+  url: https://www.meetup.com/african_ruby_community/events/304339819
 
 - name: RubyJax - Open Hax February 2025
   location: Jacksonville, FL
@@ -3609,3 +3611,10 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcdbkc
+
+- name: Orange County Ruby - Ruby Science March 2025
+  location: Online
+  date: 2025-03-03
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcfbfb
