@@ -757,6 +757,13 @@
   default_location: Leipzig, Germany
   ical_url: https://leipzig.onruby.de/events.ics
 
+- id: ruby-user-group-dresden
+  name: Dresden.rb
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Dresden, Germany
+  ical_url: https://dresdenrb.onruby.de/events.ics
+
 # - id: ruby-user-group-saarland
 #   name:
 #   service: meetupdotcom
