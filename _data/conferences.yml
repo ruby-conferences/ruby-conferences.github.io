@@ -2899,10 +2899,8 @@
 
 - name: Baltic Ruby 2025
   location: Riga, Latvia
-  # TODO: update when dates are confirmed
-  start_date: 2025-06-30
-  end_date: 2025-06-30
-  date_precision: month
+  start_date: 2025-06-12
+  end_date: 2025-06-14
   url: https://balticruby.org
   twitter: balticruby
   mastodon: https://ruby.social/@balticruby
