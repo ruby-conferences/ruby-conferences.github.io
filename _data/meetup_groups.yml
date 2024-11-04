@@ -904,6 +904,8 @@
 - id: sfrails
   name: San Francisco Ruby on Rails
   service: meetupdotcom
+  exclude:
+    - partner event
 
 - id: sfruby
   name: The San Francisco Ruby
@@ -953,7 +955,7 @@
 - id: sthlmrb
   name: Stockholm Ruby
   service: meetupdotcom
-  
+
 - id: sthlmrb
   name: Stockholm Ruby
   service: luma
