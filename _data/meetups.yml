@@ -2902,6 +2902,13 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/cologne-rb/events/304283868
 
+- name: Dresden.rb - Erstes Treffen der neuen Ruby User Group Dresden
+  location: Dresden, Germany
+  date: 2024-11-28
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://dresdenrb.onruby.de/events/erstes-treffen-der-neuen-ruby-user-group-dresden-980
+
 - name: Melbourne Ruby - Meetup November 2024
   location: Southbank, Australia
   date: 2024-11-28
