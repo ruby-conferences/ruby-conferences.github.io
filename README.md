@@ -14,6 +14,13 @@ This page publishes `.ics` feed files for inclusion in personal calendars:
 - [`calendar.ics`](https://rubyconferences.org/calendar.ics) for the events only
 - [`cfp.ics`](https://rubyconferences.org/cfp.ics) for the CFP open/close dates
 
+## RSS Feed
+
+This page publishes an RSS feed so you can stay up to date with newly announced Ruby conferences.
+
+- [`feed.xml`](https://rubyconferences.org/feed.xml) for RSS Readers
+
+
 ## Eligible Conferences
 
 Focus is a goal of this project and as a result, only conferences that are
@@ -31,9 +38,8 @@ The list of events is driven by the conferences file in the `_data` directory - 
 
 **Conferences**
 
-The file to be changed is `_data/conferences.yml`. It is NOT order-dependent.
-Put your conference in the YAML file at the end.
-The page will sort the conferences by `start_date`.
+The file to be changed is `_data/conferences.yml`.
+This file is order-dependent. Put your conference in the YAML file sorted by its `start_date`.
 
 Here is a list of the keys that can be used:
 
@@ -53,8 +59,9 @@ Extra keys for the upcoming events:
 * `cfp_open_date`: The date when the CFP was opened - ISO8601 formatted (yyyy-mm-dd).
 * `cfp_close_date`: If there is a CFP deadline, enter that here - ISO8601 formatted (yyyy-mm-dd).
 * `cfp_link`: A link to the CFP submission page.
-* `status`:  Typically you want to put "Canceled", "Postponed" or "To be announced" here.
-* `date_precision`: Controls the precision of the `start_date` and `end_date` when the conference dates aren't announced just yet but it's confirmed that the conference is happening. Possible values: `full` (implicit default), `month` or `year`. The `start_date` and `end_date` fields still need to be fully formatted ISO8601 dates, you can put the last day of the month/year in it so it also gets ordered properly.
+* `status`:  Typically you want to put "Cancelled", "Postponed" or "To be announced" here.
+* `date_precision`: Controls the precision of the `start_date` and `end_date` when the conference dates aren't announced just yet, but it's confirmed that the conference is happening. Possible values: `full` (implicit default), `month` or `year`. The `start_date` and `end_date` fields still need to be fully formatted ISO8601 dates, you can put the last day of the month/year in it so it also gets ordered properly.
+* `announced_on`: The date on which the conference was announced - ISO8601 formatted (yyyy-mm-dd). This date is used as the publishing date for the [RSS feed](https://rubyconferences.org/feed.xml) so people can stay up to date with newly announced conferences.
 
 Extra keys for the past events:
 
@@ -62,9 +69,10 @@ Extra keys for the past events:
 
 **Meetups**
 
-The file to be changed is `_data/meetups.yml`. It is NOT order-dependent.
-Put your meetup in the YAML file at the end.
-The page will sort the conferences by `date`.
+The file to be changed is `_data/meetups.yml`.
+This file is order-dependent. Put your meetup in the YAML file sorted by its date.
+Otherwise, put the meetup at the end of the YAML file and run `rake sort_meetups`.
+Please make sure to preserve any comments in the YAML file.
 
 Here is a list of the keys that can be used:
 
@@ -79,6 +87,7 @@ Here is a list of the keys that can be used:
   * ZZZ - timezone (e.g. CDT or EST)
 * `end_time`: The end time of the event - ISO8601 formatted as (hh:mm:ss ZZZ) using same values as `start_time`
 * `url`: The url for the event.
+* `status`:  Typically you want to put "Cancelled" or "Postponed" here.
 
 ## Getting started
 

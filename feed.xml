@@ -1,0 +1,28 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">{{ site.name }}</title>
+  <link type="application/atom+xml" href="atom_feed_url" rel="self"/>
+  <link type="text/html" href="home_url_canonical" rel="alternate"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/feed.xml</id>
+
+  {% assign latest_events = site.data.conferences | reverse | slice: 0, 50 %}
+  {% for event in latest_events %}
+    {% if event.announced_on %}
+      <entry>
+        <published>{{ event.announced_on | date: "%Y-%m-%dT%H:%M:%S%z" }}</published>
+
+        <title>{{ event.name }}</title>
+        <id>{{ event.url }}</id>
+        <link href="{{ event.url }}" />
+        <content type="html">
+          <![CDATA[
+          {% include event.html %}
+          ]]>
+        </content>
+      </entry>
+    {% endif %}
+  {% endfor %}
+</feed>

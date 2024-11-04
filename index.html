@@ -6,6 +6,9 @@ layout: default
     {% assign now = site.time | date: '%s' | plus: 0 %}
     {% assign today = site.time | date: '%Y-%m-%d' %}
     {% assign conferences = site.data.conferences | sort: "start_date" %}
+    {% assign item_name = "conference" %}
+
+    {% include filters.html %}
 
     {% for event in conferences %}
       {% assign start_date = event.start_date | date: '%s' | plus: 0 %}
@@ -13,6 +16,5 @@ layout: default
         {% include event.html %}
       {% endif %}
     {% endfor %}
-
   </dl>
 </article>

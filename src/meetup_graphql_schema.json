@@ -1,0 +1,477 @@
+{
+  "data": {
+    "__schema": {
+      "queryType": {
+        "name": "Query"
+      },
+      "types": [
+        {
+          "kind": "OBJECT",
+          "name": "Query",
+          "fields": [
+            {
+              "name": "groupByUrlname",
+              "type": {
+                "kind": "OBJECT",
+                "name": "Group"
+              },
+              "args": [
+                {
+                  "name": "urlname",
+                  "type": {
+                    "kind": "NON_NULL",
+                    "ofType": {
+                      "kind": "SCALAR",
+                      "name": "String"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Group",
+          "fields": [
+            {
+              "name": "id",
+              "type": {
+                "kind": "SCALAR",
+                "name": "ID"
+              },
+              "args": []
+            },
+            {
+              "name": "logo",
+              "type": {
+                "kind": "OBJECT",
+                "name": "Logo"
+              },
+              "args": []
+            },
+            {
+              "name": "name",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "country",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "state",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "city",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "upcomingEvents",
+              "type": {
+                "kind": "OBJECT",
+                "name": "EventConnection"
+              },
+              "args": [
+                {
+                  "name": "sortOrder",
+                  "type": {
+                    "kind": "ENUM",
+                    "name": "SortOrder"
+                  }
+                },
+                {
+                  "name": "input",
+                  "type": {
+                    "kind": "INPUT_OBJECT",
+                    "name": "ConnectionInput"
+                  }
+                },
+                {
+                  "name": "filter",
+                  "type": {
+                    "kind": "INPUT_OBJECT",
+                    "name": "GroupUpcomingEventsFilter"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Logo",
+          "fields": [
+            {
+              "name": "id",
+              "type": {
+                "kind": "SCALAR",
+                "name": "ID"
+              },
+              "args": []
+            },
+            {
+              "name": "baseUrl",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "preview",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "source",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "EventConnection",
+          "fields": [
+            {
+              "name": "count",
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int"
+              },
+              "args": []
+            },
+            {
+              "name": "edges",
+              "type": {
+                "kind": "LIST",
+                "ofType": {
+                  "kind": "OBJECT",
+                  "name": "EventEdge"
+                }
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "GroupUpcomingEventsFilter",
+          "inputFields": [
+            {
+              "name": "includeCancelled",
+              "type": {
+                "kind": "SCALAR",
+                "name": "Boolean"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "ConnectionInput",
+          "inputFields": [
+            {
+              "name": "first",
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "EventEdge",
+          "fields": [
+            {
+              "name": "cursor",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "node",
+              "type": {
+                "kind": "OBJECT",
+                "name": "Event"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Event",
+          "fields": [
+            {
+              "name": "id",
+              "type": {
+                "kind": "SCALAR",
+                "name": "ID"
+              },
+              "args": []
+            },
+            {
+              "name": "title",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "eventUrl",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "shortDescription",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "description",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "onlineVenue",
+              "type": {
+                "kind": "OBJECT",
+                "name": "OnlineVenue"
+              },
+              "args": []
+            },
+            {
+              "name": "venue",
+              "type": {
+                "kind": "OBJECT",
+                "name": "Venue"
+              },
+              "args": []
+            },
+            {
+              "name": "host",
+              "type": {
+                "kind": "OBJECT",
+                "name": "Host"
+              },
+              "args": []
+            },
+            {
+              "name": "status",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "dateTime",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "endTime",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "duration",
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int"
+              },
+              "args": []
+            },
+            {
+              "name": "timezone",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "createdAt",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "eventType",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "isOnline",
+              "type": {
+                "kind": "SCALAR",
+                "name": "Boolean"
+              },
+              "args": []
+            },
+            {
+              "name": "group",
+              "type": {
+                "kind": "OBJECT",
+                "name": "Group"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "OnlineVenue",
+          "fields": [
+            {
+              "name": "type",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "url",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Venue",
+          "fields": [
+            {
+              "name": "address",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "city",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "state",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "country",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Host",
+          "fields": [
+            {
+              "name": "id",
+              "type": {
+                "kind": "SCALAR",
+                "name": "ID"
+              },
+              "args": []
+            },
+            {
+              "name": "name",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "email",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "ENUM",
+          "name": "SortOrder",
+          "enumValues": [
+            {
+              "name": "ASC"
+            },
+            {
+              "name": "DESC"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
