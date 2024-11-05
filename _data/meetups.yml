@@ -2461,7 +2461,7 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/304156776
 
-- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition 🎃 👻"
+- name: "Lyon.rb - 2024.10 / The Spooky Rails Edition \U0001F383 \U0001F47B"
   location: Lyon, France
   date: 2024-10-29
   start_time: 19:00:00 CET
@@ -2662,6 +2662,20 @@
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/304172825
 
+- name: Polish Ruby User Group - BRUG
+  location: Białystok, Poland
+  date: 2024-11-12
+  start_time: 18:00:00 CET
+  end_time: 20:00:00 CET
+  url: https://www.meetup.com/polishrubyusergroup/events/304377586
+
+- name: Ruby Buenos Aires - Noviembre 2024 - IA + Testing
+  location: C1414CKQ, Argentina
+  date: 2024-11-12
+  start_time: 19:00:00 -03
+  end_time: 22:00:00 -03
+  url: https://www.meetup.com/rubyba/events/304387497
+
 - name: RubyJax - Open Hax November 2024
   location: Jacksonville, FL
   date: 2024-11-12
@@ -2682,13 +2696,6 @@
   start_time: 18:30:00 EST
   end_time: 20:30:00 EST
   url: https://www.meetup.com/atlantaruby/events/304189595
-
-- name: Boulder Ruby - November 2024 Presentation Night
-  location: Boulder, CO
-  date: 2024-11-13
-  start_time: 18:00:00 MST
-  end_time: 20:30:00 MST
-  url: https://lu.ma/y1c2jita
 
 - name: Geneva.rb - Rails deployment with Kamal (Sean Carroll, GitLab)
   location: Genève, Switzerland
@@ -3049,6 +3056,13 @@
   start_time: 18:30:00 EST
   end_time: 20:30:00 EST
   url: https://www.meetup.com/atlantaruby/events/tczcxrygcqbpb
+
+- name: Boulder Ruby - December 2024 Presentation Night
+  location: Boulder, CO
+  date: 2024-12-11
+  start_time: 18:00:00 MST
+  end_time: 20:30:00 MST
+  url: https://lu.ma/y1c2jita
 
 - name: Brighton Ruby Group - Silicon Brighton Big Festive Meetup
   location: Hove, UK
@@ -3638,3 +3652,17 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhcfbgb
+
+- name: Prague.rb - First Wednesday Of The Month - Ruby March 2025
+  location: Prague, Czechia
+  date: 2025-03-05
+  start_time: 19:00:00 CET
+  end_time: 19:00:00 CET
+  url: https://www.meetup.com/praguerb/events/dkmktfyhcfbhb
+
+- name: Rails Taiwan - 高雄 Rails Meetup March 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-03-05
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcfbhb
