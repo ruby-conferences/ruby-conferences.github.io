@@ -2788,6 +2788,13 @@
   end_time: 20:30:00 +08
   url: https://lu.ma/29fzctx5
 
+- name: Rzeszow Ruby User Group - RRUG#41 Functional Programming. Flaky tests.
+  location: Rzeszów, Poland
+  date: 2024-11-14
+  start_time: 18:30:00 CET
+  end_time: 20:30:00 CET
+  url: https://www.meetup.com/rzeszow-ruby-user-group/events/304395509
+
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
   date: 2024-11-15
@@ -3128,7 +3135,7 @@
   end_time: 20:30:00 EST
   url: https://www.meetup.com/ottawaruby/events/304117874
 
-- name: Paris.rb - December 2024
+- name: Paris.rb - Meetup December 2024
   location: Paris, France
   date: 2024-12-03
   start_time: 19:00:00 CET
