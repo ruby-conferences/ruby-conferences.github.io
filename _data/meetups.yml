@@ -2576,7 +2576,7 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/clevelandruby/events/304161797
 
-- name: 'Montreal.rb - Hack Night: Hunt The Wampus'
+- name: 'Montreal.rb - Hack Night: Hunt The Wampus - Part 1 (The Model)'
   location: Montreal, Canada
   date: 2024-11-06
   start_time: 18:00:00 EST
@@ -2881,6 +2881,13 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/304251005
 
+- name: "Lyon.rb - 2024.11 / The Pumpkin-Spiced Edition \U0001F383 \U0001F341"
+  location: Lyon, France
+  date: 2024-11-26
+  start_time: 18:30:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.meetup.com/lyonrb/events/304303057
+
 - name: Ottawa Ruby - November '24
   location: Ottawa, Canada
   date: 2024-11-26
@@ -2893,7 +2900,7 @@
   date: 2024-11-26
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtygcpbjc
+  url: https://www.meetup.com/rubyjax/events/304425763
 
 - name: Rails Taiwan - 高雄 Rails Meetup November 2024
   location: Kaohsiung, Taiwan
@@ -2986,7 +2993,7 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtygcqbfb
 
-- name: Montreal.rb - **Talk Title To be Determined**
+- name: 'Montreal.rb - Hack Night: Hunt The Wampus - Part 2 (The View)'
   location: Montreal, Canada
   date: 2024-12-04
   start_time: 18:00:00 EST
@@ -3345,6 +3352,13 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhccbsb
 
+- name: Brighton Ruby Group - January Evening Meetup
+  location: Brighton, UK
+  date: 2025-01-14
+  start_time: 18:00:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://www.meetup.com/brighton-ruby-group/events/304413084
+
 - name: Philly.rb - Pubnite January 2025
   location: Online
   date: 2025-01-14
@@ -3680,3 +3694,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcfbhb
+
+- name: Ruby and Rails Adelaide - Ruby Burgers March 2025
+  location: Adelaide, Australia
+  date: 2025-03-07
+  start_time: 18:00:00 ACDT
+  end_time: 20:00:00 ACDT
+  url: https://www.meetup.com/adelaiderb/events/dzcvqsyhcfbkb
