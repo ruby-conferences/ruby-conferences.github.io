@@ -158,6 +158,8 @@
 - id: chicagoruby
   name: ChicagoRuby
   service: meetupdotcom
+  exclude:
+    - RubyConf
 
 # - id: christchurch-ruby-group
 #   name: Christchurch Ruby Group
