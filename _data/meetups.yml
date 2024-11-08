@@ -2666,7 +2666,7 @@
   location: Białystok, Poland
   date: 2024-11-12
   start_time: 18:00:00 CET
-  end_time: 20:00:00 CET
+  end_time: 21:00:00 CET
   url: https://www.meetup.com/polishrubyusergroup/events/304377586
 
 - name: Ruby Buenos Aires - Noviembre 2024 - IA + Testing
@@ -2737,7 +2737,7 @@
   date: 2024-11-13
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcpbrb
+  url: https://www.meetup.com/rails-taiwan/events/304434119
 
 - name: Ruby Usergroup Hamburg - November 2024
   location: Hamburg, Germany
@@ -2832,6 +2832,13 @@
   end_time: 21:00:00 GMT
   url: https://www.meetup.com/south-west-ruby/events/304039254
 
+- name: Toulouse.rb - Conf & Apéro - Novembre
+  location: Toulouse, France
+  date: 2024-11-19
+  start_time: 18:30:00 CET
+  end_time: 20:30:00 CET
+  url: https://www.meetup.com/toulouse-ruby-friends/events/304416126
+
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
   location: Portland, OR
   date: 2024-11-20
@@ -2867,7 +2874,7 @@
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz
 
-- name: Ruby Wellington - November Meetup
+- name: Ruby Wellington - November Meetup - Data Engineering and Browser Automation
   location: Wellington, New Zealand
   date: 2024-11-21
   start_time: 17:10:00 NZDT
@@ -2887,6 +2894,13 @@
   start_time: 18:30:00 CET
   end_time: 21:30:00 CET
   url: https://www.meetup.com/lyonrb/events/304303057
+
+- name: Nantes.rb - Ruby Talk!
+  location: Nantes, France
+  date: 2024-11-26
+  start_time: 18:30:00 CET
+  end_time: 20:30:00 CET
+  url: https://www.meetup.com/nantes-rb/events/304434830
 
 - name: Ottawa Ruby - November '24
   location: Ottawa, Canada
@@ -2992,6 +3006,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtygcqbfb
+
+- name: 'SF Bay Area Ruby - SF Ruby presents: Ruby & AI Meetup in December @ Sentry'
+  location: San Francisco, CA
+  date: 2024-12-03
+  start_time: 17:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://lu.ma/q7fwrtj2
 
 - name: 'Montreal.rb - Hack Night: Hunt The Wampus - Part 2 (The View)'
   location: Montreal, Canada
@@ -3701,3 +3722,10 @@
   start_time: 18:00:00 ACDT
   end_time: 20:00:00 ACDT
   url: https://www.meetup.com/adelaiderb/events/dzcvqsyhcfbkb
+
+- name: African Ruby Community - Kampala Chapter Mini workshop March 2025
+  location: Online
+  date: 2025-03-08
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/304339820
