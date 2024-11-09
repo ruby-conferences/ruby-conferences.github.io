@@ -2633,7 +2633,7 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/304147462
 
-- name: Austin.rb - Placeholder November 2024
+- name: Austin.rb - Hanami, An Alternative To Rails
   location: Austin, TX
   date: 2024-11-12
   start_time: 18:30:00 CST
@@ -3035,7 +3035,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/304398185
 
-- name: SD Ruby - Monthly Meetup December 2024
+- name: SD Ruby - Monthly Meetup
   location: San Diego, CA
   date: 2024-12-05
   start_time: 19:00:00 PST
@@ -3056,7 +3056,7 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/sdczltygcqbmb
 
-- name: Austin.rb - Placeholder December 2024
+- name: Austin.rb - Placeholder
   location: Austin, TX
   date: 2024-12-10
   start_time: 18:30:00 CST
