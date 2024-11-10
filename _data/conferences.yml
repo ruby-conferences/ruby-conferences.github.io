@@ -59,7 +59,7 @@
   twitter: rbonales
   video_link: http://www.confreaks.com/events/roa2014
 
-- name: wroc_love.rb 2014
+- name: wroclove.rb 2014
   location: Wrocław, Poland
   start_date: 2014-03-14
   end_date: 2014-03-16
@@ -436,7 +436,7 @@
   twitter: mwrc
   video_link: http://confreaks.tv/events/mwrc2015
 
-- name: Bath Ruby Conference 2015
+- name: Bath Ruby 2015
   location: Bath, UK
   start_date: 2015-03-13
   end_date: 2015-03-13
@@ -444,7 +444,7 @@
   twitter: BathRuby
   video_link: http://confreaks.tv/events/bathruby2015
 
-- name: wroc_love.rb 2015
+- name: wroclove.rb 2015
   location: Wrocław, Poland
   start_date: 2015-03-13
   end_date: 2015-03-15
@@ -744,7 +744,7 @@
   twitter: rubyconf_au
   video_link: https://www.youtube.com/playlist?list=PL9_jjLrTYxc3ILv2Lxlt422NjIFWnXl0U
 
-- name: Bath Ruby Conference 2016
+- name: Bath Ruby 2016
   location: Bath, UK
   start_date: 2016-03-11
   end_date: 2016-03-11
@@ -752,7 +752,7 @@
   twitter: bathruby
   video_link: http://confreaks.tv/events/bathruby2016
 
-- name: wroc_love.rb 2016
+- name: wroclove.rb 2016
   location: Wrocław, Poland
   start_date: 2016-03-11
   end_date: 2016-03-13
@@ -1079,7 +1079,7 @@
   twitter: rubyconfph
   video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSHKtxq2efDQc6EXTDqabxdV
 
-- name: wroc_love.rb 2017
+- name: wroclove.rb 2017
   location: Wrocław, Poland
   start_date: 2017-03-17
   end_date: 2017-03-19
@@ -1335,7 +1335,7 @@
   twitter: rubyconfph
   video_link: https://www.youtube.com/playlist?list=PL0mVjsUoElSENtu25MLim42HJszfsXDt2
 
-- name: wroc_love.rb 2018
+- name: wroclove.rb 2018
   location: Wrocław, Poland
   start_date: 2018-03-16
   end_date: 2018-03-18
@@ -1343,7 +1343,7 @@
   twitter: wrocloverb
   video_link: https://www.youtube.com/playlist?list=PLoGBNJiQoqRDSMznObXnqyq5HbOqLucTz
 
-- name: Bath Ruby Conference 2018
+- name: Bath Ruby 2018
   location: Bath, UK
   start_date: 2018-03-22
   end_date: 2018-03-23
@@ -1915,7 +1915,8 @@
   twitter: rubyconfindia
   status: Cancelled
 
-- name: RailsConf 2020.2 Couch Edition
+# RailsConf 2020.2 Couch Edition
+- name: RailsConf 2020
   location: Online
   start_date: 2020-05-05
   end_date: 2020-05-05
