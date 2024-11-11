@@ -2805,6 +2805,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/columbusrb/events/303256250
 
+- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #135 Listopad 2024'
+  location: Wrocław, Poland
+  date: 2024-11-18
+  start_time: 19:30:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.meetup.com/drugpl/events/304496724
+
 - name: Miami Ruby Brigade - November 2024
   location: Coral Gables, FL
   date: 2024-11-18
