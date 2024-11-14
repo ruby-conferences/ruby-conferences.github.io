@@ -2847,6 +2847,13 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304416126
 
+- name: Ruby Türkiye - Virtual Meetup November 2024
+  location: Online
+  date: 2024-08-20
+  start_time: 20:00:00 TRT
+  end_time: 22:00:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/leveling-up-developer-tooling-for-the-modern-rails-hotwire-era-671f5b80
+
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
   location: Portland, OR
   date: 2024-11-20
