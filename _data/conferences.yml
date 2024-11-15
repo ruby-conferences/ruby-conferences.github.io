@@ -2863,6 +2863,13 @@
   mastodon: https://ruby.social/@tropicalonrails
   announced_on: 2024-08-16
 
+- name: Sin City Ruby 2025
+  location: Las Vegas, NV
+  start_date: 2025-04-10
+  end_date: 2025-04-11
+  url: https://www.sincityruby.com
+  announced_on: 2024-11-14
+
 - name: RubyKaigi 2025
   location: Matsuyama, Ehime, Japan
   start_date: 2025-04-16
@@ -2938,15 +2945,6 @@
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymtnruby
   announced_on: 2024-10-08
-
-- name: Sin City Ruby 2025
-  location: Las Vegas, NV
-  # TODO: update when dates are confirmed
-  start_date: 2025-12-31
-  end_date: 2025-12-31
-  date_precision: year
-  url: https://www.sincityruby.com
-  announced_on: 2024-10-12
 
 - name: EuRuKo 2025
   location: Viana do Castelo, Portugal
