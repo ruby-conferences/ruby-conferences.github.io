@@ -2844,6 +2844,14 @@
   twitter: rubybanitsa
   announced_on: 2024-10-10
 
+- name: Tokyo RubyKaigi 12
+  location: Tokyo, Japan
+  start_date: 2025-01-18
+  end_date: 2025-01-18
+  url: https://regional.rubykaigi.org/tokyo12/
+  twitter: tokyork12
+  announced_on: 2024-11-17
+
 - name: Ruby Community Conference 2025 Winter Edition
   location: Krakow, Poland
   # TODO: update when dates are confirmed
