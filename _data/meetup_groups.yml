@@ -46,6 +46,7 @@
   service: meetupdotcom
   remove:
     - "[VIRTUAL] "
+    - "[ATLRUG Virtual]"
     - "The Atlanta Ruby Meetup Group"
 
 - id: aucklandruby
@@ -1073,6 +1074,8 @@
 - id: vilniusrb
   name: Vilnius.rb
   service: meetupdotcom
+  remove:
+    - "Vilnius Ruby Brigade meetup:"
 
 - id: visakhapatnam-ruby-on-rails-meetup
   name: Visakhapatnam Ruby on Rails
