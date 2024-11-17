@@ -47,6 +47,7 @@
   remove:
     - "[VIRTUAL] "
     - "[ATLRUG Virtual]"
+    - "[ATLRUG]"
     - "The Atlanta Ruby Meetup Group"
 
 - id: aucklandruby
