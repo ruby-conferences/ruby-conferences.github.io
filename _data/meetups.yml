@@ -3001,12 +3001,12 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/301647150
 
-- name: Bluegrass Ruby - December 2024
+- name: 'Bluegrass Ruby - November: Rails 8'
   location: Lexington, KY
   date: 2024-12-03
-  start_time: 18:00:00 EDT
-  end_time: 20:00:00 EDT
-  url: https://bluegrassruby.club
+  start_time: 18:00:00 EST
+  end_time: 19:30:00 EST
+  url: https://www.meetup.com/the-bluegrass-developers-guild/events/304547002
 
 - name: Charlotte Ruby - Ruby Hack Night December 2024
   location: Online
