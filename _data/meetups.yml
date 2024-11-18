@@ -2847,13 +2847,6 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304416126
 
-- name: Ruby Türkiye - Virtual Meetup November 2024
-  location: Online
-  date: 2024-11-20
-  start_time: 20:00:00 TRT
-  end_time: 22:00:00 TRT
-  url: https://kommunity.com/ruby-turkiye/events/leveling-up-developer-tooling-for-the-modern-rails-hotwire-era-671f5b80
-
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
   location: Portland, OR
   date: 2024-11-20
@@ -2903,7 +2896,7 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/304251005
 
-- name: Toronto Ruby - One Year Anniversary
+- name: Toronto Ruby - 's One Year Anniversary
   location: Toronto, Canada
   date: 2024-11-25
   start_time: 23:00:00 EST
@@ -3884,3 +3877,10 @@
   start_time: 10:00:00 PST
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/sdczltyhcfbwb
+
+- name: RubyJax - Open Hax March 2025
+  location: Jacksonville, FL
+  date: 2025-03-18
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcfbxb
