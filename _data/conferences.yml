@@ -2654,7 +2654,7 @@
   location: Warsaw, Poland
   start_date: 2024-07-19
   end_date: 2024-07-19
-  url: https://www.rubycommunityconference.com
+  url: https://www.rubycommunityconference.com/summer2024
   twitter: visualitypl
 
 - name: RedDotRubyConf 2024
@@ -2867,14 +2867,12 @@
   announced_on: 2024-11-17
 
 - name: Ruby Community Conference 2025 Winter Edition
-  location: Krakow, Poland
-  # TODO: update when dates are confirmed
+  location: Kraków, Poland
   start_date: 2025-02-28
   end_date: 2025-02-28
-  date_precision: month
   url: https://www.rubycommunityconference.com
   twitter: visualitypl
-  announced_on: 2024-10-12
+  announced_on: 2024-11-19
 
 - name: Tropical on Rails 2025
   location: São Paulo, Brazil
