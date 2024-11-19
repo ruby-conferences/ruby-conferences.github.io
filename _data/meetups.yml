@@ -2790,27 +2790,12 @@
   url: https://www.meetup.com/nepal-ruby-users-group/events/303542484
   status: cancelled
 
-- name: 'Auckland Ruby - Final Ruby Night 2024: Spec-taculous rspec, Advanced Caching
-    for CI/CD Pipelines'
-  location: Auckland, New Zealand
-  date: 2024-11-18
-  start_time: 18:30:00 NZDT
-  end_time: 21:30:00 NZDT
-  url: https://www.meetup.com/aucklandruby/events/299606033
-
 - name: Columbus Ruby Brigade - Monthly Meetup November 2024
   location: Columbus, OH
   date: 2024-11-18
   start_time: 18:00:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/columbusrb/events/303256250
-
-- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #135 Listopad 2024'
-  location: Wrocław, Poland
-  date: 2024-11-18
-  start_time: 19:30:00 CET
-  end_time: 21:30:00 CET
-  url: https://www.meetup.com/drugpl/events/304496724
 
 - name: Miami Ruby Brigade - November 2024
   location: Coral Gables, FL
@@ -2846,13 +2831,6 @@
   start_time: 18:30:00 CET
   end_time: 20:30:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304416126
-
-- name: Ruby Türkiye - Virtual Meetup November 2024
-  location: Online
-  date: 2024-11-20
-  start_time: 20:00:00 TRT
-  end_time: 22:00:00 TRT
-  url: https://kommunity.com/ruby-turkiye/events/leveling-up-developer-tooling-for-the-modern-rails-hotwire-era-671f5b80
 
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
   location: Portland, OR
@@ -2903,7 +2881,7 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/304251005
 
-- name: Toronto Ruby - One Year Anniversary
+- name: Toronto Ruby - 's One Year Anniversary
   location: Toronto, Canada
   date: 2024-11-25
   start_time: 23:00:00 EST
@@ -3043,6 +3021,14 @@
   end_time: 22:00:00 CET
   url: https://www.meetup.com/paris_rb/events/303637325
 
+- name: "Ruby Ireland - \U0001F384Have Yourself a Quizzy Little Christmas - Techie
+    Charity Quiz 2024"
+  location: Dublin 7, Ireland
+  date: 2024-12-03
+  start_time: 18:30:00 GMT
+  end_time: 21:00:00 GMT
+  url: https://www.meetup.com/rubyireland/events/304626932
+
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
   date: 2024-12-03
@@ -3126,7 +3112,7 @@
   date: 2024-12-10
   start_time: 20:30:00 EST
   end_time: 22:00:00 EST
-  url: https://www.meetup.com/phillyrb/events/nnlgbtygcqbnb
+  url: https://www.meetup.com/phillyrb/events/304629934
 
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
@@ -3261,6 +3247,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtygcqbwb
+
+- name: Toulouse.rb - Conf & Apéro - Décembre
+  location: Toulouse, France
+  date: 2024-12-17
+  start_time: 18:30:00 CET
+  end_time: 20:30:00 CET
+  url: https://www.meetup.com/toulouse-ruby-friends/events/304627678
 
 - name: Portland Ruby Brigade - Cocktails + Code December 2024
   location: Portland, OR
@@ -3457,6 +3450,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhccbsb
+
+- name: Geneva.rb - TBA January 2025
+  location: Genève, Switzerland
+  date: 2025-01-15
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/geneva-rb/events/304627310
 
 - name: Portland Ruby Brigade - Cocktails + Code January 2025
   location: Portland, OR
@@ -3696,6 +3696,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhcdbxb
 
+- name: Geneva.rb - TBA February 2025
+  location: Genève, Switzerland
+  date: 2025-02-19
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/geneva-rb/events/304627311
+
 - name: Portland Ruby Brigade - Cocktails + Code February 2025
   location: Portland, OR
   date: 2025-02-19
@@ -3829,6 +3836,13 @@
   end_time: 20:30:00 EST
   url: https://www.meetup.com/atlantaruby/events/tczcxryhcfbqb
 
+- name: Geneva.rb - TBA March 2025
+  location: Genève, Switzerland
+  date: 2025-03-12
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/geneva-rb/events/304629277
+
 - name: Indianapolis Ruby Brigade - Monthly Meetup March 2025
   location: Indianapolis, IN
   date: 2025-03-12
@@ -3884,3 +3898,31 @@
   start_time: 10:00:00 PST
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/sdczltyhcfbwb
+
+- name: RubyJax - Open Hax March 2025
+  location: Jacksonville, FL
+  date: 2025-03-18
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcfbxb
+
+- name: Portland Ruby Brigade - Cocktails + Code March 2025
+  location: Portland, OR
+  date: 2025-03-19
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcfbzb
+
+- name: Rails Taiwan - 高雄 Rails Meetup March 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-03-19
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcfbzb
+
+- name: West Midlands Ruby User Group - Monthly Meetup March 2025
+  location: Online
+  date: 2025-03-19
+  start_time: 19:00:00 GMT
+  end_time: 21:00:00 GMT
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcfbzb
