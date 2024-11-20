@@ -2819,40 +2819,12 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/miamirb/events/304278515
 
-- name: RubyJax - Open Hax November 2024
-  location: Jacksonville, FL
-  date: 2024-11-19
-  start_time: 18:30:00 EST
-  end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/304297455
-
 - name: SF Bay Area Ruby - Meetup in November @ Academia.edu
   location: San Francisco, CA
   date: 2024-11-19
   start_time: 17:00:00 PST
   end_time: 21:00:00 PST
   url: https://lu.ma/f4pfsigc
-
-- name: South West Ruby - informal meetup
-  location: Bristol , UK
-  date: 2024-11-19
-  start_time: 18:00:00 GMT
-  end_time: 21:00:00 GMT
-  url: https://www.meetup.com/south-west-ruby/events/304039254
-
-- name: Toulouse.rb - Conf & Apéro - Novembre
-  location: Toulouse, France
-  date: 2024-11-19
-  start_time: 18:30:00 CET
-  end_time: 20:30:00 CET
-  url: https://www.meetup.com/toulouse-ruby-friends/events/304416126
-
-- name: Ruby Türkiye - Virtual Meetup November 2024
-  location: Online
-  date: 2024-11-20
-  start_time: 20:00:00 TRT
-  end_time: 22:00:00 TRT
-  url: https://kommunity.com/ruby-turkiye/events/leveling-up-developer-tooling-for-the-modern-rails-hotwire-era-671f5b80
 
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
   location: Portland, OR
@@ -2903,7 +2875,7 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/304251005
 
-- name: Toronto Ruby - One Year Anniversary
+- name: Toronto Ruby - 's One Year Anniversary
   location: Toronto, Canada
   date: 2024-11-25
   start_time: 18:00:00 EST
@@ -3113,13 +3085,6 @@
   start_time: 17:30:00 NZDT
   end_time: 19:30:00 NZDT
   url: https://www.meetup.com/rubywellington/events/304606895
-
-- name: London Ruby User Group - December 2024 Meeting
-  location: London, UK
-  date: 2024-12-09
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2024/december
 
 - name: Orange County Ruby - Ruby Science December 2024
   location: Online
