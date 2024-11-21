@@ -2847,13 +2847,6 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304416126
 
-- name: Ruby Türkiye - Virtual Meetup November 2024
-  location: Online
-  date: 2024-11-20
-  start_time: 20:00:00 TRT
-  end_time: 22:00:00 TRT
-  url: https://kommunity.com/ruby-turkiye/events/leveling-up-developer-tooling-for-the-modern-rails-hotwire-era-671f5b80
-
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
   location: Portland, OR
   date: 2024-11-20
@@ -2861,26 +2854,12 @@
   end_time: 20:00:00 PST
   url: https://www.meetup.com/portland-ruby-brigade/events/304311681
 
-- name: Rails Taiwan - 高雄 Rails Meetup November 2024
-  location: Kaohsiung, Taiwan
-  date: 2024-11-20
-  start_time: 19:00:00 CST
-  end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/304559651
-
 - name: VanRuby - Thinkific
   location: Vancouver, Canada
   date: 2024-11-20
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
   url: https://www.meetup.com/vancouver-ruby/events/303769344
-
-- name: West Midlands Ruby User Group - Monthly Meetup November 2024
-  location: Online
-  date: 2024-11-20
-  start_time: 19:00:00 GMT
-  end_time: 21:00:00 GMT
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/304251200
 
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD November 2024'
   location: Christchurch, New Zealand
@@ -2896,6 +2875,13 @@
   end_time: 19:10:00 NZDT
   url: https://www.meetup.com/rubywellington/events/300206003
 
+- name: 'Ruby Nepal - Ruby and Rails Nepal meetup - Episode #28'
+  location: Kathmandu, Nepal
+  date: 2024-11-23
+  start_time: 12:30:00 +0545
+  end_time: 14:30:00 +0545
+  url: https://www.meetup.com/nepal-ruby-users-group/events/304664003
+
 - name: Orange County Ruby - Ruby Science November 2024
   location: Online
   date: 2024-11-25
@@ -2903,12 +2889,19 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/304251005
 
-- name: Toronto Ruby - One Year Anniversary
+- name: Toronto Ruby - 's One Year Anniversary
   location: Toronto, Canada
   date: 2024-11-25
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
   url: https://lu.ma/xbuggh8i
+
+- name: 'Bangkok.rb - Ruby Tuesday #59'
+  location: เขตวัฒนา, Thailand
+  date: 2024-11-26
+  start_time: 19:00:00 +07
+  end_time: 21:00:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/304666405
 
 - name: "Lyon.rb - 2024.11 / The Pumpkin-Spiced Edition \U0001F383 \U0001F341"
   location: Lyon, France
@@ -3114,13 +3107,6 @@
   end_time: 19:30:00 NZDT
   url: https://www.meetup.com/rubywellington/events/304606895
 
-- name: London Ruby User Group - December 2024 Meeting
-  location: London, UK
-  date: 2024-12-09
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2024/december
-
 - name: Orange County Ruby - Ruby Science December 2024
   location: Online
   date: 2024-12-09
@@ -3155,7 +3141,7 @@
   date: 2024-12-10
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtygcqbnb
+  url: https://www.meetup.com/rubyjax/events/304677738
 
 - name: Utah Ruby Users Group - Topic TBD
   location: Lehi, UT
@@ -3962,3 +3948,10 @@
   start_time: 19:00:00 GMT
   end_time: 21:00:00 GMT
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcfbzb
+
+- name: Ruby and Rails Adelaide - Ruby Burgers March 2025
+  location: Adelaide, Australia
+  date: 2025-03-21
+  start_time: 18:00:00 ACDT
+  end_time: 20:00:00 ACDT
+  url: https://www.meetup.com/adelaiderb/events/dzcvqsyhcfbcc
