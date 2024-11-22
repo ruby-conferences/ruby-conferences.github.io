@@ -2584,7 +2584,7 @@
   location: Zurich, Switzerland
   start_date: 2024-05-17
   end_date: 2024-05-17
-  url: https://helvetic-ruby.ch
+  url: https://helvetic-ruby.ch/2024
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
   cfp_open_date: 2024-01-19
@@ -2914,6 +2914,7 @@
   url: https://helvetic-ruby.ch
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
+  cfp_link: https://helvetic-ruby.ch/call-for-speakers
   announced_on: 2024-05-17
 
 - name: Baltic Ruby 2025
