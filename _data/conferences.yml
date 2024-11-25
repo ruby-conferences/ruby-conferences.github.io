@@ -2925,6 +2925,9 @@
   twitter: balticruby
   mastodon: https://ruby.social/@balticruby
   announced_on: 2024-06-15
+  cfp_link: https://papercall.io/balticruby25
+  cfp_open_date: 2024-11-25
+  cfp_close_date: 2025-01-25
 
 - name: Brighton Ruby 2025
   location: Brighton, UK
