@@ -4012,3 +4012,10 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcfbdc
+
+- name: RubyJax - Open Hax March 2025
+  location: Jacksonville, FL
+  date: 2025-03-25
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcfbhc
