@@ -489,6 +489,8 @@
 - id: polishrubyusergroup
   name: Polish Ruby User Group
   service: meetupdotcom
+  exclude:
+    - Ruby Community Conference
   remove:
     - (PLRUG)
 

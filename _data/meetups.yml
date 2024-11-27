@@ -3021,6 +3021,7 @@
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
   url: https://www.meetup.com/ocruby/events/304467971
+  status: cancelled
 
 - name: Philippine Ruby Users Group - PhRUG - Bridge to Simpilcity
   location: Quezon City, Philippines
@@ -3071,7 +3072,7 @@
   end_time: 20:30:00 EST
   url: https://www.meetup.com/ottawaruby/events/304117874
 
-- name: Paris.rb - Meetup December 2024
+- name: Paris.rb - December 2024
   location: Paris, France
   date: 2024-12-03
   start_time: 19:00:00 CET
@@ -3312,6 +3313,13 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339811
 
+- name: Pune Ruby Users Group - December 2024 Meetup with ReactJS & Friends
+  location: Pune, India
+  date: 2024-12-14
+  start_time: 10:00:00 IST
+  end_time: 14:00:00 IST
+  url: https://www.meetup.com/punerubymeetup/events/304756374
+
 - name: Columbus Ruby Brigade - Monthly Meetup December 2024
   location: Columbus, OH
   date: 2024-12-16
@@ -3345,7 +3353,7 @@
   date: 2024-12-18
   start_time: 18:00:00 PST
   end_time: 20:00:00 PST
-  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntygcqbxb
+  url: https://www.meetup.com/portland-ruby-brigade/events/304759703
 
 - name: Rails Taiwan - 高雄 Rails Meetup December 2024
   location: Kaohsiung, Taiwan
@@ -3394,7 +3402,8 @@
   date: 2024-12-26
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
-  url: https://www.meetup.com/ocruby/events/pbgwwqygcqbjc
+  url: https://www.meetup.com/ocruby/events/304760444
+  status: cancelled
 
 - name: Ruby and Rails Adelaide - Ruby Burgers December 2024
   location: Adelaide, Australia
@@ -3444,6 +3453,13 @@
   start_time: 19:00:00 EST
   end_time: 21:30:00 EST
   url: https://www.meetup.com/charlotte-rb/events/nqchktyhccbkb
+
+- name: Paris.rb - January 2025
+  location: Paris, France
+  date: 2025-01-07
+  start_time: 19:00:00 CET
+  end_time: 22:00:00 CET
+  url: https://www.meetup.com/paris_rb/events/304758193
 
 - name: RubyJax - Open Hax January 2025
   location: Jacksonville, FL
@@ -4040,3 +4056,17 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhcfbhc
+
+- name: Rails Taiwan - 高雄 Rails Meetup March 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-03-26
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcfbjc
+
+- name: Orange County Ruby - Meetup March 2025
+  location: Dana Point, CA
+  date: 2025-03-27
+  start_time: 19:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://www.meetup.com/ocruby/events/pbgwwqyhcfbkc
