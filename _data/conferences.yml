@@ -2960,6 +2960,15 @@
   twitter: rails
   announced_on: 2024-11-27
 
+- name: Friendly.rb 2025
+  location: Bucharest, Romania
+  start_date: 2025-09-10
+  end_date: 2025-09-11
+  url: https://friendlyrb.com/
+  twitter: friendlyrb
+  mastodon: https://ruby.social/@friendlyrb
+  announced_on: 2024-11-29
+
 - name: Rocky Mountain Ruby 2025
   location: Boulder, CO
   # TODO: update when dates are confirmed
