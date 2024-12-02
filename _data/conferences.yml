@@ -2696,7 +2696,7 @@
   url: https://regional.rubykaigi.org/osaka04/
   announced_on: 2024-03-28
 
-- name: Rails Camp USA 2024
+- name: Rails Camp West 2024
   location: Cascade, ID
   start_date: 2024-08-27
   end_date: 2024-08-30
@@ -2951,6 +2951,14 @@
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
   announced_on: 2024-05-07
+
+- name: Rails Camp West 2025
+  location: USA
+  start_date: 2025-08-18
+  end_date: 2025-08-21
+  url: https://west.railscamp.us/2025
+  twitter: railscamp_usa
+  announced_on: 2024-12-02
 
 - name: Rails World 2025
   location: Amsterdam, Netherlands
