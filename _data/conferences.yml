@@ -3003,6 +3003,14 @@
   twitter: railscamp_usa
   announced_on: 2024-12-02
 
+- name: Rails Camp West 2025
+  location: USA
+  start_date: 2025-08-18
+  end_date: 2025-08-21
+  url: https://west.railscamp.us/2025
+  twitter: railscamp_usa
+  announced_on: 2024-12-02
+
 - name: Rails World 2025
   location: Amsterdam, Netherlands
   start_date: 2025-09-04
