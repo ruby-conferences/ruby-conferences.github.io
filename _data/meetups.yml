@@ -3115,11 +3115,11 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/montrealrb/events/304095501
 
-- name: Prague.rb - First Wednesday Of The Month - Ruby December 2024
+- name: Prague.rb - PubQuiz night @ First Wednesday Of The Month - Ruby
   location: Prague, Czechia
   date: 2024-12-04
   start_time: 19:00:00 CET
-  end_time: 19:00:00 CET
+  end_time: 22:00:00 CET
   url: https://www.meetup.com/praguerb/events/304564967
 
 - name: Rails Taiwan - 高雄 Rails Meetup December 2024
@@ -3332,14 +3332,14 @@
   date: 2024-12-16
   start_time: 19:00:00 EST
   end_time: 21:00:00 EST
-  url: https://www.meetup.com/miamirb/events/pdvctsygcqbvb
+  url: https://www.meetup.com/miamirb/events/304785659
 
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
   date: 2024-12-17
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtygcqbwb
+  url: https://www.meetup.com/rubyjax/events/304803900
 
 - name: Toulouse.rb - Conf & Apéro - Décembre
   location: Toulouse, France
@@ -3367,7 +3367,7 @@
   date: 2024-12-18
   start_time: 19:00:00 GMT
   end_time: 21:00:00 GMT
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcqbxb
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/304816153
 
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD December 2024'
   location: Christchurch, New Zealand
@@ -3902,6 +3902,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcfbhb
+
+- name: Dresden.rb - meetup
+  location: Dresden, Germany
+  date: 2025-03-06
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://dresdenrb.onruby.de/events/dresden-rb-meetup-1079
 
 - name: Ruby and Rails Adelaide - Ruby Burgers March 2025
   location: Adelaide, Australia
