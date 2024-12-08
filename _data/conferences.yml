@@ -2866,6 +2866,14 @@
   twitter: tokyork12
   announced_on: 2024-11-17
 
+- name: Ruby for Good - Ghent
+  location: Ghent, Belgium
+  start_date: 2025-02-03
+  end_date: 2025-02-05
+  url: https://RubyInGhent.org
+  twitter: rubyforgood
+  announced_on: 2024-12-02
+
 - name: Ruby Community Conference 2025 Winter Edition
   location: Kraków, Poland
   start_date: 2025-02-28
