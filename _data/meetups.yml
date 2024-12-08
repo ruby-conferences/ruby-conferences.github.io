@@ -3193,6 +3193,13 @@
   url: https://www.meetup.com/bmore-on-rails/events/303140116
   status: cancelled
 
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #4 / 2024 powered by Zendesk'
+  location: Kraków, Poland
+  date: 2024-12-10
+  start_time: 18:00:00 CET
+  end_time: 22:00:00 CET
+  url: https://www.meetup.com/krakow-ruby-users-group/events/304882542
+
 - name: Philly.rb - Pubnite December 2024
   location: Online
   date: 2024-12-10
@@ -3214,12 +3221,19 @@
   end_time: 21:00:00 MST
   url: https://www.meetup.com/utah-ruby-users-group/events/302953317
 
-- name: Atlanta Ruby - Paul DobbinSchmaltz on TBD
+- name: Atlanta Ruby - Object Inspection [in Ruby] with Paul DobbinSchmaltz
   location: Online
   date: 2024-12-11
   start_time: 18:30:00 EST
   end_time: 20:30:00 EST
   url: https://www.meetup.com/atlantaruby/events/304537407
+
+- name: Bangkok.rb - Ruby-Python Pool/Darts/Jenga Festive Mixer
+  location: Bangkok , Thailand
+  date: 2024-12-11
+  start_time: 18:00:00 +07
+  end_time: 21:00:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/304912695
 
 - name: Boulder Ruby - December 2024 Presentation Night
   location: Boulder, CO
@@ -3257,7 +3271,7 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/indyrb/events/304698514
 
-- name: NYC.rb - Event December 2024
+- name: NYC.rb - Celebrate 2024 with Lean Coffee!
   location: Online
   date: 2024-12-11
   start_time: 17:30:00 EST
@@ -3276,7 +3290,7 @@
   date: 2024-12-11
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbpb
+  url: https://www.meetup.com/rails-taiwan/events/304934011
 
 - name: Ruby Usergroup Hamburg - Chrismas Edition - Dezember 2024
   location: Hamburg, Germany
@@ -3284,6 +3298,13 @@
   start_time: 19:00:00 CET
   end_time: 21:00:00 CET
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-chrismas-edition-dezember-2024-916
+
+- name: Valencia.rb - reinauguración del grupo de Ruby
+  location: Valencia, Spain
+  date: 2024-12-11
+  start_time: 18:30:00 CET
+  end_time: 20:30:00 CET
+  url: https://www.meetup.com/vlctechhub/events/304814718
 
 - name: DenHaag.rb - Den Haag Ruby Meetup but then in Rotterdam
   location: Rotterdam, Netherlands
@@ -3298,6 +3319,13 @@
   start_time: 18:00:00 CET
   end_time: 21:00:00 CET
   url: https://www.meetup.com/rotterdam-rb/events/304125044
+
+- name: Scottish Ruby User Group - Merry Ruby Christmas 2024 !
+  location: Online
+  date: 2024-12-12
+  start_time: 18:00:00 GMT
+  end_time: 19:30:00 GMT
+  url: https://www.meetup.com/scotrug/events/304950930
 
 - name: Ruby and Rails Adelaide - Ruby Burgers December 2024
   location: Adelaide, Australia
@@ -3333,6 +3361,27 @@
   start_time: 19:00:00 EST
   end_time: 21:00:00 EST
   url: https://www.meetup.com/miamirb/events/304785659
+
+- name: Nantes.rb - Ruby au Melting Potes!
+  location: Nantes, France
+  date: 2024-12-17
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/nantes-rb/events/304903746
+
+- name: Ruby Zagreb - RubyZG December drinkup
+  location: Zagreb, Croatia
+  date: 2024-12-17
+  start_time: 18:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/rubyzg/events/304954096
+
+- name: Ruby on Rails Latvia - Ruby community meetup - December 2024
+  location: Riga, Latvia
+  date: 2024-12-17
+  start_time: 17:00:00 EET
+  end_time: 20:00:00 EET
+  url: https://www.meetup.com/ruby-on-rails-latvia/events/304912925
 
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
@@ -3381,14 +3430,14 @@
   date: 2024-12-23
   start_time: 10:00:00 PST
   end_time: 11:00:00 PST
-  url: https://www.meetup.com/ocruby/events/sdczltygcqbfc
+  url: https://www.meetup.com/ocruby/events/304901237
 
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
   date: 2024-12-24
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtygcqbgc
+  url: https://www.meetup.com/rubyjax/events/304926026
 
 - name: Rails Taiwan - 高雄 Rails Meetup December 2024
   location: Kaohsiung, Taiwan
@@ -3410,7 +3459,7 @@
   date: 2024-12-27
   start_time: 18:00:00 ACDT
   end_time: 20:00:00 ACDT
-  url: https://www.meetup.com/adelaiderb/events/dzcvqsygcqbkc
+  url: https://www.meetup.com/adelaiderb/events/304967245
 
 - name: African Ruby Community - Kampala Chapter Mini workshop December 2024
   location: Online
@@ -3454,7 +3503,7 @@
   end_time: 21:30:00 EST
   url: https://www.meetup.com/charlotte-rb/events/nqchktyhccbkb
 
-- name: Paris.rb - January 2025
+- name: Paris.rb - Meetup January 2025
   location: Paris, France
   date: 2025-01-07
   start_time: 19:00:00 CET
@@ -3517,6 +3566,13 @@
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhccbmb
 
+- name: Ruby User Group Berlin - (tentative) January Meetup
+  location: Berlin, Germany
+  date: 2025-01-09
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.rug-b.de/events/tentative-january-meetup-1112
+
 - name: Ruby and Rails Adelaide - Ruby Burgers January 2025
   location: Adelaide, Australia
   date: 2025-01-10
@@ -3530,6 +3586,13 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
+
+- name: Austin.rb - Placeholder (Tech Talk) January 2025
+  location: Austin, TX
+  date: 2025-01-14
+  start_time: 18:30:00 CST
+  end_time: 20:30:00 CST
+  url: https://www.meetup.com/austinrb/events/304960558
 
 - name: B'more on Rails - Monthly Meetup January 2025
   location: Online
@@ -3567,12 +3630,19 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/geneva-rb/events/304627310
 
+- name: Montreal.rb - ** Talk Topic To Be Decided*** January 2025
+  location: Montréal, Canada
+  date: 2025-01-15
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/montrealrb/events/klqgptyhccbtb
+
 - name: Portland Ruby Brigade - Cocktails + Code January 2025
   location: Portland, OR
   date: 2025-01-15
   start_time: 18:00:00 PST
   end_time: 20:00:00 PST
-  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhccbtb
+  url: https://www.meetup.com/portland-ruby-brigade/events/304874199
 
 - name: Rails Taiwan - 高雄 Rails Meetup January 2025
   location: Kaohsiung, Taiwan
@@ -3615,6 +3685,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhccbcc
+
+- name: Toulouse.rb - Conf & Apéro - Janvier
+  location: Toulouse, France
+  date: 2025-01-21
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/toulouse-ruby-friends/events/304951231
 
 - name: Rails Taiwan - 高雄 Rails Meetup January 2025
   location: Kaohsiung, Taiwan
@@ -3714,6 +3791,13 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339818
 
+- name: Austin.rb - Placeholder (Tech Talk) February 2025
+  location: Austin, TX
+  date: 2025-02-11
+  start_time: 18:30:00 CST
+  end_time: 20:30:00 CST
+  url: https://www.meetup.com/austinrb/events/304960562
+
 - name: B'more on Rails - Monthly Meetup February 2025
   location: Online
   date: 2025-02-11
@@ -3777,6 +3861,13 @@
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcdbrb
 
+- name: SF Bay Area Ruby - SF Ruby February Meetup @ GitHub
+  location: San Francisco, CA
+  date: 2025-02-13
+  start_time: 17:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://lu.ma/hoou421h
+
 - name: Columbus Ruby Brigade - Monthly Meetup February 2025
   location: Columbus, OH
   date: 2025-02-17
@@ -3811,6 +3902,13 @@
   start_time: 19:00:00 CET
   end_time: 21:00:00 CET
   url: https://www.meetup.com/geneva-rb/events/304627311
+
+- name: Montreal.rb - ** Talk Topic To Be Decided*** February 2025
+  location: Montréal, Canada
+  date: 2025-02-19
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/montrealrb/events/klqgptyhcdbzb
 
 - name: Portland Ruby Brigade - Cocktails + Code February 2025
   location: Portland, OR
@@ -3924,6 +4022,13 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339820
 
+- name: Austin.rb - Placeholder (Tech Talk) March 2025
+  location: Austin, TX
+  date: 2025-03-11
+  start_time: 18:30:00 CST
+  end_time: 20:30:00 CST
+  url: https://www.meetup.com/austinrb/events/304960567
+
 - name: B'more on Rails - Monthly Meetup March 2025
   location: Online
   date: 2025-03-11
@@ -4022,6 +4127,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhcfbxb
 
+- name: Montreal.rb - ** Talk Topic To Be Decided*** March 2025
+  location: Montréal, Canada
+  date: 2025-03-19
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/montrealrb/events/klqgptyhcfbzb
+
 - name: Portland Ruby Brigade - Cocktails + Code March 2025
   location: Portland, OR
   date: 2025-03-19
@@ -4077,3 +4189,52 @@
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcfbkc
+
+- name: Orange County Ruby - Ruby Science March 2025
+  location: Online
+  date: 2025-03-31
+  start_time: 10:00:00 PST
+  end_time: 11:00:00 PST
+  url: https://www.meetup.com/ocruby/events/sdczltyhcfbpc
+
+- name: Charlotte Ruby - Ruby Hack Night April 2025
+  location: Online
+  date: 2025-04-01
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/nqchktyhcgbcb
+
+- name: RubyJax - Open Hax April 2025
+  location: Jacksonville, FL
+  date: 2025-04-01
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcgbcb
+
+- name: Prague.rb - First Wednesday Of The Month - Ruby April 2025
+  location: Prague, Czechia
+  date: 2025-04-02
+  start_time: 19:00:00 CET
+  end_time: 19:00:00 CET
+  url: https://www.meetup.com/praguerb/events/dkmktfyhcgbdb
+
+- name: Rails Taiwan - 高雄 Rails Meetup April 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-04-02
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbdb
+
+- name: Ruby and Rails Adelaide - Ruby Burgers April 2025
+  location: Adelaide, Australia
+  date: 2025-04-04
+  start_time: 18:00:00 ACDT
+  end_time: 20:00:00 ACDT
+  url: https://www.meetup.com/adelaiderb/events/dzcvqsyhcgbgb
+
+- name: African Ruby Community - Kampala Chapter Mini workshop April 2025
+  location: Online
+  date: 2025-04-05
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcgbhb
