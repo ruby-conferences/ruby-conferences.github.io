@@ -2909,6 +2909,9 @@
   url: https://balkanruby.com
   twitter: balkanruby
   announced_on: 2024-04-28
+  cfp_link: https://forms.gle/Wzp4QvDzAiWVrB7d9
+  cfp_open_date: 2024-11-19
+  cfp_close_date: 2025-02-02 # TODO: seems like it's open-ended
 
 - name: Helvetic Ruby 2025
   location: Geneva, Switzerland
