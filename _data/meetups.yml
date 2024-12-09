@@ -3164,13 +3164,6 @@
   end_time: 19:30:00 NZDT
   url: https://www.meetup.com/rubywellington/events/304606895
 
-- name: London Ruby User Group - December 2024 Meeting
-  location: London, UK
-  date: 2024-12-09
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2024/december
-
 - name: Orange County Ruby - Ruby Science December 2024
   location: Online
   date: 2024-12-09
@@ -3396,6 +3389,13 @@
   start_time: 18:30:00 CET
   end_time: 20:30:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304627678
+
+- name: NYC.rb - Celebrate 2024 in-person!
+  location: New York, NY
+  date: 2024-12-18
+  start_time: 19:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/nyc-rb/events/304976995
 
 - name: Portland Ruby Brigade - Cocktails + Code December 2024
   location: Portland, OR
@@ -4238,3 +4238,31 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcgbhb
+
+- name: Austin.rb - Placeholder (Tech Talk) April 2025
+  location: Austin, TX
+  date: 2025-04-08
+  start_time: 18:30:00 CST
+  end_time: 20:30:00 CST
+  url: https://www.meetup.com/austinrb/events/304960570
+
+- name: B'more on Rails - Monthly Meetup April 2025
+  location: Online
+  date: 2025-04-08
+  start_time: 19:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcgblb
+
+- name: Philly.rb - Pubnite April 2025
+  location: Online
+  date: 2025-04-08
+  start_time: 20:30:00 EST
+  end_time: 22:00:00 EST
+  url: https://www.meetup.com/phillyrb/events/nnlgbtyhcgblb
+
+- name: RubyJax - Open Hax April 2025
+  location: Jacksonville, FL
+  date: 2025-04-08
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcgblb
