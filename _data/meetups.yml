@@ -3193,13 +3193,6 @@
   url: https://www.meetup.com/bmore-on-rails/events/303140116
   status: cancelled
 
-- name: 'Krakow Ruby Users Group (KRUG) - KRUG #4 / 2024 powered by Zendesk'
-  location: Kraków, Poland
-  date: 2024-12-10
-  start_time: 18:00:00 CET
-  end_time: 22:00:00 CET
-  url: https://www.meetup.com/krakow-ruby-users-group/events/304882542
-
 - name: Philly.rb - Pubnite December 2024
   location: Online
   date: 2024-12-10
@@ -3355,6 +3348,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/columbusrb/events/304784434
 
+- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #136 Grudzień 2024'
+  location: Wrocław, Poland
+  date: 2024-12-16
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/drugpl/events/305014805
+
 - name: Miami Ruby Brigade - December 2024
   location: Coral Gables, FL
   date: 2024-12-16
@@ -3417,6 +3417,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbxb
+
+- name: Vilnius.rb - VRB December meetup
+  location: Vilnius, Lithuania
+  date: 2024-12-18
+  start_time: 18:00:00 EET
+  end_time: 21:00:00 EET
+  url: https://www.meetup.com/vilniusrb/events/305016767
 
 - name: West Midlands Ruby User Group - Monthly Meetup December 2024
   location: Online
@@ -3502,6 +3509,13 @@
   start_time: 10:00:00 PST
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/304997353
+
+- name: 'Bluegrass Ruby - January 2025: Rails 8'
+  location: Lexington, KY
+  date: 2025-01-07
+  start_time: 18:00:00 EST
+  end_time: 19:30:00 EST
+  url: https://www.meetup.com/the-bluegrass-developers-guild/events/305020795
 
 - name: Charlotte Ruby - Ruby Hack Night January 2025
   location: Online
@@ -4323,3 +4337,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbmb
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined April 2025'
+  location: Online
+  date: 2025-04-10
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcgbnb
