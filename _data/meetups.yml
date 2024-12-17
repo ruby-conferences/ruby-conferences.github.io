@@ -3350,21 +3350,6 @@
   end_time: 14:00:00 IST
   url: https://www.meetup.com/punerubymeetup/events/304756374
 
-- name: Columbus Ruby Brigade - Monthly Meetup December 2024
-  location: Columbus, OH
-  date: 2024-12-16
-  start_time: 18:00:00 EST
-  end_time: 20:00:00 EST
-  url: https://www.meetup.com/columbusrb/events/304784434
-  status: cancelled
-
-- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #136 Grudzień 2024'
-  location: Wrocław, Poland
-  date: 2024-12-16
-  start_time: 19:00:00 CET
-  end_time: 21:00:00 CET
-  url: https://www.meetup.com/drugpl/events/305014805
-
 - name: Miami Ruby Brigade - December 2024
   location: Coral Gables, FL
   date: 2024-12-16
@@ -3410,7 +3395,7 @@
 - name: NYC.rb - Celebrate 2024 in-person!
   location: New York, NY
   date: 2024-12-18
-  start_time: 19:00:00 EST
+  start_time: 17:00:00 EST
   end_time: 21:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/304976995
 
@@ -3476,6 +3461,7 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/304926026
+  status: cancelled
 
 - name: Rails Taiwan - 高雄 Rails Meetup December 2024
   location: Kaohsiung, Taiwan
@@ -4333,3 +4319,31 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhcgbtb
+
+- name: Montreal.rb - ** Talk Topic To Be Decided***
+  location: Montréal, Canada
+  date: 2025-04-16
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/montrealrb/events/klqgptyhcgbvb
+
+- name: Portland Ruby Brigade - Cocktails + Code April 2025
+  location: Portland, OR
+  date: 2025-04-16
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcgbvb
+
+- name: Rails Taiwan - 高雄 Rails Meetup April 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-04-16
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbvb
+
+- name: West Midlands Ruby User Group - Monthly Meetup April 2025
+  location: Online
+  date: 2025-04-16
+  start_time: 19:00:00 GMT
+  end_time: 21:00:00 GMT
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcgbvb
