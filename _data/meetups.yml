@@ -3372,27 +3372,6 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/miamirb/events/304785659
 
-- name: Nantes.rb - Ruby au Melting Potes!
-  location: Nantes, France
-  date: 2024-12-17
-  start_time: 19:00:00 CET
-  end_time: 21:00:00 CET
-  url: https://www.meetup.com/nantes-rb/events/304903746
-
-- name: Ruby Zagreb - RubyZG December drinkup
-  location: Zagreb, Croatia
-  date: 2024-12-17
-  start_time: 18:00:00 CET
-  end_time: 21:00:00 CET
-  url: https://www.meetup.com/rubyzg/events/304954096
-
-- name: Ruby on Rails Latvia - Ruby community meetup - December 2024
-  location: Riga, Latvia
-  date: 2024-12-17
-  start_time: 17:00:00 EET
-  end_time: 20:00:00 EET
-  url: https://www.meetup.com/ruby-on-rails-latvia/events/304912925
-
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
   date: 2024-12-17
@@ -3400,17 +3379,10 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/304803900
 
-- name: Toulouse.rb - Conf & Apéro - Décembre
-  location: Toulouse, France
-  date: 2024-12-17
-  start_time: 18:30:00 CET
-  end_time: 20:30:00 CET
-  url: https://www.meetup.com/toulouse-ruby-friends/events/304627678
-
 - name: NYC.rb - Celebrate 2024 in-person!
   location: New York, NY
   date: 2024-12-18
-  start_time: 19:00:00 EST
+  start_time: 17:00:00 EST
   end_time: 21:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/304976995
 
@@ -3476,6 +3448,7 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/304926026
+  status: cancelled
 
 - name: Rails Taiwan - 高雄 Rails Meetup December 2024
   location: Kaohsiung, Taiwan
@@ -3671,8 +3644,8 @@
 - name: Montreal.rb - Responsibility Driven Design in Ruby
   location: Montréal, Canada
   date: 2025-01-15
-  start_time: 18:00:00 EST
-  end_time: 21:00:00 EST
+  start_time: 18:30:00 EST
+  end_time: 21:30:00 EST
   url: https://www.meetup.com/montrealrb/events/305005846
 
 - name: Portland Ruby Brigade - Cocktails + Code January 2025
@@ -4333,3 +4306,31 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhcgbtb
+
+- name: Montreal.rb - ** Talk Topic To Be Decided***
+  location: Montréal, Canada
+  date: 2025-04-16
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/montrealrb/events/klqgptyhcgbvb
+
+- name: Portland Ruby Brigade - Cocktails + Code April 2025
+  location: Portland, OR
+  date: 2025-04-16
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcgbvb
+
+- name: Rails Taiwan - 高雄 Rails Meetup April 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-04-16
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbvb
+
+- name: West Midlands Ruby User Group - Monthly Meetup April 2025
+  location: Online
+  date: 2025-04-16
+  start_time: 19:00:00 GMT
+  end_time: 21:00:00 GMT
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcgbvb
