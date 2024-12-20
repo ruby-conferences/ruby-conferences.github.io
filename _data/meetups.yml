@@ -3442,26 +3442,12 @@
   end_time: 21:00:00 GMT
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/304816153
 
-- name: 'Barcelona.rb - BARcelona.rb - let''s have some beers together at #December'
-  location: Barcelona, Spain
-  date: 2024-12-19
-  start_time: 18:30:00 CET
-  end_time: 21:30:00 CET
-  url: https://www.meetup.com/barcelona-rb/events/305046659
-
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD December 2024'
   location: Christchurch, New Zealand
   date: 2024-12-19
   start_time: 19:30:00 NZST
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz
-
-- name: 'Polish Ruby User Group - Warsaw meetup #December'
-  location: Warszawa, Poland
-  date: 2024-12-19
-  start_time: 18:00:00 CET
-  end_time: 21:00:00 CET
-  url: https://www.meetup.com/polishrubyusergroup/events/305029300
 
 - name: Orange County Ruby - Ruby Science December 2024
   location: Online
@@ -3476,13 +3462,14 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/304926026
+  status: cancelled
 
 - name: Rails Taiwan - 高雄 Rails Meetup December 2024
   location: Kaohsiung, Taiwan
   date: 2024-12-25
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbhc
+  url: https://www.meetup.com/rails-taiwan/events/305162902
 
 - name: Orange County Ruby - Meetup December 2024
   location: Dana Point, CA
@@ -3560,7 +3547,7 @@
   date: 2025-01-07
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtyhccbkb
+  url: https://www.meetup.com/rubyjax/events/305156103
 
 - name: Atlanta Ruby - Gabe Torres on Building Multiplayer Minesweeper in Rails 8
   location: Online
@@ -3595,7 +3582,7 @@
   date: 2025-01-08
   start_time: 19:15:00 CET
   end_time: 21:15:00 CET
-  url: https://www.meetup.com/paris-ruby-workshop/events/gtswgtyhccblb
+  url: https://www.meetup.com/paris-ruby-workshop/events/305169274
 
 - name: Rails Taiwan - 高雄 Rails Meetup January 2025
   location: Kaohsiung, Taiwan
@@ -3624,6 +3611,13 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
+
+- name: London Ruby User Group - January 2025 Meeting
+  location: London, UK
+  date: 2025-01-13
+  start_time: 18:00:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://lrug.org/meetings/2025/january
 
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
@@ -3671,8 +3665,8 @@
 - name: Montreal.rb - Responsibility Driven Design in Ruby
   location: Montréal, Canada
   date: 2025-01-15
-  start_time: 18:00:00 EST
-  end_time: 21:00:00 EST
+  start_time: 18:30:00 EST
+  end_time: 21:30:00 EST
   url: https://www.meetup.com/montrealrb/events/305005846
 
 - name: Portland Ruby Brigade - Cocktails + Code January 2025
@@ -4333,3 +4327,38 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhcgbtb
+
+- name: Montreal.rb - ** Talk Topic To Be Decided***
+  location: Montréal, Canada
+  date: 2025-04-16
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/montrealrb/events/klqgptyhcgbvb
+
+- name: Portland Ruby Brigade - Cocktails + Code April 2025
+  location: Portland, OR
+  date: 2025-04-16
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcgbvb
+
+- name: Rails Taiwan - 高雄 Rails Meetup April 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-04-16
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbvb
+
+- name: West Midlands Ruby User Group - Monthly Meetup April 2025
+  location: Online
+  date: 2025-04-16
+  start_time: 19:00:00 GMT
+  end_time: 21:00:00 GMT
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcgbvb
+
+- name: African Ruby Community - Kampala Chapter Mini workshop April 2025
+  location: Online
+  date: 2025-04-19
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcgbzb
