@@ -2959,14 +2959,12 @@
 
 - name: RailsConf 2025
   location: Philadelphia, PA
-  # TODO: update when dates are confirmed
-  start_date: 2025-07-31
-  end_date: 2025-07-31
-  date_precision: month
-  url: https://www.railsconf.com
+  start_date: 2025-07-08
+  end_date: 2025-07-10
+  url: https://www.railsconf.org
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
-  announced_on: 2024-05-07
+  announced_on: 2024-12-20
 
 - name: Rails Camp West 2025
   location: USA
