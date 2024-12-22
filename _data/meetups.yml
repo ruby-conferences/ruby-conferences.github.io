@@ -3626,13 +3626,6 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
 
-- name: London Ruby User Group - January 2025 Meeting
-  location: London, UK
-  date: 2025-01-13
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/january
-
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
   date: 2025-01-14
@@ -3955,7 +3948,7 @@
   date: 2025-02-19
   start_time: 18:00:00 PST
   end_time: 20:00:00 PST
-  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcdbzb
+  url: https://www.meetup.com/portland-ruby-brigade/events/305194628
 
 - name: Rails Taiwan - 高雄 Rails Meetup February 2025
   location: Kaohsiung, Taiwan
@@ -4376,3 +4369,17 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcgbzb
+
+- name: Columbus Ruby Brigade - Monthly Meetup April 2025
+  location: Columbus, OH
+  date: 2025-04-21
+  start_time: 18:00:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/columbusrb/events/nwmbptyhcgbcc
+
+- name: Miami Ruby Brigade - April 2025
+  location: Coral Gables, FL
+  date: 2025-04-21
+  start_time: 19:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/miamirb/events/pdvctsyhcgbcc
