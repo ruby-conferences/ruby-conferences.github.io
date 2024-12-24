@@ -3463,13 +3463,6 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/polishrubyusergroup/events/305029300
 
-- name: Orange County Ruby - Ruby Science December 2024
-  location: Online
-  date: 2024-12-23
-  start_time: 10:00:00 PST
-  end_time: 11:00:00 PST
-  url: https://www.meetup.com/ocruby/events/304901237
-
 - name: RubyJax - Open Hax December 2024
   location: Jacksonville, FL
   date: 2024-12-24
@@ -3625,13 +3618,6 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
-
-- name: London Ruby User Group - January 2025 Meeting
-  location: London, UK
-  date: 2025-01-13
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/january
 
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
@@ -4390,3 +4376,17 @@
   start_time: 19:00:00 EST
   end_time: 21:00:00 EST
   url: https://www.meetup.com/miamirb/events/pdvctsyhcgbcc
+
+- name: RubyJax - Open Hax April 2025
+  location: Jacksonville, FL
+  date: 2025-04-22
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcgbdc
+
+- name: Rails Taiwan - 高雄 Rails Meetup April 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-04-23
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbfc
