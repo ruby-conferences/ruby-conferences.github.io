@@ -3885,7 +3885,7 @@
   date: 2025-02-12
   start_time: 19:15:00 CET
   end_time: 21:15:00 CET
-  url: https://www.meetup.com/paris-ruby-workshop/events/gtswgtyhcdbqb
+  url: https://www.meetup.com/paris-ruby-workshop/events/305237209
 
 - name: Rails Taiwan - 高雄 Rails Meetup February 2025
   location: Kaohsiung, Taiwan
@@ -4390,3 +4390,24 @@
   start_time: 19:00:00 EST
   end_time: 21:00:00 EST
   url: https://www.meetup.com/miamirb/events/pdvctsyhcgbcc
+
+- name: RubyJax - Open Hax April 2025
+  location: Jacksonville, FL
+  date: 2025-04-22
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcgbdc
+
+- name: Rails Taiwan - 高雄 Rails Meetup April 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-04-23
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbfc
+
+- name: Orange County Ruby - Meetup April 2025
+  location: Dana Point, CA
+  date: 2025-04-24
+  start_time: 19:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://www.meetup.com/ocruby/events/pbgwwqyhcgbgc
