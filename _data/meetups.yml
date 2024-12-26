@@ -3478,13 +3478,6 @@
   url: https://www.meetup.com/rubyjax/events/304926026
   status: cancelled
 
-- name: Rails Taiwan - 高雄 Rails Meetup December 2024
-  location: Kaohsiung, Taiwan
-  date: 2024-12-25
-  start_time: 19:00:00 CST
-  end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/305162902
-
 - name: Orange County Ruby - Meetup December 2024
   location: Dana Point, CA
   date: 2024-12-26
@@ -3626,13 +3619,6 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
 
-- name: London Ruby User Group - January 2025 Meeting
-  location: London, UK
-  date: 2025-01-13
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/january
-
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
   date: 2025-01-14
@@ -3666,7 +3652,7 @@
   date: 2025-01-14
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtyhccbsb
+  url: https://www.meetup.com/rubyjax/events/305257944
 
 - name: 'Geneva.rb - Beyond the Basics: Tackling Edge Cases in Slow Ruby on Rails
     Code (J.-C. Santi)'
