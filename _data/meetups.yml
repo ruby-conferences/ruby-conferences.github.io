@@ -3526,7 +3526,7 @@
   date: 2025-01-01
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhccbcb
+  url: https://www.meetup.com/rails-taiwan/events/305264143
 
 - name: Orange County Ruby - Ruby Science January 2025
   location: Online
@@ -3626,13 +3626,6 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
 
-- name: London Ruby User Group - January 2025 Meeting
-  location: London, UK
-  date: 2025-01-13
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/january
-
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
   date: 2025-01-14
@@ -3666,7 +3659,7 @@
   date: 2025-01-14
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtyhccbsb
+  url: https://www.meetup.com/rubyjax/events/305257944
 
 - name: 'Geneva.rb - Beyond the Basics: Tackling Edge Cases in Slow Ruby on Rails
     Code (J.-C. Santi)'
@@ -3899,7 +3892,7 @@
   date: 2025-02-13
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcdbrb
+  url: https://www.meetup.com/african_ruby_community/events/305297114
 
 - name: SF Bay Area Ruby - SF Ruby February Meetup @ GitHub
   location: San Francisco, CA
@@ -4411,3 +4404,24 @@
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcgbgc
+
+- name: Orange County Ruby - Ruby Science April 2025
+  location: Online
+  date: 2025-04-28
+  start_time: 10:00:00 PST
+  end_time: 11:00:00 PST
+  url: https://www.meetup.com/ocruby/events/sdczltyhcgblc
+
+- name: RubyJax - Open Hax April 2025
+  location: Jacksonville, FL
+  date: 2025-04-29
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcgbmc
+
+- name: Rails Taiwan - 高雄 Rails Meetup April 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-04-30
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbnc
