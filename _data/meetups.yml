@@ -3514,20 +3514,6 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/305039696
 
-- name: Prague.rb - First Wednesday Of The Month - Ruby January 2025
-  location: Prague, Czechia
-  date: 2025-01-01
-  start_time: 19:00:00 CET
-  end_time: 19:00:00 CET
-  url: https://www.meetup.com/praguerb/events/305052820
-
-- name: Rails Taiwan - 高雄 Rails Meetup January 2025
-  location: Kaohsiung, Taiwan
-  date: 2025-01-01
-  start_time: 19:00:00 CST
-  end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/305264143
-
 - name: Orange County Ruby - Ruby Science January 2025
   location: Online
   date: 2025-01-06
@@ -3569,6 +3555,13 @@
   start_time: 18:30:00 EST
   end_time: 20:30:00 EST
   url: https://www.meetup.com/atlantaruby/events/304537410
+
+- name: Boulder Ruby - Jan 2025 Presentation Night
+  location: Boulder, CO
+  date: 2025-01-08
+  start_time: 18:00:00 MST
+  end_time: 20:30:00 MST
+  url: https://lu.ma/vyiivomc
 
 - name: ChicagoRuby - New Year. New Ruby. New Rails. Welcome Ruby 3.4 + Rails 8!
   location: Chicago, IL
@@ -3625,13 +3618,6 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
-
-- name: London Ruby User Group - January 2025 Meeting
-  location: London, UK
-  date: 2025-01-13
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/january
 
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
@@ -3704,6 +3690,13 @@
   end_time: 21:00:00 GMT
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/304997379
 
+- name: Munich Ruby User Group - Ruby Meetup January 2025
+  location: München, Germany
+  date: 2025-01-16
+  start_time: 19:00:00 CET
+  end_time: 22:00:00 CET
+  url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/301843343
+
 - name: SF Bay Area Ruby - SF Ruby January Meetup @ Productboard
   location: San Francisco, CA
   date: 2025-01-16
@@ -3716,7 +3709,7 @@
   date: 2025-01-20
   start_time: 19:00:00 EST
   end_time: 21:00:00 EST
-  url: https://www.meetup.com/miamirb/events/pdvctsyhccbbc
+  url: https://www.meetup.com/miamirb/events/305353771
 
 - name: Orange County Ruby - Ruby Science January 2025
   location: Online
@@ -3730,7 +3723,7 @@
   date: 2025-01-21
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtyhccbcc
+  url: https://www.meetup.com/rubyjax/events/305369001
 
 - name: Toulouse.rb - Conf & Apéro - Janvier
   location: Toulouse, France
