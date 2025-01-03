@@ -3549,6 +3549,13 @@
   end_time: 21:30:00 EST
   url: https://www.meetup.com/charlotte-rb/events/304997364
 
+- name: NYC.rb - Meet up - Jan 2025
+  location: New York, NY
+  date: 2025-01-07
+  start_time: 17:00:00 EST
+  end_time: 19:00:00 EST
+  url: https://www.meetup.com/nyc-rb/events/305382630
+
 - name: Paris.rb - Meetup January 2025
   location: Paris, France
   date: 2025-01-07
@@ -3569,6 +3576,13 @@
   start_time: 18:30:00 EST
   end_time: 20:30:00 EST
   url: https://www.meetup.com/atlantaruby/events/304537410
+
+- name: Boulder Ruby - Jan 2025 Presentation Night
+  location: Boulder, CO
+  date: 2025-01-08
+  start_time: 18:00:00 MST
+  end_time: 20:30:00 MST
+  url: https://lu.ma/vyiivomc
 
 - name: ChicagoRuby - New Year. New Ruby. New Rails. Welcome Ruby 3.4 + Rails 8!
   location: Chicago, IL
@@ -3603,7 +3617,14 @@
   date: 2025-01-08
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhccblb
+  url: https://www.meetup.com/rails-taiwan/events/305377704
+
+- name: Ruby Usergroup Hamburg - Januar 2025
+  location: Hamburg, Germany
+  date: 2025-01-08
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-januar-2025-1178
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined January 2025'
   location: Online
@@ -3625,13 +3646,6 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
-
-- name: London Ruby User Group - January 2025 Meeting
-  location: London, UK
-  date: 2025-01-13
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/january
 
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
@@ -3704,6 +3718,13 @@
   end_time: 21:00:00 GMT
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/304997379
 
+- name: Munich Ruby User Group - Ruby Meetup January 2025
+  location: München, Germany
+  date: 2025-01-16
+  start_time: 19:00:00 CET
+  end_time: 22:00:00 CET
+  url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/301843343
+
 - name: SF Bay Area Ruby - SF Ruby January Meetup @ Productboard
   location: San Francisco, CA
   date: 2025-01-16
@@ -3716,7 +3737,7 @@
   date: 2025-01-20
   start_time: 19:00:00 EST
   end_time: 21:00:00 EST
-  url: https://www.meetup.com/miamirb/events/pdvctsyhccbbc
+  url: https://www.meetup.com/miamirb/events/305353771
 
 - name: Orange County Ruby - Ruby Science January 2025
   location: Online
@@ -3730,7 +3751,7 @@
   date: 2025-01-21
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtyhccbcc
+  url: https://www.meetup.com/rubyjax/events/305369001
 
 - name: Toulouse.rb - Conf & Apéro - Janvier
   location: Toulouse, France
@@ -3745,6 +3766,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhccbdc
+
+- name: Ruby in London - with Ophelos
+  location: London, UK
+  date: 2025-01-22
+  start_time: 17:30:00 GMT
+  end_time: 19:30:00 GMT
+  url: https://www.meetup.com/ruby-in-london/events/305376921
 
 - name: African Ruby Community - Kampala Chapter Mini workshop January 2025
   location: Online
@@ -4432,3 +4460,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbnc
+
+- name: African Ruby Community - Kampala Chapter Mini workshop May 2025
+  location: Online
+  date: 2025-05-03
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhchbfb
