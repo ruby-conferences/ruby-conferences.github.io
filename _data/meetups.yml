@@ -3647,13 +3647,6 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
 
-- name: London Ruby User Group - January 2025 Meeting
-  location: London, UK
-  date: 2025-01-13
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/january
-
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
   date: 2025-01-14
@@ -3801,13 +3794,6 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhccblc
-
-- name: Toronto Ruby - January 2025 - Welcome to 2025 Edition
-  location: Toronto, Canada
-  date: 2025-01-28
-  start_time: 18:00:00 EST
-  end_time: 21:00:00 EST
-  url: https://lu.ma/k8pr7rws
 
 - name: Rails Taiwan - 高雄 Rails Meetup January 2025
   location: Kaohsiung, Taiwan
@@ -4481,3 +4467,17 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhchbfb
+
+- name: Charlotte Ruby - Ruby Hack Night May 2025
+  location: Online
+  date: 2025-05-06
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/nqchktyhchbjb
+
+- name: RubyJax - Open Hax May 2025
+  location: Jacksonville, FL
+  date: 2025-05-06
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhchbjb
