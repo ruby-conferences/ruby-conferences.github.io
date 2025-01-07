@@ -3541,6 +3541,7 @@
   start_time: 18:00:00 EST
   end_time: 19:30:00 EST
   url: https://www.meetup.com/the-bluegrass-developers-guild/events/305020795
+  status: cancelled
 
 - name: Charlotte Ruby - Ruby Hack Night January 2025
   location: Online
@@ -3795,6 +3796,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/columbusrb/events/302708472
 
+- name: Nantes.rb - Ruby talk
+  location: Nantes, France
+  date: 2025-01-28
+  start_time: 18:30:00 CET
+  end_time: 20:30:00 CET
+  url: https://www.meetup.com/nantes-rb/events/305457741
+
 - name: RubyJax - Open Hax January 2025
   location: Jacksonville, FL
   date: 2025-01-28
@@ -3837,6 +3845,13 @@
   start_time: 10:00:00 PST
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/sdczltyhcdbfb
+
+- name: 'Bluegrass Ruby - February 2025: Rails 8'
+  location: Lexington, KY
+  date: 2025-02-04
+  start_time: 18:00:00 EST
+  end_time: 19:30:00 EST
+  url: https://www.meetup.com/the-bluegrass-developers-guild/events/305461484
 
 - name: Charlotte Ruby - Ruby Hack Night February 2025
   location: Online
@@ -4389,7 +4404,7 @@
   date: 2025-04-16
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
-  url: https://www.meetup.com/montrealrb/events/klqgptyhcgbvb
+  url: https://www.meetup.com/montrealrb/events/hrtnptyhcgbvb
 
 - name: Portland Ruby Brigade - Cocktails + Code April 2025
   location: Portland, OR
@@ -4481,3 +4496,31 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhchbfb
+
+- name: Charlotte Ruby - Ruby Hack Night May 2025
+  location: Online
+  date: 2025-05-06
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/nqchktyhchbjb
+
+- name: RubyJax - Open Hax May 2025
+  location: Jacksonville, FL
+  date: 2025-05-06
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhchbjb
+
+- name: Prague.rb - First Wednesday Of The Month - Ruby May 2025
+  location: Prague, Czechia
+  date: 2025-05-07
+  start_time: 19:00:00 CET
+  end_time: 19:00:00 CET
+  url: https://www.meetup.com/praguerb/events/dkmktfyhchbkb
+
+- name: Rails Taiwan - 高雄 Rails Meetup May 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-05-07
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhchbkb
