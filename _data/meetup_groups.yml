@@ -518,6 +518,12 @@
   name: Pune Ruby Users Group
   service: meetupdotcom
 
+- id: punerubymeetup
+  name: Pune Ruby Meetup
+  service: luma
+  ical_url: https://lu.ma/calendar/cal-KTu2DlicAMuYZT1
+  timezone: Asia/Kolkata
+
 # - id: quillarb
 #   name:
 #   service: meetupdotcom
