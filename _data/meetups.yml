@@ -3789,6 +3789,13 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339817
 
+- name: Pune Ruby Meetup - January Meetup
+  location: Maharashtra 411014, India
+  date: 2025-01-25
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://lu.ma/2yob77sl
+
 - name: Columbus Ruby Brigade - Monthly Meetup January 2025
   location: Columbus, OH
   date: 2025-01-27
