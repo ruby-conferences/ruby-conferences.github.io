@@ -3647,6 +3647,7 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339816
+  status: cancelled
 
 - name: London Ruby User Group - January 2025 Meeting
   location: London, UK
@@ -3975,8 +3976,8 @@
 - name: Ruby Usergroup Hamburg - Februar 2025
   location: Hamburg, Germany
   date: 2025-02-12
-  start_time: 20:00:00 CET
-  end_time: 22:00:00 CET
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-februar-2025-1211
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined February 2025'
