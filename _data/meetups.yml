@@ -3755,6 +3755,13 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/305349007
 
+- name: VanRuby - New Year Edition
+  location: Vancouver, Canada
+  date: 2025-01-20
+  start_time: 19:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://www.meetup.com/vancouver-ruby/events/305550913
+
 - name: RubyJax - Open Hax January 2025
   location: Jacksonville, FL
   date: 2025-01-21
@@ -3846,6 +3853,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhccbmc
 
+- name: Winnipeg Ruby User Group - Making a Game with DragonRuby
+  location: Winnipeg, Canada
+  date: 2025-01-29
+  start_time: 18:00:00 CST
+  end_time: 20:00:00 CST
+  url: https://www.meetup.com/winnipegrb/events/305304260
+
 - name: Madrid.rb - January 2025 - Solid Queue internals, externals and all the things
     in between
   location: Madrid, Spain
@@ -3859,7 +3873,7 @@
   date: 2025-01-30
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
-  url: https://www.meetup.com/ocruby/events/pbgwwqyhccbnc
+  url: https://www.meetup.com/ocruby/events/305549444
 
 - name: Orange County Ruby - Ruby Science February 2025
   location: Online
@@ -3880,7 +3894,7 @@
   date: 2025-02-04
   start_time: 19:00:00 EST
   end_time: 21:30:00 EST
-  url: https://www.meetup.com/charlotte-rb/events/nqchktyhcdbgb
+  url: https://www.meetup.com/charlotte-rb/events/305557477
 
 - name: RubyJax - Open Hax February 2025
   location: Jacksonville, FL
@@ -3944,6 +3958,13 @@
   start_time: 18:30:00 EST
   end_time: 20:30:00 EST
   url: https://www.meetup.com/atlantaruby/events/305392731
+
+- name: Boulder Ruby - Feb 2025 Presentation Night
+  location: Boulder, CO
+  date: 2025-02-12
+  start_time: 18:00:00 MST
+  end_time: 21:00:00 MST
+  url: https://lu.ma/e37ect5e
 
 - name: Indianapolis Ruby Brigade - Monthly Meetup February 2025
   location: Indianapolis, IN
@@ -4574,3 +4595,10 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhchblb
+
+- name: Orange County Ruby - Ruby Science May 2025
+  location: Online
+  date: 2025-05-12
+  start_time: 10:00:00 PST
+  end_time: 11:00:00 PST
+  url: https://www.meetup.com/ocruby/events/sdczltyhchbqb
