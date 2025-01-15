@@ -4044,6 +4044,13 @@
   end_time: 19:30:00 GMT
   url: https://www.meetup.com/ruby-in-london/events/305376921
 
+- name: 'Polish Ruby User Group - Warsaw Meetup #January'
+  location: Warszawa, Poland
+  date: 2025-01-23
+  start_time: 18:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/polishrubyusergroup/events/305606762
+
 - name: African Ruby Community - Kampala Chapter Mini workshop January 2025
   location: Online
   date: 2025-01-25
@@ -4345,13 +4352,6 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/305297114
-
-- name: SF Bay Area Ruby - SF Ruby February Meetup @ GitHub
-  location: San Francisco, CA
-  date: 2025-02-13
-  start_time: 17:00:00 PST
-  end_time: 21:00:00 PST
-  url: https://lu.ma/hoou421h
 
 - name: Columbus Ruby Brigade - Monthly Meetup February 2025
   location: Columbus, OH
