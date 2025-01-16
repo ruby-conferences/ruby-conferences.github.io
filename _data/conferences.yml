@@ -2966,6 +2966,16 @@
   mastodon: https://ruby.social/@railsconf
   announced_on: 2024-12-20
 
+- name: RubyConf Africa 2025
+  location: Nairobi, Kenya
+  start_date: 2025-07-18
+  end_date: 2025-07-19
+  url: https://rubyconf.africa/
+  twitter: ruby_african
+  cfp_open_date: 2025-02-15
+  cfp_close_date: 2025-03-31
+  announced_on: 2025-01-15
+
 - name: Rails Camp West 2025
   location: Kenai Lake, Alaska, USA
   start_date: 2025-08-18
