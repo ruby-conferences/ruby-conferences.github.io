@@ -1,0 +1,1124 @@
+---
+
+- id: aarhusrb
+  name: aarhus.rb
+  service: meetupdotcom
+
+- id: adelaiderb
+  name: Ruby and Rails Adelaide
+  service: meetupdotcom
+
+- id: african_ruby_community
+  name: African Ruby Community
+  service: meetupdotcom
+  remove:
+    - "ARC"
+    - "(Zoom)"
+
+- id: aloharb
+  name: aloha.rb
+  service: meetupdotcom
+
+- id: amsterdam-rb
+  name: Amsterdam.rb
+  service: meetupdotcom
+
+- id: andalucia-rb
+  name: Andalucia.rb
+  service: ical
+  timezone: Europe/Madrid
+  ical_url: https://andalucia.onruby.eu/events.ics
+
+- id: arlington-ruby
+  name: Arlington Ruby
+  service: meetupdotcom
+
+- id: arquitetura-e-design-de-aplicacoes-ruby
+  name: ada.rb
+  service: meetupdotcom
+
+- id: athens-ruby-meetup
+  name: Athens Ruby
+  service: meetupdotcom
+
+- id: atlantaruby
+  name: Atlanta Ruby
+  service: meetupdotcom
+  remove:
+    - "[VIRTUAL] "
+    - "[ATLRUG Virtual]"
+    - "[ATLRUG]"
+    - "The Atlanta Ruby Meetup Group"
+
+- id: aucklandruby
+  name: Auckland Ruby
+  service: meetupdotcom
+
+# NOTE: same events as austinrb
+# - id: austin-on-rails
+#   name: Austin on Rails
+#   service: meetupdotcom
+
+- id: austin-ruby-programming-study-group
+  name: Austin Ruby Programming Study Group
+  service: meetupdotcom
+
+- id: austinrb
+  name: Austin.rb
+  service: meetupdotcom
+
+- id: bangalore-ruby-users-group
+  name: Bangalore Ruby Users Group
+  service: meetupdotcom
+
+- id: bangkok-rb
+  name: Bangkok.rb
+  service: meetupdotcom
+
+- id: barcelona-on-rails
+  name: Barcelona on Rails
+  service: meetupdotcom
+
+- id: barcelona-rb
+  name: Barcelona.rb
+  service: meetupdotcom
+
+- id: bathruby
+  name: Bath Ruby User Group
+  service: meetupdotcom
+
+- id: belfastruby
+  name: BelfastRuby
+  service: meetupdotcom
+
+- id: bmore-on-rails
+  name: B'more on Rails
+  service: meetupdotcom
+
+- id: bogota-ruby-meetup
+  name: Ruby Bogotá
+  service: meetupdotcom
+
+# - id: bostonrb
+#   name: Boston Ruby Group
+#   service: meetupdotcom
+
+- id: bostonrb
+  name: Boston Ruby Group
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-O0xLKEqq4Q8vc8f
+  timezone: America/New_York
+  remove:
+    - BostonRB
+
+# - id: boulder-denver-railsbridge
+#   name:
+#   service: meetupdotcom
+
+- id: boulder-ruby
+  name: Boulder Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-B9LZxdgJiXBxezw
+  timezone: America/Denver
+
+- id: boulder_ruby_group
+  name: Boulder Ruby Group
+  service: meetupdotcom
+
+- id: brighton-ruby-group
+  name: Brighton Ruby Group
+  service: meetupdotcom
+
+- id: brisruby
+  name: Brisbane Ruby
+  service: meetupdotcom
+
+- id: brooklyn-rb
+  name: brooklyn.rb
+  service: meetupdotcom
+
+# - id: btownrb
+#   name:
+#   service: meetupdotcom
+
+- id: budapest-rb
+  name: budapest.rb
+  service: meetupdotcom
+
+- id: cali-ruby-meetup
+  name: Cali Ruby
+  service: meetupdotcom
+
+# - id: cambridge-ruby-user-group
+#   name:
+#   service: meetupdotcom
+
+- id: charlotte-rb
+  name: Charlotte Ruby
+  service: meetupdotcom
+
+- id: chicagoruby
+  name: ChicagoRuby
+  service: meetupdotcom
+  exclude:
+    - RubyConf
+
+# - id: christchurch-ruby-group
+#   name: Christchurch Ruby Group
+#   service: meetupdotcom
+
+- id: clevelandruby
+  name: Cleveland Ruby Brigade
+  service: meetupdotcom
+
+- id: cologne-rb
+  name: Cologne.rb
+  service: meetupdotcom
+  remove:
+    - "Ruby Usergroup: "
+
+- id: columbus-ruby-on-rails-mind-meld
+  name: Columbus Ruby
+  service: meetupdotcom
+
+- id: columbusrb
+  name: Columbus Ruby Brigade
+  service: meetupdotcom
+
+- id: copenhagen-ruby-brigade
+  name: Copenhagen Ruby Brigade
+  service: meetupdotcom
+
+- id: dallasrb
+  name: Dallas Ruby Brigade
+  service: meetupdotcom
+
+- id: dcruby
+  name: DC Ruby Users Group
+  service: meetupdotcom
+
+- id: denhaagrb
+  name: DenHaag.rb
+  service: meetupdotcom
+
+- id: denver-rb
+  name: Denver.rb
+  service: meetupdotcom
+
+# - id: derailed
+#   name:
+#   service: meetupdotcom
+
+- id: drugpl
+  name: Dolnośląska Grupa Użytkowników Ruby
+  service: meetupdotcom
+
+# - id: dubai-ruby-on-rails-meetup
+#   name:
+#   service: meetupdotcom
+
+- id: dusseldorf-ruby-elixir-meetup
+  name: Düsseldorf Ruby
+  service: meetupdotcom
+  filter: Ruby
+
+# - id: flexport-amsterdam-meetup-group
+#   name:
+#   service: meetupdotcom
+
+- id: frankfurt-ruby-meetup
+  name: Frankfurt Ruby Meetup
+  service: meetupdotcom
+
+- id: geneva-rb
+  name: Geneva.rb
+  service: meetupdotcom
+
+- id: got-rb
+  name: Got.rb
+  service: meetupdotcom
+
+- id: groningen-rb
+  name: Groningen.rb
+  service: meetupdotcom
+
+# - id: group-kazan-rb
+#   name:
+#   service: meetupdotcom
+
+- id: houston-ruby-meetup-group
+  name: Houston Rails
+  service: meetupdotcom
+
+- id: houstonruby
+  name: Houston Ruby
+  service: meetupdotcom
+
+- id: icruby
+  name: Iowa City Ruby
+  service: meetupdotcom
+
+- id: id-ruby
+  name: Indonesia Ruby
+  service: meetupdotcom
+
+- id: indyrb
+  name: Indianapolis Ruby Brigade
+  service: meetupdotcom
+  remove:
+    - "The Indianapolis Ruby Brigade"
+    - "Indy.rb"
+
+- id: israel-rb
+  name: israel.rb
+  service: meetupdotcom
+
+- id: istanbul-ruby-on-rails
+  name: Istanbul Ruby on Rails
+  service: meetupdotcom
+
+- id: jaipur-rb-ruby-users-group
+  name: Jaipur.rb
+  service: meetupdotcom
+
+- id: karlsruhe-rb
+  name: Karlsruhe.rb
+  service: meetupdotcom
+
+- id: kcruby
+  name: Kansas City Ruby
+  service: meetupdotcom
+
+# - id: kharkiv-rb
+#   name:
+#   service: meetupdotcom
+
+- id: krakow-ruby-users-group
+  name: Krakow Ruby Users Group (KRUG)
+  service: meetupdotcom
+
+- id: krugtvm
+  name: Kerala Ruby User Group
+  service: meetupdotcom
+
+- id: kw-ruby-on-rails
+  name: KW Ruby
+  service: meetupdotcom
+
+# - id: lambda-ruby
+#   name:
+#   service: meetupdotcom
+
+- id: laruby
+  name: LA Ruby
+  service: meetupdotcom
+
+# - id: las-palmas-ruby-on-rails
+#   name:
+#   service: meetupdotcom
+
+- id: las-vegas-ruby-on-rails
+  name: Las Vegas Ruby User Group
+  service: meetupdotcom
+
+- id: lausannerb
+  name: Lausanne.rb
+  service: meetupdotcom
+
+- id: learn-ruby-in-dc
+  name: Learn Ruby in DC!
+  service: meetupdotcom
+
+# - id: leiden-rb
+#   name:
+#   service: meetupdotcom
+
+# - id: lodzrug
+#   name:
+#   service: meetupdotcom
+
+- id: london-learn-ruby
+  name: London Learn Ruby
+  service: meetupdotcom
+
+- id: london-ruby-user-group
+  name: London Ruby User Group
+  service: ical
+  ical_url: https://lrug.org/meetings.ics
+  timezone: Europe/London
+
+- id: lyonrb
+  name: Lyon.rb
+  service: meetupdotcom
+
+- id: madison-ruby
+  name: Madison+ Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-LlD9HPh8QnHgqEQ
+  timezone: America/Chicago
+
+- id: madrid-rb
+  name: Madrid.rb
+  service: ical
+  timezone: Europe/Madrid
+  default_location: Madrid, Spain
+  ical_url: https://www.madridrb.com/events.ics
+
+- id: medellin-rb
+  name: Medellín.rb
+  service: meetupdotcom
+
+- id: meetup-group-etmwxpsm
+  name: Brno Ruby Stories
+  service: meetupdotcom
+
+- id: meetup-group-xwgucjde
+  name: Scottish Ruby User Group
+  service: meetupdotcom
+
+- id: memocom-ruby-meetup
+  name: Memocom Ruby
+  service: meetupdotcom
+
+- id: mexico-on-rails
+  name: México on Rails
+  service: meetupdotcom
+
+- id: miamirb
+  name: Miami Ruby Brigade
+  service: meetupdotcom
+
+- id: monterrey-ruby-meetup
+  name: Monterrey Ruby Meetup
+  service: meetupdotcom
+
+- id: montrealrb
+  name: Montreal.rb
+  service: meetupdotcom
+
+- id: mumbairb
+  name: Mumbai.rb
+  service: meetupdotcom
+
+- id: munich-rubyshift-ruby-user-group
+  name: Munich Ruby User Group
+  service: meetupdotcom
+
+- id: nantes-rb
+  name: Nantes.rb
+  service: meetupdotcom
+
+- id: napoli-ruby-on-rails-meetup-group
+  name: Napoli Ruby on Rails
+  service: meetupdotcom
+
+- id: nashrb
+  name: Nash.rb
+  service: meetupdotcom
+
+- id: nepal-ruby-users-group
+  name: Ruby Nepal
+  service: meetupdotcom
+
+- id: newcastleruby
+  name: Newcastle Ruby
+  service: meetupdotcom
+
+- id: nyc-on-rails
+  name: NYC on Rails
+  service: meetupdotcom
+
+- id: nyc-rb
+  name: NYC.rb
+  exclude: Rails Camp
+  service: meetupdotcom
+
+- id: nyc-ruby-women
+  name: NYC Ruby Women
+  service: meetupdotcom
+
+- id: ocruby
+  name: Orange County Ruby
+  service: meetupdotcom
+  exclude: Rails Camp
+  remove:
+    - "(OCRuby)"
+    - "Orange County Ruby Users Group"
+
+- id: odense-rb
+  name: odense.rb
+  service: meetupdotcom
+
+- id: omaha-ruby-meetup
+  name: Omaha Ruby
+  service: meetupdotcom
+
+- id: orlando-ruby-elixir
+  name: Orlando Ruby
+  service: meetupdotcom
+  filter: Ruby
+
+- id: ottawaruby
+  name: Ottawa Ruby
+  service: meetupdotcom
+
+- id: palmetto-ruby-meetup
+  name: Palmetto Ruby
+  service: meetupdotcom
+
+- id: paris-ruby-workshop
+  name: Paris Ruby Workshop
+  service: meetupdotcom
+  exclude:
+    - "(en ligne)"
+
+- id: paris_rb
+  name: Paris.rb
+  service: meetupdotcom
+  remove: "ParisRb.new(:monthly, on: :first_tuesday)"
+
+- id: parisrb
+  name: ParisRB.old
+  service: meetupdotcom
+
+- id: phillyrb
+  name: Philly.rb
+  service: meetupdotcom
+  remove: " - Global/Virtual"
+
+- id: polishrubyusergroup
+  name: Polish Ruby User Group
+  service: meetupdotcom
+  exclude:
+    - Ruby Community Conference
+  remove:
+    - (PLRUG)
+
+- id: portland-ruby-brigade
+  name: Portland Ruby Brigade
+  service: meetupdotcom
+
+# - id: poznanrug
+#   name:
+#   service: meetupdotcom
+
+- id: prague-ruby-meetup
+  name: Prague Ruby
+  service: meetupdotcom
+
+- id: praguerb
+  name: Prague.rb
+  service: meetupdotcom
+
+- id: pune-ruby-on-rails-meetup
+  name: Pune Ruby on Rails
+  service: meetupdotcom
+
+- id: punerubymeetup
+  name: Pune Ruby Users Group
+  service: meetupdotcom
+
+- id: punerubymeetup
+  name: Pune Ruby Meetup
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-KTu2DlicAMuYZT1
+  timezone: Asia/Kolkata
+
+# - id: quillarb
+#   name:
+#   service: meetupdotcom
+
+- id: rails-east
+  name: 'Ruby On Rails: East Coast'
+  service: meetupdotcom
+
+- id: rails-girls-bielsko-biala
+  name: Rails Girls Bielsko-Biala
+  service: meetupdotcom
+
+- id: rails-girls-buenos-aires
+  name: Rails Girls Buenos Aires
+  service: meetupdotcom
+
+- id: rails-girls-copenhagen
+  name: Rails Girls Copenhagen
+  service: meetupdotcom
+
+- id: rails-girls-geneva
+  name:
+  service: meetupdotcom
+
+- id: rails-grills
+  name: Rails Grills!
+  service: meetupdotcom
+
+- id: rails-jobs
+  name: Hire Ruby Engineers
+  service: meetupdotcom
+
+# - id: rails-mn
+#   name:
+#   service: meetupdotcom
+
+- id: rails-programming-in-thailand
+  name: BKK Rails
+  service: meetupdotcom
+
+- id: rails-taiwan
+  name: Rails Taiwan
+  service: meetupdotcom
+
+- id: railsbridgechi
+  name: RailsBridge Chicago
+  service: meetupdotcom
+
+# - id: railsgirlsto
+#   name:
+#   service: meetupdotcom
+
+- id: raleighrb
+  name: Triangle.rb
+  service: meetupdotcom
+
+- id: rhode-island-ruby-group
+  name: Rhode Island Ruby Group
+  service: meetupdotcom
+
+- id: ror-bbsr
+  name: Ruby on Rails Bhubaneswar
+  service: meetupdotcom
+
+# - id: rorcommunity
+#   name: Ruby on Rails Community
+#   service: meetupdotcom
+
+- id: rorlab
+  name: RORLAB
+  service: meetupdotcom
+
+- id: rotterdam-rb
+  name: Rotterdam.rb
+  service: meetupdotcom
+
+- id: ruby-a-la-cluj
+  name: Ruby a la Cluj
+  service: meetupdotcom
+
+- id: ruby-az
+  name: Ruby::AZ
+  service: meetupdotcom
+
+# - id: ruby-geneve-rb
+#   name:
+#   service: meetupdotcom
+
+- id: ruby_fusion
+  name: Ruby Fusion
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-HxTn4dLUlMlzEQX
+  timezone: America/Denver
+
+- id: ruby-in-london
+  name: Ruby in London
+  service: meetupdotcom
+
+- id: ruby-joinville
+  name: Ruby Joinville
+  service: meetupdotcom
+
+# - id: ruby-lightning-to
+#   name: Ruby Lightning Talks T.O.
+#   service: meetupdotcom
+
+- id: ruby-loco
+  name: Ruby LoCo
+  service: meetupdotcom
+
+- id: ruby-lviv
+  name: Lviv Ruby User Group
+  service: meetupdotcom
+
+- id: ruby-lx
+  name: Ruby on Rails Lisbon
+  service: meetupdotcom
+
+- id: ruby-malaysia
+  name: Ruby Malaysia
+  service: meetupdotcom
+
+- id: ruby-meetup-oslo
+  name: Ruby Meetup Oslo
+  service: meetupdotcom
+
+- id: ruby-microservices
+  name: Ruby Microservices
+  service: meetupdotcom
+
+- id: ruby-mn
+  name: ruby.mn
+  service: meetupdotcom
+
+- id: ruby-modularity-group
+  name: Ruby/Rails Modularity
+  service: meetupdotcom
+
+- id: ruby-montevideo
+  name: Ruby Montevideo
+  service: meetupdotcom
+
+- id: ruby-natal
+  name: Ruby Natal
+  service: meetupdotcom
+
+- id: ruby-novi-sad
+  name: Ruby Novi Sad
+  service: meetupdotcom
+
+- id: ruby-nuby-info
+  name: Ruby Nuby™
+  service: meetupdotcom
+
+- id: ruby-on-rails-bangalore
+  name: Ruby on Rails Bangalore
+  service: meetupdotcom
+
+- id: ruby-on-rails-bh
+  name: Ruby On Rails Belo Horizonte
+  service: meetupdotcom
+
+- id: ruby-on-rails-latvia
+  name: Ruby on Rails Latvia
+  service: meetupdotcom
+
+- id: ruby-on-rails-meetup
+  name: Ruby on Rails Meetup
+  service: meetupdotcom
+
+- id: ruby-on-rails-oceania-melbourne
+  name: Melbourne Ruby
+  service: meetupdotcom
+  remove:
+    - "Melbourne Ruby"
+
+- id: ruby-on-rails-oceania-perth
+  name: Ruby and Rails Perth
+  service: meetupdotcom
+
+- id: ruby-on-rails-oceania-sydney
+  name: Ruby on Rails Oceania Sydney
+  service: meetupdotcom
+
+- id: ruby-phil
+  name: Philippine Ruby Users Group
+  service: meetupdotcom
+
+# - id: ruby-project-night-nyc
+#   name: Ruby Project Night NYC
+#   service: meetupdotcom
+
+- id: ruby-romania
+  name: Ruby Romania
+  service: meetupdotcom
+
+- id: ruby-serbia
+  name: Ruby Serbia
+  service: meetupdotcom
+
+- id: ruby-spain
+  name: Ruby Spain
+  service: meetupdotcom
+
+- id: ruby-turkiye
+  name: Ruby Türkiye
+  service: meetupdotcom
+
+- id: ruby-user-group-linz-rugl
+  name: Ruby User Group Linz
+  service: meetupdotcom
+
+- id: ruby-user-group-berlin
+  name: Ruby User Group Berlin
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Berlin, Germany
+  ical_url: https://www.rug-b.de/events.ics
+  remove:
+    - "(watch the date)"
+    - "Check the date!"
+    - "CANCELED"
+
+- id: ruby-usergroup-hamburg
+  name: Ruby Usergroup Hamburg
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Hamburg, Germany
+  ical_url: https://hamburg.onruby.de/events.ics
+
+# - id: ruby-user-group-cologne
+#   name: Ruby User Group Cologne
+#   service: ical
+#   timezone: Europe/Berlin
+#   default_location: Cologne, Germany
+#   ical_url: https://www.colognerb.de/events.ics
+#   remove: "Kölsch.rb"
+
+- id: ruby-user-group-leipzig
+  name: Ruby User Group Leipzig
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Leipzig, Germany
+  ical_url: https://leipzig.onruby.de/events.ics
+
+- id: ruby-user-group-dresden
+  name: Dresden.rb
+  service: ical
+  timezone: Europe/Berlin
+  default_location: Dresden, Germany
+  ical_url: https://dresdenrb.onruby.de/events.ics
+
+# - id: ruby-user-group-saarland
+#   name:
+#   service: meetupdotcom
+
+- id: rubyba
+  name: Ruby Buenos Aires
+  service: meetupdotcom
+
+- id: rubybrigade
+  name: Helsinki Ruby Brigade
+  service: meetupdotcom
+
+- id: rubydesign
+  name: Ruby on Rails Enthusiasts
+  service: meetupdotcom
+
+- id: rubydf
+  name: RubyDF
+  service: meetupdotcom
+
+- id: rubydf
+  name: RubyDF
+  timezone: America/Sao_Paulo
+  ical_url: https://rubydf.com/events.ics
+  service: ical
+
+- id: rubyfloripa
+  name: RubyFloripa
+  service: meetupdotcom
+
+- id: rubygdl
+  name: RubyGDL
+  service: meetupdotcom
+
+- id: rubyireland
+  name: Ruby Ireland
+  service: meetupdotcom
+
+- id: rubyists-in-albuquerque
+  name: Ruby Albuquerque
+  service: meetupdotcom
+
+- id: rubyjax
+  name: RubyJax
+  service: meetupdotcom
+
+# - id: rubymonstas-programming-for-women
+#   name: RubyMonstas
+#   service: meetupdotcom
+
+# - id: rubynord
+#   name:
+#   service: meetupdotcom
+
+# - id: rubyon
+#   name: RubyOn - Ruby On Rails
+#   service: meetupdotcom
+
+- id: rubyonrails-ch
+  name: Ruby on Rails Switzerland
+  service: meetupdotcom
+
+- id: rubyonrio
+  name: RubyOnRio
+  service: meetupdotcom
+
+- id: rubyperu
+  name: Ruby Perú
+  service: meetupdotcom
+
+- id: rubyroars-kharkiv
+  name: RubyRoars Kharkiv
+  service: meetupdotcom
+  filter: Ruby
+
+- id: rubyside-meetup
+  name: Rubyside
+  service: meetupdotcom
+
+- id: rubyslovenia
+  name: Slovenia Ruby User Group
+  service: meetupdotcom
+
+- id: rubyzg
+  name: Ruby Zagreb
+  service: meetupdotcom
+
+- id: rzeszow-ruby-user-group
+  name: Rzeszow Ruby User Group
+  service: meetupdotcom
+
+- id: sacruby
+  name: The Sacramento Ruby Meetup
+  service: meetupdotcom
+
+- id: saigonrb
+  name: Saigon.rb
+  service: meetupdotcom
+
+# - id: san-diego-railsbridge
+#   name: San Diego RailsBridge
+#   service: meetupdotcom
+
+- id: san-francisco-ruby-meetup-group
+  name: SF Bay Area Ruby
+  service: meetupdotcom
+
+- id: santa-barbara-on-rails
+  name: Santa Barbara on Rails
+  service: meetupdotcom
+
+- id: sardinesrb
+  name: 'Sardines.rb: Lisbon Ruby Meetup'
+  service: meetupdotcom
+
+- id: sarubycoders
+  name: SA Ruby Coders
+  service: meetupdotcom
+
+- id: sdruby
+  name: SD Ruby
+  service: meetupdotcom
+
+# - id: seattle-rb
+#   name: Seattle.rb
+#   service: ical
+#   timezone: America/Los_Angeles
+#   ical_url: https://seattlerb.org/events.ics
+
+- id: seoul-ruby-meetup
+  name: Seoul Ruby Meetup
+  service: meetupdotcom
+
+- id: sevilla-ruby-on-rails-meetup
+  name: Sevilla Ruby On Rails
+  service: meetupdotcom
+
+- id: sfrails
+  name: San Francisco Ruby on Rails
+  service: meetupdotcom
+  exclude:
+    - partner event
+
+- id: sfruby
+  name: The San Francisco Ruby
+  service: meetupdotcom
+  exclude:
+    - Tech Leadership Tuesday Tea Time
+    - Code and Connect
+
+- id: sfruby
+  name: SF Bay Area Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-L4SDawu65B1grBV
+  timezone: America/Los_Angeles
+
+- id: silicon-valley-ruby
+  name: Silicon Valley Ruby
+  service: meetupdotcom
+
+- id: singapore-ruby-group
+  name: Singapore Ruby Group
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-LjNde6eShrrzWbX
+  timezone: Asia/Singapore
+
+- id: singapore-ruby-group
+  name: Singapore Ruby Group
+  service: meetupdotcom
+
+- id: sofloruby-broward
+  name: SoFloRuby Broward
+  service: meetupdotcom
+
+- id: south-west-ruby
+  name: South West Ruby
+  service: meetupdotcom
+
+- id: srugpl
+  name: Silesian Ruby Users Group
+  service: meetupdotcom
+
+- id: startups-on-rails
+  name: Startups on Rails
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Nby97Hu3ubMSLDU
+  timezone: America/New_York
+
+- id: sthlmrb
+  name: Stockholm Ruby
+  service: meetupdotcom
+
+- id: sthlmrb
+  name: Stockholm Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-endgATTZCF1KdPk
+  timezone: Europe/Stockholm
+
+- id: stlruby
+  name: STLRuby
+  service: meetupdotcom
+
+- id: svgruby
+  name: Stavanger Ruby User Group
+  service: meetupdotcom
+
+- id: tampa-rb
+  name: Tampa Ruby Brigade
+  service: meetupdotcom
+
+- id: tech-valley-ruby-brigade
+  name: Tech Valley Ruby Brigade
+  service: meetupdotcom
+
+- id: the-bluegrass-developers-guild
+  name: Bluegrass Ruby
+  filter: Bluegrass Ruby
+  service: meetupdotcom
+  remove:
+    - Bluegrass Ruby Users Group
+
+- id: the-seattle-ruby-on-rails-developers-meetup-group
+  name: Seattle Ruby on Rails
+  service: meetupdotcom
+
+- id: thessrb
+  name: Thessaloníki Ruby
+  service: meetupdotcom
+
+# - id: thirsty-rb-rdu
+#   name:
+#   service: meetupdotcom
+
+# - id: timisoara-ruby-on-rails-community
+#   name:
+#   service: meetupdotcom
+
+# - id: tm-ruby
+#   name:
+#   service: meetupdotcom
+
+- id: tokyo-rails
+  name: Tokyo Rails
+  service: meetupdotcom
+
+- id: toronto-ruby-on-rails-group
+  name: Toronto Ruby on Rails
+  service: meetupdotcom
+
+- id: torontoruby
+  name: Toronto Ruby
+  service: meetupdotcom
+
+- id: toronto-ruby
+  name: Toronto Ruby
+  service: ical
+  timezone: America/Toronto
+  ical_url: https://toronto-ruby.com/events/all.ics
+
+- id: toulouse-ruby-friends
+  name: Toulouse.rb
+  service: meetupdotcom
+
+- id: trivandrum-ruby
+  name: Trivandrum Ruby
+  service: meetupdotcom
+
+- id: twenterb
+  name: Twente.rb
+  service: meetupdotcom
+
+- id: upstate-ruby
+  name: Upstate Ruby
+  service: meetupdotcom
+
+- id: utah-ruby-users-group
+  name: Utah Ruby Users Group
+  service: meetupdotcom
+  remove: "URUG Meetup:"
+
+- id: utrecht-rb
+  name: Utrecht.rb
+  service: meetupdotcom
+
+- id: vadodara-ruby-meetup
+  name: Vadodara Ruby
+  service: meetupdotcom
+
+- id: vadodara-ruby-on-rails-meetup
+  name: Vadodara Ruby on Rails
+  service: meetupdotcom
+
+- id: vancouver-ruby
+  name: VanRuby
+  service: meetupdotcom
+
+- id: vienna-rb
+  name: vienna.rb
+  service: meetupdotcom
+
+# - id: vienna-ruby
+#   name:
+#   service: meetupdotcom
+
+- id: vilniusrb
+  name: Vilnius.rb
+  service: meetupdotcom
+  remove:
+    - "Vilnius Ruby Brigade meetup:"
+
+- id: visakhapatnam-ruby-on-rails-meetup
+  name: Visakhapatnam Ruby on Rails
+  service: meetupdotcom
+
+- id: vlctechhub
+  name: Valencia.rb
+  service: meetupdotcom
+  include: Valencia.rb
+
+- id: wellingtonruby
+  name: WellingtonRuby
+  service: meetupdotcom
+
+- id: rubywellington
+  name: Ruby Wellington
+  service: meetupdotcom
+
+- id: west-midlands-ruby-user-group-wmrug
+  name: West Midlands Ruby User Group
+  service: meetupdotcom
+
+# - id: westside-rails-study-group
+#   name:
+#   service: meetupdotcom
+
+- id: williamson-county-ruby-meetup
+  name: Williamson County Ruby
+  service: meetupdotcom
+
+- id: winnipegrb
+  name: Winnipeg Ruby User Group
+  service: meetupdotcom
+
+- id: women-on-rails
+  name: Women On Rails
+  service: meetupdotcom

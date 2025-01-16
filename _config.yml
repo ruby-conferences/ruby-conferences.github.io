@@ -1,4 +1,6 @@
-safe: true
+name: Ruby Conferences
+url: https://rubyconferences.org
+safe: false
 lsi: false
 source: .
 exclude:
@@ -9,6 +11,10 @@ exclude:
   - LICENSE.md
   - README.md
   - Rakefile
-  - data_file_validator.rb
   - notes.txt
   - vendor
+  - src
+  - '*.rb'
+
+plugins:
+  - jekyll-feed

@@ -1,6 +1,13 @@
 #!/usr/bin/env rake
-require 'yaml'
-require './data_file_validator'
+
+require "yaml"
+require "date"
+require "ostruct"
+
+require "./src/data_file_validator"
+require "./src/static"
+require "./src/meetup_client"
+require "./src/meetups_file"
 
 desc "Build Jekyll site"
 task :build do
@@ -12,29 +19,87 @@ task :verify_html do
   exit 2 unless system "bundle exec htmlproofer ./_site"
 end
 
-desc "Verify event data"
-task :verify_data do
-  data_files = [
-    {
-      filename: :past,
-      allowed_keys: ["name", "location", "dates", "url", "twitter", "video_link"]
-    }, {
-      filename: :current,
-      allowed_keys: ["name", "location", "dates", "url", "twitter", "reg_phrase", "reg_date", "cfp_phrase", "cfp_date"]
-    }
+desc "Verify event conferences"
+task :verify_conferences do
+  allowed_keys = [
+    "name",
+    "location",
+    "start_date",
+    "end_date",
+    "url",
+    "twitter",
+    "mastodon",
+    "reg_phrase",
+    "reg_date",
+    "cfp_open_date",
+    "cfp_close_date",
+    "cfp_link",
+    "status",
+    "date_precision",
+    "video_link",
+    "announced_on"
   ]
+  data = YAML.load_file("_data/conferences.yml", permitted_classes: [Date])
+  validator = DataFileValidator.validate(data, allowed_keys)
 
-  validators = data_files.map do |data_file|
-    data = YAML.load File.read "_data/#{data_file[:filename]}.yml"
-    DataFileValidator.validate(data, data_file[:allowed_keys])
-  end
+  exit 3 if validator.missing_keys?
+  exit 4 if validator.bonus_keys?
 
-  exit 3 if validators.any? &:missing_keys?
-  exit 4 if validators.any? &:bonus_keys?
-
-  events = validators.map(&:events).flatten
-  dates = events.map { |event| Date.parse event["dates"].gsub(/[-&][^,]+/, '') }
+  events = validator.events
+  dates = events.map { |event| event["start_date"] }
   exit 5 unless dates.sort == dates
+  exit 6 if validator.missing_announced_on_date?
+end
+
+desc "verify meetups"
+task :verify_meetups do
+  allowed_keys = [
+    "name",
+    "location",
+    "date",
+    "start_time",
+    "end_time",
+    "url",
+    "twitter",
+    "mastodon",
+    "video_link",
+    "status"
+  ]
+  data = YAML.load_file("_data/meetups.yml", permitted_classes: [Date])
+  validator = DataFileValidator.validate(data, allowed_keys, :meetup)
+
+  exit 3 if validator.missing_keys?
+  exit 4 if validator.bonus_keys?
+
+  events = validator.events
+  dates = events.map { |event| event["start_date"] }
+  exit 5 unless dates.sort == dates
+  exit 6 if validator.duplicate_events?
+end
+
+desc "fetch meetups"
+task :fetch_meetups do
+  MeetupsFile.read.tap do |file|
+    file.fetch!
+    file.write!
+  end
+end
+
+# to fetch a single group run:
+#   bundle exec rake fetch_meetup[sfruby]
+desc "fetch a single group"
+task :fetch_meetup, [:group_id] do |_, args|
+  MeetupsFile.read.tap do |file|
+    file.fetch!(args[:group_id])
+    file.write!
+  end
+end
+
+desc "sort meetups"
+task :sort_meetups do
+  MeetupsFile.read.tap do |file|
+    file.write!
+  end
 end
 
 task default: [:build, :verify_data, :verify_html]

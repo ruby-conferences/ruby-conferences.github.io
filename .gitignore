@@ -1,1 +1,5 @@
 _site
+.jekyll-metadata
+bin/
+pull_request_title.txt
+pull_request_body.md

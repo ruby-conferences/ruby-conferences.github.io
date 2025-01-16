@@ -1,25 +1,75 @@
-<dt>
-  {% if event.url %}
-  <a href="{{ event.url }}">{{ event.name }}</a>
-  {% else %}
-  <a>{{ event.name }}</a>
-  {% endif %}
-  {% if event.reg_phrase %}
-  <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
-  {% endif %}
-  {% if event.cfp_phrase %}
-  <div class="cfp" data-date="{{ event.cfp_date }}" data-phrase="{{ event.cfp_phrase }}"></div>
-  {% endif %}
-</dt>
-<dd>
-  <ul>
-    <li>{{ event.dates }}</li>
-    <li>{{ event.location }}</li>
-    {% if event.twitter %}
-      <li><a href="https://twitter.com/{{ event.twitter }}">@{{ event.twitter }}</a></li>
+<div class="list-item {% continent %}{{ event.location | split: ', ' | last }}{% endcontinent %}">
+  <dt>
+    {% if event.url %}
+      <a href="{{ event.url }}">{{ event.name }}</a>
+    {% else %}
+      <a>{{ event.name }}</a>
     {% endif %}
-    {% if event.video_link %}
-      <li><a href="{{ event.video_link }}">Event Videos</a></li>
+
+    {% if event.status %}
+      <div class="status" data-phrase="{{ event.status }}"></div>
     {% endif %}
-  </ul>
-</dd>
+
+    {% if event.reg_phrase %}
+      <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
+    {% endif %}
+
+    {% assign cfp_open_timestamp = event.cfp_open_date | date: '%s' | plus: 0 %}
+    {% assign cfp_close_timestamp = event.cfp_close_date | date: '%s' | plus: 0 %}
+
+    {% assign cfp_open_date = event.cfp_open_date | date: '%Y-%m-%d' %}
+    {% assign cfp_close_date = event.cfp_close_date | date: '%Y-%m-%d' %}
+
+    {% if event.cfp_open_date and (cfp_open_timestamp >= now or cfp_open_date == today) %}
+      {% if event.cfp_link %}
+        <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_open_date }}" data-phrase="{% if cfp_open_tiemstamp >= now  or cfp_open_date == today %}CFP opens{% else %}CFP opened{% endif %}" target="_blank"></a>
+      {% else %}
+        <div class="cfp" data-date="{{ event.cfp_open_date }}" data-phrase="{% if cfp_open_timestamp >= now or cfp_open_date == today %}CFP opens{% else %}CFP opened{% endif %}"></div>
+      {% endif %}
+    {% elsif event.cfp_close_date %}
+      {% if event.cfp_link %}
+        <a class="cfp cfp-link" href="{{ event.cfp_link }}" data-date="{{ event.cfp_close_date }}" data-phrase="{% if cfp_close_timestamp >= now or cfp_close_date == today %}CFP closes{% else %}CFP closed{% endif %}" target="_blank"></a>
+      {% else %}
+        <div class="cfp" data-date="{{ event.cfp_close_date }}" data-phrase="{% if cfp_close_timestamp >= now or cfp_close_date == today %}CFP closes{% else %}CFP closed{% endif %}"></div>
+      {% endif %}
+    {% endif %}
+  </dt>
+
+  <dd>
+    <ul>
+      <li>
+        {% assign start_month = event.start_date | date: '%m' %}
+        {% assign end_month = event.end_date | date: '%m' %}
+        {% assign start_year = event.start_date | date: '%Y' %}
+        {% assign end_year = event.end_date | date: '%Y' %}
+
+        {% if event.date_precision == 'month' %}
+          {{ event.start_date | date: '%B %Y' }}
+        {% elsif event.date_precision == 'year' %}
+          {{ event.start_date | date: '%Y' }}
+        {% elsif event.start_date == event.end_date %}
+          {{ event.start_date | date: '%B %-d, %Y' }}
+        {% elsif start_month == end_month %}
+          {{ event.start_date | date: '%B %-d' }}–{{ event.end_date | date: '%-d, %Y' }}
+        {% elsif start_year == end_year %}
+          {{ event.start_date | date: '%B %-d' }}–{{ event.end_date | date: '%B %-d, %Y' }}
+        {% else %}
+          {% comment %}
+            This should only trigger if some crazy person has a conference over the New Year
+          {% endcomment %}
+          {{ event.start_date | date: '%B %-d, %Y' }}–{{ event.end_date | date: '%B %-d, %Y' }}
+        {% endif %}
+      </li>
+      <li>{{ event.location }}</li>
+      {% if event.twitter %}
+        <li><a href="https://twitter.com/{{ event.twitter }}">@{{ event.twitter }}</a></li>
+      {% endif %}
+      {% if event.mastodon %}
+        <li><a href="{{ event.mastodon }}">Mastodon</a></li>
+      {% endif %}
+      {% if event.video_link %}
+        <li><a href="{{ event.video_link }}">Event Videos</a></li>
+      {% endif %}
+    </ul>
+  </dd>
+</div>
