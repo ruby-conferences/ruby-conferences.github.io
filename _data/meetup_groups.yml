@@ -584,6 +584,10 @@
   name: Rhode Island Ruby Group
   service: meetupdotcom
 
+- id: robalos-rb
+  name: Robalos.rb
+  service: meetupdotcom
+
 - id: ror-bbsr
   name: Ruby on Rails Bhubaneswar
   service: meetupdotcom
