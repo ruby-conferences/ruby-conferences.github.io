@@ -3825,13 +3825,6 @@
   end_time: 13:00:00 IST
   url: https://lu.ma/2yob77sl
 
-- name: RubyDF - Janeiro de 2025 - Quarta edição
-  location: Brasilia, Brazil
-  date: 2025-01-25
-  start_time: '09:30:00 -03'
-  end_time: 11:30:00 -03
-  url: https://rubydf.com/events/quarta-edicao
-
 - name: Columbus Ruby Brigade - Monthly Meetup January 2025
   location: Columbus, OH
   date: 2025-01-27
@@ -3866,13 +3859,6 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/305508098
-
-- name: Toronto Ruby - January 2025 - Welcome to 2025 Edition
-  location: Toronto, Canada
-  date: 2025-01-28
-  start_time: 18:00:00 EST
-  end_time: 21:00:00 EST
-  url: https://lu.ma/k8pr7rws
 
 - name: Rails Taiwan - 高雄 Rails Meetup January 2025
   location: Kaohsiung, Taiwan
@@ -3973,13 +3959,6 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339818
 
-- name: London Ruby User Group - February 2025 Meeting
-  location: London, UK
-  date: 2025-02-10
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/february
-
 - name: Austin.rb - Placeholder (Tech Talk) February 2025
   location: Austin, TX
   date: 2025-02-11
@@ -4042,13 +4021,6 @@
   start_time: 17:30:00 EST
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/305522360
-
-- name: Paris Ruby Workshop - Workshop chez February 2025
-  location: Paris, France
-  date: 2025-02-12
-  start_time: 19:15:00 CET
-  end_time: 21:15:00 CET
-  url: https://www.meetup.com/paris-ruby-workshop/events/305237209
 
 - name: Rails Taiwan - 高雄 Rails Meetup February 2025
   location: Kaohsiung, Taiwan
