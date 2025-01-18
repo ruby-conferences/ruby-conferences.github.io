@@ -2833,6 +2833,13 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/miamirb/events/304278515
 
+- name: 'Robalos.rb - Robalos #1'
+  location: Figueira da Foz, Portugal
+  date: 2024-11-19
+  start_time: 18:00:00 WEST
+  end_time: 19:00:00 WEST
+  url: https://www.meetup.com/robalos-rb/events/303543758
+
 - name: RubyJax - Open Hax November 2024
   location: Jacksonville, FL
   date: 2024-11-19
@@ -3649,6 +3656,14 @@
   url: https://www.meetup.com/african_ruby_community/events/304339816
   status: cancelled
 
+- name: 'Robalos.rb - Watch together: "Pensar o Futuro: Ética e Justiça na Era da
+    IA"'
+  location: Figueira da Foz, Portugal
+  date: 2025-01-11
+  start_time: 15:00:00 WEST
+  end_time: 18:00:00 WEST
+  url: https://www.meetup.com/robalos-rb/events/305460446
+
 - name: London Ruby User Group - January 2025 Meeting
   location: London, UK
   date: 2025-01-13
@@ -4329,6 +4344,13 @@
   start_time: 10:00:00 PST
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/sdczltyhcfbwb
+
+- name: 'Robalos.rb - Robalos #2 - March 25'
+  location: Figueira da Foz, Portugal
+  date: 2025-03-18
+  start_time: 19:00:00 WEST
+  end_time: 20:30:00 WEST
+  url: https://www.meetup.com/robalos-rb/events/305585756
 
 - name: RubyJax - Open Hax March 2025
   location: Jacksonville, FL
