@@ -2412,6 +2412,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/303807998
 
+- name: Ruby Türkiye - Virtual Meetup October 2024
+  location: Online
+  date: 2024-10-23
+  start_time: 20:00:00 TRT
+  end_time: 22:00:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/aksam-oturmasi-202406-11d3bd62
+
 - name: Austin.rb - Ruby Social - Evening
   location: Austin, TX
   date: 2024-10-24
@@ -3435,6 +3442,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305047400
 
+- name: Ruby Türkiye - Virtual Meetup December 2024
+  location: Online
+  date: 2024-12-18
+  start_time: 20:00:00 TRT
+  end_time: 22:00:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/aksam-oturmasi-202408-be842d65
+
 - name: Vilnius.rb - VRB December meetup
   location: Vilnius, Lithuania
   date: 2024-12-18
@@ -3811,6 +3825,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305645957
+
+- name: Ruby Türkiye - Virtual Meetup January 2025
+  location: Online
+  date: 2025-01-22
+  start_time: 20:00:00 TRT
+  end_time: 22:00:00 TRT
+  url: https://kommunity.com/ruby-turkiye/events/the-present-and-future-of-sqlite-on-rails-79926ab2
 
 - name: Ruby in London - with Ophelos
   location: London, UK
