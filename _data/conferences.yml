@@ -2901,6 +2901,17 @@
   url: https://www.sincityruby.com
   announced_on: 2024-11-14
 
+- name: wroclove.rb 2025
+  location: Wrocław, Poland
+  start_date: 2025-04-11
+  end_date: 2025-04-13
+  cfp_close_date: 2025-02-13
+  url: https://wrocloverb.com/
+  twitter: wrocloverb
+  mastodon: https://ruby.social/@wrocloverb
+  announced_on: 2024-10-08
+  cfp_link: https://docs.google.com/forms/d/e/1FAIpQLSdg-w3hF3V-Q7hNwXKzqEUv_y92oQaYWu4FSziFRhwEyMo3Hw/viewform
+
 - name: RubyKaigi 2025
   location: Matsuyama, Ehime, Japan
   start_date: 2025-04-16
