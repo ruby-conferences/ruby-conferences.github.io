@@ -3896,6 +3896,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/ottawaruby/events/305636170
 
+- name: Philippine Ruby Users Group - PhRUG - No use for a Theme
+  location: Quezon City, Philippines
+  date: 2025-01-28
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/305678421
+
 - name: RubyJax - Open Hax January 2025
   location: Jacksonville, FL
   date: 2025-01-28
@@ -3959,6 +3966,13 @@
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
   url: https://www.meetup.com/ocruby/events/305549444
+
+- name: Boston Ruby Group - Project Night
+  location: Boston, MA
+  date: 2025-02-03
+  start_time: 18:00:00 EST
+  end_time: 20:00:00 EST
+  url: https://lu.ma/s15w0aq1
 
 - name: Orange County Ruby - Ruby Science February 2025
   location: Online
@@ -4369,8 +4383,8 @@
 - name: 'Robalos.rb - Robalos #2 - March 25'
   location: Figueira da Foz, Portugal
   date: 2025-03-18
-  start_time: 19:00:00 WEST
-  end_time: 20:30:00 WEST
+  start_time: 19:00:00 WET
+  end_time: 20:30:00 WET
   url: https://www.meetup.com/robalos-rb/events/305585756
 
 - name: RubyJax - Open Hax March 2025
@@ -4799,3 +4813,17 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhchbwb
+
+- name: Miami Ruby Brigade - May 2025
+  location: Coral Gables, FL
+  date: 2025-05-19
+  start_time: 19:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/miamirb/events/pdvctsyhchbzb
+
+- name: RubyJax - Open Hax May 2025
+  location: Jacksonville, FL
+  date: 2025-05-20
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhchbbc
