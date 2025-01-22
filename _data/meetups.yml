@@ -3114,6 +3114,13 @@
   end_time: 20:00:00 PST
   url: https://www.meetup.com/ruby-phil/events/304521596
 
+- name: African Ruby Community - Topic:Generative AI Foundations
+  location: Nairobi, Kenya
+  date: 2024-11-29
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/304777542
+
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
   date: 2024-11-29
@@ -3353,6 +3360,13 @@
   start_time: 18:00:00 GMT
   end_time: 20:00:00 GMT
   url: https://www.meetup.com/brighton-ruby-group/events/304303023
+
+- name: Copenhagen Ruby Brigade - Julespecial - fun and games at Abtion
+  location: København, Denmark
+  date: 2024-12-11
+  start_time: 17:00:00 CET
+  end_time: 20:00:00 CET
+  url: https://www.meetup.com/copenhagen-ruby-brigade/events/304755489
 
 - name: Geneva.rb - More everyday performance rules for Ruby on Rails developers (Alexis
     Bernard)
