@@ -2979,6 +2979,13 @@
   end_time: 19:30:00 CET
   url: https://www.meetup.com/rubyzg/events/304582338
 
+- name: Ottawa Ruby - November '24
+  location: Ottawa, Canada
+  date: 2024-11-26
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/ottawaruby/events/304117874
+
 - name: RubyJax - Open Hax November 2024
   location: Jacksonville, FL
   date: 2024-11-26
