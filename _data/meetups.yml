@@ -2216,7 +2216,7 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/303624231
 
-- name: Boston Ruby Group - October 2024 meeting
+- name: Boston Ruby Group - BostonRB October 2024 meeting
   location: Boston, MA
   date: 2024-10-15
   start_time: 18:00:00 EDT
@@ -2324,8 +2324,8 @@
 - name: Ruby and Rails Adelaide - Ruby Burgers October 2024
   location: Adelaide, Australia
   date: 2024-10-18
-  start_time: 18:00:00 ACDT
-  end_time: 20:00:00 ACDT
+  start_time: 18:00:00 ACST
+  end_time: 20:00:00 ACST
   url: https://www.meetup.com/adelaiderb/events/303700238
 
 - name: African Ruby Community - Kampala Chapter Mini workshop October 2024
