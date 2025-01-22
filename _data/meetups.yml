@@ -2781,11 +2781,11 @@
   end_time: 15:00:00 EET
   url: https://www.meetup.com/vilniusrb/events/304506053
 
-- name: Singapore Ruby Group - RubySG November 2024 Meetup
-  location: Singapore, Singapore
+- name: Singapore Ruby Group - Ruby SG November Meetup
+  location: Singapore
   date: 2024-11-13
-  start_time: 18:30:00 SGT
-  end_time: 20:30:00 SGT
+  start_time: 18:30:00 +08
+  end_time: 20:30:00 +08
   url: https://lu.ma/29fzctx5
 
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
@@ -2802,6 +2802,7 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304228425
   status: cancelled
+
 - name: Pune Ruby Users Group - November Ruby Meetup
   location: Pune, India
   date: 2024-11-16
@@ -2891,8 +2892,8 @@
 - name: South West Ruby - informal meetup
   location: Bristol , UK
   date: 2024-11-19
-  start_time: 18:00:00 BST
-  end_time: 21:00:00 BST
+  start_time: 18:00:00 GMT
+  end_time: 21:00:00 GMT
   url: https://www.meetup.com/south-west-ruby/events/304039254
 
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
@@ -3380,8 +3381,8 @@
 - name: Rotterdam.rb - Talks, Food & Drinks
   location: Rotterdam, Netherlands
   date: 2024-12-12
-  start_time: 18:00:00 CEST
-  end_time: 21:00:00 CEST
+  start_time: 18:00:00 CET
+  end_time: 21:00:00 CET
   url: https://www.meetup.com/rotterdam-rb/events/304125044
 
 - name: Ruby and Rails Adelaide - Ruby Burgers December 2024
