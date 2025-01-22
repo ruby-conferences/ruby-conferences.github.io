@@ -971,7 +971,7 @@
 - id: sthlmrb
   name: Stockholm Ruby
   service: meetupdotcom
-  
+
 - id: sthlmrb
   name: Stockholm Ruby
   service: luma
