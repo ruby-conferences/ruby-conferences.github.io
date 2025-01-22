@@ -3847,7 +3847,8 @@
   end_time: 21:30:00 EST
   url: https://www.meetup.com/montrealrb/events/305005846
 
-- name: Geneva.rb - TBA January 2025
+- name: 'Geneva.rb - Beyond the Basics: Tackling Edge Cases in Slow Ruby on Rails
+    Code (J.-C. Santi)'
   location: Genève, Switzerland
   date: 2025-01-15
   start_time: 19:00:00 CET
@@ -4967,5 +4968,3 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhchbbc
-=======
->>>>>>> c20fc23 (Meetup Updates from Geneva.rb, London Ruby, Orange County, Philly.rb and more (#861))
