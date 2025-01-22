@@ -2874,6 +2874,13 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304416126
 
+- name: SF Bay Area Ruby - Meetup in November @ Academia.edu
+  location: San Francisco, CA
+  date: 2024-11-19
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://lu.ma/f4pfsigc
+
 - name: South West Ruby - informal meetup
   location: Bristol , UK
   date: 2024-11-19
