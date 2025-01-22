@@ -3199,7 +3199,6 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/304398185
 
-<<<<<<< HEAD
 - name: Singapore Ruby Group - Ruby SG December Meetup
   location: Singapore
   date: 2024-12-04
@@ -3207,8 +3206,6 @@
   end_time: 20:30:00 +08
   url: https://lu.ma/w1umr3hv
 
-=======
->>>>>>> 4aa3ae0 (Update Austin.rb and SD Ruby Meetups (#846))
 - name: SD Ruby - Monthly Meetup
   location: San Diego, CA
   date: 2024-12-05
@@ -3251,11 +3248,7 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/304652574
 
-<<<<<<< HEAD
 - name: Austin.rb - End of Year Ruby Social
-=======
-- name: Austin.rb - Placeholder
->>>>>>> 4aa3ae0 (Update Austin.rb and SD Ruby Meetups (#846))
   location: Austin, TX
   date: 2024-12-10
   start_time: 18:30:00 CST
