@@ -3832,6 +3832,13 @@
   end_time: 20:30:00 CST
   url: https://www.meetup.com/austinrb/events/304960558
 
+- name: London Ruby User Group - January 2025 Meeting
+  location: London, UK
+  date: 2025-01-13
+  start_time: 18:00:00 GMT
+  end_time: 20:00:00 GMT
+  url: https://lrug.org/meetings/2025/january
+
 - name: Austin.rb - Placeholder (Tech Talk) January 2025
   location: Austin, TX
   date: 2025-01-14
@@ -3900,8 +3907,8 @@
 - name: Montreal.rb - Responsibility Driven Design in Ruby
   location: Montréal, Canada
   date: 2025-01-15
-  start_time: 18:00:00 EST
-  end_time: 21:00:00 EST
+  start_time: 18:30:00 EST
+  end_time: 21:30:00 EST
   url: https://www.meetup.com/montrealrb/events/305005846
 
 - name: Portland Ruby Brigade - Cocktails + Code January 2025
