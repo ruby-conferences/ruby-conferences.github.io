@@ -3839,7 +3839,7 @@
   end_time: 20:00:00 GMT
   url: https://lrug.org/meetings/2025/january
 
-- name: Austin.rb - Placeholder (Tech Talk) January 2025
+- name: Austin.rb - What's new in Ruby 3.4?
   location: Austin, TX
   date: 2025-01-14
   start_time: 18:30:00 CST
