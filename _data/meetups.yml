@@ -3363,6 +3363,13 @@
   end_time: 19:30:00 GMT
   url: https://www.meetup.com/scotrug/events/304950930
 
+- name: Rotterdam.rb - Talks, Food & Drinks
+  location: Rotterdam, Netherlands
+  date: 2024-12-12
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/rotterdam-rb/events/304125044
+
 - name: Ruby and Rails Adelaide - Ruby Burgers December 2024
   location: Adelaide, Australia
   date: 2024-12-13
