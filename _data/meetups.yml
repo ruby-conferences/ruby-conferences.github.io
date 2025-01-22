@@ -2482,6 +2482,13 @@
   end_time: 22:00:00 CET
   url: https://www.meetup.com/lyonrb/events/303824727
 
+- name: Ruby on Rails Latvia - Ruby community meetup – October 2024
+  location: Riga, Latvia
+  date: 2024-10-28
+  start_time: 17:00:00 EEST
+  end_time: 19:00:00 EEST
+  url: https://www.meetup.com/ruby-on-rails-latvia/events/303829526
+
 - name: RubyJax - Open Hax October 2024
   location: Jacksonville, FL
   date: 2024-10-29
@@ -2753,13 +2760,6 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/304434119
 
-- name: Ruby Usergroup Hamburg - November 2024
-  location: Hamburg, Germany
-  date: 2024-11-13
-  start_time: 19:00:00 CET
-  end_time: 21:00:00 CET
-  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-november-2024-1013
-
 - name: Singapore Ruby Group - Ruby SG November Meetup
   location: Singapore
   date: 2024-11-13
@@ -2795,7 +2795,6 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304228425
   status: cancelled
-
 - name: Pune Ruby Users Group - November Ruby Meetup
   location: Pune, India
   date: 2024-11-16
@@ -2901,6 +2900,13 @@
   date: 2024-11-20
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
+  url: https://www.meetup.com/vancouver-ruby/events/303769344
+
+- name: VanRuby - Thinkific
+  location: Vancouver, Canada
+  date: 2024-11-20
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
   url: https://www.meetup.com/vancouver-ruby/events/303769344
 
 - name: West Midlands Ruby User Group - Monthly Meetup November 2024
