@@ -4037,6 +4037,13 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/polishrubyusergroup/events/305606762
 
+- name: Ruby in London - with Ophelos
+  location: London, UK
+  date: 2025-01-22
+  start_time: 17:30:00 GMT
+  end_time: 19:30:00 GMT
+  url: https://www.meetup.com/ruby-in-london/events/305376921
+
 - name: African Ruby Community - Kampala Chapter Mini workshop January 2025
   location: Online
   date: 2025-01-25
@@ -4113,6 +4120,13 @@
   start_time: 12:00:00 EDT
   end_time: 13:00:00 EDT
   url: https://ruby.social/@wnb_rb/113844865167899947
+
+- name: Toronto Ruby - January 2025 - Welcome to 2025 Edition
+  location: Toronto, Canada
+  date: 2025-01-28
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://lu.ma/k8pr7rws
 
 - name: Rails Taiwan - 高雄 Rails Meetup January 2025
   location: Kaohsiung, Taiwan
