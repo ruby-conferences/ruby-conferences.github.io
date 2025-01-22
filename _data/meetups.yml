@@ -2874,6 +2874,13 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304416126
 
+- name: South West Ruby - informal meetup
+  location: Bristol , UK
+  date: 2024-11-19
+  start_time: 18:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/south-west-ruby/events/304039254
+
 - name: Portland Ruby Brigade - Cocktails + Code November 2024
   location: Portland, OR
   date: 2024-11-20
