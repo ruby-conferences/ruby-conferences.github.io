@@ -529,10 +529,14 @@
   name: Pune Ruby Meetup
   service: luma
 <<<<<<< HEAD
+<<<<<<< HEAD
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-KTu2DlicAMuYZT1
 =======
   ical_url: https://lu.ma/calendar/cal-KTu2DlicAMuYZT1
 >>>>>>> e5015db (Add Pune Ruby Meetup Luma Calendar)
+=======
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-KTu2DlicAMuYZT1
+>>>>>>> ab80937 (Add 'Pune Ruby Meetup - January Meetup')
   timezone: Asia/Kolkata
 
 # - id: quillarb
