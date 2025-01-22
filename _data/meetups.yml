@@ -2809,6 +2809,7 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304228425
   status: cancelled
+<<<<<<< HEAD
 
 - name: Pune Ruby Users Group - November Ruby Meetup
   location: Pune, India
@@ -2816,6 +2817,8 @@
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
   url: https://www.meetup.com/punerubymeetup/events/304252082
+=======
+>>>>>>> e02ee27 (Add B'more on Rails, Philly.rb and RubyJax Meetups (#848))
 
 - name: Pune Ruby Users Group - November Ruby Meetup
   location: Pune, India
