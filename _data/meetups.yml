@@ -2669,13 +2669,6 @@
   url: https://www.meetup.com/bmore-on-rails/events/303140100
   status: cancelled
 
-- name: 'NYC.rb - API: World 2024 Online'
-  location: Online
-  date: 2024-11-12
-  start_time: 10:00:00 EST
-  end_time: 17:00:00 EST
-  url: https://www.meetup.com/nyc-rb/events/303935276
-
 - name: Philly.rb - Pubnite November 2024
   location: Online
   date: 2024-11-12
@@ -2794,6 +2787,13 @@
   start_time: 18:30:00 CET
   end_time: 20:30:00 CET
   url: https://www.meetup.com/rzeszow-ruby-user-group/events/304395509
+
+- name: 'Vilnius.rb - open lecture at VilniusTech.'
+  location: Vilnius, Lithuania
+  date: 2024-11-14
+  start_time: 14:00:00 EET
+  end_time: 15:00:00 EET
+  url: https://www.meetup.com/vilniusrb/events/304506053
 
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
@@ -3099,6 +3099,13 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304777542
+
+- name: Philippine Ruby Users Group - PhRUG - Bridge to Simpilcity
+  location: Quezon City, Philippines
+  date: 2024-11-28
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/304521596
 
 - name: Ruby and Rails Adelaide - Ruby Burgers November 2024
   location: Adelaide, Australia
@@ -3412,6 +3419,13 @@
   start_time: 18:00:00 GMT
   end_time: 19:30:00 GMT
   url: https://www.meetup.com/scotrug/events/304950930
+
+- name: DenHaag.rb - Den Haag Ruby Meetup but then in Rotterdam
+  location: Rotterdam, Netherlands
+  date: 2024-12-12
+  start_time: 19:00:00 CET
+  end_time: 22:00:00 CET
+  url: https://www.meetup.com/denhaagrb/events/304522962
 
 - name: Rotterdam.rb - Talks, Food & Drinks
   location: Rotterdam, Netherlands

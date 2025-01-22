@@ -47,7 +47,10 @@
   remove:
     - "[VIRTUAL] "
     - "[ATLRUG Virtual]"
+<<<<<<< HEAD
     - "[ATLRUG]"
+=======
+>>>>>>> a8d50df (Meetup Updates from African Ruby, Atlanta Ruby, DenHaag.rb, NYC.rb and more (#851))
     - "The Atlanta Ruby Meetup Group"
 
 - id: aucklandruby
