@@ -2873,7 +2873,6 @@
   date: 2024-11-19
   start_time: 17:00:00 PST
   end_time: 21:00:00 PST
-<<<<<<< HEAD
   url: https://lu.ma/f4pfsigc
 
 - name: South West Ruby - informal meetup
@@ -2895,8 +2894,6 @@
   date: 2024-11-19
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-=======
->>>>>>> 15d725e (Meetup Updates from African Ruby, Atlanta Ruby, Austin.rb, B'more on Rails, and more (#837))
   url: https://lu.ma/f4pfsigc
 
 - name: South West Ruby - informal meetup
@@ -3314,6 +3311,13 @@
   start_time: 17:00:00 CET
   end_time: 20:00:00 CET
   url: https://www.meetup.com/copenhagen-ruby-brigade/events/304755489
+
+- name: Boulder Ruby - December 2024 Presentation Night
+  location: Boulder, CO
+  date: 2024-12-11
+  start_time: 18:00:00 MST
+  end_time: 20:30:00 MST
+  url: https://lu.ma/y1c2jita
 
 - name: Brighton Ruby Group - Silicon Brighton Big Festive Meetup
   location: Hove, UK
