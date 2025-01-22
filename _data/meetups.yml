@@ -3156,7 +3156,7 @@
   end_time: 20:30:00 EST
   url: https://www.meetup.com/ottawaruby/events/304117874
 
-- name: Paris.rb - Meetup December 2024
+- name: Paris.rb - December 2024
   location: Paris, France
   date: 2024-12-03
   start_time: 19:00:00 CET
@@ -3698,6 +3698,13 @@
   url: https://www.meetup.com/nyc-rb/events/305382630
 
 - name: Paris.rb - Meetup January 2025
+  location: Paris, France
+  date: 2025-01-07
+  start_time: 19:00:00 CET
+  end_time: 22:00:00 CET
+  url: https://www.meetup.com/paris_rb/events/304758193
+
+- name: Paris.rb - January 2025
   location: Paris, France
   date: 2025-01-07
   start_time: 19:00:00 CET
