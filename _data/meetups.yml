@@ -3455,6 +3455,13 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/rotterdam-rb/events/304125044
 
+- name: Scottish Ruby User Group - Merry Ruby Christmas 2024 !
+  location: Online
+  date: 2024-12-12
+  start_time: 18:00:00 GMT
+  end_time: 19:30:00 GMT
+  url: https://www.meetup.com/scotrug/events/304950930
+
 - name: Ruby and Rails Adelaide - Ruby Burgers December 2024
   location: Adelaide, Australia
   date: 2024-12-13
@@ -3704,7 +3711,7 @@
   end_time: 22:00:00 CET
   url: https://www.meetup.com/paris_rb/events/304758193
 
-- name: Paris.rb - January 2025
+- name: Paris.rb - Meetup January 2025
   location: Paris, France
   date: 2025-01-07
   start_time: 19:00:00 CET
@@ -3818,6 +3825,13 @@
   end_time: 20:30:00 CST
   url: https://www.meetup.com/austinrb/events/304960558
 
+- name: Austin.rb - Placeholder (Tech Talk) January 2025
+  location: Austin, TX
+  date: 2025-01-14
+  start_time: 18:30:00 CST
+  end_time: 20:30:00 CST
+  url: https://www.meetup.com/austinrb/events/304960558
+
 - name: B'more on Rails - Monthly Meetup January 2025
   location: Online
   date: 2025-01-14
@@ -3875,6 +3889,13 @@
   start_time: 19:00:00 CET
   end_time: 21:00:00 CET
   url: https://www.meetup.com/geneva-rb/events/304627310
+
+- name: Montreal.rb - ** Talk Topic To Be Decided*** January 2025
+  location: Montréal, Canada
+  date: 2025-01-15
+  start_time: 18:00:00 EST
+  end_time: 21:00:00 EST
+  url: https://www.meetup.com/montrealrb/events/klqgptyhccbtb
 
 - name: Portland Ruby Brigade - Cocktails + Code January 2025
   location: Portland, OR
@@ -3959,6 +3980,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/305369001
+
+- name: Toulouse.rb - Conf & Apéro - Janvier
+  location: Toulouse, France
+  date: 2025-01-21
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/toulouse-ruby-friends/events/304951231
 
 - name: Toulouse.rb - Conf & Apéro - Janvier
   location: Toulouse, France
@@ -4282,6 +4310,13 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/305297114
+
+- name: SF Bay Area Ruby - SF Ruby February Meetup @ GitHub
+  location: San Francisco, CA
+  date: 2025-02-13
+  start_time: 17:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://lu.ma/hoou421h
 
 - name: Columbus Ruby Brigade - Monthly Meetup February 2025
   location: Columbus, OH
