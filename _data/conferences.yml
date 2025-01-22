@@ -1,6 +1,5 @@
 ---
 
-<<<<<<< HEAD
 - name: Magic Ruby 2011
   location: Orlando, FL
   start_date: 2011-02-04
@@ -22,8 +21,6 @@
   url: http://www.rubymotion.com/events/conference
   twitter: rubymotion
 
-=======
->>>>>>> 98a99de (Backfill old conferences)
 - name: Garden City RubyConf 2014
   location: Bangalore, India
   start_date: 2014-01-03
@@ -46,11 +43,7 @@
   twitter: larubyconf
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyYidNh3m57hyDjjKGC9-rbj
 
-<<<<<<< HEAD
 - name: RubyConf AU 2014
-=======
-- name: Ruby Conf Australia 2014
->>>>>>> 98a99de (Backfill old conferences)
   location: Sydney, Australia
   start_date: 2014-02-20
   end_date: 2014-02-21
@@ -66,11 +59,7 @@
   twitter: bigrubyconf
   video_link: https://www.youtube.com/playlist?list=PLE7tQUdRKcybDQsdHP1e7msGEalUPaV06
 
-<<<<<<< HEAD
 - name: RubySauna 2014
-=======
-- name: RubySauna  2014
->>>>>>> 98a99de (Backfill old conferences)
   location: Oulu, Finland
   start_date: 2014-02-27
   end_date: 2014-02-27
@@ -171,11 +160,7 @@
   twitter: rubymotion
   video_link: http://confreaks.tv/events/inspect2014
 
-<<<<<<< HEAD
 - name: RubyC 2014
-=======
-- name: Ruby Conference Kiev 2014
->>>>>>> 98a99de (Backfill old conferences)
   location: Kiev, Ukraine
   start_date: 2014-05-31
   end_date: 2014-06-01
@@ -213,11 +198,7 @@
   twitter: reddotrubyconf
   video_link: http://www.confreaks.com/events/rdrc2014
 
-<<<<<<< HEAD
 - name: DeccanRubyConf 2014
-=======
-- name: Deccan Ruby Conference 2014
->>>>>>> 98a99de (Backfill old conferences)
   location: Pune, India
   start_date: 2014-07-19
   end_date: 2014-07-19
@@ -2070,11 +2051,7 @@
   twitter: rubyconfth
   status: Cancelled
 
-<<<<<<< HEAD
 - name: ROSSConf 2020
-=======
-- name: ROSS Conf 2020
->>>>>>> 98a99de (Backfill old conferences)
   location: Online
   start_date: 2020-10-23
   end_date: 2020-10-23
@@ -2144,11 +2121,7 @@
   url: https://www.emeaonrails.com/
   twitter: emeaonrails
 
-<<<<<<< HEAD
 - name: RubyConf Brazil 2021
-=======
-- name: RubyConf Brasil 2021
->>>>>>> 98a99de (Backfill old conferences)
   location: Online
   start_date: 2021-07-29
   end_date: 2021-07-30
