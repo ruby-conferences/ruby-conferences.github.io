@@ -47,14 +47,7 @@
   remove:
     - "[VIRTUAL] "
     - "[ATLRUG Virtual]"
-<<<<<<< HEAD
-<<<<<<< HEAD
     - "[ATLRUG]"
-=======
->>>>>>> a8d50df (Meetup Updates from African Ruby, Atlanta Ruby, DenHaag.rb, NYC.rb and more (#851))
-=======
-    - "[ATLRUG]"
->>>>>>> aa7543f (Meetup Updates from Atlanta Ruby, Charlotte Ruby, Columbus Ruby, Miami Ruby and more (#856))
     - "The Atlanta Ruby Meetup Group"
 
 - id: aucklandruby
@@ -528,15 +521,7 @@
 - id: punerubymeetup
   name: Pune Ruby Meetup
   service: luma
-<<<<<<< HEAD
-<<<<<<< HEAD
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-KTu2DlicAMuYZT1
-=======
-  ical_url: https://lu.ma/calendar/cal-KTu2DlicAMuYZT1
->>>>>>> e5015db (Add Pune Ruby Meetup Luma Calendar)
-=======
-  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-KTu2DlicAMuYZT1
->>>>>>> ab80937 (Add 'Pune Ruby Meetup - January Meetup')
   timezone: Asia/Kolkata
 
 # - id: quillarb
@@ -986,12 +971,6 @@
 - id: sthlmrb
   name: Stockholm Ruby
   service: meetupdotcom
-
-- id: sthlmrb
-  name: Stockholm Ruby
-  service: luma
-  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-endgATTZCF1KdPk
-  timezone: Europe/Stockholm
 
 - id: sthlmrb
   name: Stockholm Ruby

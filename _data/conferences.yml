@@ -2913,13 +2913,6 @@
   cfp_close_date: 2025-02-13
   cfp_link: https://docs.google.com/forms/d/e/1FAIpQLSdg-w3hF3V-Q7hNwXKzqEUv_y92oQaYWu4FSziFRhwEyMo3Hw/viewform
 
-- name: Sin City Ruby 2025
-  location: Las Vegas, NV
-  start_date: 2025-04-10
-  end_date: 2025-04-11
-  url: https://www.sincityruby.com
-  announced_on: 2024-11-14
-
 - name: RubyKaigi 2025
   location: Matsuyama, Ehime, Japan
   start_date: 2025-04-16
@@ -2994,14 +2987,6 @@
   cfp_open_date: 2025-02-15
   cfp_close_date: 2025-03-31
   announced_on: 2025-01-15
-
-- name: Rails Camp West 2025
-  location: Kenai Lake, Alaska, USA
-  start_date: 2025-08-18
-  end_date: 2025-08-21
-  url: https://west.railscamp.us/2025
-  twitter: railscamp_usa
-  announced_on: 2024-12-02
 
 - name: Rails Camp West 2025
   location: Kenai Lake, Alaska, USA
