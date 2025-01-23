@@ -432,6 +432,8 @@
   name: NYC.rb
   exclude: Rails Camp
   service: meetupdotcom
+  exclude:
+    - "Free Passes to DeveloperWeek 2025"
 
 - id: nyc-ruby-women
   name: NYC Ruby Women
@@ -801,7 +803,7 @@
   service: meetupdotcom
 
 - id: rubydf
-  name: RubyDF
+  name: Ruby DF
   timezone: America/Sao_Paulo
   ical_url: https://rubydf.com/events.ics
   service: ical
