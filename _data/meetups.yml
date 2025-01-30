@@ -4072,6 +4072,13 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/bmore-on-rails/events/305765170
 
+- name: 'Barcelona.rb - meetup #February'
+  location: Barcelona, Spain
+  date: 2025-02-11
+  start_time: 18:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://www.meetup.com/barcelona-rb/events/305879212
+
 - name: Philly.rb - Pubnite February 2025
   location: Online
   date: 2025-02-11
@@ -4175,7 +4182,7 @@
   date: 2025-02-17
   start_time: 19:00:00 EST
   end_time: 21:00:00 EST
-  url: https://www.meetup.com/miamirb/events/pdvctsyhcdbwb
+  url: https://www.meetup.com/miamirb/events/305871459
 
 - name: Orange County Ruby - Ruby Science February 2025
   location: Online
@@ -4189,7 +4196,7 @@
   date: 2025-02-18
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcdbxb
+  url: https://www.meetup.com/rubyjax/events/305889494
 
 - name: Geneva.rb - The Past, Present and Future of UI at GitHub (Joel Hawksley, GitHub)
   location: Genève, Switzerland
@@ -4413,7 +4420,7 @@
   date: 2025-03-17
   start_time: 18:00:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/columbusrb/events/nwmbptyhcfbwb
+  url: https://www.meetup.com/columbusrb/events/jlmvptyhcfbwb
 
 - name: Miami Ruby Brigade - March 2025
   location: Coral Gables, FL
@@ -4679,7 +4686,7 @@
   date: 2025-04-21
   start_time: 18:00:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/columbusrb/events/nwmbptyhcgbcc
+  url: https://www.meetup.com/columbusrb/events/jlmvptyhcgbcc
 
 - name: Miami Ruby Brigade - April 2025
   location: Coral Gables, FL
