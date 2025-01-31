@@ -696,6 +696,12 @@
   name: Ruby on Rails Latvia
   service: meetupdotcom
 
+- id: latviarb
+  name: Latvian Ruby Community
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-2SEAz7RmwiOGpnu
+  timezone: Europe/Riga
+
 - id: ruby-on-rails-meetup
   name: Ruby on Rails Meetup
   service: meetupdotcom
