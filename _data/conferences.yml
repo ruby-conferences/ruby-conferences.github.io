@@ -2977,6 +2977,9 @@
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
   announced_on: 2024-12-20
+  cfp_open_date: 2025-01-31
+  cfp_close_date: 2025-02-28
+  cfp_link: https://sessionize.com/railsconf-2025
 
 - name: RubyConf Africa 2025
   location: Nairobi, Kenya
