@@ -4024,7 +4024,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305898467
 
-- name: "Ruby 🤝 AI Happy Hour & Demo Night 4th Edition"
+- name: "Ruby \U0001F91D AI Happy Hour & Demo Night 4th Edition"
   location: New York, NY
   date: 2025-02-05
   start_time: 17:30:00 EST
@@ -4045,19 +4045,19 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/cologne-rb/events/305624708
 
+- name: Kansas City Ruby - KC Ruby Lunch (@Joe's KC in Leawood)
+  location: Leawood, KS
+  date: 2025-02-07
+  start_time: 12:01:00 CST
+  end_time: 13:01:00 CST
+  url: https://www.meetup.com/kcruby/events/305920776
+
 - name: African Ruby Community - Kampala Chapter Mini workshop February 2025
   location: Online
   date: 2025-02-08
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339818
-
-- name: London Ruby User Group - February 2025 Meeting
-  location: London, UK
-  date: 2025-02-10
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/february
 
 - name: Austin.rb - Placeholder (Tech Talk) February 2025
   location: Austin, TX
@@ -4080,8 +4080,9 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/barcelona-rb/events/305879212
 
-- name: Latvian Ruby Community - Ruby Community Meetup – February 2025
-  location: Riga, Latvia
+- name: !binary |-
+    TGF0dmlhbiBSdWJ5IENvbW11bml0eSAtIFJ1YnkgY29tbXVuaXR5IG1lZXR1cCDigJMgRmVicnVhcnkgMjAyNQ==
+  location: LV-1039, Latvia
   date: 2025-02-11
   start_time: 18:00:00 EET
   end_time: 20:00:00 EET
@@ -4149,13 +4150,6 @@
   start_time: 17:30:00 EST
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/305522360
-
-- name: Paris Ruby Workshop - Workshop chez February 2025
-  location: Paris, France
-  date: 2025-02-12
-  start_time: 19:15:00 CET
-  end_time: 21:15:00 CET
-  url: https://www.meetup.com/paris-ruby-workshop/events/305237209
 
 - name: Rails Taiwan - 高雄 Rails Meetup February 2025
   location: Kaohsiung, Taiwan
@@ -4268,6 +4262,13 @@
   start_time: 18:30:00 CST
   end_time: 20:30:00 CST
   url: https://www.meetup.com/austinrb/events/305497306
+
+- name: 'Bangkok.rb - Ruby Tuesday #61'
+  location: เขตวัฒนา, Thailand
+  date: 2025-02-25
+  start_time: 19:00:00 +07
+  end_time: 21:00:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/305915629
 
 - name: RubyJax - Open Hax February 2025
   location: Jacksonville, FL
