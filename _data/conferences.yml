@@ -2988,8 +2988,9 @@
   end_date: 2025-07-19
   url: https://rubyconf.africa/
   twitter: ruby_african
-  cfp_open_date: 2025-02-15
-  cfp_close_date: 2025-03-31
+  cfp_open_date: 2025-01-31
+  cfp_close_date: 2025-04-30
+  cfp_link: https://www.papercall.io/rubyconfafrica2025
   announced_on: 2025-01-15
 
 - name: Rails Camp West 2025
