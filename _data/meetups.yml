@@ -4353,6 +4353,13 @@
   end_time: 21:00:00 CET
   url: https://dresdenrb.onruby.de/events/dresden-rb-meetup-1079
 
+- name: vienna.rb - Ruby Spring Meetup
+  location: Wien, Austria
+  date: 2025-03-06
+  start_time: 18:30:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.meetup.com/vienna-rb/events/305607564/
+
 - name: African Ruby Community - Kampala Chapter Mini workshop March 2025
   location: Online
   date: 2025-03-08
