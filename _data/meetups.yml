@@ -4045,6 +4045,13 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/cologne-rb/events/305624708
 
+- name: Kansas City Ruby - KC Ruby Lunch (@Joe's KC in Leawood)
+  location: Leawood, KS
+  date: 2025-02-07
+  start_time: 12:01:00 CST
+  end_time: 13:01:00 CST
+  url: https://www.meetup.com/kcruby/events/305920776
+
 - name: African Ruby Community - Kampala Chapter Mini workshop February 2025
   location: Online
   date: 2025-02-08
@@ -4059,7 +4066,7 @@
   end_time: 20:00:00 GMT
   url: https://lrug.org/meetings/2025/february
 
-- name: Austin.rb - Placeholder (Tech Talk) February 2025
+- name: Austin.rb - Billion Row Challenge
   location: Austin, TX
   date: 2025-02-11
   start_time: 18:30:00 CST
@@ -4221,7 +4228,7 @@
   url: https://www.meetup.com/geneva-rb/events/304627311
 
 - name: Montreal.rb - Design Patterns in Ruby
-  location: Montréal, Canada
+  location: Montreal, Canada
   date: 2025-02-19
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
@@ -4262,12 +4269,19 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/304339819
 
-- name: Austin.rb - Social Event (Placeholder) February 2025
+- name: Austin.rb - Social @ Brewtorium
   location: Austin, TX
   date: 2025-02-25
   start_time: 18:30:00 CST
   end_time: 20:30:00 CST
   url: https://www.meetup.com/austinrb/events/305497306
+
+- name: 'Bangkok.rb - Ruby Tuesday #61'
+  location: เขตวัฒนา, Thailand
+  date: 2025-02-25
+  start_time: 19:00:00 +07
+  end_time: 21:00:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/305915629
 
 - name: RubyJax - Open Hax February 2025
   location: Jacksonville, FL
@@ -4435,7 +4449,7 @@
   date: 2025-03-17
   start_time: 18:00:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/columbusrb/events/jlmvptyhcfbwb
+  url: https://www.meetup.com/columbusrb/events/305931517
 
 - name: Miami Ruby Brigade - March 2025
   location: Coral Gables, FL
@@ -4466,7 +4480,7 @@
   url: https://www.meetup.com/rubyjax/events/llklbtyhcfbxb
 
 - name: Montreal.rb - Domain Driven Design in Ruby on Rails
-  location: Montréal, Canada
+  location: Montreal, Canada
   date: 2025-03-19
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
@@ -4507,7 +4521,7 @@
   end_time: 21:30:00 NZDT
   url: https://www.meetup.com/aucklandruby/events/305875946
 
-- name: Austin.rb - Social Event (Placeholder) March 2025
+- name: Austin.rb - Social @ St Elmo Brewing
   location: Austin, TX
   date: 2025-03-25
   start_time: 18:30:00 CST
@@ -4722,7 +4736,7 @@
   date: 2025-04-21
   start_time: 18:00:00 EST
   end_time: 20:00:00 EST
-  url: https://www.meetup.com/columbusrb/events/jlmvptyhcgbcc
+  url: https://www.meetup.com/columbusrb/events/305931518
 
 - name: Miami Ruby Brigade - April 2025
   location: Coral Gables, FL
@@ -4731,7 +4745,7 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/miamirb/events/pdvctsyhcgbcc
 
-- name: Austin.rb - Social Event (Placeholder) April 2025
+- name: Austin.rb - Social @ Lazarus Brewing
   location: Austin, TX
   date: 2025-04-22
   start_time: 18:30:00 CST
@@ -4962,7 +4976,7 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/sdczltyhchbjc
 
-- name: Austin.rb - Social Event (Placeholder) May 2025
+- name: Austin.rb - Social @ Central Machine Works
   location: Austin, TX
   date: 2025-05-27
   start_time: 18:30:00 CST
@@ -5003,3 +5017,17 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhchbpc
+
+- name: Charlotte Ruby - Ruby Hack Night June 2025
+  location: Online
+  date: 2025-06-03
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/charlotte-rb/events/nqchktyhcjbfb
+
+- name: RubyJax - Open Hax June 2025
+  location: Jacksonville, FL
+  date: 2025-06-03
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcjbfb
