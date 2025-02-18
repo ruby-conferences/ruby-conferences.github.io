@@ -2970,6 +2970,16 @@
   mastodon: https://ruby.social/@brightonruby
   announced_on: 2024-06-19
 
+- name: KansaiRubyKaigi08
+  location: Kyoto, Japan
+  start_date: 2025-06-28
+  end_date: 2025-06-28
+  url: https://regional.rubykaigi.org/kansai08/
+  announced_on: 2025-01-15
+  cfp_open_date: 2025-02-06
+  cfp_close_date: 2025-05-07
+  cfp_link: https://forms.gle/TrTJs5c7iJf6LwKD6
+
 - name: RailsConf 2025
   location: Philadelphia, PA
   start_date: 2025-07-08
