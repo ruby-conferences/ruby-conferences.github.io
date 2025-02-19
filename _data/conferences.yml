@@ -2742,6 +2742,7 @@
   end_date: 2024-09-27
   url: https://rubyonrails.org/world/2024
   twitter: rails
+  video_link: https://www.youtube.com/playlist?list=PLHFP2OPUpCeb182aDN5cKZTuyjn3Tdbqx
   # Original CFP
   # cfp_open_date: 2024-02-05
   # cfp_close_date: 2024-03-21
@@ -2934,7 +2935,7 @@
   announced_on: 2024-04-28
   cfp_link: https://forms.gle/Wzp4QvDzAiWVrB7d9
   cfp_open_date: 2024-11-19
-  cfp_close_date: 2025-02-02 # TODO: seems like it's open-ended
+  cfp_close_date: 2025-02-05
 
 - name: Helvetic Ruby 2025
   location: Geneva, Switzerland
@@ -2958,7 +2959,7 @@
   announced_on: 2024-06-15
   cfp_link: https://papercall.io/balticruby25
   cfp_open_date: 2024-11-25
-  cfp_close_date: 2025-01-21
+  cfp_close_date: 2025-02-01
 
 - name: Brighton Ruby 2025
   location: Brighton, UK
@@ -2969,6 +2970,16 @@
   mastodon: https://ruby.social/@brightonruby
   announced_on: 2024-06-19
 
+- name: KansaiRubyKaigi08
+  location: Kyoto, Japan
+  start_date: 2025-06-28
+  end_date: 2025-06-28
+  url: https://regional.rubykaigi.org/kansai08/
+  announced_on: 2025-01-15
+  cfp_open_date: 2025-02-06
+  cfp_close_date: 2025-05-07
+  cfp_link: https://forms.gle/TrTJs5c7iJf6LwKD6
+
 - name: RailsConf 2025
   location: Philadelphia, PA
   start_date: 2025-07-08
@@ -2977,6 +2988,9 @@
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
   announced_on: 2024-12-20
+  cfp_open_date: 2025-01-31
+  cfp_close_date: 2025-02-28
+  cfp_link: https://sessionize.com/railsconf-2025
 
 - name: RubyConf Africa 2025
   location: Nairobi, Kenya
@@ -2984,8 +2998,9 @@
   end_date: 2025-07-19
   url: https://rubyconf.africa/
   twitter: ruby_african
-  cfp_open_date: 2025-02-15
-  cfp_close_date: 2025-03-31
+  cfp_open_date: 2025-01-31
+  cfp_close_date: 2025-04-30
+  cfp_link: https://www.papercall.io/rubyconfafrica2025
   announced_on: 2025-01-15
 
 - name: Rails Camp West 2025

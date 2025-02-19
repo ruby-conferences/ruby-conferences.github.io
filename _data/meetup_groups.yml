@@ -432,6 +432,8 @@
   name: NYC.rb
   exclude: Rails Camp
   service: meetupdotcom
+  exclude:
+    - "Free Passes to DeveloperWeek 2025"
 
 - id: nyc-ruby-women
   name: NYC Ruby Women
@@ -694,6 +696,12 @@
   name: Ruby on Rails Latvia
   service: meetupdotcom
 
+- id: latviarb
+  name: Latvian Ruby Community
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-2SEAz7RmwiOGpnu
+  timezone: Europe/Riga
+
 - id: ruby-on-rails-meetup
   name: Ruby on Rails Meetup
   service: meetupdotcom
@@ -801,7 +809,7 @@
   service: meetupdotcom
 
 - id: rubydf
-  name: RubyDF
+  name: Ruby DF
   timezone: America/Sao_Paulo
   ical_url: https://rubydf.com/events.ics
   service: ical
