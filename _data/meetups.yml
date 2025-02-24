@@ -4779,6 +4779,13 @@
   end_time: 21:00:00 PST
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcfbkc
 
+- name: Stockholm Ruby - Springish Ruby Meetup
+  location: 111 57 Stockholm, Sweden
+  date: 2025-03-27
+  start_time: 17:30:00 CET
+  end_time: 21:00:00 CET
+  url: https://lu.ma/1g14ow05
+
 - name: Orange County Ruby - Ruby Science March 2025
   location: Online
   date: 2025-03-31
