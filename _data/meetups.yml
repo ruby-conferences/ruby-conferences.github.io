@@ -4427,7 +4427,7 @@
   end_time: 21:00:00 EST
   url: https://lu.ma/zk25jrny
 
-- name: Ruby DF - Março de 2025 - Quinta edição
+- name: Ruby DF - 5ª Edição - Refatoração de Carnaval
   location: Brasilia, Brazil
   date: 2025-03-01
   start_time: '09:30:00 -03'
@@ -4695,7 +4695,7 @@
   end_time: 20:00:00 EET
   url: https://www.meetup.com/rubybrigade/events/305839738
 
-- name: Montreal.rb - Domain Driven Design in Ruby on Rails
+- name: Montreal.rb - Lessons From Refactoring a Large Rails Monolith
   location: Montreal, Canada
   date: 2025-03-19
   start_time: 18:00:00 EST
@@ -4749,7 +4749,7 @@
   date: 2025-03-22
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcfbdc
+  url: https://www.meetup.com/african_ruby_community/events/306491472
 
 - name: Ruby On Rails Belo Horizonte - 3º Encontro Trem on Rails
   location: Belo Horizonte, Brazil
@@ -4758,8 +4758,8 @@
   end_time: 12:00:00 -03
   url: https://www.meetup.com/ruby-on-rails-bh/events/306240061
 
-- name: Auckland Ruby - Keycloak Authentication with Rails, Pair Programming with
-    AI via Aider.chat
+- name: 'Auckland Ruby - Ruby Nights March: Keycloak Authentication and Pair Programming
+    with AI'
   location: Auckland, New Zealand
   date: 2025-03-24
   start_time: 18:30:00 NZDT
@@ -4976,12 +4976,12 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhcgbtb
 
-- name: Montreal.rb - ** Talk Topic To Be Decided*** April 2025
+- name: Montreal.rb - Domain Driven Design in Ruby on Rails
   location: Montréal, Canada
   date: 2025-04-16
-  start_time: 18:00:00 EST
-  end_time: 21:00:00 EST
-  url: https://www.meetup.com/montrealrb/events/hrtnptyhcgbvb
+  start_time: 18:30:00 EST
+  end_time: 21:30:00 EST
+  url: https://www.meetup.com/montrealrb/events/306467840
 
 - name: Portland Ruby Brigade - Cocktails + Code April 2025
   location: Portland, OR
