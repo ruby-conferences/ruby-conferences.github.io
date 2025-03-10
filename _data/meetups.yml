@@ -5619,15 +5619,15 @@
 - name: Charlotte Ruby - Ruby Hack Night July 2025
   location: Online
   date: 2025-07-01
-  start_time: 19:00:00 EDT
-  end_time: 21:30:00 EDT
+  start_time: 19:00:00 EST
+  end_time: 21:30:00 EST
   url: https://www.meetup.com/charlotte-rb/events/nqchktyhckbcb
 
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
   date: 2025-07-01
-  start_time: 18:30:00 EDT
-  end_time: 20:00:00 EDT
+  start_time: 18:30:00 EST
+  end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/llklbtyhckbcb
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby July 2025
