@@ -1106,6 +1106,8 @@
   name: Valencia.rb
   service: meetupdotcom
   include: Valencia.rb
+  exclude:
+    - VLCTechFest
 
 - id: wellingtonruby
   name: WellingtonRuby
