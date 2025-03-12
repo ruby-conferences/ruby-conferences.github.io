@@ -5684,3 +5684,10 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckblb
+
+- name: Philippine Ruby Users Group - PhRUG - Payday!
+  location: Taguig, Philippines
+  date: 2025-03-26
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/306677171
