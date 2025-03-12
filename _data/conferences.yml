@@ -2430,7 +2430,7 @@
   location: Bangkok, Thailand
   start_date: 2023-10-06
   end_date: 2023-10-07
-  url: https://rubyconfth.com/
+  url: https://rubyconfth.com/past/2023/
   twitter: rubyconfth
   mastodon: https://ruby.social/@rubyconfth
   cfp_open_date: 2023-04-03
@@ -2969,6 +2969,9 @@
   twitter: brightonruby
   mastodon: https://ruby.social/@brightonruby
   announced_on: 2024-06-19
+  cfp_link: https://forms.reform.app/goodscary/lightning-talks-at-brighton-ruby-2025-cfp/gci0d6
+  cfp_open_date: 2025-03-10
+  cfp_close_date: 2025-03-31
 
 - name: KansaiRubyKaigi08
   location: Kyoto, Japan
@@ -3018,6 +3021,9 @@
   url: https://rubyonrails.org/world/
   twitter: rails
   announced_on: 2024-11-27
+  cfp_open_date: 2025-03-07
+  cfp_close_date: 2025-04-10
+  cfp_link: https://sessionize.com/rails-world-2025/
 
 - name: Friendly.rb 2025
   location: Bucharest, Romania
@@ -3027,6 +3033,10 @@
   twitter: friendlyrb
   mastodon: https://ruby.social/@friendlyrb
   announced_on: 2024-11-29
+  cfp_open_date: 2025-03-05
+  cfp_close_date: 2025-07-01
+  cfp_link: https://friendlyrb.com/cfp
+  status: Tickets available
 
 - name: EuRuKo 2025
   location: Viana do Castelo, Portugal
@@ -3055,3 +3065,11 @@
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymtnruby
   announced_on: 2024-10-08
+
+- name: RubyConf TH 2026
+  location: Bangkok, Thailand
+  start_date: 2026-01-31
+  end_date: 2026-02-01
+  url: https://rubyconfth.com
+  twitter: rubyconfth
+  announced_on: 2025-02-28
