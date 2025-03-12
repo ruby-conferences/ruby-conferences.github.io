@@ -47,7 +47,7 @@ GEM
     google-protobuf (4.27.5)
       bigdecimal
       rake (>= 13)
-    graphql (2.3.14)
+    graphql (2.3.21)
       base64
       fiber-storage
     graphql-client (0.23.0)
