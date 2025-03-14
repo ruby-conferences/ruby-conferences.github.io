@@ -501,7 +501,7 @@
   name: Portland Ruby Brigade
   service: meetupdotcom
 
-- id: poznanrug
+- id: prug
   name: Poznań Ruby User Group
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Y0YsxgnzWReQXMG
