@@ -491,6 +491,7 @@
 - id: polishrubyusergroup
   name: Polish Ruby User Group
   service: meetupdotcom
+  timezone: Europe/Warsaw
   exclude:
     - Ruby Community Conference
   remove:
@@ -500,9 +501,11 @@
   name: Portland Ruby Brigade
   service: meetupdotcom
 
-# - id: poznanrug
-#   name:
-#   service: meetupdotcom
+- id: prug
+  name: Poznań Ruby User Group
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Y0YsxgnzWReQXMG
+  timezone: Europe/Warsaw
 
 - id: prague-ruby-meetup
   name: Prague Ruby
