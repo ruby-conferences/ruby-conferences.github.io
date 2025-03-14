@@ -4618,7 +4618,7 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/indyrb/events/306583428
 
-- name: NYC.rb - Event March 2025
+- name: NYC.rb - Damian Rossney - Hanami Router Adventure!
   location: Online
   date: 2025-03-12
   start_time: 17:30:00 EDT
@@ -4633,7 +4633,7 @@
   url: https://www.meetup.com/rails-taiwan/events/306275381
 
 - name: Ruby Buenos Aires - Ruby MeetUp - Marzo 2025 - Founders On Rails
-  location: Online
+  location: Buenos Aires, Argentina
   date: 2025-03-12
   start_time: 19:00:00 -03
   end_time: 22:00:00 -03
@@ -5685,3 +5685,31 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckblb
+
+- name: Atlanta Ruby - Monthly Meetup July 2025
+  location: Online
+  date: 2025-07-09
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/atlantaruby/events/tczcxryhckbmb
+
+- name: Indianapolis Ruby Brigade - Monthly Meetup July 2025
+  location: Indianapolis, IN
+  date: 2025-07-09
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/indyrb/events/pqvlhtyhckbmb
+
+- name: NYC.rb - Event July 2025
+  location: Online
+  date: 2025-07-09
+  start_time: 17:30:00 EDT
+  end_time: 19:00:00 EDT
+  url: https://www.meetup.com/nyc-rb/events/hkbsltyhckbmb
+
+- name: Rails Taiwan - 高雄 Rails Meetup July 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-07-09
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbmb
