@@ -2922,9 +2922,15 @@
   twitter: rubykaigi
   mastodon: https://ruby.social/@rubykaigi
   announced_on: 2024-05-18
-  cfp_open_date: 2024-12-14
-  cfp_close_date: 2025-01-19
-  cfp_link: https://cfp.rubykaigi.org/events/2025
+  # Original CFP:
+  # cfp_open_date: 2024-12-14
+  # cfp_close_date: 2025-01-19
+  # cfp_link: https://cfp.rubykaigi.org/events/2025
+
+  # Lightning Talk CFP:
+  cfp_open_date: 2025-03-07
+  cfp_close_date: 2025-03-30
+  cfp_link: https://cfp.rubykaigi.org/events/2025LT
 
 - name: Balkan Ruby 2025
   location: Sofia, Bulgaria
