@@ -319,14 +319,6 @@
   twitter: railspacific
   video_link: http://confreaks.tv/events/railspacific2014
 
-- name: RailsClub 2014
-  location: Moscow, Russia
-  start_date: 2014-09-27
-  end_date: 2014-09-27
-  url: https://rubyrussia.club
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/watch?v=i6mTsTpOi2Y&list=UU0W9Gjw4JzUcC2BfFf1MDHA
-
 - name: ArrrrCamp 2014
   location: Ghent, Belgium
   start_date: 2014-10-02
@@ -643,14 +635,6 @@
   url: http://www.rockymtnruby.com/
   twitter: rockymtnruby
   video_link: https://www.confreaks.tv/events/rmr2015
-
-- name: RailsClub 2015
-  location: Moscow, Russia
-  start_date: 2015-09-26
-  end_date: 2015-09-26
-  url: https://rubyrussia.club/
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOiwKkEcdRU7NvQr2IKaMBw
 
 - name: ROSSConf Berlin 2015
   location: Berlin, Germany
@@ -985,14 +969,6 @@
   url: http://conferenciaror.es/
   twitter: conferenciaror
 
-- name: RailsClub 2016
-  location: Moscow, Russia
-  start_date: 2016-10-22
-  end_date: 2016-10-22
-  url: https://rubyrussia.club/
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeOXZhotgDX7Y7qBsr24cu7o
-
 - name: London Ruby Unconference 2016
   location: London, UK
   start_date: 2016-10-22
@@ -1215,14 +1191,6 @@
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yaJalSEHY17E96ChjY-kF2D
 
-- name: RailsClub 2017
-  location: Moscow, Russia
-  start_date: 2017-09-23
-  end_date: 2017-09-23
-  url: https://rubyrussia.club/
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeMBqHPF7HcO6O2WBjzfiUQw
-
 - name: EuRuKo 2017
   location: Budapest, Hungary
   start_date: 2017-09-29
@@ -1442,12 +1410,6 @@
   twitter: rubyc_eu
   video_link: https://rubyc.eu/posts/93
 
-- name: Saint P Rubyconf 2018
-  location: Saint Petersburg, Russia
-  start_date: 2018-06-10
-  end_date: 2018-06-10
-  twitter: saintprug
-
 - name: GORUCO 2018
   location: New York, NY
   start_date: 2018-06-16
@@ -1524,14 +1486,6 @@
   url: http://rubyunconf.eu
   twitter: RubyUnconfEU
   video_link: https://www.youtube.com/playlist?list=PLvpu5WTDxTKXWZvsg9iR4a6AeHWw0Hzu4
-
-- name: RubyRussia 2018
-  location: Moscow, Russia
-  start_date: 2018-10-06
-  end_date: 2018-10-06
-  url: https://rubyrussia.club/en
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeNz4UCJk9r-5nFklqvzL7vy
 
 - name: Ruby Summit China 2018
   location: ZhengZhou, Henan, China
@@ -1708,14 +1662,6 @@
   twitter: RubyUnconfEU
   video_link: https://www.youtube.com/playlist?list=PLvpu5WTDxTKWPJMPTC33amjQnl6sAEEvH
 
-- name: Saint P Rubyconf 2019
-  location: Saint Petersburg, Russia
-  start_date: 2019-06-01
-  end_date: 2019-06-02
-  url: https://spbrubyconf.ru/
-  twitter: saintpruby
-  video_link: https://www.youtube.com/watch?v=CjOwKbf8L3I
-
 - name: EuRuKo 2019
   location: Rotterdam, Netherlands
   start_date: 2019-06-21
@@ -1791,14 +1737,6 @@
   end_date: 2019-09-21
   url: https://rubyconf.co
   twitter: rubyconfco
-
-- name: RubyRussia 2019
-  location: Moscow, Russia
-  start_date: 2019-09-28
-  end_date: 2019-09-28
-  url: https://rubyrussia.club/en
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeP3xDhqfTVCXZd8_L07QZ2c
 
 - name: RubyConf Indonesia 2019
   location: Jakarta, Indonesia
@@ -1962,14 +1900,6 @@
   twitter: rubyunconfeu
   status: Cancelled
 
-- name: Saint P Rubyconf 2020
-  location: Saint Petersburg, Russia
-  start_date: 2020-06-06
-  end_date: 2020-06-07
-  url: https://spbrubyconf.ru/
-  twitter: saintpruby
-  status: Cancelled
-
 - name: Brighton Ruby 2020
   location: Online
   start_date: 2020-07-03
@@ -2059,14 +1989,6 @@
   twitter: rossconf
   video_link: https://www.youtube.com/playlist?list=PL9_A7olkztLkFMYU2ZgpL5XZ6UKlqFZrB
 
-- name: RubyRussia 2020
-  location: Online
-  start_date: 2020-11-13
-  end_date: 2020-11-15
-  url: https://rubyrussia.club
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeO_YkVRot6JOLgTVSH9uUEB
-
 - name: RubyConf 2020
   location: Houston, TX
   start_date: 2020-11-17
@@ -2106,14 +2028,6 @@
   twitter: euruko
   video_link: https://www.youtube.com/playlist?list=PLZW-kXE0oRyknRwEUrg5o491KomjkNU16
 
-- name: Saint P Rubyconf 2021
-  location: Saint Petersburg, Russia
-  start_date: 2021-06-05
-  end_date: 2021-06-05
-  url: https://spbrubyconf.ru/
-  twitter: saintpruby
-  video_link: https://www.youtube.com/watch?v=MIX8S3n9Nwc
-
 - name: EMEA on Rails 2021
   location: Online
   start_date: 2021-06-09
@@ -2143,14 +2057,6 @@
   url: https://rubykaigi.org/2021-takeout
   twitter: rubykaigi
   video_link: https://www.youtube.com/playlist?list=PLbFmgWm555yYgc4sx2Dkb7WWcfflbt6AP
-
-- name: RubyRussia 2021
-  location: Online
-  start_date: 2021-09-24
-  end_date: 2021-09-25
-  url: https://rubyrussia.club/
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/playlist?list=PLiWUIs1hSNeMfiEGak_zwF_ULP8Rc6HcL
 
 - name: Kaigi on Rails 2021
   location: Online
@@ -2402,14 +2308,6 @@
   url: https://friendlyrb.com/
   twitter: friendlyrb
   mastodon: https://ruby.social/@friendlyrb
-
-- name: RubyRussia 2023
-  location: Online
-  start_date: 2023-09-30
-  end_date: 2023-09-30
-  url: https://rubyrussia.club/
-  twitter: railsclub_ru
-  video_link: https://www.youtube.com/watch?v=1bN2uBDylQU
 
 - name: Rails World 2023
   location: Amsterdam, Netherlands
@@ -2753,14 +2651,6 @@
   cfp_close_date: 2024-09-10
   cfp_link: https://docs.google.com/forms/d/e/1FAIpQLSdTKiwbhAo4leeOl-HPIG2gFVzvmWjEtBFV6mC4ueY2Gso44g/viewform
   announced_on: 2023-11-30
-
-- name: RubyRussia 2024
-  location: Moscow, Russia
-  start_date: 2024-10-02
-  end_date: 2024-10-02
-  url: https://rubyrussia.club/
-  twitter: railsclub_ru
-  announced_on: 2024-09-12
 
 - name: Matsue RubyKaigi 11
   location: Matsue, Japan
