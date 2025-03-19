@@ -4851,6 +4851,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306561644
 
+- name: 'Barcelona.rb - BARcelona.rb - let''s have some beers together at #March'
+  location: Barcelona, Spain
+  date: 2025-03-26
+  start_time: 18:30:00 CET
+  end_time: 21:30:00 CET
+  url: https://www.meetup.com/barcelona-rb/events/306812440
+
 - name: Nantes.rb - Ruby à la Little Atlantique Brewery!
   location: Nantes, France
   date: 2025-03-26
