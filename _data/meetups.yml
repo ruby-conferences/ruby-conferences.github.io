@@ -5896,3 +5896,17 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhckbcc
+
+- name: Austin.rb - Social @ The Brass Tap
+  location: Austin, TX
+  date: 2025-07-22
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/305497335
+
+- name: RubyJax - Open Hax July 2025
+  location: Jacksonville, FL
+  date: 2025-07-22
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhckbdc
