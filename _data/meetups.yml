@@ -5176,6 +5176,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbvb
 
+- name: Utah Ruby Users Group - Utah Valley URUG
+  location: Lehi, UT
+  date: 2025-04-16
+  start_time: 19:00:00 MDT
+  end_time: 21:00:00 MDT
+  url: https://www.meetup.com/utah-ruby-users-group/events/306890961
+
 - name: West Midlands Ruby User Group - Monthly Meetup April 2025
   location: Online
   date: 2025-04-16
@@ -5254,7 +5261,7 @@
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcgbgc
 
 - name: Prague Ruby - Restart Ruby meetup by Easy
-  location: Prague, Czechia
+  location: Hlavní město Praha, Czechia
   date: 2025-04-24
   start_time: 18:00:00 CET
   end_time: 20:00:00 CET
@@ -5910,3 +5917,10 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckbdc
+
+- name: Rails Taiwan - 高雄 Rails Meetup July 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-07-23
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbfc
