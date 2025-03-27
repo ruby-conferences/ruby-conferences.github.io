@@ -5084,7 +5084,8 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306816818
 
-- name: Atlanta Ruby - Monthly Meetup April 2025
+- name: Atlanta Ruby - Rails on WASM or Portfolio on a Budget with Thomas Breland
+    - ATLRUG Virtual
   location: Online
   date: 2025-04-09
   start_time: 18:30:00 EDT
@@ -5127,6 +5128,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/306825696
 
+- name: Ruby Usergroup Hamburg - April 2025
+  location: Hamburg, Germany
+  date: 2025-04-09
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-april-2025-1442
+
 - name: 'African Ruby Community - Ruby Thursdays: To be determined April 2025'
   location: Online
   date: 2025-04-10
@@ -5153,7 +5161,7 @@
   date: 2025-04-15
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcgbtb
+  url: https://www.meetup.com/rubyjax/events/306942829
 
 - name: Montreal.rb - Domain Driven Design in Ruby on Rails
   location: Montréal, Canada
