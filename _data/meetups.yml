@@ -4024,7 +4024,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305898467
 
-- name: "Ruby 🤝 AI Happy Hour & Demo Night 4th Edition"
+- name: "Ruby \U0001F91D AI Happy Hour & Demo Night 4th Edition"
   location: New York, NY
   date: 2025-02-05
   start_time: 17:30:00 EST
@@ -4269,7 +4269,8 @@
   end_time: 21:00:00 MST
   url: https://www.meetup.com/utah-ruby-users-group/events/305793844
 
-- name: "Valencia.rb - 📢 Segundo ✌🏻 encuentro para organizar el VlcTechFest 🚀"
+- name: "Valencia.rb - \U0001F4E2 Segundo ✌\U0001F3FB encuentro para organizar el
+    VlcTechFest \U0001F680"
   location: Valencia, Spain
   date: 2025-02-19
   start_time: 18:30:00 CET
@@ -4963,6 +4964,7 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/306666623
+  status: cancelled
 
 - name: 'Brighton Ruby Group - April Meetup: Partials Are Fine, Actually – From Basic
     to Advanced Components'
@@ -5042,6 +5044,13 @@
   end_time: 21:15:00 EET
   url: https://lu.ma/939q9twh
 
+- name: SD Ruby - Monthly Meetup
+  location: San Diego, CA
+  date: 2025-04-03
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/306949334
+
 - name: African Ruby Community - Kampala Chapter Mini workshop April 2025
   location: Online
   date: 2025-04-05
@@ -5049,7 +5058,7 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/306749137
 
-- name: Austin.rb - Placeholder (Tech Talk) April 2025
+- name: Austin.rb - Spec Smells to Sniff For
   location: Austin, TX
   date: 2025-04-08
   start_time: 18:30:00 CDT
@@ -5142,13 +5151,6 @@
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/305623706
 
-- name: London Ruby User Group - April 2025 Meeting
-  location: London, UK
-  date: 2025-04-14
-  start_time: 18:00:00 GMT
-  end_time: 20:00:00 GMT
-  url: https://lrug.org/meetings/2025/april
-
 - name: Orange County Ruby - Ruby Science April 2025
   location: Online
   date: 2025-04-14
@@ -5182,7 +5184,7 @@
   date: 2025-04-16
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbvb
+  url: https://www.meetup.com/rails-taiwan/events/306952160
 
 - name: Utah Ruby Users Group - Utah Valley URUG
   location: Lehi, UT
@@ -5196,7 +5198,7 @@
   date: 2025-04-16
   start_time: 19:00:00 GMT
   end_time: 21:00:00 GMT
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcgbvb
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/306960310
 
 - name: African Ruby Community - Kampala Chapter Mini workshop April 2025
   location: Online
@@ -5932,3 +5934,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbfc
+
+- name: African Ruby Community - Kampala Chapter Mini workshop July 2025
+  location: Online
+  date: 2025-07-26
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhckbjc
