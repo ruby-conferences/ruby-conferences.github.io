@@ -4963,6 +4963,7 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/306666623
+  status: cancelled
 
 - name: 'Brighton Ruby Group - April Meetup: Partials Are Fine, Actually – From Basic
     to Advanced Components'
@@ -5049,7 +5050,7 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/306749137
 
-- name: Austin.rb - Placeholder (Tech Talk) April 2025
+- name: Austin.rb - Spec Smells to Sniff For
   location: Austin, TX
   date: 2025-04-08
   start_time: 18:30:00 CDT
