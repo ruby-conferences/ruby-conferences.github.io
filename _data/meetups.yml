@@ -5042,6 +5042,13 @@
   end_time: 21:15:00 EET
   url: https://lu.ma/939q9twh
 
+- name: SD Ruby - Monthly Meetup
+  location: San Diego, CA
+  date: 2025-04-03
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/306949334
+
 - name: African Ruby Community - Kampala Chapter Mini workshop April 2025
   location: Online
   date: 2025-04-05
@@ -5182,7 +5189,7 @@
   date: 2025-04-16
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcgbvb
+  url: https://www.meetup.com/rails-taiwan/events/306952160
 
 - name: Utah Ruby Users Group - Utah Valley URUG
   location: Lehi, UT
@@ -5196,7 +5203,7 @@
   date: 2025-04-16
   start_time: 19:00:00 GMT
   end_time: 21:00:00 GMT
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcgbvb
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/306960310
 
 - name: African Ruby Community - Kampala Chapter Mini workshop April 2025
   location: Online
@@ -5932,3 +5939,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbfc
+
+- name: African Ruby Community - Kampala Chapter Mini workshop July 2025
+  location: Online
+  date: 2025-07-26
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhckbjc
