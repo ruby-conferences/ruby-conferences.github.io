@@ -2918,7 +2918,7 @@
   location: Matsuyama, Ehime, Japan
   start_date: 2025-04-16
   end_date: 2025-04-18
-  url: https://rubykaigi.org
+  url: https://rubykaigi.org/2025
   twitter: rubykaigi
   mastodon: https://ruby.social/@rubykaigi
   announced_on: 2024-05-18
@@ -3083,6 +3083,15 @@
   url: https://rubyconfth.com
   twitter: rubyconfth
   announced_on: 2025-02-28
+
+- name: RubyKaigi 2026
+  location: Hakodate, Hokkaido, Japan
+  start_date: 2026-04-22
+  end_date: 2026-04-24
+  url: https://rubykaigi.org
+  twitter: rubykaigi
+  mastodon: https://ruby.social/@rubykaigi
+  announced_on: 2025-04-18
 
 - name: RubyConf Austria 2026
   location: Vienna, Austria
