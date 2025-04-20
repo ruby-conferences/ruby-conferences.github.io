@@ -19,10 +19,12 @@ class LumaEvent < AbstractEvent
 
       location = location_parts.last(2).join(", ").strip
     end
+
+    location.force_encoding("utf-8")
   end
 
   def event_name
-    object.summary
+    object.summary.force_encoding("utf-8")
   end
 
   def event_start_time
