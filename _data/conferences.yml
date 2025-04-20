@@ -3086,9 +3086,7 @@
 
 - name: RubyConf Austria 2026
   location: Vienna, Austria
-  # TODO: update when dates are confirmed
-  start_date: 2026-05-29
-  end_date: 2026-05-31
-  date_precision: year
+  start_date: 2026-05-30
+  end_date: 2026-05-30
   url: https://rubyconf.at
   announced_on: 2025-03-12
