@@ -3012,6 +3012,16 @@
   cfp_link: https://www.papercall.io/rubyconfafrica2025
   announced_on: 2025-01-15
 
+- name: RubyConf Taiwan x COSCUP 2025
+  location: Taipei, Taiwan
+  start_date: 2025-08-09
+  end_date: 2025-08-10
+  url: https://2025.rubyconf.tw
+  announced_on: 2025-04-15
+  cfp_open_date: 2025-04-19
+  cfp_close_date: 2025-05-10
+  cfp_link: https://pretalx.coscup.org/coscup-2025/cfp
+
 - name: Rails Camp West 2025
   location: Kenai Lake, Alaska, USA
   start_date: 2025-08-18
