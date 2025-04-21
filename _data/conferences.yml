@@ -2843,6 +2843,12 @@
   cfp_link: https://www.papercall.io/rubyconf-india-2024
   announced_on: 2024-07-23
 
+- name: RubyConf China 2024
+  location: Guangzhou, China
+  start_date: 2024-11-30
+  end_date: 2024-12-01
+  url: https://www.rubyconfchina.org
+
 - name: RubyWorld Conference 2024
   location: Matsue, Japan
   start_date: 2024-12-05
