@@ -5360,6 +5360,7 @@
   date: 2025-04-29
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/307203265
 
 - name: Toronto Ruby - April 2025 - No Foolin' Edition
   location: Toronto, Canada
@@ -5367,7 +5368,6 @@
   start_time: 17:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://lu.ma/eyfg1u2m
-  url: https://www.meetup.com/rubyjax/events/307203265
 
 - name: Rails Taiwan - 高雄 Rails Meetup April 2025
   location: Kaohsiung, Taiwan
