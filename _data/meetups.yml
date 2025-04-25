@@ -5362,6 +5362,13 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/307180679
 
+- name: 'Bangkok.rb - Ruby Tuesday #63'
+  location: เขตวัฒนา, Thailand
+  date: 2025-04-29
+  start_time: 19:00:00 +07
+  end_time: 21:00:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/307456423
+
 - name: LA Ruby - The Underground
   location: Los Angeles, CA
   date: 2025-04-29
@@ -5410,6 +5417,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/307212344
+
+- name: SD Ruby - 20th Anniversary Meetup
+  location: San Diego, CA
+  date: 2025-05-01
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/307452417
 
 - name: African Ruby Community - Kampala Chapter Mini workshop May 2025
   location: Online
@@ -5549,7 +5563,7 @@
   date: 2025-05-14
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/indyrb/events/dtttqtyhchbsb
+  url: https://www.meetup.com/indyrb/events/307467538
 
 - name: NYC.rb - Event May 2025
   location: Online
@@ -5563,7 +5577,7 @@
   date: 2025-05-14
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhchbsb
+  url: https://www.meetup.com/rails-taiwan/events/307456135
 
 - name: Ruby Usergroup Hamburg - May 2025
   location: Hamburg, Germany
@@ -5704,6 +5718,13 @@
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtyhchbpc
+
+- name: 'Brighton Ruby Group - Ruby & Tacos: Brighton Pre-Conf Meetup'
+  location: BN1 1EZ, UK
+  date: 2025-06-03
+  start_time: 12:00:00 BST
+  end_time: 13:30:00 BST
+  url: https://www.meetup.com/brighton-ruby-group/events/307438750
 
 - name: Charlotte Ruby - Ruby Hack Night June 2025
   location: Online
@@ -6334,3 +6355,10 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhclbbc
+
+- name: African Ruby Community - Kampala Chapter Mini workshop August 2025
+  location: Online
+  date: 2025-08-23
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhclbfc
