@@ -5361,6 +5361,7 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/307180679
+  status: cancelled
 
 - name: 'Bangkok.rb - Ruby Tuesday #63'
   location: เขตวัฒนา, Thailand
