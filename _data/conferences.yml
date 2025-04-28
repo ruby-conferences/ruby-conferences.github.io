@@ -3083,6 +3083,16 @@
   mastodon: https://ruby.social/@kaigionrails
   announced_on: 2024-10-26
 
+- name: "#{conference} 2025"
+  location: Helsinki, Finland
+  # TODO: update when dates are confirmed
+  start_date: 2025-11-30
+  end_date: 2025-11-30
+  date_precision: month
+  url: https://helsinkiruby.fi/conference/
+  mastodon: https://ruby.social/@helsinkiruby
+  announced_on: 2025-04-25
+
 - name: Rocky Mountain Ruby 2025
   location: Boulder, CO
   # TODO: update when dates are confirmed
