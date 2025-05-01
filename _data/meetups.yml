@@ -5517,7 +5517,7 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/307423253
 
-- name: Austin.rb - Placeholder (Tech Talk) May 2025
+- name: 'Austin.rb - Zero-to-Hero: Postgres 12 ➔ 16 Upgrade in Production'
   location: Austin, TX
   date: 2025-05-13
   start_time: 18:30:00 CDT
@@ -5641,14 +5641,14 @@
   date: 2025-05-19
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/bkdfrtyhchbzb
+  url: https://www.meetup.com/columbusrb/events/307552241
 
 - name: Miami Ruby Brigade - May 2025
   location: Coral Gables, FL
   date: 2025-05-19
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/miamirb/events/pdvctsyhchbzb
+  url: https://www.meetup.com/miamirb/events/307551705
 
 - name: RubyJax - Open Hax May 2025
   location: Jacksonville, FL
@@ -6461,3 +6461,17 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhclbkc
+
+- name: Melbourne Ruby - Ruby Melbourne Meetup August 2025
+  location: Southbank, Australia
+  date: 2025-08-28
+  start_time: 18:00:00 AEST
+  end_time: 21:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601920
+
+- name: Orange County Ruby - Meetup August 2025
+  location: Dana Point, CA
+  date: 2025-08-28
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqyhclblc
