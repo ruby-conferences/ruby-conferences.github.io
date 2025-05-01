@@ -3112,6 +3112,15 @@
   twitter: rubyconfth
   announced_on: 2025-02-28
 
+- name: Tropical on Rails 2026
+  location: São Paulo, Brazil
+  start_date: 2026-04-09
+  end_date: 2026-04-10
+  url: https://www.tropicalonrails.com/
+  twitter: tropicalonrails
+  mastodon: https://ruby.social/@tropicalonrails
+  announced_on: 2025-04-30
+
 - name: RubyKaigi 2026
   location: Hakodate, Hokkaido, Japan
   start_date: 2026-04-22
