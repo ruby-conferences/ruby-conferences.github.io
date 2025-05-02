@@ -4024,7 +4024,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305898467
 
-- name: "Ruby 🤝 AI Happy Hour & Demo Night 4th Edition"
+- name: "Ruby \U0001F91D AI Happy Hour & Demo Night 4th Edition"
   location: New York, NY
   date: 2025-02-05
   start_time: 17:30:00 EST
@@ -4269,7 +4269,8 @@
   end_time: 21:00:00 MST
   url: https://www.meetup.com/utah-ruby-users-group/events/305793844
 
-- name: "Valencia.rb - 📢 Segundo ✌🏻 encuentro para organizar el VlcTechFest 🚀"
+- name: "Valencia.rb - \U0001F4E2 Segundo ✌\U0001F3FB encuentro para organizar el
+    VlcTechFest \U0001F680"
   location: Valencia, Spain
   date: 2025-02-19
   start_time: 18:30:00 CET
@@ -5496,26 +5497,12 @@
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/305623707
 
-- name: London Ruby User Group - May 2025 Meeting
-  location: London, UK
-  date: 2025-05-12
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2025/may
-
 - name: 'Barcelona.rb - meetup #May'
   location: Barcelona, Spain
   date: 2025-05-08
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/barcelona-rb/events/307510388
-
-- name: Ruby DF - 6ª Edição - Os Bastidores do Ruby
-  location: Brasilia, Brazil
-  date: 2025-05-10
-  start_time: '09:30:00 -03'
-  end_time: 11:30:00 -03
-  url: https://rubydf.com/events/sexta-edicao
 
 - name: Orange County Ruby - Ruby Science May 2025
   location: Online
@@ -5662,7 +5649,14 @@
   date: 2025-05-20
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhchbbc
+  url: https://www.meetup.com/rubyjax/events/307573644
+
+- name: Toulouse.rb - Conf & Apéro - Mai
+  location: Toulouse, France
+  date: 2025-05-20
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/toulouse-ruby-friends/events/307492131
 
 - name: Montreal.rb - Native Ruby gems with Rust
   location: Montréal, Canada
@@ -5683,7 +5677,7 @@
   date: 2025-05-21
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhchbcc
+  url: https://www.meetup.com/rails-taiwan/events/307580446
 
 - name: Ruby in London - with Mindful Chef
   location: London, UK
@@ -5711,7 +5705,7 @@
   date: 2025-05-21
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhchbcc
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/307588585
 
 - name: Dresden.rb - meetup Mai 2025
   location: Dresden, Germany
