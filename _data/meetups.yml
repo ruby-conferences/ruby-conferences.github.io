@@ -4024,7 +4024,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305898467
 
-- name: "Ruby 🤝 AI Happy Hour & Demo Night 4th Edition"
+- name: "Ruby \U0001F91D AI Happy Hour & Demo Night 4th Edition"
   location: New York, NY
   date: 2025-02-05
   start_time: 17:30:00 EST
@@ -4269,7 +4269,8 @@
   end_time: 21:00:00 MST
   url: https://www.meetup.com/utah-ruby-users-group/events/305793844
 
-- name: "Valencia.rb - 📢 Segundo ✌🏻 encuentro para organizar el VlcTechFest 🚀"
+- name: "Valencia.rb - \U0001F4E2 Segundo ✌\U0001F3FB encuentro para organizar el
+    VlcTechFest \U0001F680"
   location: Valencia, Spain
   date: 2025-02-19
   start_time: 18:30:00 CET
@@ -5426,13 +5427,6 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/sdruby/events/307452417
 
-- name: African Ruby Community - Kampala Chapter Mini workshop May 2025
-  location: Online
-  date: 2025-05-03
-  start_time: 11:00:00 EAT
-  end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/307262720
-
 - name: Charlotte Ruby - Ruby Hack Night May 2025
   location: Online
   date: 2025-05-06
@@ -5503,26 +5497,12 @@
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/305623707
 
-- name: London Ruby User Group - May 2025 Meeting
-  location: London, UK
-  date: 2025-05-12
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2025/may
-
 - name: 'Barcelona.rb - meetup #May'
   location: Barcelona, Spain
   date: 2025-05-08
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/barcelona-rb/events/307510388
-
-- name: Ruby DF - 6ª Edição - Os Bastidores do Ruby
-  location: Brasilia, Brazil
-  date: 2025-05-10
-  start_time: '09:30:00 -03'
-  end_time: 11:30:00 -03
-  url: https://rubydf.com/events/sexta-edicao
 
 - name: Orange County Ruby - Ruby Science May 2025
   location: Online
@@ -5978,6 +5958,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcjbxb
+
+- name: Ruby on Rails Switzerland - Railshöck at Renuo
+  location: Wallisellen, Switzerland
+  date: 2025-06-18
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/rubyonrails-ch/events/307626721
 
 - name: West Midlands Ruby User Group - Monthly Meetup June 2025
   location: Online
@@ -6496,3 +6483,10 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhclblc
+
+- name: Orange County Ruby - Ruby Science September 2025
+  location: Online
+  date: 2025-09-01
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcmbcb
