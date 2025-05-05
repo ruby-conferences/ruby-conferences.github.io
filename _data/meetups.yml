@@ -5979,6 +5979,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcjbxb
 
+- name: Ruby on Rails Switzerland - Railshöck at Renuo
+  location: Wallisellen, Switzerland
+  date: 2025-06-18
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/rubyonrails-ch/events/307626721
+
 - name: West Midlands Ruby User Group - Monthly Meetup June 2025
   location: Online
   date: 2025-06-18
@@ -6496,3 +6503,24 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhclblc
+
+- name: Orange County Ruby - Ruby Science September 2025
+  location: Online
+  date: 2025-09-01
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcmbcb
+
+- name: Charlotte Ruby - Ruby Hack Night September 2025
+  location: Online
+  date: 2025-09-02
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/nqchktyhcmbdb
+
+- name: RubyJax - Open Hax September 2025
+  location: Jacksonville, FL
+  date: 2025-09-02
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcmbdb
