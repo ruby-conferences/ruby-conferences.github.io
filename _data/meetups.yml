@@ -5489,7 +5489,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/307335131
 
-- name: 'Rzeszow Ruby User Group - Spotkanie #44 – Kubernetes.'
+- name: 'Rzeszow Ruby User Group - Spotkanie #44 – Kubernetes. API'
   location: Rzeszów, Poland
   date: 2025-05-07
   start_time: 18:00:00 CEST
@@ -5636,6 +5636,13 @@
   end_time: 21:00:00 CEST
   url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-may-2025-1541
 
+- name: Latvian Ruby Community - Ruby community meetup - May 2025
+  location: LV-1001, Latvia
+  date: 2025-05-15
+  start_time: 18:00:00 EEST
+  end_time: 21:00:00 EEST
+  url: https://lu.ma/e34lm6hq
+
 - name: African Ruby Community - Kampala Chapter Mini workshop May 2025
   location: Online
   date: 2025-05-17
@@ -5733,6 +5740,20 @@
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://dresdenrb.onruby.de/events/dresden-rb-meetup-mai-2025-1475
+
+- name: Nantes.rb - Nantes RB à la nuit des Meetup
+  location: nantes, France
+  date: 2025-05-22
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/nantes-rb/events/307651155
+
+- name: Ruby and Rails Adelaide - Adelaide Ruby Meetup
+  location: Adelaide, Australia
+  date: 2025-05-23
+  start_time: 18:00:00 ACST
+  end_time: 21:00:00 ACST
+  url: https://www.meetup.com/adelaiderb/events/307653427
 
 - name: Orange County Ruby - Ruby Science May 2025
   location: Online
@@ -5957,6 +5978,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcjbwb
+
+- name: Toulouse.rb - Conf & Apéro - Juin
+  location: Toulouse, France
+  date: 2025-06-17
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/toulouse-ruby-friends/events/307661560
 
 - name: Montreal.rb - ** Talk Topic To Be Decided*** June 2025
   location: Montréal, Canada
@@ -6524,3 +6552,24 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcmbdb
+
+- name: Prague.rb - First Wednesday Of The Month - Ruby September 2025
+  location: Prague, Czechia
+  date: 2025-09-03
+  start_time: 19:00:00 CEST
+  end_time: 19:00:00 CEST
+  url: https://www.meetup.com/praguerb/events/dkmktfyhcmbfb
+
+- name: Rails Taiwan - 高雄 Rails Meetup September 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-09-03
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbfb
+
+- name: Ruby on Rails Switzerland - Mini Höck at openscript
+  location: Opfikon, Switzerland
+  date: 2025-09-03
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/rubyonrails-ch/events/307191188
