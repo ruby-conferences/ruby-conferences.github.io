@@ -3139,6 +3139,14 @@
   mastodon: https://ruby.social/@rubykaigi
   announced_on: 2025-04-18
 
+- name: Balkan Ruby 2026
+  location: Sofia, Bulgaria
+  start_date: 2026-05-15
+  end_date: 2026-05-16
+  url: https://balkanruby.com
+  twitter: balkanruby
+  announced_on: 2025-04-27
+
 - name: RubyConf Austria 2026
   location: Vienna, Austria
   start_date: 2026-05-30
