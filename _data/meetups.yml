@@ -4024,7 +4024,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305898467
 
-- name: "Ruby 🤝 AI Happy Hour & Demo Night 4th Edition"
+- name: "Ruby \U0001F91D AI Happy Hour & Demo Night 4th Edition"
   location: New York, NY
   date: 2025-02-05
   start_time: 17:30:00 EST
@@ -4269,7 +4269,8 @@
   end_time: 21:00:00 MST
   url: https://www.meetup.com/utah-ruby-users-group/events/305793844
 
-- name: "Valencia.rb - 📢 Segundo ✌🏻 encuentro para organizar el VlcTechFest 🚀"
+- name: "Valencia.rb - \U0001F4E2 Segundo ✌\U0001F3FB encuentro para organizar el
+    VlcTechFest \U0001F680"
   location: Valencia, Spain
   date: 2025-02-19
   start_time: 18:30:00 CET
@@ -5440,27 +5441,6 @@
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/307167732
 
-- name: Paris.rb - May 2025
-  location: Paris, France
-  date: 2025-05-06
-  start_time: 19:15:00 CEST
-  end_time: 21:15:00 CEST
-  url: https://www.meetup.com/paris_rb/events/307213572
-
-- name: Ruby on Rails Oceania Sydney - ROROSYD | MAY 2025 EDITION
-  location: Sydney, Australia
-  date: 2025-05-06
-  start_time: 18:00:00 AEST
-  end_time: 20:00:00 AEST
-  url: https://www.meetup.com/ruby-on-rails-oceania-sydney/events/307524806
-
-- name: RubyJax - Open Hax May 2025
-  location: Jacksonville, FL
-  date: 2025-05-06
-  start_time: 18:30:00 EDT
-  end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/307328154
-
 - name: ChicagoRuby - Chicago Ruby @ Avant
   location: Chicago, IL
   date: 2025-05-07
@@ -5503,26 +5483,12 @@
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/305623707
 
-- name: London Ruby User Group - May 2025 Meeting
-  location: London, UK
-  date: 2025-05-12
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2025/may
-
 - name: 'Barcelona.rb - meetup #May'
   location: Barcelona, Spain
   date: 2025-05-08
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/barcelona-rb/events/307510388
-
-- name: Ruby DF - 6ª Edição - Os Bastidores do Ruby
-  location: Brasilia, Brazil
-  date: 2025-05-10
-  start_time: '09:30:00 -03'
-  end_time: 11:30:00 -03
-  url: https://rubydf.com/events/sexta-edicao
 
 - name: Orange County Ruby - Ruby Science May 2025
   location: Online
@@ -5656,6 +5622,7 @@
   start_time: 18:30:00 NZST
   end_time: 21:30:00 NZST
   url: https://www.meetup.com/aucklandruby/events/305875952
+  status: cancelled
 
 - name: Columbus Ruby Brigade - Monthly Meetup May 2025
   location: Columbus, OH
@@ -5760,7 +5727,7 @@
   date: 2025-05-26
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltyhchbjc
+  url: https://www.meetup.com/ocruby/events/307679419
 
 - name: Amsterdam.rb - May Amsterdam Ruby meetup
   location: Amsterdam, Netherlands
@@ -5809,7 +5776,7 @@
   date: 2025-05-31
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhchbpc
+  url: https://www.meetup.com/african_ruby_community/events/307672795
 
 - name: 'Brighton Ruby Group - Ruby & Tacos: Brighton Pre-Conf Meetup'
   location: BN1 1EZ, UK
@@ -5825,7 +5792,7 @@
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/nqchktyhcjbfb
 
-- name: Paris.rb - June 2025
+- name: Paris.rb - Meetup June 2025
   location: Paris, France
   date: 2025-06-03
   start_time: 19:15:00 CEST
@@ -5956,7 +5923,7 @@
   date: 2025-06-14
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcjbsb
+  url: https://www.meetup.com/african_ruby_community/events/307672796
 
 - name: Columbus Ruby Brigade - Monthly Meetup June 2025
   location: Columbus, OH
@@ -6082,7 +6049,7 @@
   date: 2025-06-28
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhcjblc
+  url: https://www.meetup.com/african_ruby_community/events/307672797
 
 - name: Charlotte Ruby - Ruby Hack Night July 2025
   location: Online
@@ -6187,7 +6154,7 @@
   date: 2025-07-12
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhckbqb
+  url: https://www.meetup.com/african_ruby_community/events/307672798
 
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
@@ -6278,7 +6245,7 @@
   date: 2025-07-26
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhckbjc
+  url: https://www.meetup.com/african_ruby_community/events/307672799
 
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
@@ -6348,7 +6315,7 @@
   date: 2025-08-09
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhclbmb
+  url: https://www.meetup.com/african_ruby_community/events/307672800
 
 - name: Austin.rb - Placeholder (Tech Talk) August 2025
   location: Austin, TX
@@ -6488,7 +6455,7 @@
   date: 2025-08-23
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/hqdljtyhclbfc
+  url: https://www.meetup.com/african_ruby_community/events/307672801
 
 - name: Austin.rb - Social @ Austin Beer Garden Brewing Co
   location: Austin, TX
