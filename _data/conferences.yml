@@ -3083,6 +3083,15 @@
   mastodon: https://ruby.social/@kaigionrails
   announced_on: 2024-10-26
 
+- name: RubyWorld Conference 2025
+  location: Matsue, Japan
+  start_date: 2025-11-06
+  end_date: 2025-11-07
+  # TODO: url is an annoucement page, not an official page for 2025
+  url: https://2024.rubyworld-conf.org/ja/news/2025/01/rwc2025/
+  twitter: rubyworldconf
+  announced_on: 2025-01-10
+
 - name: "#{conference} 2025"
   location: Helsinki, Finland
   # TODO: update when dates are confirmed
