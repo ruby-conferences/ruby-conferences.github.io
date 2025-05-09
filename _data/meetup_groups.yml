@@ -424,6 +424,11 @@
   name: Newcastle Ruby
   service: meetupdotcom
 
+- id: nwrug
+  name: North West Ruby User Group
+  ical_url: https://nwrug.org/events.ics
+  timezone: Europe/London
+
 - id: nyc-on-rails
   name: NYC on Rails
   service: meetupdotcom
