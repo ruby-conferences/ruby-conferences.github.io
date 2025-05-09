@@ -4702,6 +4702,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306428568
 
+- name: Malmö.rb Meetup March 2025
+  location: Malmö, Sweden
+  date: 2025-03-18
+  start_time: 17:30:00 CET
+  end_time: 19:30:00 CET
+  url: https://malmorb.se/events/2025/meetup-march.html
+
 - name: Helsinki Ruby Brigade - March meet-up at Kisko Labs
   location: Helsinki, Finland
   date: 2025-03-19
