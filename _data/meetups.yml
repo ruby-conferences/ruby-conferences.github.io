@@ -4688,6 +4688,13 @@
   end_time: 19:30:00 EDT
   url: https://www.meetup.com/the-bluegrass-developers-guild/events/306128562
 
+- name: Malmö.rb Meetup March 2025
+  location: Malmö, Sweden
+  date: 2025-03-18
+  start_time: 17:30:00 CET
+  end_time: 19:30:00 CET
+  url: https://malmorb.se/events/2025/meetup-march.html
+
 - name: 'Robalos.rb - Robalos #2 - March'
   location: Figueira da Foz, Portugal
   date: 2025-03-18
@@ -4701,13 +4708,6 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306428568
-
-- name: Malmö.rb Meetup March 2025
-  location: Malmö, Sweden
-  date: 2025-03-18
-  start_time: 17:30:00 CET
-  end_time: 19:30:00 CET
-  url: https://malmorb.se/events/2025/meetup-march.html
 
 - name: Helsinki Ruby Brigade - March meet-up at Kisko Labs
   location: Helsinki, Finland
@@ -5706,6 +5706,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/307580446
+
+- name: Ruby Montevideo - Meetup - Mayo 2025
+  location: Montevideo, Uruguay
+  date: 2025-05-21
+  start_time: 19:00:00 -03
+  end_time: 22:00:00 -03
+  url: https://www.meetup.com/ruby-montevideo/events/307735416
 
 - name: Ruby in London - with Mindful Chef
   location: London, UK
