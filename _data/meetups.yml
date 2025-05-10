@@ -5650,6 +5650,13 @@
   end_time: 21:00:00 EEST
   url: https://lu.ma/e34lm6hq
 
+- name: "Tech Kafi #ruby: Mehrfaktorauthentisierung mit WebAuthn"
+  location: Bern, Switzerland
+  date: 2025-05-15
+  start_time: 13:00:00 CEST
+  end_time: 14:00:00 CEST
+  url: https://meet.google.com/prw-zqqu-hvq
+
 - name: 'Auckland Ruby - Ruby Nights May: TBC'
   location: Auckland, New Zealand
   date: 2025-05-19
