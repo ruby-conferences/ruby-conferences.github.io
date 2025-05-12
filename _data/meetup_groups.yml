@@ -426,6 +426,7 @@
 
 - id: nwrug
   name: North West Ruby User Group
+  service: ical
   ical_url: https://nwrug.org/events.ics
   timezone: Europe/London
 
