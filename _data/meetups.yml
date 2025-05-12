@@ -744,6 +744,13 @@
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/boulder_ruby_group/events/299093266
 
+- name: North West Ruby User Group - What to do when you’ve been hit by a tornado
+  location: Manchester, UK
+  date: 2024-05-16
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/What-to-do-when-youve-been-hit-by-a-tornado
+
 - name: SF Bay Area Ruby - Meetup @ New Relic
   location: San Francisco, CA
   date: 2024-05-16
@@ -1003,6 +1010,14 @@
   end_time: 19:30:00 EDT
   url: https://lu.ma/p53lc1vp
 
+- name: North West Ruby User Group - RubyConf 2023 - Re-interpreting Data by Murray
+    Steele
+  location: Manchester, UK
+  date: 2024-06-20
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/re-interpreting-data-murray-steele
+
 - name: Ruby User Group Cologne - Juni 2024 Meetup
   location: Cologne, Germany
   date: 2024-06-20
@@ -1186,6 +1201,13 @@
   end_time: 20:30:00 BST
   url: https://www.meetup.com/ruby-in-london/events/300777187
 
+- name: North West Ruby User Group - Taylor’s Guide to Big Rewrites by Andy Croll
+  location: Manchester, UK
+  date: 2024-07-18
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/july-2024-taylor-s-guide-to-big-rewrites-by-andy-croll
+
 - name: Ruby::AZ - Implementing RAG in Rails
   location: Chandler, AZ
   date: 2024-07-18
@@ -1360,6 +1382,13 @@
   start_time: 19:30:00 ART
   end_time: 20:30:00 ART
   url: https://www.meetup.com/rubyba/events/302656192
+
+- name: North West Ruby User Group - Delivering Iterative Features
+  location: Manchester, UK
+  date: 2024-08-15
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/delivering-iterative-features
 
 - name: Ruby Türkiye - Virtual Meetup August 2024
   location: Online
@@ -1786,6 +1815,13 @@
   start_time: 19:30:00 NZST
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz/events/2024/2024-09-19-meetup
+
+- name: 'North West Ruby User Group - From Teaching to Coding: How I Changed Careers'
+  location: Manchester, UK
+  date: 2024-09-19
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/september-2024-from-teaching-to-coding-how-i-changed-careers
 
 - name: 'Polish Ruby User Group - Warsaw meetup #September'
   location: Warszawa, Poland
@@ -2292,6 +2328,13 @@
   start_time: 19:30:00 NZST
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz
+
+- name: North West Ruby User Group - Modernising Ruby Systems with Rage
+  location: Manchester, UK
+  date: 2024-10-17
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/october-2024-modernising-ruby-systems-with-rage
 
 - name: 'Polish Ruby User Group - Ruby Warsaw Meetup AI Edition #October'
   location: Warszawa, Poland
@@ -2917,6 +2960,13 @@
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz
 
+- name: North West Ruby User Group - A Test-Driven Development Workshop
+  location: Manchester, UK
+  date: 2024-11-21
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/a-test-driven-development-workshop
+
 - name: Ruby Wellington - November Meetup - Data Engineering and Browser Automation
   location: Wellington, New Zealand
   date: 2024-11-21
@@ -3477,6 +3527,13 @@
   end_time: 22:30:00 NZST
   url: https://christchurch.ruby.nz
 
+- name: North West Ruby User Group - Festive Social at Cafe Beermoth
+  location: Manchester, UK
+  date: 2024-12-19
+  start_time: 19:30:00 BST
+  end_time: 21:30:00 BST
+  url: https://nwrug.org/events/festive-social-at-cafe-beermoth
+
 - name: 'Polish Ruby User Group - Warsaw meetup #December'
   location: Warszawa, Poland
   date: 2024-12-19
@@ -4024,7 +4081,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305898467
 
-- name: "Ruby 🤝 AI Happy Hour & Demo Night 4th Edition"
+- name: "Ruby \U0001F91D AI Happy Hour & Demo Night 4th Edition"
   location: New York, NY
   date: 2025-02-05
   start_time: 17:30:00 EST
@@ -4269,7 +4326,8 @@
   end_time: 21:00:00 MST
   url: https://www.meetup.com/utah-ruby-users-group/events/305793844
 
-- name: "Valencia.rb - 📢 Segundo ✌🏻 encuentro para organizar el VlcTechFest 🚀"
+- name: "Valencia.rb - \U0001F4E2 Segundo ✌\U0001F3FB encuentro para organizar el
+    VlcTechFest \U0001F680"
   location: Valencia, Spain
   date: 2025-02-19
   start_time: 18:30:00 CET
@@ -4290,6 +4348,13 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/306152803
+
+- name: North West Ruby User Group - Lightning Talks
+  location: Manchester, UK
+  date: 2025-02-20
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/february-2025-lightning-talks
 
 - name: RubyJax - All About ActionCable
   location: Jacksonville Beach, FL
@@ -4757,6 +4822,13 @@
   start_time: 19:00:00 CET
   end_time: 22:00:00 CET
   url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/306159513
+
+- name: North West Ruby User Group - March 2025 Meeting
+  location: Manchester, UK
+  date: 2025-03-20
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/2025-march
 
 - name: 'Polish Ruby User Group - Warsaw Meetup #March'
   location: Warszawa, Poland
@@ -5241,6 +5313,13 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/306960310
+
+- name: North West Ruby User Group - !vibe_coding — Using AI to build a Rails app
+  location: Manchester, UK
+  date: 2025-04-17
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/april-2025-vibe_coding-using-ai-to-build-a-rails-app
 
 - name: African Ruby Community - Kampala Chapter Mini workshop April 2025
   location: Online
