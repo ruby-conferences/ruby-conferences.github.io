@@ -5650,7 +5650,14 @@
   end_time: 21:00:00 EEST
   url: https://lu.ma/e34lm6hq
 
-- name: "Tech Kafi #ruby: Mehrfaktorauthentisierung mit WebAuthn"
+- name: North West Ruby User Group - Rails AntiPatterns Revisited
+  location: Manchester, UK
+  date: 2025-05-15
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/rails-antipatterns-revisited
+
+- name: 'Tech Kafi #ruby: Mehrfaktorauthentisierung mit WebAuthn'
   location: Bern, Switzerland
   date: 2025-05-15
   start_time: 13:00:00 CEST

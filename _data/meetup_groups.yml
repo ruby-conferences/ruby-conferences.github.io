@@ -429,6 +429,9 @@
   service: ical
   ical_url: https://nwrug.org/events.ics
   timezone: Europe/London
+  default_location: Manchester, UK
+  remove:
+    - "NWRUG: "
 
 - id: nyc-on-rails
   name: NYC on Rails
