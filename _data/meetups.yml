@@ -5883,6 +5883,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/307705016
 
+- name: Toronto Ruby - May 2025 - Spring is Here
+  location: Toronto, Canada
+  date: 2025-05-27
+  start_time: 17:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://lu.ma/i00pdbmp
+
 - name: Rails Taiwan - 高雄 Rails Meetup May 2025
   location: Kaohsiung, Taiwan
   date: 2025-05-28
@@ -5902,7 +5909,7 @@
   date: 2025-05-29
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/pbgwwqyhchbmc
+  url: https://www.meetup.com/ocruby/events/307747296
 
 - name: 'Brighton Ruby Group - Ruby & Tacos: Brighton Pre-Conf Meetup'
   location: BN1 1EZ, UK
@@ -6016,7 +6023,8 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/307202389
 
-- name: Geneva.rb - Ben Colon (mobilidée)
+- name: 'Geneva.rb - Race Conditions in Rails: Gotta Catch ’Em All (Before Your Buyers
+    Do)'
   location: Genève, Switzerland
   date: 2025-06-11
   start_time: 19:00:00 CEST
@@ -6631,3 +6639,31 @@
   start_time: 18:30:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/307191188
+
+- name: Austin.rb - Placeholder (Tech Talk) September 2025
+  location: Austin, TX
+  date: 2025-09-09
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/304960589
+
+- name: B'more on Rails - Monthly Meetup September 2025
+  location: Online
+  date: 2025-09-09
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcmbmb
+
+- name: Philly.rb - Pubnite September 2025
+  location: Online
+  date: 2025-09-09
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
+  url: https://www.meetup.com/phillyrb/events/307185648
+
+- name: RubyJax - Open Hax September 2025
+  location: Jacksonville, FL
+  date: 2025-09-09
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcmbmb
