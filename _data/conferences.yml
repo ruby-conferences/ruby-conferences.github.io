@@ -3038,6 +3038,14 @@
   twitter: railscamp_usa
   announced_on: 2024-12-02
 
+- name: Rails at Scale Summit 2025
+  location: Amsterdam, Netherlands
+  start_date: 2025-09-03
+  end_date: 2025-09-03
+  url: https://rubyonrails.org/world/2025/rails_at_scale
+  twitter: rails
+  announced_on: 2025-05-06
+
 - name: Rails World 2025
   location: Amsterdam, Netherlands
   start_date: 2025-09-04
