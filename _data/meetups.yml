@@ -4081,7 +4081,7 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/305898467
 
-- name: "Ruby 🤝 AI Happy Hour & Demo Night 4th Edition"
+- name: "Ruby \U0001F91D AI Happy Hour & Demo Night 4th Edition"
   location: New York, NY
   date: 2025-02-05
   start_time: 17:30:00 EST
@@ -4326,7 +4326,8 @@
   end_time: 21:00:00 MST
   url: https://www.meetup.com/utah-ruby-users-group/events/305793844
 
-- name: "Valencia.rb - 📢 Segundo ✌🏻 encuentro para organizar el VlcTechFest 🚀"
+- name: "Valencia.rb - \U0001F4E2 Segundo ✌\U0001F3FB encuentro para organizar el
+    VlcTechFest \U0001F680"
   location: Valencia, Spain
   date: 2025-02-19
   start_time: 18:30:00 CET
@@ -5665,7 +5666,7 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/vancouver-ruby/events/307297611
 
-- name: Atlanta Ruby - Monthly Meetup May 2025
+- name: 'Atlanta Ruby - Namespaces in Rails: ActiveModel, Inheritance, and Routing'
   location: Online
   date: 2025-05-14
   start_time: 18:30:00 EDT
@@ -5855,6 +5856,27 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/nantes-rb/events/307651155
 
+- name: Polish Ruby User Group - Poznań Ruby User Group - May 2025
+  location: Poznań, Poland
+  date: 2025-05-22
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/307805770
+
+- name: Poznań Ruby User Group - PoznańRubyUserGroup May 2025
+  location: 60-810 Poznań, Poland
+  date: 2025-05-22
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://lu.ma/iiuld7lr
+
+- name: Ruby Ireland - Resilient Systems Start with the Human Stack
+  location: Dublin, Ireland
+  date: 2025-05-22
+  start_time: 18:30:00 IST
+  end_time: 21:00:00 IST
+  url: https://www.meetup.com/rubyireland/events/307799270
+
 - name: Ruby and Rails Adelaide - Adelaide Ruby Meetup
   location: Adelaide, Australia
   date: 2025-05-23
@@ -5882,6 +5904,13 @@
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/305497326
+
+- name: 'Bangkok.rb - Ruby Tuesday #64'
+  location: เขตวัฒนา, Thailand
+  date: 2025-05-27
+  start_time: 19:00:00 +07
+  end_time: 21:00:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/307801105
 
 - name: RubyJax - Open Hax May 2025
   location: Jacksonville, FL
@@ -6702,3 +6731,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbnb
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined September 2025'
+  location: Online
+  date: 2025-09-11
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcmbpb

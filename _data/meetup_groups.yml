@@ -503,6 +503,7 @@
   timezone: Europe/Warsaw
   exclude:
     - Ruby Community Conference
+    - Baltic Ruby
   remove:
     - (PLRUG)
 
