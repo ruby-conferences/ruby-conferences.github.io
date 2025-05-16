@@ -92,7 +92,7 @@
   service: meetupdotcom
 
 - id: belfastruby
-  name: BelfastRuby
+  name: Belfast Ruby
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-6rPmMIYodqbr6WA
   timezone: Europe/London
