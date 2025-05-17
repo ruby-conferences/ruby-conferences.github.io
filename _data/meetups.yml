@@ -5758,6 +5758,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/307552241
 
+- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #139 Maj 2025'
+  location: Wroclaw, Poland
+  date: 2025-05-19
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/drugpl/events/307837875
+
 - name: Miami Ruby Brigade - May 2025
   location: Coral Gables, FL
   date: 2025-05-19
@@ -5884,6 +5891,13 @@
   end_time: 21:00:00 ACST
   url: https://www.meetup.com/adelaiderb/events/307653427
 
+- name: Pune Ruby Meetup - Ruby + Go May meetup
+  location: Maharashtra 411045, India
+  date: 2025-05-24
+  start_time: 10:30:00 IST
+  end_time: 13:30:00 IST
+  url: https://lu.ma/05duzyj9
+
 - name: Orange County Ruby - Ruby Science May 2025
   location: Online
   date: 2025-05-26
@@ -5959,7 +5973,7 @@
   date: 2025-06-03
   start_time: 19:00:00 EDT
   end_time: 21:30:00 EDT
-  url: https://www.meetup.com/charlotte-rb/events/nqchktyhcjbfb
+  url: https://www.meetup.com/charlotte-rb/events/307829062
 
 - name: Paris.rb - Meetup June 2025
   location: Paris, France
@@ -5973,7 +5987,7 @@
   date: 2025-06-03
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcjbfb
+  url: https://www.meetup.com/rubyjax/events/307831185
 
 - name: ChicagoRuby - Chicago Ruby @ Chime
   location: Chicago, IL
@@ -5987,14 +6001,14 @@
   date: 2025-06-04
   start_time: 19:00:00 CEST
   end_time: 19:00:00 CEST
-  url: https://www.meetup.com/praguerb/events/dkmktfyhcjbgb
+  url: https://www.meetup.com/praguerb/events/307844153
 
 - name: Rails Taiwan - 高雄 Rails Meetup June 2025
   location: Kaohsiung, Taiwan
   date: 2025-06-04
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcjbgb
+  url: https://www.meetup.com/rails-taiwan/events/307838798
 
 - name: SF Bay Area Ruby - SF Ruby Meetup, June @ Chime
   location: San Francisco, CA
@@ -6037,6 +6051,13 @@
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcjbnb
+
+- name: Belfast Ruby - Marco Roth & John Gallagher
+  location: Belfast BT12 5GH, UK
+  date: 2025-06-10
+  start_time: 18:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://lu.ma/nfivv402
 
 - name: Philly.rb - Pubnite June 2025
   location: Online
@@ -6088,12 +6109,26 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcjbpb
 
+- name: Ruby Usergroup Hamburg - Juni 2025
+  location: Hamburg, Germany
+  date: 2025-06-11
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-juni-2025-1607
+
 - name: 'African Ruby Community - Ruby Thursdays: To be determined June 2025'
   location: Online
   date: 2025-06-12
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/306568156
+
+- name: Ruby Buenos Aires - Ruby MeetUp - Junio 2025
+  location: Online
+  date: 2025-06-12
+  start_time: 19:00:00 -03
+  end_time: 21:00:00 -03
+  url: https://www.meetup.com/rubyba/events/307825488
 
 - name: Columbus Ruby Brigade - Monthly Meetup June 2025
   location: Columbus, OH
@@ -6669,13 +6704,6 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbfb
 
-- name: Ruby on Rails Switzerland - Mini Höck at openscript
-  location: Opfikon, Switzerland
-  date: 2025-09-03
-  start_time: 18:30:00 CEST
-  end_time: 20:30:00 CEST
-  url: https://www.meetup.com/rubyonrails-ch/events/307191188
-
 - name: Austin.rb - Placeholder (Tech Talk) September 2025
   location: Austin, TX
   date: 2025-09-09
@@ -6731,6 +6759,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbnb
+
+- name: Ruby on Rails Switzerland - Mini Höck at openscript
+  location: Opfikon, Switzerland
+  date: 2025-09-10
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/rubyonrails-ch/events/307191188
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined September 2025'
   location: Online
