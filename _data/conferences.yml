@@ -3095,7 +3095,6 @@
   location: Boulder, CO
   start_date: 2025-10-06
   end_date: 2025-10-07
-  date_precision: year
   url: https://rockymtnruby.dev
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymtnruby
