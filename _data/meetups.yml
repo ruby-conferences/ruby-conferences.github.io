@@ -1,5 +1,12 @@
 ---
 
+- name: Seattle.rb - February 2002
+  location: Seattle, WA
+  date: 2002-02-28
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=1
+
 - name: Toronto Ruby - Inaugural Edition
   location: Toronto, Canada
   date: 2023-11-23
@@ -2020,6 +2027,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/303379089
 
+- name: Seattle.rb - October 2024
+  location: Seattle, WA
+  date: 2024-10-01
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=23
+
 - name: Singapore Ruby Group - RubySG September Meetup
   location: Singapore, Singapore
   date: 2024-10-01
@@ -2626,6 +2640,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/304051365
 
+- name: Seattle.rb - November 2024
+  location: Seattle, WA
+  date: 2024-11-05
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=24
+
 - name: 'Tech Kafi #ruby: Kamal'
   location: Bern, Switzerland
   date: 2024-11-05
@@ -3172,6 +3193,13 @@
   end_time: 21:00:00 PST
   url: https://lu.ma/q7fwrtj2
 
+- name: Seattle.rb - December 2024
+  location: Seattle, WA
+  date: 2024-12-03
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=25
+
 - name: 'Montreal.rb - Hack Night: Hunt The Wampus - Part 2 (The View)'
   location: Montreal, Canada
   date: 2024-12-04
@@ -3649,6 +3677,13 @@
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/305156103
 
+- name: Seattle.rb - January 2025
+  location: Seattle, WA
+  date: 2025-01-07
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=26
+
 - name: Atlanta Ruby - Gabe Torres on Building Multiplayer Minesweeper in Rails 8
   location: Online
   date: 2025-01-08
@@ -4066,6 +4101,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/305638685
+
+- name: Seattle.rb - February 2025
+  location: Seattle, WA
+  date: 2025-02-04
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=27
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby - Lightning Talk Night
   location: Prague, Czechia
@@ -4547,6 +4589,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/306145213
+
+- name: Seattle.rb - March 2025
+  location: Seattle, WA
+  date: 2025-03-04
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=28
 
 - name: ChicagoRuby - Ruby @ Adler Planetarium
   location: Chicago, IL
@@ -5080,6 +5129,13 @@
   end_time: 20:30:00 +07
   url: https://www.meetup.com/saigonrb/events/306714026
 
+- name: Seattle.rb - April 2025
+  location: Seattle, WA
+  date: 2025-04-01
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=29
+
 - name: BelfastRuby - 's first Meetup of 2025
   location: Belfast, UK
   date: 2025-04-02
@@ -5547,6 +5603,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/307328154
 
+- name: Seattle.rb - May 2025
+  location: Seattle, WA
+  date: 2025-05-06
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=30
+
 - name: ChicagoRuby - Chicago Ruby @ Avant
   location: Chicago, IL
   date: 2025-05-07
@@ -5995,6 +6058,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/307831185
+
+- name: Seattle.rb - June 2025
+  location: Seattle, WA
+  date: 2025-06-03
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=31
 
 - name: ChicagoRuby - Chicago Ruby @ Chime
   location: Chicago, IL
