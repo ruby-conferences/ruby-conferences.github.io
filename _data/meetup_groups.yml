@@ -930,11 +930,11 @@
   name: SD Ruby
   service: meetupdotcom
 
-# - id: seattle-rb
-#   name: Seattle.rb
-#   service: ical
-#   timezone: America/Los_Angeles
-#   ical_url: https://seattlerb.org/events.ics
+- id: seattle-rb
+  name: Seattle.rb
+  service: ical
+  timezone: America/Los_Angeles
+  ical_url: https://seattlerb.org/events.ics
 
 - id: seoul-ruby-meetup
   name: Seoul Ruby Meetup
