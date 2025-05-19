@@ -4548,6 +4548,13 @@
   end_time: 11:00:00 PST
   url: https://www.meetup.com/ocruby/events/306120490
 
+- name: ArtificialRuby.ai - NYC Meetup March 2025
+  location: New York, NY
+  date: 2025-03-04
+  start_time: 17:30:00 EST
+  end_time: 20:00:00 EST
+  url: https://lu.ma/9b2goru4
+
 - name: Charlotte Ruby - Ruby Hack Night March 2025
   location: Online
   date: 2025-03-04
@@ -5235,6 +5242,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306816818
 
+- name: ArtificialRuby.ai - NYC Meetup April 2025
+  location: New York, NY
+  date: 2025-04-09
+  start_time: 18:00:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://lu.ma/51iv0zzl
+
 - name: Atlanta Ruby - Rails on WASM or Portfolio on a Budget with Thomas Breland
     - ATLRUG Virtual
   location: Online
@@ -5609,6 +5623,13 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://seattlerb.org/?event_id=30
+
+- name: ArtificialRuby.ai - NYC Meetup May 2025
+  location: New York, NY
+  date: 2025-05-07
+  start_time: 18:00:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://lu.ma/crm6e9sy
 
 - name: ChicagoRuby - Chicago Ruby @ Avant
   location: Chicago, IL
