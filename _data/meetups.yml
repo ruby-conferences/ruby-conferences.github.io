@@ -5884,6 +5884,13 @@
   end_time: 21:00:00 IST
   url: https://www.meetup.com/rubyireland/events/307799270
 
+- name: 'RubyJax - Workshop: Intro to Ruby on Rails'
+  location: Jacksonville Beach, FL
+  date: 2025-05-22
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/rubyjax/events/307753058
+
 - name: Ruby and Rails Adelaide - Adelaide Ruby Meetup
   location: Adelaide, Australia
   date: 2025-05-23
@@ -6773,3 +6780,31 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcmbpb
+
+- name: Columbus Ruby Brigade - Monthly Meetup September 2025
+  location: Columbus, OH
+  date: 2025-09-15
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/columbusrb/events/nkdfrtyhcmbtb
+
+- name: Miami Ruby Brigade - September 2025
+  location: Coral Gables, FL
+  date: 2025-09-15
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/pdvctsyhcmbtb
+
+- name: Orange County Ruby - Ruby Science September 2025
+  location: Online
+  date: 2025-09-15
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcmbtb
+
+- name: RubyJax - Open Hax September 2025
+  location: Jacksonville, FL
+  date: 2025-09-16
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcmbvb
