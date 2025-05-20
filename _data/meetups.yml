@@ -6157,6 +6157,13 @@
   end_time: 21:00:00 BST
   url: https://lu.ma/nfivv402
 
+- name: 'BelfastRuby - Belfast Ruby: Marco Roth & John Gallagher'
+  location: Belfast, UK
+  date: 2025-06-10
+  start_time: 18:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/belfastruby/events/307911039
+
 - name: Philly.rb - Pubnite June 2025
   location: Online
   date: 2025-06-10
@@ -6899,3 +6906,31 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcmbvb
+
+- name: Montreal.rb - ** Talk Topic To Be Decided*** September 2025
+  location: Montréal, Canada
+  date: 2025-09-17
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/montrealrb/events/hrtnptyhcmbwb
+
+- name: Portland Ruby Brigade - Cocktails + Code September 2025
+  location: Portland, OR
+  date: 2025-09-17
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcmbwb
+
+- name: Rails Taiwan - 高雄 Rails Meetup September 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-09-17
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbwb
+
+- name: West Midlands Ruby User Group - Monthly Meetup September 2025
+  location: Online
+  date: 2025-09-17
+  start_time: 19:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcmbwb
