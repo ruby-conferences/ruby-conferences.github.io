@@ -5946,6 +5946,7 @@
   start_time: 18:00:00 PDT
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/305471496
+  status: cancelled
 
 - name: Rails Taiwan - 高雄 Rails Meetup May 2025
   location: Kaohsiung, Taiwan
@@ -6094,6 +6095,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/307714649
 
+- name: 'Barcelona.rb - BARcelona.rb - let''s have some beers together at #May'
+  location: Barcelona, Spain
+  date: 2025-05-29
+  start_time: 18:30:00 CEST
+  end_time: 21:30:00 CEST
+  url: https://www.meetup.com/barcelona-rb/events/307931719
+
 - name: Melbourne Ruby - Ruby Melbourne Meetup May 2025
   location: Southbank, Australia
   date: 2025-05-29
@@ -6107,6 +6115,13 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/307747296
+
+- name: Pune Ruby Meetup - Ruby + Go May meetup
+  location: Maharashtra 411045, India
+  date: 2025-05-31
+  start_time: 10:30:00 IST
+  end_time: 13:30:00 IST
+  url: https://lu.ma/05duzyj9
 
 - name: 'Brighton Ruby Group - Ruby & Tacos: Brighton Pre-Conf Meetup'
   location: BN1 1EZ, UK
@@ -6190,7 +6205,7 @@
   date: 2025-06-09
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltyhcjbmb
+  url: https://www.meetup.com/ocruby/events/307938592
 
 - name: Austin.rb - Placeholder (Tech Talk) June 2025
   location: Austin, TX
