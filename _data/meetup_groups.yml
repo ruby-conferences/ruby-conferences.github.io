@@ -1155,3 +1155,8 @@
 - id: women-on-rails
   name: Women On Rails
   service: meetupdotcom
+
+- id: yorkdevelopers
+  name: York Ruby
+  service: meetupdotcom
+  filter: York Ruby
