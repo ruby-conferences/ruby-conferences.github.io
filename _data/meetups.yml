@@ -2287,6 +2287,13 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/vancouver-ruby/events/303533573
 
+- name: York Ruby - Monthly Meeting October 2024
+  location: York, UK
+  date: 2024-10-15
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/303522212
+
 - name: Boulder Ruby - October 2024 Presentation Night
   location: Boulder, CO
   date: 2024-10-16
@@ -3058,6 +3065,13 @@
   end_time: 13:00:00 EST
   url: https://www.wnb-rb.dev/meetups
 
+- name: York Ruby - Monthly Meeting November 2024
+  location: York, UK
+  date: 2024-11-26
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/304199919
+
 - name: Rails Taiwan - 高雄 Rails Meetup November 2024
   location: Kaohsiung, Taiwan
   date: 2024-11-27
@@ -3499,6 +3513,13 @@
   end_time: 20:30:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304627678
 
+- name: York Ruby - Monthly Meeting December 2024
+  location: York, UK
+  date: 2024-12-17
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/304876510
+
 - name: NYC.rb - Celebrate 2024 in-person!
   location: New York, NY
   date: 2024-12-18
@@ -3910,6 +3931,13 @@
   start_time: 19:00:00 CET
   end_time: 21:00:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304951231
+
+- name: York Ruby - Monthly Meeting January 2025
+  location: York, UK
+  date: 2025-01-21
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/305337219
 
 - name: Rails Taiwan - 高雄 Rails Meetup January 2025
   location: Kaohsiung, Taiwan
@@ -4325,6 +4353,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/305889494
+
+- name: York Ruby - Monthly Meeting February 2025
+  location: York, UK
+  date: 2025-02-18
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/305779166
 
 - name: Geneva.rb - The Past, Present and Future of UI at GitHub (Joel Hawksley, GitHub)
   location: Genève, Switzerland
@@ -4829,6 +4864,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306428568
+
+- name: York Ruby - Monthly Meeting March 2025
+  location: York, UK
+  date: 2025-03-18
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/306457885
 
 - name: Helsinki Ruby Brigade - March meet-up at Kisko Labs
   location: Helsinki, Finland
@@ -5348,6 +5390,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306942829
+
+- name: York Ruby - Monthly Meeting April 2025
+  location: York, UK
+  date: 2025-04-15
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/306930513
 
 - name: Montreal.rb - Domain Driven Design in Ruby on Rails
   location: Montréal, Canada
@@ -5877,6 +5926,13 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/toulouse-ruby-friends/events/307492131
 
+- name: York Ruby - Monthly Meeting May 2025
+  location: York, UK
+  date: 2025-05-20
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/307398287
+
 - name: Montreal.rb - Native Ruby gems with Rust
   location: Montréal, Canada
   date: 2025-05-21
@@ -6262,6 +6318,13 @@
   start_time: 18:30:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/toulouse-ruby-friends/events/307661560
+
+- name: York Ruby - Monthly Meeting June 2025
+  location: York, UK
+  date: 2025-06-17
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/307953382
 
 - name: Montreal.rb - ** Talk Topic To Be Decided*** June 2025
   location: Montréal, Canada
