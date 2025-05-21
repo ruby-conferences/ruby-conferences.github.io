@@ -3932,6 +3932,13 @@
   end_time: 21:00:00 CET
   url: https://www.meetup.com/toulouse-ruby-friends/events/304951231
 
+- name: York Ruby - Monthly Meeting January 2025
+  location: York, UK
+  date: 2025-01-21
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/305337219
+
 - name: Rails Taiwan - 高雄 Rails Meetup January 2025
   location: Kaohsiung, Taiwan
   date: 2025-01-22
@@ -4346,6 +4353,13 @@
   start_time: 18:30:00 EST
   end_time: 20:00:00 EST
   url: https://www.meetup.com/rubyjax/events/305889494
+
+- name: York Ruby - Monthly Meeting February 2025
+  location: York, UK
+  date: 2025-02-18
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/305779166
 
 - name: Geneva.rb - The Past, Present and Future of UI at GitHub (Joel Hawksley, GitHub)
   location: Genève, Switzerland
@@ -4850,6 +4864,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306428568
+
+- name: York Ruby - Monthly Meeting March 2025
+  location: York, UK
+  date: 2025-03-18
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/306457885
 
 - name: Helsinki Ruby Brigade - March meet-up at Kisko Labs
   location: Helsinki, Finland
@@ -5369,6 +5390,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306942829
+
+- name: York Ruby - Monthly Meeting April 2025
+  location: York, UK
+  date: 2025-04-15
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/306930513
 
 - name: Montreal.rb - Domain Driven Design in Ruby on Rails
   location: Montréal, Canada
@@ -5897,6 +5925,13 @@
   start_time: 18:30:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/toulouse-ruby-friends/events/307492131
+
+- name: York Ruby - Monthly Meeting May 2025
+  location: York, UK
+  date: 2025-05-20
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/307398287
 
 - name: Montreal.rb - Native Ruby gems with Rust
   location: Montréal, Canada
