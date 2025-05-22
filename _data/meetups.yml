@@ -5936,8 +5936,8 @@
 - name: Montreal.rb - Native Ruby gems with Rust
   location: Montréal, Canada
   date: 2025-05-21
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  start_time: 18:30:16 EDT
+  end_time: 20:59:16 EDT
   url: https://www.meetup.com/montrealrb/events/307030572
 
 - name: Portland Ruby Brigade - Cocktails + Code May 2025
@@ -6102,6 +6102,14 @@
   end_time: 21:30:00 CEST
   url: https://www.meetup.com/barcelona-rb/events/307931719
 
+- name: 'Madrid.rb - Mayo 2025 - Roundtable: "Real world usage of LLMs and AI in software
+    development"'
+  location: Madrid, Spain
+  date: 2025-05-29
+  start_time: 19:30:00 CEST
+  end_time: 21:30:00 CEST
+  url: https://www.madridrb.com/events/mayo-2025-roundtable-real-world-usage-of-llms-and-ai-in-software-development-1640
+
 - name: Melbourne Ruby - Ruby Melbourne Meetup May 2025
   location: Southbank, Australia
   date: 2025-05-29
@@ -6115,6 +6123,14 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/307747296
+
+- name: 'Valencia.rb - +Hacknight - Learn MCP with Ruby: Connecting existing web apps
+    and AI'
+  location: Valencia, Spain
+  date: 2025-05-29
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/vlctechhub/events/307952237
 
 - name: Pune Ruby Meetup - Ruby + Go May meetup
   location: Maharashtra 411045, India
@@ -6219,7 +6235,7 @@
   date: 2025-06-10
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcjbnb
+  url: https://www.meetup.com/bmore-on-rails/events/307968149
 
 - name: Belfast Ruby - Marco Roth & John Gallagher
   location: Belfast BT12 5GH, UK
@@ -6247,7 +6263,7 @@
   date: 2025-06-10
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcjbnb
+  url: https://www.meetup.com/rubyjax/events/307968928
 
 - name: Atlanta Ruby - Monthly Meetup June 2025
   location: Online
@@ -6334,7 +6350,7 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/toulouse-ruby-friends/events/307661560
 
-- name: York Ruby - Monthly Meeting June 2025
+- name: York Ruby - Monthly Meeting
   location: York, UK
   date: 2025-06-17
   start_time: 19:00:00 BST
@@ -6564,6 +6580,13 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhckbvb
+
+- name: SF Bay Area Ruby - SF Ruby AI Hackathon
+  location: San Francisco, CA
+  date: 2025-07-19
+  start_time: 10:00:00 PDT
+  end_time: 17:00:00 PDT
+  url: https://lu.ma/znhcct7v
 
 - name: 'Auckland Ruby - Ruby Nights July: TBC'
   location: Auckland, New Zealand
