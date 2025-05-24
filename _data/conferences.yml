@@ -3175,7 +3175,7 @@
   start_date: 2026-12-31 # TODO: update once dates are confirmed
   end_date: 2026-12-31 # TODO: update once dates are confirmed
   announced_on: 2024-05-07
-  url: https://rubyconf.org
+  url: https://rubycentral.org/news/announcing-railsconf-2025-and-a-new-chapter-for-ruby-central-events
   twitter: rubyconf
   date_precision: year
   mastodon: https://ruby.social/@rubyconf
