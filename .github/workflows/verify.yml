@@ -1,4 +1,6 @@
 name: Verify Data
+permissions:
+  contents: read
 
 on: [push, pull_request]
 jobs:

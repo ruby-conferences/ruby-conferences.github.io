@@ -47,7 +47,7 @@ GEM
     google-protobuf (4.27.5)
       bigdecimal
       rake (>= 13)
-    graphql (2.3.14)
+    graphql (2.3.21)
       base64
       fiber-storage
     graphql-client (0.23.0)
@@ -104,7 +104,7 @@ GEM
     mercenary (0.4.0)
     mini_portile2 (2.8.8)
     minitest (5.25.1)
-    nokogiri (1.18.3)
+    nokogiri (1.18.8)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pathutil (0.16.2)

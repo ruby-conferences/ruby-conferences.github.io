@@ -91,6 +91,12 @@
   name: BelfastRuby
   service: meetupdotcom
 
+- id: belfastruby
+  name: Belfast Ruby
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-6rPmMIYodqbr6WA
+  timezone: Europe/London
+
 - id: bmore-on-rails
   name: B'more on Rails
   service: meetupdotcom
@@ -424,6 +430,15 @@
   name: Newcastle Ruby
   service: meetupdotcom
 
+- id: nwrug
+  name: North West Ruby User Group
+  service: ical
+  ical_url: https://nwrug.org/events.ics
+  timezone: Europe/London
+  default_location: Manchester, UK
+  remove:
+    - "NWRUG: "
+
 - id: nyc-on-rails
   name: NYC on Rails
   service: meetupdotcom
@@ -494,6 +509,7 @@
   timezone: Europe/Warsaw
   exclude:
     - Ruby Community Conference
+    - Baltic Ruby
   remove:
     - (PLRUG)
 
@@ -914,11 +930,11 @@
   name: SD Ruby
   service: meetupdotcom
 
-# - id: seattle-rb
-#   name: Seattle.rb
-#   service: ical
-#   timezone: America/Los_Angeles
-#   ical_url: https://seattlerb.org/events.ics
+- id: seattle-rb
+  name: Seattle.rb
+  service: ical
+  timezone: America/Los_Angeles
+  ical_url: https://seattlerb.org/events.ics
 
 - id: seoul-ruby-meetup
   name: Seoul Ruby Meetup
@@ -1139,3 +1155,8 @@
 - id: women-on-rails
   name: Women On Rails
   service: meetupdotcom
+
+- id: yorkdevelopers
+  name: York Ruby
+  service: meetupdotcom
+  filter: York Ruby
