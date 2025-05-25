@@ -6089,11 +6089,11 @@
   url: https://lu.ma/i00pdbmp
 
 - name: Philippine Ruby Users Group - PhRUG - Harvest Time!
-  location: Online
+  location: Quezon City, Philippines
   date: 2025-05-28
   start_time: 18:00:00 PST
   end_time: 21:00:00 PST
-  url: https://www.meetup.com/ruby-phil/events/308017459/
+  url: https://www.meetup.com/ruby-phil/events/308017459
 
 - name: Rails Taiwan - 高雄 Rails Meetup May 2025
   location: Kaohsiung, Taiwan
@@ -6145,6 +6145,13 @@
   start_time: 10:30:00 IST
   end_time: 13:30:00 IST
   url: https://lu.ma/05duzyj9
+
+- name: 'Bluegrass Ruby - June 2025: Rails 2 and Phoenix LiveView'
+  location: Lexington, KY
+  date: 2025-06-03
+  start_time: 18:00:00 EDT
+  end_time: 19:30:00 EDT
+  url: https://www.meetup.com/the-bluegrass-developers-guild/events/308026901
 
 - name: 'Brighton Ruby Group - Ruby & Tacos: Brighton Pre-Conf Meetup'
   location: BN1 1EZ, UK
@@ -6222,6 +6229,13 @@
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/polishrubyusergroup/events/308002944
+
+- name: Ruby User Group Berlin - June Meetup 2025
+  location: Berlin, Germany
+  date: 2025-06-05
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/june-meetup-2025-1673
 
 - name: 'vienna.rb - Vienna.rb #64 - Ruby Summer Meetup'
   location: Vienna, Austria
@@ -7056,3 +7070,10 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcmbwb
+
+- name: 'Auckland Ruby - Ruby Nights September: TBC'
+  location: Auckland, New Zealand
+  date: 2025-09-22
+  start_time: 18:30:00 NZST
+  end_time: 21:30:00 NZST
+  url: https://www.meetup.com/aucklandruby/events/305875962
