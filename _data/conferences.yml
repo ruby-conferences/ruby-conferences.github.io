@@ -3070,6 +3070,17 @@
   cfp_link: https://friendlyrb.com/cfp
   status: Tickets available
 
+- name: RubyConf India 2025
+  location: Jaipur, India
+  start_date: 2025-09-12
+  end_date: 2025-09-13
+  url: https://rubyconf.in
+  twitter: rubyconfindia
+  cfp_open_date: 2025-05-22
+  cfp_close_date: 2025-07-15
+  cfp_link: https://www.papercall.io/rubyconf-india-2025
+  announced_on: 2025-05-22
+
 - name: EuRuKo 2025
   location: Viana do Castelo, Portugal
   start_date: 2025-09-18
