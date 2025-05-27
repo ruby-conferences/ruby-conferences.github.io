@@ -3120,15 +3120,17 @@
   twitter: rubyworldconf
   announced_on: 2025-01-10
 
-- name: "#{conference} 2025"
+- name: "tiny ruby #{conf}"
   location: Helsinki, Finland
-  # TODO: update when dates are confirmed
-  start_date: 2025-11-30
-  end_date: 2025-11-30
-  date_precision: month
-  url: https://helsinkiruby.fi/conference/
+  start_date: 2025-11-21
+  end_date: 2025-11-21
+  url: https://helsinkiruby.fi/tinyruby/
   mastodon: https://ruby.social/@helsinkiruby
   announced_on: 2025-04-25
+  cfp_open_date: 2025-05-27
+  cfp_close_date: 2025-07-31
+  cfp_link: https://www.papercall.io/tinyruby
+  reg_phrase: Tickets available
 
 - name: RubyConf TH 2026
   location: Bangkok, Thailand
