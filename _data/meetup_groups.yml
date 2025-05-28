@@ -1102,6 +1102,8 @@
 - id: vancouver-ruby
   name: VanRuby
   service: meetupdotcom
+  exclude:
+    - Vancouver Cloud Summit
 
 - id: vienna-rb
   name: vienna.rb

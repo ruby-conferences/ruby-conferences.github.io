@@ -6293,6 +6293,14 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/307968928
 
+- name: 'VanRuby - Derailing Our Application: How And Why We Are Decoupling Our Code
+    From Rails'
+  location: Vancouver, Canada
+  date: 2025-06-10
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/vancouver-ruby/events/308072595
+
 - name: Atlanta Ruby - Monthly Meetup June 2025
   location: Online
   date: 2025-06-11
@@ -6362,7 +6370,7 @@
   date: 2025-06-16
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/miamirb/events/pdvctsyhcjbvb
+  url: https://www.meetup.com/miamirb/events/308095416
 
 - name: RubyJax - Open Hax June 2025
   location: Jacksonville, FL
@@ -6413,12 +6421,19 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/307626721
 
+- name: Utah Ruby Users Group - Utah Valley URUG
+  location: Lehi, UT
+  date: 2025-06-18
+  start_time: 19:00:00 MDT
+  end_time: 21:00:00 MDT
+  url: https://www.meetup.com/utah-ruby-users-group/events/308092453
+
 - name: West Midlands Ruby User Group - Monthly Meetup June 2025
   location: Online
   date: 2025-06-18
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcjbxb
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/308081948
 
 - name: 'Auckland Ruby - Ruby Nights June: TBC'
   location: Auckland, New Zealand
@@ -7091,3 +7106,24 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcmbfc
+
+- name: Rails Taiwan - 高雄 Rails Meetup September 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-09-24
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbgc
+
+- name: Melbourne Ruby - Ruby Melbourne Meetup September 2025
+  location: Southbank, Australia
+  date: 2025-09-25
+  start_time: 18:00:00 AEST
+  end_time: 21:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601922
+
+- name: Orange County Ruby - Meetup September 2025
+  location: Dana Point, CA
+  date: 2025-09-25
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqyhcmbhc
