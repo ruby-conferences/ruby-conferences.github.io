@@ -3120,10 +3120,10 @@
   twitter: rubyworldconf
   announced_on: 2025-01-10
 
-- name: San Francisco Ruby Conference
+- name: San Francisco Ruby Conference 2025
   location: San Francisco, CA
   start_date: 2025-11-19 
-  end_date: 2026-11-20 
+  end_date: 2025-11-20 
   announced_on: 2025-05-29
   url: https://sfruby.com
   #cfp_open_date: 2025-06-05 TO UPDATE WHEN CFP IS OPEN
