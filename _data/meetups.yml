@@ -6039,13 +6039,6 @@
   end_time: 21:00:00 ACST
   url: https://www.meetup.com/adelaiderb/events/307653427
 
-- name: Pune Ruby Meetup - Ruby + Go May meetup
-  location: Maharashtra 411045, India
-  date: 2025-05-24
-  start_time: 10:30:00 IST
-  end_time: 13:30:00 IST
-  url: https://lu.ma/05duzyj9
-
 - name: Orange County Ruby - Ruby Science May 2025
   location: Online
   date: 2025-05-26
@@ -6087,20 +6080,6 @@
   start_time: 17:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://lu.ma/i00pdbmp
-
-- name: Philippine Ruby Users Group - PhRUG - Harvest Time!
-  location: Quezon City, Philippines
-  date: 2025-05-28
-  start_time: 18:00:00 PST
-  end_time: 21:00:00 PST
-  url: https://www.meetup.com/ruby-phil/events/308017459
-
-- name: Rails Taiwan - 高雄 Rails Meetup May 2025
-  location: Kaohsiung, Taiwan
-  date: 2025-05-28
-  start_time: 19:00:00 CST
-  end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/307714649
 
 - name: 'Barcelona.rb - BARcelona.rb - let''s have some beers together at #May'
   location: Barcelona, Spain
@@ -6279,13 +6258,6 @@
   end_time: 21:00:00 BST
   url: https://lu.ma/nfivv402
 
-- name: 'BelfastRuby - Belfast Ruby: Marco Roth & John Gallagher'
-  location: Belfast, UK
-  date: 2025-06-10
-  start_time: 18:00:00 BST
-  end_time: 21:00:00 BST
-  url: https://www.meetup.com/belfastruby/events/307911039
-
 - name: Philly.rb - Pubnite June 2025
   location: Online
   date: 2025-06-10
@@ -6384,7 +6356,7 @@
   date: 2025-06-17
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcjbwb
+  url: https://www.meetup.com/rubyjax/events/308118671
 
 - name: Toulouse.rb - Conf & Apéro - Juin
   location: Toulouse, France
