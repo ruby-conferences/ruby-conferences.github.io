@@ -3110,6 +3110,9 @@
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymtnruby
   announced_on: 2024-10-08
+  cfp_open_date: 2025-05-30
+  cfp_close_date: 2025-06-30
+  cfp_link: https://sessionize.com/rocky-mountain-ruby-2025
 
 - name: RubyWorld Conference 2025
   location: Matsue, Japan
