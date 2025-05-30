@@ -6102,13 +6102,6 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/307714649
 
-- name: 'Barcelona.rb - BARcelona.rb - let''s have some beers together at #May'
-  location: Barcelona, Spain
-  date: 2025-05-29
-  start_time: 18:30:00 CEST
-  end_time: 21:30:00 CEST
-  url: https://www.meetup.com/barcelona-rb/events/307931719
-
 - name: 'Madrid.rb - Mayo 2025 - Roundtable: "Real world usage of LLMs and AI in software
     development"'
   location: Madrid, Spain
@@ -6117,34 +6110,13 @@
   end_time: 21:30:00 CEST
   url: https://www.madridrb.com/events/mayo-2025-roundtable-real-world-usage-of-llms-and-ai-in-software-development-1640
 
-- name: Melbourne Ruby - Ruby Melbourne Meetup May 2025
-  location: Southbank, Australia
-  date: 2025-05-29
-  start_time: 18:00:00 AEST
-  end_time: 21:00:00 AEST
-  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601905
-
 - name: Orange County Ruby - Meetup May 2025
   location: Dana Point, CA
   date: 2025-05-29
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/307747296
-
-- name: 'Valencia.rb - +Hacknight - Learn MCP with Ruby: Connecting existing web apps
-    and AI'
-  location: Valencia, Spain
-  date: 2025-05-29
-  start_time: 18:30:00 CEST
-  end_time: 20:30:00 CEST
-  url: https://www.meetup.com/vlctechhub/events/307952237
-
-- name: Pune Ruby Meetup - Ruby + Go May meetup
-  location: Maharashtra 411045, India
-  date: 2025-05-31
-  start_time: 10:30:00 IST
-  end_time: 13:30:00 IST
-  url: https://lu.ma/05duzyj9
+  status: cancelled
 
 - name: 'Bluegrass Ruby - June 2025: Rails 2 and Phoenix LiveView'
   location: Lexington, KY
@@ -6279,13 +6251,6 @@
   end_time: 21:00:00 BST
   url: https://lu.ma/nfivv402
 
-- name: 'BelfastRuby - Belfast Ruby: Marco Roth & John Gallagher'
-  location: Belfast, UK
-  date: 2025-06-10
-  start_time: 18:00:00 BST
-  end_time: 21:00:00 BST
-  url: https://www.meetup.com/belfastruby/events/307911039
-
 - name: Philly.rb - Pubnite June 2025
   location: Online
   date: 2025-06-10
@@ -6384,7 +6349,7 @@
   date: 2025-06-17
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcjbwb
+  url: https://www.meetup.com/rubyjax/events/308118671
 
 - name: Toulouse.rb - Conf & Apéro - Juin
   location: Toulouse, France
@@ -6419,7 +6384,7 @@
   date: 2025-06-18
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcjbxb
+  url: https://www.meetup.com/rails-taiwan/events/308131191
 
 - name: Ruby on Rails Switzerland - Railshöck at Renuo
   location: Wallisellen, Switzerland
@@ -6533,6 +6498,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbdb
 
+- name: Slovenia Ruby User Group - Hands-on Nix & NixOS Workshop with Jacek Galowicz
+  location: Ljubljana, Slovenia
+  date: 2025-07-06
+  start_time: 13:00:00 CEST
+  end_time: 18:00:00 CEST
+  url: https://www.meetup.com/rubyslovenia/events/308135834
+
 - name: Orange County Ruby - Ruby Science July 2025
   location: Online
   date: 2025-07-07
@@ -6637,6 +6609,13 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhckbvb
+
+- name: Munich Ruby User Group - Ruby Meetup July 2025
+  location: München, Germany
+  date: 2025-07-17
+  start_time: 19:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/308137751
 
 - name: SF Bay Area Ruby - SF Ruby AI Hackathon
   location: San Francisco, CA
