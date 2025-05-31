@@ -6130,6 +6130,7 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/307747296
+  status: cancelled
 
 - name: 'Valencia.rb - +Hacknight - Learn MCP with Ruby: Connecting existing web apps
     and AI'
