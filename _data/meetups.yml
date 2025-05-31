@@ -6293,6 +6293,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/307185641
 
+- name: Ruby on Rails Oceania Sydney - ROROSYD | JUNE 2025 EDITION
+  location: Sydney, Australia
+  date: 2025-06-10
+  start_time: 18:00:00 AEST
+  end_time: 20:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-sydney/events/308158353
+
 - name: RubyJax - Open Hax June 2025
   location: Jacksonville, FL
   date: 2025-06-10
@@ -6379,12 +6386,26 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/miamirb/events/308095416
 
+- name: Slovenia Ruby User Group - Spring Ruby meetup
+  location: Ljubljana, Slovenia
+  date: 2025-06-16
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/rubyslovenia/events/308157106
+
 - name: RubyJax - Open Hax June 2025
   location: Jacksonville, FL
   date: 2025-06-17
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcjbwb
+  url: https://www.meetup.com/rubyjax/events/308118671
+
+- name: Toronto Ruby - June 2025 - The Start of Summer Edition
+  location: Toronto, Canada
+  date: 2025-06-17
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://lu.ma/w1b342xg
 
 - name: Toulouse.rb - Conf & Apéro - Juin
   location: Toulouse, France
@@ -6419,7 +6440,7 @@
   date: 2025-06-18
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcjbxb
+  url: https://www.meetup.com/rails-taiwan/events/308131191
 
 - name: Ruby on Rails Switzerland - Railshöck at Renuo
   location: Wallisellen, Switzerland
@@ -6462,6 +6483,13 @@
   start_time: 18:30:00 CDT
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/austinrb/events/305497330
+
+- name: 'Ruby User Group Berlin - Special Ruby Europe: Ruby + AI meetup'
+  location: Berlin, Germany
+  date: 2025-06-24
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.rug-b.de/events/special-ruby-europe-ruby-ai-meetup-1706
 
 - name: RubyJax - Open Hax June 2025
   location: Jacksonville, FL
@@ -6532,6 +6560,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbdb
+
+- name: Slovenia Ruby User Group - Hands-on Nix & NixOS Workshop with Jacek Galowicz
+  location: Ljubljana, Slovenia
+  date: 2025-07-06
+  start_time: 13:00:00 CEST
+  end_time: 18:00:00 CEST
+  url: https://www.meetup.com/rubyslovenia/events/308135834
 
 - name: Orange County Ruby - Ruby Science July 2025
   location: Online
@@ -6637,6 +6672,13 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhckbvb
+
+- name: Munich Ruby User Group - Ruby Meetup July 2025
+  location: München, Germany
+  date: 2025-07-17
+  start_time: 19:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/308137751
 
 - name: SF Bay Area Ruby - SF Ruby AI Hackathon
   location: San Francisco, CA
