@@ -6140,13 +6140,6 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/vlctechhub/events/307952237
 
-- name: Pune Ruby Meetup - Ruby + Go May meetup
-  location: Maharashtra 411045, India
-  date: 2025-05-31
-  start_time: 10:30:00 IST
-  end_time: 13:30:00 IST
-  url: https://lu.ma/05duzyj9
-
 - name: 'Bluegrass Ruby - June 2025: Rails 2 and Phoenix LiveView'
   location: Lexington, KY
   date: 2025-06-03
@@ -6280,13 +6273,6 @@
   end_time: 21:00:00 BST
   url: https://lu.ma/nfivv402
 
-- name: 'BelfastRuby - Belfast Ruby: Marco Roth & John Gallagher'
-  location: Belfast, UK
-  date: 2025-06-10
-  start_time: 18:00:00 BST
-  end_time: 21:00:00 BST
-  url: https://www.meetup.com/belfastruby/events/307911039
-
 - name: Philly.rb - Pubnite June 2025
   location: Online
   date: 2025-06-10
@@ -6400,13 +6386,6 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/308118671
-
-- name: Toronto Ruby - June 2025 - The Start of Summer Edition
-  location: Toronto, Canada
-  date: 2025-06-17
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
-  url: https://lu.ma/w1b342xg
 
 - name: Toulouse.rb - Conf & Apéro - Juin
   location: Toulouse, France
@@ -7177,3 +7156,10 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcmbhc
+
+- name: Orange County Ruby - Ruby Science September 2025
+  location: Online
+  date: 2025-09-29
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcmbmc
