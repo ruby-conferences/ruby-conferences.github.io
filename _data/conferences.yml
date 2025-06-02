@@ -2950,6 +2950,14 @@
   cfp_open_date: 2024-11-19
   cfp_close_date: 2025-02-05
 
+- name: Ruby Retreat 2025
+  location: Whangaparāoa, Auckland, New Zealand
+  start_date: 2025-05-09
+  end_date: 2025-05-12
+  url: https://retreat.ruby.nz
+  twitter: RubyNewZealand
+  announced_on: 2024-10-19
+
 - name: Helvetic Ruby 2025
   location: Geneva, Switzerland
   start_date: 2025-05-22
@@ -3125,8 +3133,8 @@
 
 - name: San Francisco Ruby Conference 2025
   location: San Francisco, CA
-  start_date: 2025-11-19 
-  end_date: 2025-11-20 
+  start_date: 2025-11-19
+  end_date: 2025-11-20
   announced_on: 2025-05-29
   url: https://sfruby.com
   #cfp_open_date: 2025-06-05 TO UPDATE WHEN CFP IS OPEN
