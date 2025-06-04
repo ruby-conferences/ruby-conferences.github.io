@@ -3109,6 +3109,9 @@
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
   announced_on: 2024-10-26
+  cfp_open_date: 2025-06-01
+  cfp_close_date: 2025-06-30
+  cfp_link: https://kaigionrails.org/2025/cfp/
 
 - name: Rocky Mountain Ruby 2025
   location: Boulder, CO
