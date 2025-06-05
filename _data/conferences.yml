@@ -3140,9 +3140,9 @@
   end_date: 2025-11-20
   announced_on: 2025-05-29
   url: https://sfruby.com
-  #cfp_open_date: 2025-06-05 TO UPDATE WHEN CFP IS OPEN
-  #cfp_close_date: 2025-07-13
-  #cfp_link:
+  cfp_open_date: 2025-06-04
+  cfp_close_date: 2025-07-15
+  cfp_link: https://cfp.sfruby.com
 
 - name: "tiny ruby #{conf}"
   location: Helsinki, Finland
