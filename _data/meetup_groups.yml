@@ -815,6 +815,12 @@
   name: Ruby Buenos Aires
   service: meetupdotcom
 
+- id: rubybelgium
+  name: Ruby Belgium
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-xxSFE7F64frGUhe
+  timezone: Europe/Brussels
+
 - id: rubybrigade
   name: Helsinki Ruby Brigade
   service: meetupdotcom
