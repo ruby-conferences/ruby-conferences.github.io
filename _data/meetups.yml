@@ -6259,7 +6259,7 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/307938592
 
-- name: Austin.rb - Placeholder (Tech Talk) June 2025
+- name: 'Austin.rb - Rewriting Localhost: A Modern Approach to Dev Environments'
   location: Austin, TX
   date: 2025-06-10
   start_time: 18:30:00 CDT
@@ -6287,12 +6287,26 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/belfastruby/events/307911039
 
+- name: Boston Ruby Group - June 2025 meeting
+  location: Boston, MA
+  date: 2025-06-10
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://lu.ma/jyhr0dvs
+
 - name: Philly.rb - Pubnite June 2025
   location: Online
   date: 2025-06-10
   start_time: 20:30:00 EDT
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/307185641
+
+- name: Ruby Bogotá - Vamos a reunirnos hablar de ruby
+  location: Bogota, Colombia
+  date: 2025-06-10
+  start_time: 18:30:00 -05
+  end_time: 21:30:00 -05
+  url: https://www.meetup.com/bogota-ruby-meetup/events/308259771
 
 - name: Ruby on Rails Oceania Sydney - ROROSYD | JUNE 2025 EDITION
   location: Sydney, Australia
@@ -6322,6 +6336,20 @@
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/307202389
+
+- name: Boulder Ruby - June 2025 Social Night
+  location: Boulder, CO
+  date: 2025-06-11
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
+  url: https://lu.ma/bm1073gf
+
+- name: Copenhagen Ruby Brigade - Social night at Skaal
+  location: Copenhagen, Denmark
+  date: 2025-06-11
+  start_time: 17:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/copenhagen-ruby-brigade/events/308277997
 
 - name: 'Geneva.rb - Race Conditions in Rails: Gotta Catch ’Em All (Before Your Buyers
     Do)'
@@ -6393,6 +6421,13 @@
   start_time: 18:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/rubyslovenia/events/308157106
+
+- name: "Lyon.rb - 2025.06 / The Summer edition \U0001F60E☀️"
+  location: Lyon, France
+  date: 2025-06-17
+  start_time: 18:30:00 CEST
+  end_time: 21:30:00 CEST
+  url: https://www.meetup.com/lyonrb/events/307419621
 
 - name: RubyJax - Open Hax June 2025
   location: Jacksonville, FL
@@ -6504,7 +6539,7 @@
   date: 2025-06-24
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcjbgc
+  url: https://www.meetup.com/rubyjax/events/308293837
 
 - name: Rails Taiwan - 高雄 Rails Meetup June 2025
   location: Kaohsiung, Taiwan
@@ -6554,6 +6589,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckbcb
+
+- name: Seattle.rb - July 2025
+  location: Seattle, WA
+  date: 2025-07-01
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=32
 
 - name: ChicagoRuby - Ruby Drinkup July 2nd @ TBA
   location: Chicago, IL
@@ -6743,6 +6785,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckbdc
+
+- name: SF Bay Area Ruby - SF Ruby Meetup, July @ Figma
+  location: San Francisco, CA
+  date: 2025-07-22
+  start_time: 17:00:00 PDT
+  end_time: 20:30:00 PDT
+  url: https://lu.ma/8jcbnfls
 
 - name: Rails Taiwan - 高雄 Rails Meetup July 2025
   location: Kaohsiung, Taiwan
