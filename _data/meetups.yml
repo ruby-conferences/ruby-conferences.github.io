@@ -6280,13 +6280,6 @@
   end_time: 21:00:00 BST
   url: https://lu.ma/nfivv402
 
-- name: 'BelfastRuby - Belfast Ruby: Marco Roth & John Gallagher'
-  location: Belfast, UK
-  date: 2025-06-10
-  start_time: 18:00:00 BST
-  end_time: 21:00:00 BST
-  url: https://www.meetup.com/belfastruby/events/307911039
-
 - name: Boston Ruby Group - June 2025 meeting
   location: Boston, MA
   date: 2025-06-10
@@ -6429,19 +6422,19 @@
   end_time: 21:30:00 CEST
   url: https://www.meetup.com/lyonrb/events/307419621
 
+- name: Ruby Europe - Ruby + AI Meetup London
+  location: London EC1V 9NR, UK
+  date: 2025-06-17
+  start_time: 19:00:00 CEST
+  end_time: 23:00:00 CEST
+  url: https://lu.ma/kzqf2xyz
+
 - name: RubyJax - Open Hax June 2025
   location: Jacksonville, FL
   date: 2025-06-17
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/308118671
-
-- name: Toronto Ruby - June 2025 - The Start of Summer Edition
-  location: Toronto, Canada
-  date: 2025-06-17
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
-  url: https://lu.ma/w1b342xg
 
 - name: Toulouse.rb - Conf & Apéro - Juin
   location: Toulouse, France
@@ -6456,6 +6449,13 @@
   start_time: 19:00:00 BST
   end_time: 22:00:00 BST
   url: https://www.meetup.com/yorkdevelopers/events/307953382
+
+- name: ruby.mn - June 17th Ruby.MN meetup.
+  location: St Paul, MN
+  date: 2025-06-17
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/ruby-mn/events/308331266
 
 - name: Montreal.rb - ** Talk Topic To Be Decided*** June 2025
   location: Montréal, Canada
@@ -6527,12 +6527,12 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/308225743
 
-- name: 'Ruby User Group Berlin - Special Ruby Europe: Ruby + AI meetup'
-  location: Berlin, Germany
+- name: Ruby Europe - Ruby + AI Meetup
+  location: 10119 Berlin, Germany
   date: 2025-06-24
   start_time: 18:00:00 CEST
-  end_time: 20:00:00 CEST
-  url: https://www.rug-b.de/events/special-ruby-europe-ruby-ai-meetup-1706
+  end_time: 22:00:00 CEST
+  url: https://lu.ma/286b35qd
 
 - name: RubyJax - Open Hax June 2025
   location: Jacksonville, FL
@@ -6546,7 +6546,7 @@
   date: 2025-06-25
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcjbhc
+  url: https://www.meetup.com/rails-taiwan/events/308303949
 
 - name: Melbourne Ruby - Ruby Melbourne Meetup June 2025
   location: Southbank, Australia
@@ -6561,13 +6561,6 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcjbjc
-
-- name: Ruby Wellington - June
-  location: Wellington, New Zealand
-  date: 2025-06-26
-  start_time: 17:00:00 NZST
-  end_time: 19:00:00 NZST
-  url: https://www.meetup.com/rubywellington/events/306413731
 
 - name: Charlotte Ruby - Ruby Hack Night July 2025
   location: Online
@@ -6617,6 +6610,20 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbdb
+
+- name: Singapore Ruby Group - Ruby SG July Meetup
+  location: Singapore
+  date: 2025-07-02
+  start_time: 18:30:00 +08
+  end_time: 20:30:00 +08
+  url: https://lu.ma/gdzrmak0
+
+- name: 'Brighton Ruby Group - EVOLVE [25]: Shaping Tomorrow'
+  location: Brighton, UK
+  date: 2025-07-04
+  start_time: '08:30:00 BST'
+  end_time: 17:30:00 BST
+  url: https://www.meetup.com/brighton-ruby-group/events/308327178
 
 - name: Slovenia Ruby User Group - Hands-on Nix & NixOS Workshop with Jacek Galowicz
   location: Ljubljana, Slovenia
