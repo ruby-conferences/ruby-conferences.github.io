@@ -3027,6 +3027,16 @@
   cfp_link: https://www.papercall.io/rubyconfafrica2025
   announced_on: 2025-01-15
 
+- name: PicoRuby OverflowKaigi
+  location: Osaka, Japan
+  start_date: 2025-07-19
+  end_date: 2025-07-19
+  url: https://naniwarb.github.io/picorubyoverflowkaigi/
+  announced_on: 2025-05-30
+  cfp_open_date: 2025-05-30
+  cfp_close_date: 2025-06-15
+  cfp_link: https://forms.gle/1sMef6XjYAHFiCAU8
+
 - name: RubyConf Taiwan x COSCUP 2025
   location: Taipei, Taiwan
   start_date: 2025-08-09
