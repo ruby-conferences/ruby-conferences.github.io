@@ -6436,6 +6436,13 @@
   end_time: 21:30:00 CEST
   url: https://www.meetup.com/lyonrb/events/307419621
 
+- name: 'Robalos.rb - Robalos #3'
+  location: Figueira da Foz, Portugal
+  date: 2025-06-17
+  start_time: 18:30:00 WEST
+  end_time: 20:00:00 WEST
+  url: https://www.meetup.com/robalos-rb/events/308478494
+
 - name: Ruby Europe - Ruby + AI Meetup London
   location: London EC1V 9NR, UK
   date: 2025-06-17
@@ -6554,6 +6561,13 @@
   start_time: 19:00:00 +07
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/308225743
+
+- name: Nantes.rb - @ Jack's Corner Pub&Food
+  location: Nantes, France
+  date: 2025-06-24
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/nantes-rb/events/308481125
 
 - name: Ruby Europe - Ruby + AI Meetup
   location: 10119 Berlin, Germany
