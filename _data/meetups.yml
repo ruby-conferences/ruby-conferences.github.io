@@ -6457,6 +6457,13 @@
   end_time: 22:00:00 BST
   url: https://www.meetup.com/yorkdevelopers/events/307953382
 
+- name: ruby.mn - June 17th Ruby.MN meetup.
+  location: St Paul, MN
+  date: 2025-06-17
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/ruby-mn/events/308331266
+
 - name: Montreal.rb - ** Talk Topic To Be Decided*** June 2025
   location: Montréal, Canada
   date: 2025-06-18
@@ -6617,6 +6624,20 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbdb
+
+- name: Singapore Ruby Group - Ruby SG July Meetup
+  location: Singapore
+  date: 2025-07-02
+  start_time: 18:30:00 +08
+  end_time: 20:30:00 +08
+  url: https://lu.ma/gdzrmak0
+
+- name: 'Brighton Ruby Group - EVOLVE [25]: Shaping Tomorrow'
+  location: Brighton, UK
+  date: 2025-07-04
+  start_time: '08:30:00 BST'
+  end_time: 17:30:00 BST
+  url: https://www.meetup.com/brighton-ruby-group/events/308327178
 
 - name: Slovenia Ruby User Group - Hands-on Nix & NixOS Workshop with Jacek Galowicz
   location: Ljubljana, Slovenia
