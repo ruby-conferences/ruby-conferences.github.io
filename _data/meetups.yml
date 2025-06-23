@@ -7429,3 +7429,10 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhcnbrb
+
+- name: Philippine Ruby Users Group - PhRUG - Going, going...GONE!
+  location: Online
+  date: 2025-06-25
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/308568850/?eventOrigin=group_events_list
