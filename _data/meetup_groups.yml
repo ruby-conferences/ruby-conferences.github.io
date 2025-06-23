@@ -815,6 +815,12 @@
   name: Ruby Buenos Aires
   service: meetupdotcom
 
+- id: rubybelgium
+  name: Ruby Belgium
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-xxSFE7F64frGUhe
+  timezone: Europe/Brussels
+
 - id: rubybrigade
   name: Helsinki Ruby Brigade
   service: meetupdotcom
@@ -832,6 +838,12 @@
   timezone: America/Sao_Paulo
   ical_url: https://rubydf.com/events.ics
   service: ical
+
+- id: rubyeurope
+  name: Ruby Europe
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-e1hbsrfKzZEFCi5
+  timezone: Europe/Berlin
 
 - id: rubyfloripa
   name: RubyFloripa
@@ -1102,6 +1114,8 @@
 - id: vancouver-ruby
   name: VanRuby
   service: meetupdotcom
+  exclude:
+    - Vancouver Cloud Summit
 
 - id: vienna-rb
   name: vienna.rb
