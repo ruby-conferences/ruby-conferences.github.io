@@ -6088,6 +6088,13 @@
   end_time: 20:30:00 EDT
   url: https://lu.ma/i00pdbmp
 
+- name: Philippine Ruby Users Group - PhRUG - Harvest Time!
+  location: Online
+  date: 2025-05-28
+  start_time: 18:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/308017459/
+
 - name: Rails Taiwan - 高雄 Rails Meetup May 2025
   location: Kaohsiung, Taiwan
   date: 2025-05-28
@@ -6209,6 +6216,13 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/cologne-rb/events/307102584
 
+- name: 'Polish Ruby User Group - Warsaw Meetup #JUNE'
+  location: Warsaw, Poland
+  date: 2025-06-05
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/308002944
+
 - name: 'vienna.rb - Vienna.rb #64 - Ruby Summer Meetup'
   location: Vienna, Austria
   date: 2025-06-05
@@ -6285,21 +6299,21 @@
   date: 2025-06-11
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/indyrb/events/dtttqtyhcjbpb
+  url: https://www.meetup.com/indyrb/events/307994457
 
 - name: NYC.rb - Event June 2025
   location: Online
   date: 2025-06-11
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
-  url: https://www.meetup.com/nyc-rb/events/hkbsltyhcjbpb
+  url: https://www.meetup.com/nyc-rb/events/307990380
 
 - name: Rails Taiwan - 高雄 Rails Meetup June 2025
   location: Kaohsiung, Taiwan
   date: 2025-06-11
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcjbpb
+  url: https://www.meetup.com/rails-taiwan/events/307978332
 
 - name: Ruby Usergroup Hamburg - Juni 2025
   location: Hamburg, Germany
@@ -6327,7 +6341,7 @@
   date: 2025-06-16
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/nkdfrtyhcjbvb
+  url: https://www.meetup.com/columbusrb/events/307987144
 
 - name: Miami Ruby Brigade - June 2025
   location: Coral Gables, FL
@@ -6362,7 +6376,7 @@
   date: 2025-06-18
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/hrtnptyhcjbxb
+  url: https://www.meetup.com/montrealrb/events/307979974
 
 - name: Portland Ruby Brigade - Cocktails + Code June 2025
   location: Portland, OR
@@ -6461,6 +6475,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckbcb
+
+- name: ChicagoRuby - Ruby Drinkup July 2nd @ TBA
+  location: Chicago, IL
+  date: 2025-07-02
+  start_time: 17:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://www.meetup.com/chicagoruby/events/308006843
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby July 2025
   location: Prague, Czechia
