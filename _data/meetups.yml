@@ -6534,6 +6534,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/308081948
 
+- name: RubyJax - Rails Generators
+  location: Jacksonville Beach, FL
+  date: 2025-06-19
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/rubyjax/events/308518452
+
 - name: 'Auckland Ruby - Ruby Nights June: TBC'
   location: Auckland, New Zealand
   date: 2025-06-23
@@ -7429,3 +7436,31 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhcnbrb
+
+- name: Austin.rb - Placeholder (Tech Talk) October 2025
+  location: Austin, TX
+  date: 2025-10-14
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/304960594
+
+- name: B'more on Rails - Monthly Meetup October 2025
+  location: Online
+  date: 2025-10-14
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcnbsb
+
+- name: Philly.rb - Pubnite October 2025
+  location: Online
+  date: 2025-10-14
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
+  url: https://www.meetup.com/phillyrb/events/nnlgbtyhcnbsb
+
+- name: RubyJax - Open Hax October 2025
+  location: Jacksonville, FL
+  date: 2025-10-14
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcnbsb
