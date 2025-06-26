@@ -6485,7 +6485,7 @@
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/ruby-mn/events/308331266
 
-- name: Montreal.rb - ** Talk Topic To Be Decided*** June 2025
+- name: Montreal.rb - Ruby Open Source Night
   location: Montréal, Canada
   date: 2025-06-18
   start_time: 18:00:00 EDT
@@ -7464,3 +7464,38 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcnbsb
+
+- name: Montreal.rb - ** Talk Topic To Be Decided*** October 2025
+  location: Montréal, Canada
+  date: 2025-10-15
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/montrealrb/events/hrtnptyhcnbtb
+
+- name: Portland Ruby Brigade - Cocktails + Code October 2025
+  location: Portland, OR
+  date: 2025-10-15
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcnbtb
+
+- name: Rails Taiwan - 高雄 Rails Meetup October 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-10-15
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcnbtb
+
+- name: Ruby Wellington - October
+  location: Wellington, New Zealand
+  date: 2025-10-15
+  start_time: 17:00:00 NZST
+  end_time: 19:00:00 NZST
+  url: https://www.meetup.com/rubywellington/events/306413783
+
+- name: West Midlands Ruby User Group - Monthly Meetup October 2025
+  location: Online
+  date: 2025-10-15
+  start_time: 19:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcnbtb
