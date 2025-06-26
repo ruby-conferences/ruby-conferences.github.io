@@ -6690,6 +6690,13 @@
   end_time: 22:00:00 CEST
   url: https://lu.ma/g8adodhj
 
+- name: 'Ruby Malaysia - Ruby Tuesdays KL #113: Casual Meetup'
+  location: Petaling Jaya, Malaysia
+  date: 2025-07-01
+  start_time: 19:30:00 +08
+  end_time: 21:30:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/308628137
+
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
   date: 2025-07-01
@@ -6836,6 +6843,13 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/306568157
+
+- name: London Ruby User Group - July 2025 Meeting
+  location: London, UK
+  date: 2025-07-14
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2025/july
 
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
