@@ -6598,6 +6598,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/308293837
 
+- name: Philippine Ruby Users Group - PhRUG - Going, going...GONE!
+  location: Online
+  date: 2025-06-25
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/308568850
+
 - name: Rails Taiwan - 高雄 Rails Meetup June 2025
   location: Kaohsiung, Taiwan
   date: 2025-06-25
