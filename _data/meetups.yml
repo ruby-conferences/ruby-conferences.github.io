@@ -6717,6 +6717,13 @@
   end_time: 20:30:00 +08
   url: https://lu.ma/gdzrmak0
 
+- name: Amsterdam.rb - July Amsterdam Ruby meetup
+  location: Amsterdam, Netherlands
+  date: 2025-07-03
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/amsterdam-rb/events/308536326
+
 - name: 'Brighton Ruby Group - EVOLVE [25]: Shaping Tomorrow'
   location: Brighton, UK
   date: 2025-07-04
