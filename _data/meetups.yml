@@ -6858,6 +6858,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckbtb
 
+- name: York Ruby - Monthly Meeting
+  location: York, UK
+  date: 2025-07-15
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/308647166
+
 - name: Montreal.rb - JSON Serialization Options for Rails
   location: Montréal, Canada
   date: 2025-07-16
@@ -6878,6 +6885,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbvb
+
+- name: Utah Ruby Users Group - Utah Valley URUG
+  location: Lehi, UT
+  date: 2025-07-16
+  start_time: 19:00:00 MDT
+  end_time: 21:00:00 MDT
+  url: https://www.meetup.com/utah-ruby-users-group/events/308657139
 
 - name: West Midlands Ruby User Group - Monthly Meetup July 2025
   location: Online
