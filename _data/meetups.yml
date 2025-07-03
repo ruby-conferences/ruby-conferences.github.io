@@ -7061,6 +7061,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhclbhb
 
+- name: Seattle.rb - August 2025
+  location: Seattle, WA
+  date: 2025-08-05
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=33
+
 - name: ChicagoRuby - @ Workforce.com
   location: Chicago, IL
   date: 2025-08-06
