@@ -6886,6 +6886,13 @@
   end_time: 22:00:00 BST
   url: https://www.meetup.com/yorkdevelopers/events/308647166
 
+- name: 'ruby.mn - July 15th Ruby.MN meetup: JRuby in 2025: Faster, Stronger, Better'
+  location: St Paul, MN
+  date: 2025-07-15
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/ruby-mn/events/309046939
+
 - name: Boulder Ruby - July 2025 Presentation Night
   location: Unknown Gulch, Idaho 83873
   date: 2025-07-16
@@ -6949,7 +6956,8 @@
   end_time: 17:00:00 PDT
   url: https://www.meetup.com/sfruby/events/308374196
 
-- name: 'Auckland Ruby - Ruby Nights July: No flaky capybara Michael Yin'
+- name: 'Auckland Ruby - Ruby Nights July: No flaky capybara; Integrating Workato
+    with Ruby'
   location: Auckland, New Zealand
   date: 2025-07-21
   start_time: 18:30:00 NZST
