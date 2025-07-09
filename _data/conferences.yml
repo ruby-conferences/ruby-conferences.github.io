@@ -3209,6 +3209,14 @@
   url: https://rubyconf.at
   announced_on: 2025-03-12
 
+- name: Blastoff Rails 2026
+  location: Albuquerque, NM
+  start_date: 2026-06-11
+  end_date: 2026-06-12
+  url: https://blastoffrails.com
+  twitter: blastoffrails
+  announced_on: 2025-07-09
+
 - name: Helvetic Ruby 2026
   location: Switzerland # TODO: update once location is confirmed
   start_date: 2026-12-31 # TODO: update once dates are confirmed
