@@ -6894,7 +6894,7 @@
   url: https://www.meetup.com/ruby-mn/events/309046939
 
 - name: Boulder Ruby - July 2025 Presentation Night
-  location: Unknown Gulch, Idaho 83873
+  location: Boulder, CO
   date: 2025-07-16
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
@@ -6936,7 +6936,7 @@
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhckbvb
 
 - name: Munich Ruby User Group - Ruby Meetup July 2025
-  location: München, Germany
+  location: Munich, Germany
   date: 2025-07-17
   start_time: 19:00:00 CEST
   end_time: 22:00:00 CEST
@@ -7124,6 +7124,13 @@
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhclbqb
+
+- name: Boston Ruby Group - August 2025 meeting
+  location: Boston, MA
+  date: 2025-08-12
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://lu.ma/lxflyzae
 
 - name: Philly.rb - Pubnite August 2025
   location: Online
