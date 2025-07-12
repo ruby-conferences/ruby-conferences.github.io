@@ -6942,6 +6942,13 @@
   end_time: 22:00:00 CEST
   url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/308137751
 
+- name: North West Ruby User Group - Tugging threads
+  location: Manchester, UK
+  date: 2025-07-17
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/tugging-threads-july-2025
+
 - name: SF Bay Area Ruby - SF Ruby AI Hackathon
   location: San Francisco, CA
   date: 2025-07-19
