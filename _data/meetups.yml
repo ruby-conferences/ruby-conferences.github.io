@@ -6949,6 +6949,13 @@
   end_time: 20:30:00 BST
   url: https://nwrug.org/events/tugging-threads-july-2025
 
+- name: RubyJax - Lightning Talks
+  location: Jacksonville Beach, FL
+  date: 2025-07-17
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/rubyjax/events/309486712
+
 - name: SF Bay Area Ruby - SF Ruby AI Hackathon
   location: San Francisco, CA
   date: 2025-07-19
@@ -7242,7 +7249,7 @@
   date: 2025-08-20
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/hrtnptyhclbbc
+  url: https://www.meetup.com/montrealrb/events/309519928
 
 - name: Portland Ruby Brigade - Cocktails + Code August 2025
   location: Portland, OR
@@ -7782,3 +7789,38 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcpbhb
+
+- name: Orange County Ruby - Ruby Science November 2025
+  location: Online
+  date: 2025-11-10
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcpbnb
+
+- name: Austin.rb - Placeholder (Tech Talk) November 2025
+  location: Austin, TX
+  date: 2025-11-11
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/304960597
+
+- name: B'more on Rails - Monthly Meetup November 2025
+  location: Online
+  date: 2025-11-11
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcpbpb
+
+- name: Philly.rb - Pubnite November 2025
+  location: Online
+  date: 2025-11-11
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
+  url: https://www.meetup.com/phillyrb/events/nnlgbtyhcpbpb
+
+- name: RubyJax - Open Hax November 2025
+  location: Jacksonville, FL
+  date: 2025-11-11
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcpbpb
