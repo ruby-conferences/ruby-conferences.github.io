@@ -6877,7 +6877,7 @@
   date: 2025-07-15
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhckbtb
+  url: https://www.meetup.com/rubyjax/events/309638004
 
 - name: York Ruby - Monthly Meeting
   location: York, UK
@@ -6903,8 +6903,8 @@
 - name: Montreal.rb - JSON Response Strategies for Rails APls
   location: Montréal, Canada
   date: 2025-07-16
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  start_time: 18:30:00 EDT
+  end_time: 21:30:00 EDT
   url: https://www.meetup.com/montrealrb/events/308551557
 
 - name: Portland Ruby Brigade - Cocktails + Code July 2025
@@ -7244,11 +7244,11 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhclbzb
 
-- name: Montreal.rb - ** Talk Topic To Be Decided*** August 2025
+- name: Montreal.rb - Ruby Tech Outing at Benelux Bar
   location: Montréal, Canada
   date: 2025-08-20
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  start_time: 19:00:00 EDT
+  end_time: 22:00:00 EDT
   url: https://www.meetup.com/montrealrb/events/309519928
 
 - name: Portland Ruby Brigade - Cocktails + Code August 2025
@@ -7824,3 +7824,31 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcpbpb
+
+- name: Atlanta Ruby - Monthly Meetup November 2025
+  location: Online
+  date: 2025-11-12
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/atlantaruby/events/tczcxryhcpbqb
+
+- name: NYC.rb - Event November 2025
+  location: Online
+  date: 2025-11-12
+  start_time: 17:30:00 EDT
+  end_time: 19:00:00 EDT
+  url: https://www.meetup.com/nyc-rb/events/308866990
+
+- name: Rails Taiwan - 高雄 Rails Meetup November 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-11-12
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcpbqb
+
+- name: Ruby on Rails Switzerland - Railhöck at Swisscom
+  location: Zürich, Switzerland
+  date: 2025-11-12
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/rubyonrails-ch/events/307805999
