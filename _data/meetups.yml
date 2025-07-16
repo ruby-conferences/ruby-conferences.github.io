@@ -6655,13 +6655,6 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/vlctechhub/events/308442811
 
-- name: Ruby DF - 7ª Edição - Pareamento de Festa Junina
-  location: Brasilia, Brazil
-  date: 2025-06-28
-  start_time: '09:30:00 -03'
-  end_time: 11:30:00 -03
-  url: https://rubydf.com/events/setima-edicao
-
 - name: 'Bluegrass Ruby - July 2025: Advent of Code'
   location: Lexington, KY
   date: 2025-07-01
@@ -6677,7 +6670,7 @@
   url: https://www.meetup.com/charlotte-rb/events/308448570
 
 - name: Paris.rb - July 2025
-  location: paris , France
+  location: Paris, France
   date: 2025-07-01
   start_time: 19:15:00 CEST
   end_time: 21:15:00 CEST
@@ -6767,7 +6760,7 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhckbkb
 
-- name: Austin.rb - Placeholder (Tech Talk) July 2025
+- name: Austin.rb - Programming Challenge, should you choose to accept it
   location: Austin, TX
   date: 2025-07-08
   start_time: 18:30:00 CDT
@@ -6843,13 +6836,6 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/306568157
-
-- name: London Ruby User Group - July 2025 Meeting
-  location: London, UK
-  date: 2025-07-14
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2025/july
 
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
