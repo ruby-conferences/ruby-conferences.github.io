@@ -7627,3 +7627,10 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcnbdc
+
+- name: Philippine Ruby Users Group - PhRUG - Kickin' it Lo-Fi
+  location: Manila, Philippines
+  date: 2025-07-29
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/309958294
