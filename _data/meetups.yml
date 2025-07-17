@@ -7006,7 +7006,7 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhckbcc
 
-- name: Austin.rb - Social @ The Brass Tap
+- name: Austin.rb - Social @ The Draught House Pub & Brewery
   location: Austin, TX
   date: 2025-07-22
   start_time: 18:30:00 CDT
@@ -7194,6 +7194,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhclbrb
+
+- name: Ruby Usergroup Hamburg - August 2025
+  location: Hamburg, Germany
+  date: 2025-08-13
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-august-2025-1805
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined August 2025'
   location: Online
@@ -7852,3 +7859,10 @@
   start_time: 18:30:00 CEST
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/307805999
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined November 2025'
+  location: Online
+  date: 2025-11-13
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcpbrb
