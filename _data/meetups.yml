@@ -6963,6 +6963,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/308635265
 
+- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #141 Lipiec 2025'
+  location: Wroclaw, Poland
+  date: 2025-07-21
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/drugpl/events/308916371
+
 - name: Miami Ruby Brigade - July 2025
   location: Coral Gables, FL
   date: 2025-07-21
@@ -7711,3 +7718,17 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcnbnc
+
+- name: Charlotte Ruby - Ruby Hack Night November 2025
+  location: Online
+  date: 2025-11-04
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/mhkrrtyhcpbgb
+
+- name: RubyJax - Open Hax November 2025
+  location: Jacksonville, FL
+  date: 2025-11-04
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcpbgb
