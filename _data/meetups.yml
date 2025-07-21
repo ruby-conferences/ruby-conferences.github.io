@@ -6746,6 +6746,13 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/amsterdam-rb/events/308536326
 
+- name: Brighton Ruby Group - PRE-VOLVE [25]
+  location: Brighton, UK
+  date: 2025-07-03
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/brighton-ruby-group/events/308753883
+
 - name: 'Brighton Ruby Group - EVOLVE [25]: Shaping Tomorrow'
   location: Brighton, UK
   date: 2025-07-04
@@ -6844,6 +6851,13 @@
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/306568157
 
+- name: Ruby Montevideo - Meetup - Julio 2025
+  location: Montevideo, Uruguay
+  date: 2025-07-10
+  start_time: 19:00:00 -03
+  end_time: 22:00:00 -03
+  url: https://www.meetup.com/ruby-montevideo/events/308754500
+
 - name: London Ruby User Group - July 2025 Meeting
   location: London, UK
   date: 2025-07-14
@@ -6864,6 +6878,13 @@
   start_time: 19:00:00 BST
   end_time: 22:00:00 BST
   url: https://www.meetup.com/yorkdevelopers/events/308647166
+
+- name: Boulder Ruby - July 2025 Presentation Night
+  location: Unknown Gulch, Idaho 83873
+  date: 2025-07-16
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
+  url: https://lu.ma/ndr3imn9
 
 - name: Montreal.rb - JSON Response Strategies for Rails APls
   location: Montréal, Canada
@@ -7648,3 +7669,10 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcnblc
+
+- name: Rails Taiwan - 高雄 Rails Meetup October 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-10-29
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcnbmc
