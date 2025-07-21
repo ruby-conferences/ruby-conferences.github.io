@@ -6997,14 +6997,14 @@
   date: 2025-07-21
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/miamirb/events/pdvctsyhckbcc
+  url: https://www.meetup.com/miamirb/events/310048189
 
 - name: Orange County Ruby - Ruby Science July 2025
   location: Online
   date: 2025-07-21
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltyhckbcc
+  url: https://www.meetup.com/ocruby/events/310040341
 
 - name: Austin.rb - Social @ The Draught House Pub & Brewery
   location: Austin, TX
@@ -7055,7 +7055,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckbmc
 
-- name: Philippine Ruby Users Group - PhRUG - Kickin' it Lo-Fi
+- name: Philippine Ruby Users Group - PhRUG - Kickin it Lo-Fi
   location: Manila, Philippines
   date: 2025-07-29
   start_time: 18:00:00 PST
@@ -7235,7 +7235,7 @@
   date: 2025-08-18
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/nkdfrtyhclbxb
+  url: https://www.meetup.com/columbusrb/events/310048975
 
 - name: Miami Ruby Brigade - August 2025
   location: Coral Gables, FL
@@ -7459,7 +7459,7 @@
   date: 2025-09-15
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/nkdfrtyhcmbtb
+  url: https://www.meetup.com/columbusrb/events/310048985
 
 - name: Miami Ruby Brigade - September 2025
   location: Coral Gables, FL
@@ -7873,3 +7873,17 @@
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcpbrb
+
+- name: 'Auckland Ruby - Ruby Nights November: TBC'
+  location: Auckland, New Zealand
+  date: 2025-11-17
+  start_time: 18:30:00 NZST
+  end_time: 21:30:00 NZST
+  url: https://www.meetup.com/aucklandruby/events/305875977
+
+- name: Miami Ruby Brigade - November 2025
+  location: Coral Gables, FL
+  date: 2025-11-17
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/pdvctsyhcpbwb
