@@ -7251,6 +7251,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhclbbc
 
+- name: Dresden.rb - meetup August 2025
+  location: Dresden, Germany
+  date: 2025-08-21
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://dresdenrb.onruby.de/events/dresden-rb-meetup-august-2025-1772
+
 - name: Austin.rb - Social @ Austin Beer Garden Brewing Co
   location: Austin, TX
   date: 2025-08-26
