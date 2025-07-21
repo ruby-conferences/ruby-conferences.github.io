@@ -6795,6 +6795,13 @@
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/308605377
 
+- name: Ruby on Rails Oceania Sydney - Ruby Sydney - ROROSYD | JULY 2025 EDITION
+  location: Sydney, Australia
+  date: 2025-07-08
+  start_time: 18:00:00 AEST
+  end_time: 20:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-sydney/events/308780826
+
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
   date: 2025-07-08
@@ -7040,8 +7047,8 @@
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/mhkrrtyhclbhb
 
-- name: Paris.rb - August 2025
-  location: paris , France
+- name: Paris.rb - Meetup August 2025
+  location: Paris, France
   date: 2025-08-05
   start_time: 19:15:00 CEST
   end_time: 21:15:00 CEST
@@ -7676,3 +7683,17 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcnbmc
+
+- name: Melbourne Ruby - Ruby Melbourne Meetup October 2025
+  location: Southbank, Australia
+  date: 2025-10-30
+  start_time: 18:00:00 AEST
+  end_time: 21:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601923
+
+- name: Orange County Ruby - Meetup October 2025
+  location: Dana Point, CA
+  date: 2025-10-30
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqyhcnbnc
