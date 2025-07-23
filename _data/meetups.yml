@@ -7079,8 +7079,8 @@
 - name: Melbourne Ruby - Ruby Melbourne Meetup July 2025
   location: Melbourne, Australia
   date: 2025-07-31
-  start_time: 18:00:00 AEST
-  end_time: 21:00:00 AEST
+  start_time: 17:30:00 AEST
+  end_time: 20:30:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601915
 
 - name: Orange County Ruby - Meetup July 2025
@@ -7265,6 +7265,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhclbzb
 
+- name: York Ruby - Monthly Meeting
+  location: York, UK
+  date: 2025-08-19
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/310101660
+
 - name: Montreal.rb - Ruby Tech Outing at Benelux Bar
   location: Montréal, Canada
   date: 2025-08-20
@@ -7338,8 +7345,8 @@
 - name: Melbourne Ruby - Ruby Melbourne Meetup August 2025
   location: Melbourne, Australia
   date: 2025-08-28
-  start_time: 18:00:00 AEST
-  end_time: 21:00:00 AEST
+  start_time: 17:30:00 AEST
+  end_time: 20:30:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601920
 
 - name: Orange County Ruby - Meetup August 2025
@@ -7555,8 +7562,8 @@
 - name: Melbourne Ruby - Ruby Melbourne Meetup September 2025
   location: Melbourne, Australia
   date: 2025-09-25
-  start_time: 18:00:00 AEST
-  end_time: 21:00:00 AEST
+  start_time: 17:30:00 AEST
+  end_time: 20:30:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601922
 
 - name: Orange County Ruby - Meetup September 2025
@@ -7779,8 +7786,8 @@
 - name: Melbourne Ruby - Ruby Melbourne Meetup October 2025
   location: Melbourne, Australia
   date: 2025-10-30
-  start_time: 18:00:00 AEST
-  end_time: 21:00:00 AEST
+  start_time: 17:30:00 AEST
+  end_time: 20:30:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601923
 
 - name: Orange County Ruby - Meetup October 2025
