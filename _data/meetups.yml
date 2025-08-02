@@ -7139,6 +7139,13 @@
   end_time: 21:15:00 CEST
   url: https://www.meetup.com/paris_rb/events/308552390
 
+- name: 'Ruby Malaysia - Ruby Tuesdays KL #114: Casual Meetup'
+  location: Petaling Jaya, Malaysia
+  date: 2025-08-05
+  start_time: 19:30:00 +08
+  end_time: 21:30:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/310305823
+
 - name: RubyJax - Open Hax August 2025
   location: Jacksonville, FL
   date: 2025-08-05
@@ -7333,7 +7340,7 @@
   date: 2025-08-20
   start_time: 18:00:00 PDT
   end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhclbbc
+  url: https://www.meetup.com/portland-ruby-brigade/events/310303792
 
 - name: Rails Taiwan - 高雄 Rails Meetup August 2025
   location: Kaohsiung, Taiwan
@@ -7495,6 +7502,13 @@
   start_time: 18:00:00 BST
   end_time: 21:00:00 BST
   url: https://lu.ma/ppyuhvwz
+
+- name: ChicagoRuby - @ Beyond Finance
+  location: Chicago, IL
+  date: 2025-09-10
+  start_time: 18:00:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/chicagoruby/events/310313555
 
 - name: Indianapolis Ruby Brigade - Monthly Meetup September 2025
   location: Indianapolis, IN
@@ -7810,6 +7824,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcnbdc
+
+- name: Melbourne Ruby - Ruby Melbourne Meetup October 2025
+  location: Melbourne, Australia
+  date: 2025-10-23
+  start_time: 17:30:00 AEST
+  end_time: 20:30:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/zcvlstyhcnbfc
 
 - name: Orange County Ruby - Ruby Science October 2025
   location: Online
