@@ -3075,6 +3075,16 @@
   cfp_close_date: 2025-04-10
   cfp_link: https://sessionize.com/rails-world-2025/
 
+- name: XO Ruby Chicago 2025
+  location: Chicago, IL
+  start_date: 2025-09-06
+  end_date: 2025-09-06
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/chicago/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-13
+  cfp_link: https://www.xoruby.com/speak/
+
 - name: Friendly.rb 2025
   location: Bucharest, Romania
   start_date: 2025-09-10
@@ -3099,6 +3109,16 @@
   cfp_link: https://www.papercall.io/rubyconf-india-2025
   announced_on: 2025-05-22
 
+- name: XO Ruby Atlanta 2025
+  location: Atlanta, GA
+  start_date: 2025-09-13
+  end_date: 2025-09-13
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/atlanta/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-20
+  cfp_link: https://www.xoruby.com/speak/
+
 - name: EuRuKo 2025
   location: Viana do Castelo, Portugal
   start_date: 2025-09-18
@@ -3110,6 +3130,16 @@
   cfp_open_date: 2025-03-14
   cfp_close_date: 2025-04-10
   cfp_link: https://papercall.io/euruko-2025
+
+- name: XO Ruby New Orleans 2025
+  location: New Orleans, LA
+  start_date: 2025-09-20
+  end_date: 2025-09-20
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/new-orleans/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-27
+  cfp_link: https://www.xoruby.com/speak/
 
 - name: Kaigi on Rails 2025
   location: Tokyo, Japan
@@ -3142,36 +3172,6 @@
   url: https://2025.rubyworld-conf.org/en/
   twitter: rubyworldconf
   announced_on: 2025-01-10
-
-- name: XO Ruby Chicago 2025
-  location: Chicago, IL
-  start_date: 2025-09-06
-  end_date: 2025-09-06
-  announced_on: 2025-07-29
-  url: https://xoruby.com/event/chicago/
-  cfp_open_date: 2025-07-29
-  cfp_close_date: 2025-08-13
-  cfp_link: https://www.xoruby.com/speak/
-
-- name: XO Ruby Atlanta 2025
-  location: Atlanta, GA
-  start_date: 2025-09-13
-  end_date: 2025-09-13
-  announced_on: 2025-07-29
-  url: https://xoruby.com/event/atlanta/
-  cfp_open_date: 2025-07-29
-  cfp_close_date: 2025-08-20
-  cfp_link: https://www.xoruby.com/speak/
-
-- name: XO Ruby New Orleans 2025
-  location: New Orleans, LA
-  start_date: 2025-09-20
-  end_date: 2025-09-20
-  announced_on: 2025-07-29
-  url: https://xoruby.com/event/new-orleans/
-  cfp_open_date: 2025-07-29
-  cfp_close_date: 2025-08-27
-  cfp_link: https://www.xoruby.com/speak/
 
 - name: San Francisco Ruby Conference 2025
   location: San Francisco, CA
