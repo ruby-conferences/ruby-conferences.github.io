@@ -3143,6 +3143,36 @@
   twitter: rubyworldconf
   announced_on: 2025-01-10
 
+- name: XO Ruby Chicago 2025
+  location: Chicago, IL
+  start_date: 2025-09-06
+  end_date: 2025-09-06
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/chicago/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-13
+  cfp_link: https://www.xoruby.com/speak/
+
+- name: XO Ruby Atlanta 2025
+  location: Atlanta, GA
+  start_date: 2025-09-13
+  end_date: 2025-09-13
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/atlanta/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-20
+  cfp_link: https://www.xoruby.com/speak/
+
+- name: XO Ruby New Orleans 2025
+  location: New Orleans, LA
+  start_date: 2025-09-20
+  end_date: 2025-09-20
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/new-orleans/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-27
+  cfp_link: https://www.xoruby.com/speak/
+
 - name: San Francisco Ruby Conference 2025
   location: San Francisco, CA
   start_date: 2025-11-19
