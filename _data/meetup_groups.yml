@@ -394,6 +394,10 @@
   name: Miami Ruby Brigade
   service: meetupdotcom
 
+- id: modena-rb
+  name: Modena.rb
+  service: meetupdotcom
+
 - id: monterrey-ruby-meetup
   name: Monterrey Ruby Meetup
   service: meetupdotcom

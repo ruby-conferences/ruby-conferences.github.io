@@ -6655,7 +6655,7 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/vlctechhub/events/308442811
 
-- name: Ruby DF - 7ª Edição - Pareamento de Festa Junina
+- name: Ruby DF - 7ª Edição - Refatoração em grupo
   location: Brasilia, Brazil
   date: 2025-06-28
   start_time: '09:30:00 -03'
@@ -6677,7 +6677,7 @@
   url: https://www.meetup.com/charlotte-rb/events/308448570
 
 - name: Paris.rb - July 2025
-  location: paris , France
+  location: Paris, France
   date: 2025-07-01
   start_time: 19:15:00 CEST
   end_time: 21:15:00 CEST
@@ -6746,6 +6746,13 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/amsterdam-rb/events/308536326
 
+- name: Brighton Ruby Group - PRE-VOLVE [25]
+  location: Brighton, UK
+  date: 2025-07-03
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/brighton-ruby-group/events/308753883
+
 - name: 'Brighton Ruby Group - EVOLVE [25]: Shaping Tomorrow'
   location: Brighton, UK
   date: 2025-07-04
@@ -6767,7 +6774,7 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhckbkb
 
-- name: Austin.rb - Placeholder (Tech Talk) July 2025
+- name: Austin.rb - Programming Challenge, should you choose to accept it
   location: Austin, TX
   date: 2025-07-08
   start_time: 18:30:00 CDT
@@ -6787,6 +6794,13 @@
   start_time: 20:30:00 EDT
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/308605377
+
+- name: Ruby on Rails Oceania Sydney - Ruby Sydney - ROROSYD | JULY 2025 EDITION
+  location: Sydney, Australia
+  date: 2025-07-08
+  start_time: 18:00:00 AEST
+  end_time: 20:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-sydney/events/308780826
 
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
@@ -6814,7 +6828,7 @@
   date: 2025-07-09
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/indyrb/events/dtttqtyhckbmb
+  url: https://www.meetup.com/indyrb/events/308965169
 
 - name: NYC.rb - Event July 2025
   location: Online
@@ -6844,6 +6858,13 @@
   end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/306568157
 
+- name: Ruby Montevideo - Meetup - Julio 2025
+  location: Montevideo, Uruguay
+  date: 2025-07-10
+  start_time: 19:00:00 -03
+  end_time: 22:00:00 -03
+  url: https://www.meetup.com/ruby-montevideo/events/308754500
+
 - name: London Ruby User Group - July 2025 Meeting
   location: London, UK
   date: 2025-07-14
@@ -6856,7 +6877,7 @@
   date: 2025-07-15
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhckbtb
+  url: https://www.meetup.com/rubyjax/events/309638004
 
 - name: York Ruby - Monthly Meeting
   location: York, UK
@@ -6865,11 +6886,25 @@
   end_time: 22:00:00 BST
   url: https://www.meetup.com/yorkdevelopers/events/308647166
 
+- name: 'ruby.mn - July 15th Ruby.MN meetup: JRuby in 2025: Faster, Stronger, Better'
+  location: St Paul, MN
+  date: 2025-07-15
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/ruby-mn/events/309046939
+
+- name: Boulder Ruby - July 2025 Presentation Night
+  location: Boulder, CO
+  date: 2025-07-16
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
+  url: https://lu.ma/ndr3imn9
+
 - name: Montreal.rb - JSON Response Strategies for Rails APls
   location: Montréal, Canada
   date: 2025-07-16
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
+  start_time: 18:30:00 EDT
+  end_time: 21:30:00 EDT
   url: https://www.meetup.com/montrealrb/events/308551557
 
 - name: Portland Ruby Brigade - Cocktails + Code July 2025
@@ -6901,11 +6936,25 @@
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhckbvb
 
 - name: Munich Ruby User Group - Ruby Meetup July 2025
-  location: München, Germany
+  location: Munich, Germany
   date: 2025-07-17
   start_time: 19:00:00 CEST
   end_time: 22:00:00 CEST
   url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/308137751
+
+- name: North West Ruby User Group - Tugging threads
+  location: Manchester, UK
+  date: 2025-07-17
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/tugging-threads-july-2025
+
+- name: RubyJax - Lightning Talks
+  location: Jacksonville Beach, FL
+  date: 2025-07-17
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/rubyjax/events/309486712
 
 - name: SF Bay Area Ruby - SF Ruby AI Hackathon
   location: San Francisco, CA
@@ -6921,7 +6970,8 @@
   end_time: 17:00:00 PDT
   url: https://www.meetup.com/sfruby/events/308374196
 
-- name: 'Auckland Ruby - Ruby Nights July: No flaky capybara Michael Yin'
+- name: 'Auckland Ruby - Ruby Nights July: No flaky capybara; Integrating Workato
+    with Ruby'
   location: Auckland, New Zealand
   date: 2025-07-21
   start_time: 18:30:00 NZST
@@ -6935,21 +6985,28 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/308635265
 
+- name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #141 Lipiec 2025'
+  location: Wroclaw, Poland
+  date: 2025-07-21
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/drugpl/events/308916371
+
 - name: Miami Ruby Brigade - July 2025
   location: Coral Gables, FL
   date: 2025-07-21
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/miamirb/events/pdvctsyhckbcc
+  url: https://www.meetup.com/miamirb/events/310048189
 
 - name: Orange County Ruby - Ruby Science July 2025
   location: Online
   date: 2025-07-21
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltyhckbcc
+  url: https://www.meetup.com/ocruby/events/310040341
 
-- name: Austin.rb - Social @ The Brass Tap
+- name: Austin.rb - Social @ The Draught House Pub & Brewery
   location: Austin, TX
   date: 2025-07-22
   start_time: 18:30:00 CDT
@@ -6961,7 +7018,7 @@
   date: 2025-07-22
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhckbdc
+  url: https://www.meetup.com/rubyjax/events/309951838
 
 - name: SF Bay Area Ruby - SF Ruby Meetup, July @ Figma
   location: San Francisco, CA
@@ -6975,7 +7032,21 @@
   date: 2025-07-23
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbfc
+  url: https://www.meetup.com/rails-taiwan/events/309979233
+
+- name: Ruby Zagreb - July RubyZG drinkup
+  location: Zagreb, Croatia
+  date: 2025-07-24
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/rubyzg/events/309352017
+
+- name: Toronto Ruby - July 2025 Edition
+  location: Toronto, Canada
+  date: 2025-07-24
+  start_time: 17:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://lu.ma/km1571iq
 
 - name: RubyJax - Open Hax July 2025
   location: Jacksonville, FL
@@ -6983,6 +7054,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhckbmc
+
+- name: Philippine Ruby Users Group - PhRUG - Kickin it Lo-Fi
+  location: Manila, Philippines
+  date: 2025-07-29
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/309958294
 
 - name: Rails Taiwan - 高雄 Rails Meetup July 2025
   location: Kaohsiung, Taiwan
@@ -6992,7 +7070,7 @@
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhckbnc
 
 - name: Melbourne Ruby - Ruby Melbourne Meetup July 2025
-  location: Southbank, Australia
+  location: Melbourne, Australia
   date: 2025-07-31
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
@@ -7017,10 +7095,10 @@
   date: 2025-08-05
   start_time: 19:00:00 EDT
   end_time: 21:30:00 EDT
-  url: https://www.meetup.com/charlotte-rb/events/mhkrrtyhclbhb
+  url: https://www.meetup.com/charlotte-rb/events/308872349
 
-- name: Paris.rb - August 2025
-  location: paris , France
+- name: Paris.rb - Meetup August 2025
+  location: Paris, France
   date: 2025-08-05
   start_time: 19:15:00 CEST
   end_time: 21:15:00 CEST
@@ -7031,7 +7109,14 @@
   date: 2025-08-05
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhclbhb
+  url: https://www.meetup.com/rubyjax/events/309951839
+
+- name: Seattle.rb - August 2025
+  location: Seattle, WA
+  date: 2025-08-05
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=33
 
 - name: ChicagoRuby - @ Workforce.com
   location: Chicago, IL
@@ -7045,14 +7130,14 @@
   date: 2025-08-06
   start_time: 19:00:00 CEST
   end_time: 19:00:00 CEST
-  url: https://www.meetup.com/praguerb/events/dkmktfyhclbjb
+  url: https://www.meetup.com/praguerb/events/309990329
 
 - name: Rails Taiwan - 高雄 Rails Meetup August 2025
   location: Kaohsiung, Taiwan
   date: 2025-08-06
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhclbjb
+  url: https://www.meetup.com/rails-taiwan/events/309978051
 
 - name: Austin.rb - Placeholder (Tech Talk) August 2025
   location: Austin, TX
@@ -7067,6 +7152,13 @@
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhclbqb
+
+- name: Boston Ruby Group - August 2025 meeting
+  location: Boston, MA
+  date: 2025-08-12
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://lu.ma/lxflyzae
 
 - name: Philly.rb - Pubnite August 2025
   location: Online
@@ -7101,7 +7193,7 @@
   date: 2025-08-13
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
-  url: https://www.meetup.com/nyc-rb/events/hkbsltyhclbrb
+  url: https://www.meetup.com/nyc-rb/events/308866985
 
 - name: Rails Taiwan - 高雄 Rails Meetup August 2025
   location: Kaohsiung, Taiwan
@@ -7109,6 +7201,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhclbrb
+
+- name: Ruby Usergroup Hamburg - August 2025
+  location: Hamburg, Germany
+  date: 2025-08-13
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-august-2025-1805
 
 - name: 'African Ruby Community - Ruby Thursdays: To be determined August 2025'
   location: Online
@@ -7136,7 +7235,7 @@
   date: 2025-08-18
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/nkdfrtyhclbxb
+  url: https://www.meetup.com/columbusrb/events/310048975
 
 - name: Miami Ruby Brigade - August 2025
   location: Coral Gables, FL
@@ -7159,12 +7258,12 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhclbzb
 
-- name: Montreal.rb - ** Talk Topic To Be Decided*** August 2025
+- name: Montreal.rb - Ruby Tech Outing at Benelux Bar
   location: Montréal, Canada
   date: 2025-08-20
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/hrtnptyhclbbc
+  start_time: 19:00:00 EDT
+  end_time: 22:00:00 EDT
+  url: https://www.meetup.com/montrealrb/events/309519928
 
 - name: Portland Ruby Brigade - Cocktails + Code August 2025
   location: Portland, OR
@@ -7186,6 +7285,13 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhclbbc
+
+- name: Dresden.rb - meetup August 2025
+  location: Dresden, Germany
+  date: 2025-08-21
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://dresdenrb.onruby.de/events/dresden-rb-meetup-august-2025-1772
 
 - name: Austin.rb - Social @ Austin Beer Garden Brewing Co
   location: Austin, TX
@@ -7216,7 +7322,7 @@
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhclbkc
 
 - name: Melbourne Ruby - Ruby Melbourne Meetup August 2025
-  location: Southbank, Australia
+  location: Melbourne, Australia
   date: 2025-08-28
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
@@ -7325,7 +7431,7 @@
   date: 2025-09-10
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
-  url: https://www.meetup.com/nyc-rb/events/hkbsltyhcmbnb
+  url: https://www.meetup.com/nyc-rb/events/308866987
 
 - name: Rails Taiwan - 高雄 Rails Meetup September 2025
   location: Kaohsiung, Taiwan
@@ -7353,7 +7459,7 @@
   date: 2025-09-15
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/nkdfrtyhcmbtb
+  url: https://www.meetup.com/columbusrb/events/310048985
 
 - name: Miami Ruby Brigade - September 2025
   location: Coral Gables, FL
@@ -7433,7 +7539,7 @@
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbgc
 
 - name: Melbourne Ruby - Ruby Melbourne Meetup September 2025
-  location: Southbank, Australia
+  location: Melbourne, Australia
   date: 2025-09-25
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
@@ -7507,7 +7613,7 @@
   date: 2025-10-08
   start_time: 17:30:00 EDT
   end_time: 19:00:00 EDT
-  url: https://www.meetup.com/nyc-rb/events/hkbsltyhcnblb
+  url: https://www.meetup.com/nyc-rb/events/308866988
 
 - name: Rails Taiwan - 高雄 Rails Meetup October 2025
   location: Kaohsiung, Taiwan
@@ -7628,9 +7734,170 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcnbdc
 
-- name: Philippine Ruby Users Group - PhRUG - Kickin' it Lo-Fi
+- name: Orange County Ruby - Ruby Science October 2025
+  location: Online
+  date: 2025-10-27
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcnbkc
+
+- name: Austin.rb - Social @ Hi Sign Brewing
+  location: Austin , TX
+  date: 2025-10-28
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/305497352
+
+- name: RubyJax - Open Hax October 2025
+  location: Jacksonville, FL
+  date: 2025-10-28
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcnblc
+
+- name: Rails Taiwan - 高雄 Rails Meetup October 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-10-29
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcnbmc
+
+- name: Melbourne Ruby - Ruby Melbourne Meetup October 2025
+  location: Melbourne, Australia
+  date: 2025-10-30
+  start_time: 18:00:00 AEST
+  end_time: 21:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/305601923
+
+- name: Orange County Ruby - Meetup October 2025
+  location: Dana Point, CA
+  date: 2025-10-30
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqyhcnbnc
+
+- name: Charlotte Ruby - Ruby Hack Night November 2025
+  location: Online
+  date: 2025-11-04
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/mhkrrtyhcpbgb
+
+- name: RubyJax - Open Hax November 2025
+  location: Jacksonville, FL
+  date: 2025-11-04
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcpbgb
+
+- name: Prague.rb - First Wednesday Of The Month - Ruby November 2025
+  location: Prague, Czechia
+  date: 2025-11-05
+  start_time: 19:00:00 CEST
+  end_time: 19:00:00 CEST
+  url: https://www.meetup.com/praguerb/events/dkmktfyhcpbhb
+
+- name: Rails Taiwan - 高雄 Rails Meetup November 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-11-05
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcpbhb
+
+- name: Orange County Ruby - Ruby Science November 2025
+  location: Online
+  date: 2025-11-10
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcpbnb
+
+- name: Austin.rb - Placeholder (Tech Talk) November 2025
+  location: Austin, TX
+  date: 2025-11-11
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/304960597
+
+- name: B'more on Rails - Monthly Meetup November 2025
+  location: Online
+  date: 2025-11-11
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcpbpb
+
+- name: Philly.rb - Pubnite November 2025
+  location: Online
+  date: 2025-11-11
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
+  url: https://www.meetup.com/phillyrb/events/nnlgbtyhcpbpb
+
+- name: RubyJax - Open Hax November 2025
+  location: Jacksonville, FL
+  date: 2025-11-11
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcpbpb
+
+- name: Atlanta Ruby - Monthly Meetup November 2025
+  location: Online
+  date: 2025-11-12
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/atlantaruby/events/tczcxryhcpbqb
+
+- name: NYC.rb - Event November 2025
+  location: Online
+  date: 2025-11-12
+  start_time: 17:30:00 EDT
+  end_time: 19:00:00 EDT
+  url: https://www.meetup.com/nyc-rb/events/308866990
+
+- name: Rails Taiwan - 高雄 Rails Meetup November 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-11-12
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcpbqb
+
+- name: Ruby on Rails Switzerland - Railhöck at Swisscom
+  location: Zürich, Switzerland
+  date: 2025-11-12
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
+  url: https://www.meetup.com/rubyonrails-ch/events/307805999
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined November 2025'
+  location: Online
+  date: 2025-11-13
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcpbrb
+
+- name: 'Auckland Ruby - Ruby Nights November: TBC'
+  location: Auckland, New Zealand
+  date: 2025-11-17
+  start_time: 18:30:00 NZST
+  end_time: 21:30:00 NZST
+  url: https://www.meetup.com/aucklandruby/events/305875977
+
+- name: Miami Ruby Brigade - November 2025
+  location: Coral Gables, FL
+  date: 2025-11-17
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/pdvctsyhcpbwb
+
+- name: RubyJax - Open Hax November 2025
+  location: Jacksonville, FL
+  date: 2025-11-18
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcpbxb
+
+- name: Philippine Ruby Users Group - PhRUG - sayo-Narra!
   location: Manila, Philippines
-  date: 2025-07-29
+  date: 2025-08-28
   start_time: 18:00:00 PST
   end_time: 20:00:00 PST
-  url: https://www.meetup.com/ruby-phil/events/309958294
+  url: https://www.meetup.com/ruby-phil/events/310422645
