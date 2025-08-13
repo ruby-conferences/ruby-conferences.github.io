@@ -7314,6 +7314,13 @@
   end_time: 19:00:00 NZST
   url: https://www.meetup.com/rubywellington/events/306413742
 
+- name: SD Ruby - Summer Social
+  location: San Diego, CA
+  date: 2025-08-14
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/sdruby/events/310480873
+
 - name: Ruby DF - 8ª Edição - O seu primeiro emprego em Ruby
   location: Brasilia, Brazil
   date: 2025-08-16
@@ -7327,6 +7334,7 @@
   start_time: 18:30:00 NZST
   end_time: 21:30:00 NZST
   url: https://www.meetup.com/aucklandruby/events/305875960
+  status: cancelled
 
 - name: Columbus Ruby Brigade - Monthly Meetup August 2025
   location: Columbus, OH
@@ -7397,6 +7405,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/310290621
+
+- name: Utah Ruby Users Group - Utah Valley URUG
+  location: Lehi, UT
+  date: 2025-08-20
+  start_time: 19:00:00 MDT
+  end_time: 21:00:00 MDT
+  url: https://www.meetup.com/utah-ruby-users-group/events/310486726
 
 - name: West Midlands Ruby User Group - Monthly Meetup August 2025
   location: Online
@@ -7515,14 +7530,14 @@
   date: 2025-09-01
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltyhcmbcb
+  url: https://www.meetup.com/ocruby/events/310488166
 
 - name: Charlotte Ruby - Ruby Hack Night September 2025
   location: Online
   date: 2025-09-02
   start_time: 19:00:00 EDT
   end_time: 21:30:00 EDT
-  url: https://www.meetup.com/charlotte-rb/events/mhkrrtyhcmbdb
+  url: https://www.meetup.com/charlotte-rb/events/310488915
 
 - name: RubyJax - Open Hax September 2025
   location: Jacksonville, FL
@@ -7593,6 +7608,13 @@
   start_time: 20:30:00 EDT
   end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/307185648
+
+- name: Ruby Meetup Oslo - September 9th
+  location: Oslo, Norway
+  date: 2025-09-09
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/ruby-meetup-oslo/events/310466755
 
 - name: RubyJax - Open Hax September 2025
   location: Jacksonville, FL
@@ -8370,3 +8392,17 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcqbnb
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined December 2025'
+  location: Online
+  date: 2025-12-11
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcqbpb
+
+- name: Ruby Malaysia - We're Moving to Substack! December 2025
+  location: Online
+  date: 2025-12-11
+  start_time: 19:00:00 +08
+  end_time: 20:00:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcqbpb
