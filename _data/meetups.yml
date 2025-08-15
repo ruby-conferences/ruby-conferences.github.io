@@ -7462,6 +7462,13 @@
   end_time: 20:00:00 CEST
   url: https://www.meetup.com/rubyzg/events/310467430
 
+- name: "RubyJax - Speed Up Your Rails App with Caching! \U0001F680"
+  location: Jacksonville Beach, FL
+  date: 2025-08-21
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/rubyjax/events/310509474
+
 - name: Austin.rb - Social @ Austin Beer Garden Brewing Co
   location: Austin, TX
   date: 2025-08-26
@@ -7544,7 +7551,7 @@
   date: 2025-09-02
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcmbdb
+  url: https://www.meetup.com/rubyjax/events/310511595
 
 - name: Seattle.rb - September 2025
   location: Seattle, WA
@@ -7580,6 +7587,13 @@
   start_time: 19:00:00 +08
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/310473989
+
+- name: Ruby User Group Berlin - September Meetup 2025
+  location: Berlin, Germany
+  date: 2025-09-04
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/september-meetup-2025-1871
 
 - name: 'vienna.rb - Vienna.rb #65 - Ruby Autumn Meetup'
   location: Vienna, Austria
@@ -7714,7 +7728,7 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhcmbtb
 
-- name: Philly.rb - Lightning Talks at Power HRG
+- name: Philly.rb - Scaling Rails the Smart Way + Lightning Talks at Power HRG
   location: Chester, PA
   date: 2025-09-16
   start_time: 17:30:00 EDT
