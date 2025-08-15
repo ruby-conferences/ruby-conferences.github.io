@@ -7132,8 +7132,8 @@
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/308872349
 
-- name: Paris.rb - Meetup August 2025
-  location: paris , France
+- name: 'Paris.rb - BARisRb.new(:monthly, on: :first_tuesday)'
+  location: 75001,  Paris, France
   date: 2025-08-05
   start_time: 19:15:00 CEST
   end_time: 21:15:00 CEST
@@ -8062,3 +8062,17 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcpbkc
+
+- name: Charlotte Ruby - Ruby Hack Night December 2025
+  location: Online
+  date: 2025-12-02
+  start_time: 19:00:00 EDT
+  end_time: 21:30:00 EDT
+  url: https://www.meetup.com/charlotte-rb/events/mhkrrtyhcqbdb
+
+- name: RubyJax - Open Hax December 2025
+  location: Jacksonville, FL
+  date: 2025-12-02
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcqbdb
