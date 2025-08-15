@@ -974,6 +974,8 @@
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-L4SDawu65B1grBV
   timezone: America/Los_Angeles
+  exclude:
+    - The San Francisco Ruby Conference
 
 - id: silicon-valley-ruby
   name: Silicon Valley Ruby
