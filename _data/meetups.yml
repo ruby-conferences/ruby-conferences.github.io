@@ -7034,6 +7034,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/309979233
 
+- name: Ruby User Group Berlin - Late July social meetup
+  location: Berlin, Germany
+  date: 2025-07-24
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.rug-b.de/events/late-july-social-meetup-1838
+
 - name: Ruby Zagreb - July RubyZG drinkup
   location: Zagreb, Croatia
   date: 2025-07-24
@@ -7089,6 +7096,13 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhckbpc
+
+- name: Brighton Ruby Group - Silicon Brighton Marches with Pride 2025
+  location: Hove, UK
+  date: 2025-08-02
+  start_time: '09:00:00 BST'
+  end_time: 14:00:00 BST
+  url: https://www.meetup.com/brighton-ruby-group/events/310123085
 
 - name: Orange County Ruby - Ruby Science August 2025
   location: Online
@@ -7146,6 +7160,14 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/309978051
 
+- name: 'Polish Ruby User Group - PLRUG Warsaw Meetup #AUGUST - Special Edition @
+    BEHIND THE CODE'
+  location: Warsaw, Poland
+  date: 2025-08-07
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/310121470
+
 - name: Austin.rb - Placeholder (Tech Talk) August 2025
   location: Austin, TX
   date: 2025-08-12
@@ -7158,7 +7180,7 @@
   date: 2025-08-12
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhclbqb
+  url: https://www.meetup.com/bmore-on-rails/events/310136715
 
 - name: Boston Ruby Group - August 2025 meeting
   location: Boston, MA
@@ -7179,7 +7201,7 @@
   date: 2025-08-12
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhclbqb
+  url: https://www.meetup.com/rubyjax/events/310137090
 
 - name: Atlanta Ruby - Monthly Meetup August 2025
   location: Online
