@@ -7237,12 +7237,19 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/310137090
 
-- name: Atlanta Ruby - Monthly Meetup August 2025
+- name: Atlanta Ruby - Open Ruby on Rails Topics Night - ATLRUG Virtual
   location: Online
   date: 2025-08-13
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/307205033
+
+- name: Boulder Ruby - August 2025 Presentation Night
+  location: Boulder, CO
+  date: 2025-08-13
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
+  url: https://lu.ma/wknbqe8c
 
 - name: Indianapolis Ruby Brigade - Monthly Meetup August 2025
   location: Indianapolis, IN
@@ -7293,6 +7300,13 @@
   end_time: 19:00:00 NZST
   url: https://www.meetup.com/rubywellington/events/306413742
 
+- name: Ruby DF - 8ª Edição - O seu primeiro emprego em Ruby
+  location: Brasilia, Brazil
+  date: 2025-08-16
+  start_time: '09:30:00 -03'
+  end_time: 11:30:00 -03
+  url: https://rubydf.com/events/oitava-edicao
+
 - name: 'Auckland Ruby - Ruby Nights August: TBC'
   location: Auckland, New Zealand
   date: 2025-08-18
@@ -7320,6 +7334,13 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/310255333
+
+- name: Ottawa Ruby - Summer Shopify Edition
+  location: Ottawa, Canada
+  date: 2025-08-19
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/ottawaruby/events/310376161
 
 - name: RubyJax - Open Hax August 2025
   location: Jacksonville, FL
@@ -7446,6 +7467,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcmbdb
+
+- name: Seattle.rb - September 2025
+  location: Seattle, WA
+  date: 2025-09-02
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://seattlerb.org/?event_id=34
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby September 2025
   location: Prague, Czechia
