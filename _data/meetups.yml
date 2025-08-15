@@ -7384,6 +7384,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/310295666
 
+- name: Winnipeg Ruby User Group - Teaching an LLM new Tricks
+  location: Winnipeg, Canada
+  date: 2025-08-20
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://www.meetup.com/winnipegrb/events/310385645
+
 - name: Dresden.rb - meetup August 2025
   location: Dresden, Germany
   date: 2025-08-21
@@ -7417,7 +7424,7 @@
   date: 2025-08-26
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhclbjc
+  url: https://www.meetup.com/rubyjax/events/310398050
 
 - name: SF Bay Area Ruby - SF Ruby Meetup, August @ Github
   location: San Francisco, CA
@@ -7824,6 +7831,13 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcnbtb
+
+- name: Munich Ruby User Group - Ruby Meetup October 2025
+  location: München, Germany
+  date: 2025-10-16
+  start_time: 19:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/310392682
 
 - name: 'Auckland Ruby - Ruby Nights October: TBC'
   location: Auckland, New Zealand
