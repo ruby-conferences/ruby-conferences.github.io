@@ -7102,7 +7102,7 @@
   date: 2025-07-31
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/pbgwwqyhckbpc
+  url: https://www.meetup.com/ocruby/events/310187418
 
 - name: Brighton Ruby Group - Silicon Brighton Marches with Pride 2025
   location: Hove, UK
@@ -7110,6 +7110,13 @@
   start_time: '09:00:00 BST'
   end_time: 14:00:00 BST
   url: https://www.meetup.com/brighton-ruby-group/events/310123085
+
+- name: Pune Ruby Meetup - August Ruby Meetup
+  location: Maharashtra 411045, India
+  date: 2025-08-02
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://lu.ma/ftfdakox
 
 - name: Orange County Ruby - Ruby Science August 2025
   location: Online
@@ -7972,3 +7979,10 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcpbzb
+
+- name: Orange County Ruby - Ruby Science November 2025
+  location: Online
+  date: 2025-11-24
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcpbgc
