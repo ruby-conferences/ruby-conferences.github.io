@@ -7083,6 +7083,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/310147070
 
+- name: 'Barcelona.rb - BARcelona.rb - let''s have some beers together at #July'
+  location: Barcelona, Spain
+  date: 2025-07-31
+  start_time: 18:30:00 CEST
+  end_time: 21:30:00 CEST
+  url: https://www.meetup.com/barcelona-rb/events/310169092
+
 - name: Melbourne Ruby - Ruby Melbourne Meetup July 2025
   location: Melbourne, Australia
   date: 2025-07-31
