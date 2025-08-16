@@ -7181,7 +7181,8 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/309978051
 
-- name: 'Polish Ruby User Group - PLRUG Warsaw Meetup #AUGUST - Special Edition @ BEHIND THE CODE'
+- name: 'Polish Ruby User Group - PLRUG Warsaw Meetup #AUGUST - Special Edition @
+    BEHIND THE CODE'
   location: Warsaw, Poland
   date: 2025-08-07
   start_time: 18:00:00 CEST
@@ -7504,6 +7505,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/310405789
 
+- name: Ruby Ireland - The Last Wheel You Will Ever Reinvent
+  location: Dublin, Ireland
+  date: 2025-08-27
+  start_time: 18:30:00 IST
+  end_time: 20:30:00 IST
+  url: https://www.meetup.com/rubyireland/events/310536751
+
 - name: Melbourne Ruby - Ruby Melbourne Meetup August 2025
   location: Melbourne, Australia
   date: 2025-08-28
@@ -7602,6 +7610,13 @@
   end_time: 21:30:00 CEST
   url: https://www.meetup.com/vienna-rb/events/310404842
 
+- name: London Ruby User Group - September 2025 Meeting
+  location: London, UK
+  date: 2025-09-08
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2025/september
+
 - name: Austin.rb - Placeholder (Tech Talk) September 2025
   location: Austin, TX
   date: 2025-09-09
@@ -7665,7 +7680,7 @@
   end_time: 20:30:00 CDT
   url: https://www.meetup.com/chicagoruby/events/310313555
 
-- name: Indianapolis Ruby Brigade - Monthly Meetup September 2025
+- name: Indianapolis Ruby Brigade - Monthly Meetup
   location: Indianapolis, IN
   date: 2025-09-10
   start_time: 19:00:00 EDT
@@ -7768,7 +7783,7 @@
   date: 2025-09-17
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcmbwb
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/310532084
 
 - name: Ruby Malaysia - We're Moving to Substack! September 2025
   location: Online
@@ -7985,7 +8000,7 @@
   date: 2025-10-15
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcnbtb
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/310532085
 
 - name: Munich Ruby User Group - Ruby Meetup October 2025
   location: München, Germany
@@ -8258,7 +8273,7 @@
   date: 2025-11-19
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryhcpbzb
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/310532129
 
 - name: Ruby Malaysia - We're Moving to Substack! November 2025
   location: Online
