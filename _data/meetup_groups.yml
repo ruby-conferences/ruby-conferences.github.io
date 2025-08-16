@@ -674,6 +674,8 @@
 - id: ruby-malaysia
   name: Ruby Malaysia
   service: meetupdotcom
+  remove:
+    - "We're Moving to Substack!"
 
 - id: ruby-meetup-oslo
   name: Ruby Meetup Oslo
