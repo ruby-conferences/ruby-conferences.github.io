@@ -7565,14 +7565,14 @@
   date: 2025-09-03
   start_time: 19:00:00 CEST
   end_time: 19:00:00 CEST
-  url: https://www.meetup.com/praguerb/events/dkmktfyhcmbfb
+  url: https://www.meetup.com/praguerb/events/310523337
 
 - name: Rails Taiwan - 高雄 Rails Meetup September 2025
   location: Kaohsiung, Taiwan
   date: 2025-09-03
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbfb
+  url: https://www.meetup.com/rails-taiwan/events/310517907
 
 - name: Cologne.rb - September 2025 Meetup
   location: Köln, Germany
@@ -7693,19 +7693,19 @@
   end_time: 20:30:00 CEST
   url: https://www.meetup.com/rubyonrails-ch/events/307191188
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined September 2025'
-  location: Online
-  date: 2025-09-11
-  start_time: 18:00:00 EAT
-  end_time: 20:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/310083994
-
 - name: Ruby Malaysia - We're Moving to Substack! September 2025
   location: Online
   date: 2025-09-11
   start_time: 19:00:00 +08
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/310473991
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined September 2025'
+  location: Online
+  date: 2025-09-13
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/310083994
 
 - name: Columbus Ruby Brigade - Monthly Meetup September 2025
   location: Columbus, OH
