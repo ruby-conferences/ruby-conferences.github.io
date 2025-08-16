@@ -7322,13 +7322,6 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/sdruby/events/310480873
 
-- name: Ruby DF - 8ª Edição - O seu primeiro emprego em Ruby
-  location: Brasilia, Brazil
-  date: 2025-08-16
-  start_time: '09:30:00 -03'
-  end_time: 11:30:00 -03
-  url: https://rubydf.com/events/oitava-edicao
-
 - name: 'Auckland Ruby - Ruby Nights August: TBC'
   location: Auckland, New Zealand
   date: 2025-08-18
@@ -7609,13 +7602,6 @@
   start_time: 18:30:00 CEST
   end_time: 21:30:00 CEST
   url: https://www.meetup.com/vienna-rb/events/310404842
-
-- name: London Ruby User Group - September 2025 Meeting
-  location: London, UK
-  date: 2025-09-08
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2025/september
 
 - name: Austin.rb - Placeholder (Tech Talk) September 2025
   location: Austin, TX
