@@ -3172,6 +3172,9 @@
   url: https://2025.rubyworld-conf.org/en/
   twitter: rubyworldconf
   announced_on: 2025-01-10
+  cfp_open_date: 2025-06-23
+  cfp_close_date: 2025-08-01
+  cfp_link: "https://2025.rubyworld-conf.org/en/news/2025/06/call-for-proposals/"
 
 - name: San Francisco Ruby Conference 2025
   location: San Francisco, CA
