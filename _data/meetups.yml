@@ -7722,6 +7722,13 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/310083994
 
+- name: 'Rails + Claude AI: Build Together Challenge'
+  location: Philadelphia, PA
+  date: 2025-09-13
+  start_time: 10:00:00 EDT
+  end_time: 13:30:00 EDT
+  url: https://lu.ma/66txruyw
+
 - name: Columbus Ruby Brigade - Monthly Meetup September 2025
   location: Columbus, OH
   date: 2025-09-15
