@@ -8035,7 +8035,7 @@
   date: 2025-10-20
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/columbusrb/events/nkdfrtyhcnbbc
+  url: https://www.meetup.com/columbusrb/events/310569327
 
 - name: Miami Ruby Brigade - October 2025
   location: Coral Gables, FL
@@ -8442,3 +8442,17 @@
   start_time: 19:00:00 +08
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcqbpb
+
+- name: Miami Ruby Brigade - December 2025
+  location: Coral Gables, FL
+  date: 2025-12-15
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/pdvctsyhcqbtb
+
+- name: RubyJax - Open Hax December 2025
+  location: Jacksonville, FL
+  date: 2025-12-16
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcqbvb
