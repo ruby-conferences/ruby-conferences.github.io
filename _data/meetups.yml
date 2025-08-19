@@ -7547,6 +7547,13 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/310488166
 
+- name: Boston Ruby Group - September 2025 meeting
+  location: Boston, MA
+  date: 2025-09-02
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://lu.ma/o71llz38
+
 - name: Charlotte Ruby - Ruby Hack Night September 2025
   location: Online
   date: 2025-09-02
@@ -8456,3 +8463,31 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcqbvb
+
+- name: Montreal.rb - ** Talk Topic To Be Decided*** December 2025
+  location: Montréal, Canada
+  date: 2025-12-17
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/montrealrb/events/hrtnptyhcqbwb
+
+- name: Portland Ruby Brigade - Cocktails + Code December 2025
+  location: Portland, OR
+  date: 2025-12-17
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcqbwb
+
+- name: Rails Taiwan - 高雄 Rails Meetup December 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-12-17
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcqbwb
+
+- name: West Midlands Ruby User Group - Monthly Meetup December 2025
+  location: Online
+  date: 2025-12-17
+  start_time: 19:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/310532132
