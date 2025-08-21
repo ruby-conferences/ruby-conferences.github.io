@@ -7413,6 +7413,7 @@
   start_time: 19:00:00 MDT
   end_time: 21:00:00 MDT
   url: https://www.meetup.com/utah-ruby-users-group/events/310486726
+  status: cancelled
 
 - name: West Midlands Ruby User Group - Monthly Meetup August 2025
   location: Online
@@ -7643,7 +7644,14 @@
   date: 2025-09-09
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcmbmb
+  url: https://www.meetup.com/bmore-on-rails/events/310623561
+
+- name: Modena.rb - Third Meetup
+  location: Modena, Italy
+  date: 2025-09-09
+  start_time: 19:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://www.meetup.com/modena-rb/events/310609904
 
 - name: Philly.rb - Pubnite September 2025
   location: Online
@@ -7664,7 +7672,7 @@
   date: 2025-09-09
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcmbmb
+  url: https://www.meetup.com/rubyjax/events/310624004
 
 - name: Atlanta Ruby - Monthly Meetup September 2025
   location: Online
@@ -7869,6 +7877,13 @@
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcmbhc
 
+- name: LA Ruby - Techy Brekky
+  location: MANHATTAN BEACH, CA
+  date: 2025-09-26
+  start_time: '09:00:00 PDT'
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/laruby/events/310617942
+
 - name: Orange County Ruby - Ruby Science September 2025
   location: Online
   date: 2025-09-29
@@ -7959,6 +7974,13 @@
   start_time: 19:00:00 +08
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcnbmb
+
+- name: Ruby Usergroup Hamburg - September 2025
+  location: Hamburg, Germany
+  date: 2025-10-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2025-1937
 
 - name: Orange County Ruby - Ruby Science October 2025
   location: Online
