@@ -7456,6 +7456,13 @@
   end_time: 22:00:00 -03
   url: https://www.meetup.com/ruby-montevideo/events/310087437
 
+- name: Ruby User Group Berlin - Social Ruby Meetup
+  location: Berlin, Germany
+  date: 2025-08-21
+  start_time: 19:30:00 CEST
+  end_time: 21:30:00 CEST
+  url: https://www.rug-b.de/events/social-ruby-meetup-1904
+
 - name: Ruby Zagreb - RubyZg @ Zagreb Developers Drinkup, August 2025
   location: Zagreb, Croatia
   date: 2025-08-21
@@ -7827,6 +7834,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcmbfc
 
+- name: Toronto Ruby - September 2025 Edition
+  location: Toronto, Canada
+  date: 2025-09-23
+  start_time: 17:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://lu.ma/jy77b1m0
+
 - name: Rails Taiwan - 高雄 Rails Meetup September 2025
   location: Kaohsiung, Taiwan
   date: 2025-09-24
@@ -7986,7 +8000,7 @@
   date: 2025-10-15
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/hrtnptyhcnbtb
+  url: https://www.meetup.com/montrealrb/events/310599891
 
 - name: Portland Ruby Brigade - Cocktails + Code October 2025
   location: Portland, OR
@@ -8491,3 +8505,10 @@
   start_time: 19:00:00 BST
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/310532132
+
+- name: Ruby Malaysia - December 2025
+  location: Online
+  date: 2025-12-18
+  start_time: 19:00:00 +08
+  end_time: 20:00:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcqbxb
