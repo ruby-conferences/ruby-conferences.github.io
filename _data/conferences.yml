@@ -3262,13 +3262,11 @@
   announced_on: 2025-07-09
 
 - name: Helvetic Ruby 2026
-  location: Switzerland # TODO: update once location is confirmed
-  start_date: 2026-12-31 # TODO: update once dates are confirmed
-  end_date: 2026-12-31 # TODO: update once dates are confirmed
-  announced_on: 2025-05-23
+  location: Zürich, Switzerland
+  start_date: 2026-11-19
+  end_date: 2026-11-20
+  announced_on: 2025-08-22
   url: https://helvetic-ruby.ch
-  twitter: helvetic_ruby
-  date_precision: year
   mastodon: https://ruby.social/@helvetic_ruby
 
 - name: RubyConf 2026
