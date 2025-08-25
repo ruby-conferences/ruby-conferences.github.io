@@ -7737,8 +7737,9 @@
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/310473991
 
-- name: 'African Ruby Community - Ruby Thursdays: To be determined September 2025'
-  location: Online
+- name: African Ruby Community - Ruby Meetup:The Modern Rails Blueprint:A Practical
+    Look at Hotwire and Solid Gem
+  location: Nairobi, Kenya
   date: 2025-09-13
   start_time: 11:00:00 EAT
   end_time: 13:00:00 EAT
@@ -7770,7 +7771,7 @@
   date: 2025-09-15
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltyhcmbtb
+  url: https://www.meetup.com/ocruby/events/310641482
 
 - name: Philly.rb - Scaling Rails the Smart Way + Lightning Talks at Power HRG
   location: Chester, PA
@@ -7785,6 +7786,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcmbvb
+
+- name: York Ruby - Monthly Meeting
+  location: York, UK
+  date: 2025-09-16
+  start_time: 19:00:00 BST
+  end_time: 22:00:00 BST
+  url: https://www.meetup.com/yorkdevelopers/events/310649221
 
 - name: Montreal.rb - ** Talk Topic To Be Decided*** September 2025
   location: Montréal, Canada
@@ -7889,7 +7897,7 @@
   date: 2025-09-29
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
-  url: https://www.meetup.com/ocruby/events/sdczltyhcmbmc
+  url: https://www.meetup.com/ocruby/events/310641484
 
 - name: RubyJax - Open Hax September 2025
   location: Jacksonville, FL
@@ -8274,7 +8282,7 @@
   date: 2025-11-13
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcpbrb
+  url: https://www.meetup.com/african_ruby_community/events/310656914
 
 - name: Ruby Malaysia - November 2025
   location: Online
@@ -8484,7 +8492,7 @@
   date: 2025-12-11
   start_time: 18:00:00 EAT
   end_time: 20:00:00 EAT
-  url: https://www.meetup.com/african_ruby_community/events/mbgmgtyhcqbpb
+  url: https://www.meetup.com/african_ruby_community/events/310656917
 
 - name: Ruby Malaysia - December 2025
   location: Online
