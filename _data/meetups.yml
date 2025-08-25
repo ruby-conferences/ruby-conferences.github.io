@@ -7632,6 +7632,13 @@
   end_time: 20:00:00 BST
   url: https://lrug.org/meetings/2025/september
 
+- name: Pune Ruby Meetup - September Ruby Meetup
+  location: Maharashtra 411057, India
+  date: 2025-09-06
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://lu.ma/4zo2m8i2
+
 - name: Austin.rb - Placeholder (Tech Talk) September 2025
   location: Austin, TX
   date: 2025-09-09
@@ -8549,3 +8556,10 @@
   start_time: 19:00:00 +08
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcqbxb
+
+- name: Orange County Ruby - Ruby Science December 2025
+  location: Online
+  date: 2025-12-22
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltyhcqbdc
