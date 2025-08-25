@@ -7707,7 +7707,7 @@
   date: 2025-09-10
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/indyrb/events/dtttqtyhcmbnb
+  url: https://www.meetup.com/indyrb/events/310640767
 
 - name: NYC.rb - Event September 2025
   location: Online
@@ -7721,7 +7721,7 @@
   date: 2025-09-10
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbnb
+  url: https://www.meetup.com/rails-taiwan/events/310630030
 
 - name: Ruby on Rails Switzerland - Mini Höck at openscript
   location: Opfikon, Switzerland
@@ -8191,6 +8191,13 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcpbhb
+
+- name: Dresden.rb - meetup November 2025
+  location: Dresden, Germany
+  date: 2025-11-06
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://dresdenrb.onruby.de/events/dresden-rb-meetup-november-2025-1970
 
 - name: Ruby Malaysia - November 2025
   location: Online
