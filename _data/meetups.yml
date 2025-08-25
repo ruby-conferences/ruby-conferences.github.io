@@ -7918,7 +7918,7 @@
   date: 2025-10-01
   start_time: 19:00:00 CEST
   end_time: 19:00:00 CEST
-  url: https://www.meetup.com/praguerb/events/dkmktfyhcnbcb
+  url: https://www.meetup.com/praguerb/events/310678557
 
 - name: Rails Taiwan - 高雄 Rails Meetup October 2025
   location: Kaohsiung, Taiwan
@@ -8563,3 +8563,10 @@
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhcqbdc
+
+- name: RubyJax - Open Hax December 2025
+  location: Jacksonville, FL
+  date: 2025-12-23
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcqbfc
