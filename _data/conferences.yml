@@ -3269,6 +3269,18 @@
   url: https://helvetic-ruby.ch
   mastodon: https://ruby.social/@helvetic_ruby
 
+- name: Rubycon 2026
+  location: Rimini, Italy
+  start_date: 2026-05-08
+  end_date: 2026-05-08
+  announced_on: 2025-08-11
+  url: https://rubycon.netlify.app/
+  cfp_link: https://rubycon.netlify.app/cfp
+  cfp_open_date: 2025-08-11
+  # cfp_close_date: TODO
+  twitter: rubycon2026
+  mastodon: https://mastodon.social/@rubycon
+
 - name: RubyConf 2026
   location: United States # TODO: update once location is confirmed
   start_date: 2026-12-31 # TODO: update once dates are confirmed
