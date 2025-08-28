@@ -7737,6 +7737,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/310630030
 
+- name: Ruby Usergroup Hamburg - September 2025
+  location: Hamburg, Germany
+  date: 2025-09-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2025-1937
+
 - name: Ruby on Rails Switzerland - Mini Höck at openscript
   location: Opfikon, Switzerland
   date: 2025-09-10
@@ -7778,7 +7785,7 @@
   date: 2025-09-15
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/miamirb/events/pdvctsyhcmbtb
+  url: https://www.meetup.com/miamirb/events/310721835
 
 - name: Orange County Ruby - Ruby Science September 2025
   location: Online
@@ -7799,7 +7806,7 @@
   date: 2025-09-16
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcmbvb
+  url: https://www.meetup.com/rubyjax/events/310738848
 
 - name: York Ruby - Monthly Meeting
   location: York, UK
@@ -8004,13 +8011,6 @@
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcnbmb
 
-- name: Ruby Usergroup Hamburg - September 2025
-  location: Hamburg, Germany
-  date: 2025-10-10
-  start_time: 19:00:00 CEST
-  end_time: 21:00:00 CEST
-  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2025-1937
-
 - name: Orange County Ruby - Ruby Science October 2025
   location: Online
   date: 2025-10-13
@@ -8135,7 +8135,7 @@
   date: 2025-10-23
   start_time: 17:30:00 AEST
   end_time: 20:30:00 AEST
-  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/zcvlstyhcnbfc
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/310724713
 
 - name: Ruby Malaysia - October 2025
   location: Online
@@ -8591,3 +8591,17 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcqbgc
+
+- name: Orange County Ruby - Meetup December 2025
+  location: Dana Point, CA
+  date: 2025-12-25
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqyhcqbhc
+
+- name: Ruby Malaysia - December 2025
+  location: Online
+  date: 2025-12-25
+  start_time: 19:00:00 +08
+  end_time: 20:00:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcqbhc
