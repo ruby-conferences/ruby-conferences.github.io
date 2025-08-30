@@ -7569,6 +7569,20 @@
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/charlotte-rb/events/310488915
 
+- name: Paris.rb - Meetup September 2025
+  location: Paris, France
+  date: 2025-09-02
+  start_time: 19:15:00 CEST
+  end_time: 21:15:00 CEST
+  url: https://www.meetup.com/paris_rb/events/310693908
+
+- name: 'Ruby Malaysia - Ruby Tuesdays KL #115: At Shortcut Bangsar South'
+  location: Kuala Lumpur, Malaysia
+  date: 2025-09-02
+  start_time: 19:30:00 +08
+  end_time: 21:30:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/310743723
+
 - name: RubyJax - Open Hax September 2025
   location: Jacksonville, FL
   date: 2025-09-02
@@ -7625,21 +7639,7 @@
   end_time: 21:30:00 CEST
   url: https://www.meetup.com/vienna-rb/events/310404842
 
-- name: London Ruby User Group - September 2025 Meeting
-  location: London, UK
-  date: 2025-09-08
-  start_time: 18:00:00 BST
-  end_time: 20:00:00 BST
-  url: https://lrug.org/meetings/2025/september
-
-- name: Pune Ruby Meetup - September Ruby Meetup
-  location: Maharashtra 411057, India
-  date: 2025-09-06
-  start_time: 11:00:00 IST
-  end_time: 13:00:00 IST
-  url: https://lu.ma/4zo2m8i2
-
-- name: Austin.rb - Placeholder (Tech Talk) September 2025
+- name: Austin.rb - Declarative Programming at Enterprise Scale
   location: Austin, TX
   date: 2025-09-09
   start_time: 18:30:00 CDT
@@ -7702,6 +7702,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/belfastruby/events/310407715
 
+- name: Boulder Ruby - September 2025 Presentation Night
+  location: Boulder, CO
+  date: 2025-09-10
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
+  url: https://lu.ma/ue3fso8b
+
 - name: ChicagoRuby - @ Beyond Finance
   location: Chicago, IL
   date: 2025-09-10
@@ -7729,6 +7736,20 @@
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/310630030
+
+- name: Ruby Usergroup Hamburg - September 2025
+  location: Hamburg, Germany
+  date: 2025-09-10
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2025-1937
+
+- name: Ruby and Rails Perth - Ruby Perth - September 2025
+  location: Perth, Australia
+  date: 2025-09-10
+  start_time: 17:00:00 AWST
+  end_time: 19:00:00 AWST
+  url: https://www.meetup.com/ruby-perth-meetup/events/310739433
 
 - name: Ruby on Rails Switzerland - Mini Höck at openscript
   location: Opfikon, Switzerland
@@ -7771,7 +7792,7 @@
   date: 2025-09-15
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://www.meetup.com/miamirb/events/pdvctsyhcmbtb
+  url: https://www.meetup.com/miamirb/events/310721835
 
 - name: Orange County Ruby - Ruby Science September 2025
   location: Online
@@ -7792,7 +7813,7 @@
   date: 2025-09-16
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
-  url: https://www.meetup.com/rubyjax/events/llklbtyhcmbvb
+  url: https://www.meetup.com/rubyjax/events/310738848
 
 - name: York Ruby - Monthly Meeting
   location: York, UK
@@ -7820,7 +7841,7 @@
   date: 2025-09-17
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
-  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcmbwb
+  url: https://www.meetup.com/rails-taiwan/events/310746038
 
 - name: West Midlands Ruby User Group - Monthly Meetup September 2025
   location: Online
@@ -7834,7 +7855,14 @@
   date: 2025-09-18
   start_time: 19:00:00 +08
   end_time: 20:00:00 +08
-  url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcmbxb
+  url: https://www.meetup.com/ruby-malaysia/events/310763715
+
+- name: Pune Ruby Meetup - September Ruby Meetup
+  location: Maharashtra 411057, India
+  date: 2025-09-20
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://lu.ma/4zo2m8i2
 
 - name: 'Auckland Ruby - Ruby Nights September: TBC'
   location: Auckland, New Zealand
@@ -7856,13 +7884,6 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcmbfc
-
-- name: Toronto Ruby - September 2025 Edition
-  location: Toronto, Canada
-  date: 2025-09-23
-  start_time: 17:30:00 EDT
-  end_time: 20:30:00 EDT
-  url: https://lu.ma/jy77b1m0
 
 - name: Rails Taiwan - 高雄 Rails Meetup September 2025
   location: Kaohsiung, Taiwan
@@ -7990,13 +8011,6 @@
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcnbmb
 
-- name: Ruby Usergroup Hamburg - September 2025
-  location: Hamburg, Germany
-  date: 2025-10-10
-  start_time: 19:00:00 CEST
-  end_time: 21:00:00 CEST
-  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-september-2025-1937
-
 - name: Orange County Ruby - Ruby Science October 2025
   location: Online
   date: 2025-10-13
@@ -8032,7 +8046,7 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcnbsb
 
-- name: Montreal.rb - ** Talk Topic To Be Decided*** October 2025
+- name: Montreal.rb - Announcing a New Table History Gem by Martin Giannakopoulos
   location: Montréal, Canada
   date: 2025-10-15
   start_time: 18:00:00 EDT
@@ -8121,7 +8135,7 @@
   date: 2025-10-23
   start_time: 17:30:00 AEST
   end_time: 20:30:00 AEST
-  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/zcvlstyhcnbfc
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/310724713
 
 - name: Ruby Malaysia - October 2025
   location: Online
@@ -8570,3 +8584,24 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcqbfc
+
+- name: Rails Taiwan - 高雄 Rails Meetup December 2025
+  location: Kaohsiung, Taiwan
+  date: 2025-12-24
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcqbgc
+
+- name: Orange County Ruby - Meetup December 2025
+  location: Dana Point, CA
+  date: 2025-12-25
+  start_time: 19:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/pbgwwqyhcqbhc
+
+- name: Ruby Malaysia - December 2025
+  location: Online
+  date: 2025-12-25
+  start_time: 19:00:00 +08
+  end_time: 20:00:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcqbhc
