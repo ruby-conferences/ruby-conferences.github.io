@@ -7878,13 +7878,6 @@
   end_time: 13:00:00 IST
   url: https://lu.ma/4zo2m8i2
 
-- name: Pune Ruby Meetup - September Ruby Meetup
-  location: Maharashtra 411057, India
-  date: 2025-09-20
-  start_time: 11:00:00 IST
-  end_time: 13:00:00 IST
-  url: https://lu.ma/4zo2m8i2
-
 - name: 'Auckland Ruby - Ruby Nights September: TBC'
   location: Auckland, New Zealand
   date: 2025-09-22
@@ -8633,3 +8626,10 @@
   start_time: 19:00:00 +08
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcqbhc
+
+- name: RubyJax - Open Hax December 2025
+  location: Jacksonville, FL
+  date: 2025-12-30
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtyhcqbnc
