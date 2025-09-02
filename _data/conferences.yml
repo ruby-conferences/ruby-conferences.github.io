@@ -3235,6 +3235,18 @@
   mastodon: https://ruby.social/@rubykaigi
   announced_on: 2025-04-18
 
+- name: Rubycon 2026
+  location: Rimini, Italy
+  start_date: 2026-05-08
+  end_date: 2026-05-08
+  announced_on: 2025-08-11
+  url: https://rubycon.it
+  cfp_link: https://rubycon.it/cfp
+  cfp_open_date: 2025-08-11
+  # cfp_close_date: TODO
+  twitter: rubyconitaly
+  mastodon: https://mastodon.social/@rubycon
+
 - name: Balkan Ruby 2026
   location: Sofia, Bulgaria
   start_date: 2026-05-15
@@ -3268,18 +3280,6 @@
   announced_on: 2025-08-22
   url: https://helvetic-ruby.ch
   mastodon: https://ruby.social/@helvetic_ruby
-
-- name: Rubycon 2026
-  location: Rimini, Italy
-  start_date: 2026-05-08
-  end_date: 2026-05-08
-  announced_on: 2025-08-11
-  url: https://rubycon.netlify.app/
-  cfp_link: https://rubycon.netlify.app/cfp
-  cfp_open_date: 2025-08-11
-  # cfp_close_date: TODO
-  twitter: rubycon2026
-  mastodon: https://mastodon.social/@rubycon
 
 - name: RubyConf 2026
   location: United States # TODO: update once location is confirmed
