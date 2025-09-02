@@ -3273,6 +3273,15 @@
   twitter: blastoffrails
   announced_on: 2025-07-09
 
+- name: Baltic Ruby 2026
+  location: Hamburg, Germany
+  start_date: 2026-06-12
+  end_date: 2026-06-13
+  url: https://balticruby.org
+  twitter: balticruby
+  mastodon: https://ruby.social/@balticruby
+  announced_on: 2025-09-02
+
 - name: Helvetic Ruby 2026
   location: Zürich, Switzerland
   start_date: 2026-11-19
@@ -3290,13 +3299,3 @@
   twitter: rubyconf
   date_precision: year
   mastodon: https://ruby.social/@rubyconf
-
-- name: Baltic Ruby 2026
-  location: Hamburg, Germany
-  start_date: 2026-12-31 # TODO: update once dates are confirmed
-  end_date: 2026-12-31 # TODO: update once dates are confirmed
-  date_precision: year
-  url: https://balticruby.org
-  twitter: balticruby
-  mastodon: https://ruby.social/@balticruby
-  announced_on: 2025-06-14
