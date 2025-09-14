@@ -301,6 +301,10 @@
 
 - id: krakow-ruby-users-group
   name: Krakow Ruby Users Group (KRUG)
+  service: meetupdotcom
+
+- id: krakow-ruby-users-group-2
+  name: Krakow Ruby Users Group (KRUG)
   service: luma
   ical_url: https://api2.luma.com/ics/get?entity=calendar&id=cal-EyyObsvyunM3PQP
 
