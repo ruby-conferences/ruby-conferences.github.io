@@ -3172,6 +3172,9 @@
   url: https://2025.rubyworld-conf.org/en/
   twitter: rubyworldconf
   announced_on: 2025-01-10
+  cfp_open_date: 2025-06-23
+  cfp_close_date: 2025-08-01
+  cfp_link: "https://2025.rubyworld-conf.org/en/news/2025/06/call-for-proposals/"
 
 - name: San Francisco Ruby Conference 2025
   location: San Francisco, CA
@@ -3232,6 +3235,18 @@
   mastodon: https://ruby.social/@rubykaigi
   announced_on: 2025-04-18
 
+- name: Rubycon 2026
+  location: Rimini, Italy
+  start_date: 2026-05-08
+  end_date: 2026-05-08
+  announced_on: 2025-08-11
+  url: https://rubycon.it
+  cfp_link: https://rubycon.it/cfp
+  cfp_open_date: 2025-08-11
+  # cfp_close_date: TODO
+  twitter: rubyconitaly
+  mastodon: https://mastodon.social/@rubycon
+
 - name: Balkan Ruby 2026
   location: Sofia, Bulgaria
   start_date: 2026-05-15
@@ -3246,6 +3261,9 @@
   end_date: 2026-05-30
   url: https://rubyconf.at
   announced_on: 2025-03-12
+  cfp_open_date: "2025-07-13"
+  cfp_close_date: "2025-12-01"
+  cfp_link: "https://www.papercall.io/rubyconfaustria2026"
 
 - name: Blastoff Rails 2026
   location: Albuquerque, NM
@@ -3254,15 +3272,25 @@
   url: https://blastoffrails.com
   twitter: blastoffrails
   announced_on: 2025-07-09
+  cfp_open_date: 2025-09-15
+  cfp_close_date: 2026-01-10
+  cfp_link: https://www.papercall.io/blastoff
+
+- name: Baltic Ruby 2026
+  location: Hamburg, Germany
+  start_date: 2026-06-12
+  end_date: 2026-06-13
+  url: https://balticruby.org
+  twitter: balticruby
+  mastodon: https://ruby.social/@balticruby
+  announced_on: 2025-09-02
 
 - name: Helvetic Ruby 2026
-  location: Switzerland # TODO: update once location is confirmed
-  start_date: 2026-12-31 # TODO: update once dates are confirmed
-  end_date: 2026-12-31 # TODO: update once dates are confirmed
-  announced_on: 2025-05-23
+  location: Zürich, Switzerland
+  start_date: 2026-11-19
+  end_date: 2026-11-20
+  announced_on: 2025-08-22
   url: https://helvetic-ruby.ch
-  twitter: helvetic_ruby
-  date_precision: year
   mastodon: https://ruby.social/@helvetic_ruby
 
 - name: RubyConf 2026
@@ -3274,13 +3302,3 @@
   twitter: rubyconf
   date_precision: year
   mastodon: https://ruby.social/@rubyconf
-
-- name: Baltic Ruby 2026
-  location: Hamburg, Germany
-  start_date: 2026-12-31 # TODO: update once dates are confirmed
-  end_date: 2026-12-31 # TODO: update once dates are confirmed
-  date_precision: year
-  url: https://balticruby.org
-  twitter: balticruby
-  mastodon: https://ruby.social/@balticruby
-  announced_on: 2025-06-14

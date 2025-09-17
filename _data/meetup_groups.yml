@@ -303,6 +303,11 @@
   name: Krakow Ruby Users Group (KRUG)
   service: meetupdotcom
 
+- id: krakow-ruby-users-group
+  name: Krakow Ruby Users Group (KRUG)
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-EyyObsvyunM3PQP
+
 - id: krugtvm
   name: Kerala Ruby User Group
   service: meetupdotcom
@@ -674,6 +679,8 @@
 - id: ruby-malaysia
   name: Ruby Malaysia
   service: meetupdotcom
+  remove:
+    - "We're Moving to Substack!"
 
 - id: ruby-meetup-oslo
   name: Ruby Meetup Oslo
@@ -978,6 +985,8 @@
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-L4SDawu65B1grBV
   timezone: America/Los_Angeles
+  exclude:
+    - The San Francisco Ruby Conference
 
 - id: silicon-valley-ruby
   name: Silicon Valley Ruby
