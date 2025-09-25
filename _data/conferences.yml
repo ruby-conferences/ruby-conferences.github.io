@@ -3165,6 +3165,27 @@
   cfp_close_date: 2025-06-30
   cfp_link: https://sessionize.com/rocky-mountain-ruby-2025
 
+- name: XO Ruby Portland 2025
+  location: Portland, OR
+  start_date: 2025-10-11
+  end_date: 2025-10-11
+  announced_on: 2025-08-23
+  url: https://xoruby.com/event/portland/
+
+- name: XO Ruby San Diego 2025
+  location: San Diego, CA
+  start_date: 2025-10-18
+  end_date: 2025-10-18
+  announced_on: 2025-08-23
+  url: https://xoruby.com/event/san-diego/
+
+- name: XO Ruby Austin 2025
+  location: Austin, TX
+  start_date: 2025-10-25
+  end_date: 2025-10-25
+  announced_on: 2025-08-23
+  url: https://xoruby.com/event/austin/
+
 - name: RubyWorld Conference 2025
   location: Matsue, Japan
   start_date: 2025-11-06
