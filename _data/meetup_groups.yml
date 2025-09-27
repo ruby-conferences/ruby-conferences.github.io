@@ -293,7 +293,7 @@
 
 - id: kcruby
   name: Kansas City Ruby
-  service: meetupdotcom
+  service: luma
 
 # - id: kharkiv-rb
 #   name:
