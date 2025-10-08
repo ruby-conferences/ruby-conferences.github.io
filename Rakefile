@@ -63,7 +63,8 @@ task :verify_meetups do
     "twitter",
     "mastodon",
     "video_link",
-    "status"
+    "status",
+    "service"
   ]
   data = YAML.load_file("_data/meetups.yml", permitted_classes: [Date])
   validator = DataFileValidator.validate(data, allowed_keys, :meetup)
