@@ -67,6 +67,10 @@
   name: Austin.rb
   service: meetupdotcom
 
+- id: bangalore-ruby-users-group
+  name: Bangalore Ruby Users Group
+  service: meetupdotcom
+
 - id: bengaluru-ruby-users-group
   name: Bengaluru Ruby Users Group
   service: luma
