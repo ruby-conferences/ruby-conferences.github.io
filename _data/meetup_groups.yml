@@ -313,6 +313,7 @@
   name: Krakow Ruby Users Group (KRUG)
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-EyyObsvyunM3PQP
+  timezone: Europe/Warsaw
 
 - id: krugtvm
   name: Kerala Ruby User Group
