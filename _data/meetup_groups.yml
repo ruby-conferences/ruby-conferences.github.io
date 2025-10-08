@@ -295,6 +295,12 @@
   name: Kansas City Ruby
   service: meetupdotcom
 
+- id: kcruby
+  name: Kansas City Ruby
+  service: luma
+  ical_url: https://api2.luma.com/ics/get?entity=calendar&id=cal-hlguC5XZPDfQzqv
+  timezone: America/Chicago
+
 # - id: kharkiv-rb
 #   name:
 #   service: meetupdotcom
@@ -302,6 +308,11 @@
 - id: krakow-ruby-users-group
   name: Krakow Ruby Users Group (KRUG)
   service: meetupdotcom
+
+- id: krakow-ruby-users-group
+  name: Krakow Ruby Users Group (KRUG)
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-EyyObsvyunM3PQP
 
 - id: krugtvm
   name: Kerala Ruby User Group
@@ -378,7 +389,7 @@
   name: Brno Ruby Stories
   service: meetupdotcom
 
-- id: meetup-group-xwgucjde
+- id: scotrug
   name: Scottish Ruby User Group
   service: meetupdotcom
 
@@ -392,6 +403,10 @@
 
 - id: miamirb
   name: Miami Ruby Brigade
+  service: meetupdotcom
+
+- id: modena-rb
+  name: Modena.rb
   service: meetupdotcom
 
 - id: monterrey-ruby-meetup
@@ -670,6 +685,8 @@
 - id: ruby-malaysia
   name: Ruby Malaysia
   service: meetupdotcom
+  remove:
+    - "We're Moving to Substack!"
 
 - id: ruby-meetup-oslo
   name: Ruby Meetup Oslo
@@ -815,6 +832,12 @@
   name: Ruby Buenos Aires
   service: meetupdotcom
 
+- id: rubybelgium
+  name: Ruby Belgium
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-xxSFE7F64frGUhe
+  timezone: Europe/Brussels
+
 - id: rubybrigade
   name: Helsinki Ruby Brigade
   service: meetupdotcom
@@ -832,6 +855,12 @@
   timezone: America/Sao_Paulo
   ical_url: https://rubydf.com/events.ics
   service: ical
+
+- id: rubyeurope
+  name: Ruby Europe
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-e1hbsrfKzZEFCi5
+  timezone: Europe/Berlin
 
 - id: rubyfloripa
   name: RubyFloripa
@@ -962,6 +991,8 @@
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-L4SDawu65B1grBV
   timezone: America/Los_Angeles
+  exclude:
+    - The San Francisco Ruby Conference
 
 - id: silicon-valley-ruby
   name: Silicon Valley Ruby
@@ -1102,6 +1133,8 @@
 - id: vancouver-ruby
   name: VanRuby
   service: meetupdotcom
+  exclude:
+    - Vancouver Cloud Summit
 
 - id: vienna-rb
   name: vienna.rb

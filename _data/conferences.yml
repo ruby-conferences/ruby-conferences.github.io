@@ -2950,6 +2950,14 @@
   cfp_open_date: 2024-11-19
   cfp_close_date: 2025-02-05
 
+- name: Ruby Retreat 2025
+  location: Whangaparāoa, Auckland, New Zealand
+  start_date: 2025-05-09
+  end_date: 2025-05-12
+  url: https://retreat.ruby.nz
+  twitter: RubyNewZealand
+  announced_on: 2024-10-19
+
 - name: Helvetic Ruby 2025
   location: Geneva, Switzerland
   start_date: 2025-05-22
@@ -3019,6 +3027,16 @@
   cfp_link: https://www.papercall.io/rubyconfafrica2025
   announced_on: 2025-01-15
 
+- name: PicoRuby Overflow Kaigi 2025
+  location: Osaka, Japan
+  start_date: 2025-07-19
+  end_date: 2025-07-19
+  url: https://naniwarb.github.io/picorubyoverflowkaigi/
+  announced_on: 2025-05-30
+  cfp_open_date: 2025-05-30
+  cfp_close_date: 2025-06-15
+  cfp_link: https://forms.gle/1sMef6XjYAHFiCAU8
+
 - name: RubyConf Taiwan x COSCUP 2025
   location: Taipei, Taiwan
   start_date: 2025-08-09
@@ -3057,6 +3075,16 @@
   cfp_close_date: 2025-04-10
   cfp_link: https://sessionize.com/rails-world-2025/
 
+- name: XO Ruby Chicago 2025
+  location: Chicago, IL
+  start_date: 2025-09-06
+  end_date: 2025-09-06
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/chicago/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-13
+  cfp_link: https://www.xoruby.com/speak/
+
 - name: Friendly.rb 2025
   location: Bucharest, Romania
   start_date: 2025-09-10
@@ -3070,6 +3098,27 @@
   cfp_link: https://friendlyrb.com/cfp
   status: Tickets available
 
+- name: RubyConf India 2025
+  location: Jaipur, India
+  start_date: 2025-09-12
+  end_date: 2025-09-13
+  url: https://rubyconf.in
+  twitter: rubyconfindia
+  cfp_open_date: 2025-05-22
+  cfp_close_date: 2025-07-15
+  cfp_link: https://www.papercall.io/rubyconf-india-2025
+  announced_on: 2025-05-22
+
+- name: XO Ruby Atlanta 2025
+  location: Atlanta, GA
+  start_date: 2025-09-13
+  end_date: 2025-09-13
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/atlanta/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-20
+  cfp_link: https://www.xoruby.com/speak/
+
 - name: EuRuKo 2025
   location: Viana do Castelo, Portugal
   start_date: 2025-09-18
@@ -3082,6 +3131,16 @@
   cfp_close_date: 2025-04-10
   cfp_link: https://papercall.io/euruko-2025
 
+- name: XO Ruby New Orleans 2025
+  location: New Orleans, LA
+  start_date: 2025-09-20
+  end_date: 2025-09-20
+  announced_on: 2025-07-29
+  url: https://xoruby.com/event/new-orleans/
+  cfp_open_date: 2025-07-29
+  cfp_close_date: 2025-08-27
+  cfp_link: https://www.xoruby.com/speak/
+
 - name: Kaigi on Rails 2025
   location: Tokyo, Japan
   start_date: 2025-09-26
@@ -3090,6 +3149,9 @@
   twitter: kaigionrails
   mastodon: https://ruby.social/@kaigionrails
   announced_on: 2024-10-26
+  cfp_open_date: 2025-06-01
+  cfp_close_date: 2025-06-30
+  cfp_link: https://kaigionrails.org/2025/cfp/
 
 - name: Rocky Mountain Ruby 2025
   location: Boulder, CO
@@ -3099,25 +3161,63 @@
   twitter: rmrubyconf
   mastodon: https://ruby.social/@rockymtnruby
   announced_on: 2024-10-08
+  cfp_open_date: 2025-05-30
+  cfp_close_date: 2025-06-30
+  cfp_link: https://sessionize.com/rocky-mountain-ruby-2025
+
+- name: XO Ruby Portland 2025
+  location: Portland, OR
+  start_date: 2025-10-11
+  end_date: 2025-10-11
+  announced_on: 2025-08-23
+  url: https://xoruby.com/event/portland/
+
+- name: XO Ruby San Diego 2025
+  location: San Diego, CA
+  start_date: 2025-10-18
+  end_date: 2025-10-18
+  announced_on: 2025-08-23
+  url: https://xoruby.com/event/san-diego/
+
+- name: XO Ruby Austin 2025
+  location: Austin, TX
+  start_date: 2025-10-25
+  end_date: 2025-10-25
+  announced_on: 2025-08-23
+  url: https://xoruby.com/event/austin/
 
 - name: RubyWorld Conference 2025
   location: Matsue, Japan
   start_date: 2025-11-06
   end_date: 2025-11-07
-  # TODO: url is an annoucement page, not an official page for 2025
-  url: https://2024.rubyworld-conf.org/ja/news/2025/01/rwc2025/
+  url: https://2025.rubyworld-conf.org/en/
   twitter: rubyworldconf
   announced_on: 2025-01-10
+  cfp_open_date: 2025-06-23
+  cfp_close_date: 2025-08-01
+  cfp_link: "https://2025.rubyworld-conf.org/en/news/2025/06/call-for-proposals/"
 
-- name: "#{conference} 2025"
+- name: San Francisco Ruby Conference 2025
+  location: San Francisco, CA
+  start_date: 2025-11-19
+  end_date: 2025-11-20
+  announced_on: 2025-05-29
+  url: https://sfruby.com
+  cfp_open_date: 2025-06-04
+  cfp_close_date: 2025-07-13
+  cfp_link: https://cfp.sfruby.com
+
+- name: "tiny ruby #{conf}"
   location: Helsinki, Finland
-  # TODO: update when dates are confirmed
-  start_date: 2025-11-30
-  end_date: 2025-11-30
-  date_precision: month
-  url: https://helsinkiruby.fi/conference/
+  start_date: 2025-11-21
+  end_date: 2025-11-21
+  url: https://helsinkiruby.fi/tinyruby/
   mastodon: https://ruby.social/@helsinkiruby
   announced_on: 2025-04-25
+  cfp_open_date: 2025-05-27
+  cfp_close_date: 2025-07-31
+  cfp_link: https://www.papercall.io/tinyruby
+  reg_phrase: Tickets available
 
 - name: RubyConf TH 2026
   location: Bangkok, Thailand
@@ -3126,6 +3226,17 @@
   url: https://rubyconfth.com
   twitter: rubyconfth
   announced_on: 2025-02-28
+  cfp_open_date: 2025-05-26
+  cfp_close_date: 2025-06-30
+  cfp_link: https://www.papercall.io/rubyconfth2026
+
+- name: RBQ Conf 2026
+  location: Austin, TX
+  start_date: 2026-03-31
+  end_date: 2026-03-31
+  date_precision: month
+  url: https://rbqconf.com
+  announced_on: 2025-07-17
 
 - name: Tropical on Rails 2026
   location: São Paulo, Brazil
@@ -3145,6 +3256,18 @@
   mastodon: https://ruby.social/@rubykaigi
   announced_on: 2025-04-18
 
+- name: Rubycon 2026
+  location: Rimini, Italy
+  start_date: 2026-05-08
+  end_date: 2026-05-08
+  announced_on: 2025-08-11
+  url: https://rubycon.it
+  cfp_link: https://rubycon.it/cfp
+  cfp_open_date: 2025-08-11
+  # cfp_close_date: TODO
+  twitter: rubyconitaly
+  mastodon: https://mastodon.social/@rubycon
+
 - name: Balkan Ruby 2026
   location: Sofia, Bulgaria
   start_date: 2026-05-15
@@ -3159,3 +3282,44 @@
   end_date: 2026-05-30
   url: https://rubyconf.at
   announced_on: 2025-03-12
+  cfp_open_date: "2025-07-13"
+  cfp_close_date: "2025-12-01"
+  cfp_link: "https://www.papercall.io/rubyconfaustria2026"
+
+- name: Blastoff Rails 2026
+  location: Albuquerque, NM
+  start_date: 2026-06-11
+  end_date: 2026-06-12
+  url: https://blastoffrails.com
+  twitter: blastoffrails
+  announced_on: 2025-07-09
+  cfp_open_date: 2025-09-15
+  cfp_close_date: 2026-01-10
+  cfp_link: https://www.papercall.io/blastoff
+
+- name: Baltic Ruby 2026
+  location: Hamburg, Germany
+  start_date: 2026-06-12
+  end_date: 2026-06-13
+  url: https://balticruby.org
+  twitter: balticruby
+  mastodon: https://ruby.social/@balticruby
+  announced_on: 2025-09-02
+
+- name: Helvetic Ruby 2026
+  location: Zürich, Switzerland
+  start_date: 2026-11-19
+  end_date: 2026-11-20
+  announced_on: 2025-08-22
+  url: https://helvetic-ruby.ch
+  mastodon: https://ruby.social/@helvetic_ruby
+
+- name: RubyConf 2026
+  location: United States # TODO: update once location is confirmed
+  start_date: 2026-12-31 # TODO: update once dates are confirmed
+  end_date: 2026-12-31 # TODO: update once dates are confirmed
+  announced_on: 2024-05-07
+  url: https://rubycentral.org/news/announcing-railsconf-2025-and-a-new-chapter-for-ruby-central-events
+  twitter: rubyconf
+  date_precision: year
+  mastodon: https://ruby.social/@rubyconf

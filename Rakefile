@@ -113,6 +113,16 @@ task :fetch_past_meetup, [:group_id] do |_, args|
   end
 end
 
+desc "fetch write all meetup groups"
+task :fetch_and_write_all_meetups do
+  MeetupGroup.all.each do |group|
+    MeetupsFile.read.tap do |file|
+      file.fetch!(group.id)
+      file.write!
+    end
+  end
+end
+
 desc "sort meetups"
 task :sort_meetups do
   MeetupsFile.read.tap do |file|
