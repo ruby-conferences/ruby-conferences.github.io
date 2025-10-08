@@ -156,7 +156,7 @@
   end_time: 20:30:00 PST
   url: https://www.meetup.com/sdruby/events/297372058
 
-- name: Ruby DF - Fevereiro de 2024 - Segunda edição
+- name: Ruby DF - 2ª Edição - Fevereiro de 2024
   location: Brasilia, Brazil
   date: 2024-02-03
   start_time: 10:00:00 -03
@@ -455,7 +455,7 @@
   date: 2024-03-28
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/r6d0lghm
+  url: https://luma.com/r6d0lghm
 
 - name: Ruby Montevideo - Meetup April 2024
   location: Montevideo, Uruguay
@@ -686,7 +686,7 @@
   date: 2024-05-09
   start_time: 19:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/ruby_fusion-inception
+  url: https://luma.com/ruby_fusion-inception
 
 - name: Ruby Montevideo - Meetup May 2024
   location: Montevideo, Uruguay
@@ -763,7 +763,7 @@
   date: 2024-05-16
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/sfruby-may24
+  url: https://luma.com/sfruby-may24
 
 - name: Bluegrass Ruby - May 2024
   location: Lexington, KY
@@ -784,13 +784,13 @@
   date: 2024-05-22
   start_time: 17:30:00 EDT
   end_time: 20:30:00 EDT
-  url: https://lu.ma/cbeeanbk
+  url: https://luma.com/cbeeanbk
 
 - name: Toronto Ruby - May Edition
   location: Toronto, Canada
   date: 2024-05-22
   start_time: 18:00:00 EDT
-  end_time: 20:00:00 EDT
+  end_time: 21:00:00 EDT
   url: https://radius.to/groups/toronto-ruby/events/pkgvym5ecyuc
 
 - name: ChicagoRuby - Coffee + Code @ Swadesi Cafe
@@ -806,6 +806,13 @@
   start_time: 18:00:00 MST
   end_time: 20:00:00 MST
   url: https://www.meetup.com/ruby-az/events/300938990
+
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #1 / 2024'
+  location: Online
+  date: 2024-05-28
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/krug
 
 - name: 'Krakow Ruby Users Group - KRUG #1 2024'
   location: Krakow, Poland
@@ -889,7 +896,7 @@
   date: 2024-06-04
   start_time: 18:00:00 EDT
   end_time: 19:30:00 EDT
-  url: https://lu.ma/j9qbs1ov
+  url: https://luma.com/j9qbs1ov
 
 - name: Paris.rb - Meetup June 2024
   location: Paris, France
@@ -910,7 +917,7 @@
   date: 2024-06-06
   start_time: 18:30:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/evt-gZUrAREsvN62jAm
+  url: https://luma.com/evt-gZUrAREsvN62jAm
 
 - name: Ruby Montevideo - Meetup June 2024
   location: Montevideo, Uruguay
@@ -1001,7 +1008,7 @@
   date: 2024-06-13
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/sfruby-june24
+  url: https://luma.com/sfruby-june24
 
 - name: Ruby Frankfurt Meetup - Summer Edition - June 2024
   location: Frankfurt, Germany
@@ -1015,7 +1022,7 @@
   date: 2024-06-20
   start_time: 18:00:00 EDT
   end_time: 19:30:00 EDT
-  url: https://lu.ma/p53lc1vp
+  url: https://luma.com/p53lc1vp
 
 - name: North West Ruby User Group - RubyConf 2023 - Re-interpreting Data by Murray
     Steele
@@ -1043,7 +1050,7 @@
   location: Toronto, Canada
   date: 2024-06-20
   start_time: 18:00:00 EDT
-  end_time: 20:00:00 EDT
+  end_time: 21:00:00 EDT
   url: https://radius.to/groups/toronto-ruby/events/s1tczn2usqf5
 
 - name: ChicagoRuby - Madison+ Ruby + Chicago @ Chime
@@ -1143,7 +1150,14 @@
   date: 2024-07-09
   start_time: '09:30:00 EDT'
   end_time: 11:00:00 EDT
-  url: https://lu.ma/4bliqbqr
+  url: https://luma.com/4bliqbqr
+
+- name: Madison+ Ruby - + NYC @ Cisco Meraki
+  location: New York, NY
+  date: 2024-07-09
+  start_time: 07:30:00 CDT
+  end_time: '09:00:00 CDT'
+  url: https://luma.com/4bliqbqr
 
 - name: Philly.rb - Pubnite July 2024
   location: Online
@@ -1185,7 +1199,7 @@
   date: 2024-07-11
   start_time: 18:30:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/oyzfeg7u
+  url: https://luma.com/oyzfeg7u
 
 - name: 'Ruby Romania Meetup #05'
   location: Bucharest, Romania
@@ -1241,7 +1255,7 @@
   date: 2024-07-18
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/bxzdp6mz
+  url: https://luma.com/bxzdp6mz
 
 - name: Ruby on Rails Switzerland - 20 Years of Rails
   location: Zurich, Switzerland
@@ -1255,7 +1269,7 @@
   date: 2024-07-24
   start_time: 17:30:00 EDT
   end_time: 19:30:00 EDT
-  url: https://lu.ma/ntmonn8p
+  url: https://luma.com/ntmonn8p
 
 - name: Austin.rb - Ruby Social (Morning)
   location: Austin, TX
@@ -1264,7 +1278,7 @@
   end_time: 10:00:00 CDT
   url: https://www.meetup.com/austinrb/events/300257002
 
-- name: Ruby DF - Julho de 2024 - Terceira edição
+- name: Ruby DF - 3ª Edição - Julho de 2024
   location: Brasilia, Brazil
   date: 2024-07-27
   start_time: '09:30:00 -03'
@@ -1298,6 +1312,13 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/bostonrb/events/301905492
+
+- name: Boston Ruby Group - Project Night August 2024
+  location: Boston, MA
+  date: 2024-08-05
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://luma.com/69yog413
 
 - name: Bluegrass Ruby - August 2024
   location: Lexington, KY
@@ -1339,7 +1360,7 @@
   date: 2024-08-13
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/i3r2svfm
+  url: https://luma.com/i3r2svfm
 
 - name: Philly.rb - Pubnite August 2024
   location: Online
@@ -1374,7 +1395,7 @@
   date: 2024-08-14
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/16ykggyu
+  url: https://luma.com/16ykggyu
 
 - name: Ruby Usergroup Hamburg - August 2024
   location: Hamburg, Germany
@@ -1543,7 +1564,7 @@
   date: 2024-09-03
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/qfyzbfkk
+  url: https://luma.com/qfyzbfkk
 
 - name: Montreal.rb - Ruby GUI Desktop Development Hands-On Tutorial
   location: Montréal, Canada
@@ -1599,7 +1620,7 @@
   date: 2024-09-09
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/af2n3jwa
+  url: https://luma.com/af2n3jwa
 
 - name: London Ruby User Group - September 2024 Meeting
   location: London, UK
@@ -1664,7 +1685,7 @@
   date: 2024-09-11
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/yithw455
+  url: https://luma.com/yithw455
 
 - name: Copenhagen Ruby Brigade - Ruby Brigade at PROSA
   location: Copenhagen, Denmark
@@ -1756,7 +1777,7 @@
   date: 2024-09-17
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/sbesulha
+  url: https://luma.com/sbesulha
 
 - name: Frankfurt Ruby Meetup - Ruby Frankfurt Meetup - September 2024 - Database
     MasKING
@@ -1765,6 +1786,13 @@
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/frankfurt-ruby-meetup/events/302960601
+
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #2 / 2024 powered by community'
+  location: Online
+  date: 2024-09-17
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/krug
 
 - name: 'Krakow Ruby Users Group (KRUG) - KRUG #2 / 2024 powered by community :)'
   location: Kraków, Poland
@@ -1976,7 +2004,7 @@
   date: 2024-09-26
   start_time: 19:00:00 EDT
   end_time: 23:00:00 EDT
-  url: https://lu.ma/rq2pgkxk
+  url: https://luma.com/rq2pgkxk
 
 - name: "Nantes.rb - \U0001F680 C'est la rentrée pour les fans de Ruby ! \U0001F680"
   location: Nantes, France
@@ -2116,7 +2144,7 @@
   date: 2024-10-07
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/5wyckv9i
+  url: https://luma.com/5wyckv9i
 
 - name: Austin.rb - Building Games with Ruby, a Cross-Platform Adventure
   location: Austin, TX
@@ -2152,7 +2180,7 @@
   date: 2024-10-08
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/ufk7pghd
+  url: https://luma.com/ufk7pghd
 
 - name: Ruby Banitsa - Authentication Scheming with Hristo Vladev
   location: Sofia, Bulgaria
@@ -2236,7 +2264,7 @@
   date: 2024-10-10
   start_time: 17:30:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/jfpfmh19
+  url: https://luma.com/jfpfmh19
 
 - name: Slovenia Ruby User Group - Autumn Ruby meetup
   location: Ljubljana, Slovenia
@@ -2271,7 +2299,7 @@
   date: 2024-10-15
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/0gm8qrp5
+  url: https://luma.com/0gm8qrp5
 
 - name: RubyJax - Open Hax October 2024
   location: Jacksonville, FL
@@ -2299,7 +2327,7 @@
   date: 2024-10-16
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/57vrruyr
+  url: https://luma.com/57vrruyr
 
 - name: Geneva.rb - Developer Tooling for the Modern Rails & Hotwire era (Marco Roth)
   location: Genève, Switzerland
@@ -2434,6 +2462,13 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/miamirb/events/303719541
 
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #3 / 2024'
+  location: Online
+  date: 2024-10-22
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/krug
+
 - name: 'Krakow Ruby Users Group (KRUG) - KRUG #3 / 2024 powered by Maxio'
   location: Kraków, Poland
   date: 2024-10-22
@@ -2507,9 +2542,9 @@
 - name: Toronto Ruby - October 2024 Edition
   location: Toronto, Canada
   date: 2024-10-24
-  start_time: 22:00:00 EDT
-  end_time: 01:00:00 EDT
-  url: https://lu.ma/tjqs6iky
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://luma.com/tjqs6iky
 
 - name: Nantes.rb - Ruby talk
   location: Nantes, France
@@ -2603,7 +2638,7 @@
   date: 2024-11-04
   start_time: 18:00:00 EST
   end_time: 20:00:00 EST
-  url: https://lu.ma/zs5he82r
+  url: https://luma.com/zs5he82r
 
 - name: 'Barcelona.rb - meetup #November'
   location: Barcelona, Spain
@@ -2700,15 +2735,15 @@
 - name: Madrid.rb - Ruby Europe - Madrid
   location: Madrid, Spain
   date: 2024-11-07
-  start_time: 18:30:00 CET
-  end_time: 20:30:00 CET
+  start_time: 18:30:00 CEST
+  end_time: 20:30:00 CEST
   url: https://www.madridrb.com/events/ruby-europe-madrid-1046
 
 - name: Ruby User Group Berlin - November Meetup 2024
   location: Berlin, Germany
   date: 2024-11-07
-  start_time: 19:00:00 CET
-  end_time: 21:00:00 CET
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
   url: https://www.rug-b.de/events/november-meetup-2024-947
 
 - name: SD Ruby - Monthly Meetup November 2024
@@ -2836,7 +2871,7 @@
   date: 2024-11-13
   start_time: 18:30:00 +08
   end_time: 20:30:00 +08
-  url: https://lu.ma/29fzctx5
+  url: https://luma.com/29fzctx5
 
 - name: Rzeszow Ruby User Group - RRUG#41 Functional Programming. Flaky tests.
   location: Rzeszów, Poland
@@ -2930,7 +2965,7 @@
   date: 2024-11-19
   start_time: 17:00:00 PST
   end_time: 21:00:00 PST
-  url: https://lu.ma/f4pfsigc
+  url: https://luma.com/f4pfsigc
 
 - name: South West Ruby - informal meetup
   location: Bristol , UK
@@ -3014,7 +3049,7 @@
   date: 2024-11-25
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
-  url: https://lu.ma/xbuggh8i
+  url: https://luma.com/xbuggh8i
 
 - name: 'Bangkok.rb - Ruby Tuesday #59'
   location: เขตวัฒนา, Thailand
@@ -3091,7 +3126,7 @@
   date: 2024-11-27
   start_time: 17:30:00 CET
   end_time: 21:00:00 CET
-  url: https://lu.ma/56s5dtmn
+  url: https://luma.com/56s5dtmn
 
 - name: Cologne.rb - November 2024 Meetup (Weihnachtsedition inkl Glühwein)
   location: Köln, Germany
@@ -3128,6 +3163,13 @@
   start_time: 18:00:00 PST
   end_time: 20:00:00 PST
   url: https://www.meetup.com/ruby-phil/events/304521596
+
+- name: Poznań Ruby User Group - PoznańRubyUserGroup November 2024
+  location: 60-810 Poznań, Poland
+  date: 2024-11-28
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://luma.com/ozz5sd6d
 
 - name: African Ruby Community - Topic:Generative AI Foundations
   location: Nairobi, Kenya
@@ -3205,7 +3247,7 @@
   date: 2024-12-03
   start_time: 17:00:00 PST
   end_time: 21:00:00 PST
-  url: https://lu.ma/q7fwrtj2
+  url: https://luma.com/q7fwrtj2
 
 - name: Seattle.rb - December 2024
   location: Seattle, WA
@@ -3240,7 +3282,7 @@
   date: 2024-12-04
   start_time: 18:30:00 +08
   end_time: 20:30:00 +08
-  url: https://lu.ma/w1umr3hv
+  url: https://luma.com/w1umr3hv
 
 - name: SD Ruby - Monthly Meetup
   location: San Diego, CA
@@ -3346,7 +3388,7 @@
   date: 2024-12-11
   start_time: 18:00:00 MST
   end_time: 20:30:00 MST
-  url: https://lu.ma/y1c2jita
+  url: https://luma.com/y1c2jita
 
 - name: Brighton Ruby Group - Silicon Brighton Big Festive Meetup
   location: Hove, UK
@@ -3717,7 +3759,7 @@
   date: 2025-01-08
   start_time: 18:00:00 MST
   end_time: 20:30:00 MST
-  url: https://lu.ma/vyiivomc
+  url: https://luma.com/vyiivomc
 
 - name: ChicagoRuby - New Year. New Ruby. New Rails. Welcome Ruby 3.4 + Rails 8!
   location: Chicago, IL
@@ -3888,7 +3930,7 @@
   date: 2025-01-16
   start_time: 17:00:00 PST
   end_time: 21:00:00 PST
-  url: https://lu.ma/goujxu3a
+  url: https://luma.com/goujxu3a
 
 - name: 'Dolnośląska Grupa Użytkowników Ruby - DRUG #137 Styczeń 2025'
   location: Wrocław, Poland
@@ -4028,7 +4070,7 @@
   date: 2025-01-28
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
-  url: https://lu.ma/k8pr7rws
+  url: https://luma.com/k8pr7rws
 
 - name: WNB.rb - January 2025 Meetup (Staff Engineering Panel)
   location: Online
@@ -4093,14 +4135,14 @@
   date: 2025-02-01
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
-  url: https://lu.ma/2yob77sl
+  url: https://luma.com/2yob77sl
 
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
   date: 2025-02-03
   start_time: 18:00:00 EST
   end_time: 20:00:00 EST
-  url: https://lu.ma/s15w0aq1
+  url: https://luma.com/s15w0aq1
 
 - name: Orange County Ruby - Ruby Science February 2025
   location: Online
@@ -4156,7 +4198,7 @@
   date: 2025-02-05
   start_time: 17:30:00 EST
   end_time: 20:00:00 EST
-  url: https://lu.ma/p9pugbxf
+  url: https://luma.com/p9pugbxf
 
 - name: Valencia.rb - Fido, Ruby, and OpenSSL – When Payments Randomly Fail
   location: Valencia, Spain
@@ -4219,7 +4261,7 @@
   date: 2025-02-11
   start_time: 18:00:00 EET
   end_time: 20:00:00 EET
-  url: https://lu.ma/5oqjsofh
+  url: https://luma.com/5oqjsofh
 
 - name: Philly.rb - Pubnite February 2025
   location: Online
@@ -4247,7 +4289,7 @@
   date: 2025-02-11
   start_time: 17:00:00 PST
   end_time: 21:00:00 PST
-  url: https://lu.ma/hoou421h
+  url: https://luma.com/hoou421h
 
 - name: VanRuby - Flipping LaunchDarkly
   location: Vancouver, Canada
@@ -4268,7 +4310,7 @@
   date: 2025-02-12
   start_time: 18:00:00 MST
   end_time: 21:00:00 MST
-  url: https://lu.ma/e37ect5e
+  url: https://luma.com/e37ect5e
 
 - name: Indianapolis Ruby Brigade - Monthly Meetup February 2025
   location: Indianapolis, IN
@@ -4567,7 +4609,7 @@
   date: 2025-02-27
   start_time: 18:00:00 EST
   end_time: 21:00:00 EST
-  url: https://lu.ma/zk25jrny
+  url: https://luma.com/zk25jrny
 
 - name: Ruby DF - 5ª Edição - Refatoração de Carnaval
   location: Brasilia, Brazil
@@ -4588,7 +4630,7 @@
   date: 2025-03-04
   start_time: 17:30:00 EST
   end_time: 20:00:00 EST
-  url: https://lu.ma/9b2goru4
+  url: https://luma.com/9b2goru4
 
 - name: Charlotte Ruby - Ruby Hack Night March 2025
   location: Online
@@ -4714,7 +4756,7 @@
   date: 2025-03-11
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/51fojxen
+  url: https://luma.com/51fojxen
 
 - name: Philly.rb - Pubnite March 2025
   location: Online
@@ -4749,7 +4791,7 @@
   date: 2025-03-12
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/mt89dmv3
+  url: https://luma.com/mt89dmv3
 
 - name: Copenhagen Ruby Brigade - Ruby Brigade at THE NEW Zendesk Office (Islands
     Brygge)
@@ -4947,7 +4989,7 @@
   date: 2025-03-20
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/npghoigs
+  url: https://luma.com/npghoigs
 
 - name: Slovenia Ruby User Group - Ruby User Group Slovenia is joining Meetup Of Meetups
     (MoM)
@@ -4962,7 +5004,7 @@
   date: 2025-03-20
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://lu.ma/2u8h0p9x
+  url: https://luma.com/2u8h0p9x
 
 - name: African Ruby Community - Kampala Chapter Mini workshop March 2025
   location: Online
@@ -4976,7 +5018,7 @@
   date: 2025-03-22
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
-  url: https://lu.ma/9rabcph9
+  url: https://luma.com/9rabcph9
 
 - name: Ruby On Rails Belo Horizonte - 3º Encontro Trem on Rails
   location: Belo Horizonte, Brazil
@@ -5118,7 +5160,7 @@
   date: 2025-03-27
   start_time: 18:00:00 CET
   end_time: 21:00:00 CET
-  url: https://lu.ma/u6nh8vx6
+  url: https://luma.com/u6nh8vx6
 
 - name: STLRuby - "Developing with AI" Show and Tell
   location: Clayton, MO
@@ -5132,7 +5174,7 @@
   date: 2025-03-27
   start_time: 17:30:00 CET
   end_time: 21:00:00 CET
-  url: https://lu.ma/1g14ow05
+  url: https://luma.com/1g14ow05
 
 - name: Orange County Ruby - Ruby Science March 2025
   location: Online
@@ -5225,7 +5267,7 @@
   date: 2025-04-03
   start_time: 18:15:00 EET
   end_time: 21:15:00 EET
-  url: https://lu.ma/939q9twh
+  url: https://luma.com/939q9twh
 
 - name: SD Ruby - Monthly Meetup
   location: San Diego, CA
@@ -5289,7 +5331,7 @@
   date: 2025-04-09
   start_time: 18:00:00 EDT
   end_time: 20:30:00 EDT
-  url: https://lu.ma/51iv0zzl
+  url: https://luma.com/51iv0zzl
 
 - name: Atlanta Ruby - Rails on WASM or Portfolio on a Budget with Thomas Breland
     - ATLRUG Virtual
@@ -5304,7 +5346,7 @@
   date: 2025-04-09
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/wfy2z8pq
+  url: https://luma.com/wfy2z8pq
 
 - name: 'Geneva.rb - D. Delallée: How to release in production 5 times a day while
     enjoying the apero'
@@ -5509,7 +5551,7 @@
   date: 2025-04-23
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/9uabe94u
+  url: https://luma.com/9uabe94u
 
 - name: Winnipeg Ruby User Group - Escaping Platform as a Service with Kamal
   location: Winnipeg, Canada
@@ -5608,7 +5650,7 @@
   date: 2025-04-29
   start_time: 17:30:00 EDT
   end_time: 20:30:00 EDT
-  url: https://lu.ma/eyfg1u2m
+  url: https://luma.com/eyfg1u2m
 
 - name: Philippine Ruby Users Group - PhRUG - Virtual Insanity!
   location: Online
@@ -5678,7 +5720,7 @@
   date: 2025-05-07
   start_time: 18:00:00 EDT
   end_time: 20:30:00 EDT
-  url: https://lu.ma/crm6e9sy
+  url: https://luma.com/crm6e9sy
 
 - name: ChicagoRuby - Chicago Ruby @ Avant
   location: Chicago, IL
@@ -5769,7 +5811,7 @@
   date: 2025-05-13
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/uy2s804c
+  url: https://luma.com/uy2s804c
 
 - name: Ottawa Ruby - Spring Refresh
   location: Ottawa, Canada
@@ -5811,7 +5853,7 @@
   date: 2025-05-14
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/e547ts3y
+  url: https://luma.com/e547ts3y
 
 - name: Geneva.rb - Share your best tip!
   location: Genève, Switzerland
@@ -5860,7 +5902,7 @@
   date: 2025-05-15
   start_time: 18:00:00 EEST
   end_time: 21:00:00 EEST
-  url: https://lu.ma/e34lm6hq
+  url: https://luma.com/e34lm6hq
 
 - name: North West Ruby User Group - Rails AntiPatterns Revisited
   location: Manchester, UK
@@ -5974,7 +6016,7 @@
   date: 2025-05-21
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/9f6l9pn2
+  url: https://luma.com/9f6l9pn2
 
 - name: Utah Ruby Users Group - Utah Valley URUG
   location: Lehi, UT
@@ -6016,7 +6058,7 @@
   date: 2025-05-22
   start_time: 18:00:00 CEST
   end_time: 20:00:00 CEST
-  url: https://lu.ma/iiuld7lr
+  url: https://luma.com/iiuld7lr
 
 - name: Ruby Ireland - Resilient Systems Start with the Human Stack
   location: Dublin, Ireland
@@ -6044,7 +6086,7 @@
   date: 2025-05-24
   start_time: 10:30:00 IST
   end_time: 13:30:00 IST
-  url: https://lu.ma/05duzyj9
+  url: https://luma.com/05duzyj9
 
 - name: Orange County Ruby - Ruby Science May 2025
   location: Online
@@ -6086,7 +6128,7 @@
   date: 2025-05-27
   start_time: 17:30:00 EDT
   end_time: 20:30:00 EDT
-  url: https://lu.ma/i00pdbmp
+  url: https://luma.com/i00pdbmp
 
 - name: Philippine Ruby Users Group - PhRUG - Harvest Time!
   location: Quezon City, Philippines
@@ -6145,7 +6187,7 @@
   date: 2025-05-31
   start_time: 10:30:00 IST
   end_time: 13:30:00 IST
-  url: https://lu.ma/05duzyj9
+  url: https://luma.com/05duzyj9
 
 - name: 'Bluegrass Ruby - June 2025: Rails 2 and Phoenix LiveView'
   location: Lexington, KY
@@ -6215,7 +6257,7 @@
   date: 2025-06-04
   start_time: 17:00:00 PDT
   end_time: 21:00:00 PDT
-  url: https://lu.ma/doa9bu64
+  url: https://luma.com/doa9bu64
 
 - name: Cologne.rb - Juni 2025 Meetup bei Placetel
   location: Köln, Germany
@@ -6278,7 +6320,7 @@
   date: 2025-06-10
   start_time: 18:00:00 BST
   end_time: 21:00:00 BST
-  url: https://lu.ma/nfivv402
+  url: https://luma.com/nfivv402
 
 - name: 'BelfastRuby - Belfast Ruby: Marco Roth & John Gallagher'
   location: Belfast, UK
@@ -6292,7 +6334,7 @@
   date: 2025-06-10
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/jyhr0dvs
+  url: https://luma.com/jyhr0dvs
 
 - name: Philly.rb - Pubnite June 2025
   location: Online
@@ -6342,7 +6384,7 @@
   date: 2025-06-11
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/bm1073gf
+  url: https://luma.com/bm1073gf
 
 - name: Copenhagen Ruby Brigade - Social night at Skaal
   location: Copenhagen, Denmark
@@ -6448,7 +6490,7 @@
   date: 2025-06-17
   start_time: 19:00:00 CEST
   end_time: 23:00:00 CEST
-  url: https://lu.ma/kzqf2xyz
+  url: https://luma.com/kzqf2xyz
 
 - name: RubyJax - Open Hax June 2025
   location: Jacksonville, FL
@@ -6462,7 +6504,7 @@
   date: 2025-06-17
   start_time: 18:00:00 EDT
   end_time: 21:00:00 EDT
-  url: https://lu.ma/w1b342xg
+  url: https://luma.com/w1b342xg
 
 - name: Toulouse.rb - Conf & Apéro - Juin
   location: Toulouse, France
@@ -6519,7 +6561,7 @@
   date: 2025-06-18
   start_time: 17:00:00 PDT
   end_time: 20:00:00 PDT
-  url: https://lu.ma/rzyjxo93
+  url: https://luma.com/rzyjxo93
 
 - name: Utah Ruby Users Group - Utah Valley URUG
   location: Lehi, UT
@@ -6583,7 +6625,7 @@
   date: 2025-06-24
   start_time: 18:00:00 CEST
   end_time: 22:00:00 CEST
-  url: https://lu.ma/286b35qd
+  url: https://luma.com/286b35qd
 
 - name: 'Ruby User Group Berlin - Special Ruby Europe: Ruby + AI meetup'
   location: Berlin, Germany
@@ -6688,7 +6730,7 @@
   date: 2025-07-01
   start_time: 18:00:00 CEST
   end_time: 22:00:00 CEST
-  url: https://lu.ma/g8adodhj
+  url: https://luma.com/g8adodhj
 
 - name: 'Ruby Malaysia - Ruby Tuesdays KL #113: Casual Meetup'
   location: Petaling Jaya, Malaysia
@@ -6737,7 +6779,7 @@
   date: 2025-07-02
   start_time: 18:30:00 +08
   end_time: 20:30:00 +08
-  url: https://lu.ma/gdzrmak0
+  url: https://luma.com/gdzrmak0
 
 - name: Amsterdam.rb - July Amsterdam Ruby meetup
   location: Amsterdam, Netherlands
@@ -6898,7 +6940,7 @@
   date: 2025-07-16
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/ndr3imn9
+  url: https://luma.com/ndr3imn9
 
 - name: Montreal.rb - JSON Response Strategies for Rails APls
   location: Montréal, Canada
@@ -6961,7 +7003,7 @@
   date: 2025-07-19
   start_time: 10:00:00 PDT
   end_time: 17:00:00 PDT
-  url: https://lu.ma/znhcct7v
+  url: https://luma.com/znhcct7v
 
 - name: The San Francisco Ruby - SF Ruby AI Hackathon
   location: San Francisco, CA
@@ -7025,7 +7067,7 @@
   date: 2025-07-22
   start_time: 17:00:00 PDT
   end_time: 20:30:00 PDT
-  url: https://lu.ma/8jcbnfls
+  url: https://luma.com/8jcbnfls
 
 - name: Rails Taiwan - 高雄 Rails Meetup July 2025
   location: Kaohsiung, Taiwan
@@ -7053,7 +7095,7 @@
   date: 2025-07-24
   start_time: 17:30:00 EDT
   end_time: 20:30:00 EDT
-  url: https://lu.ma/km1571iq
+  url: https://luma.com/km1571iq
 
 - name: Philippine Ruby Users Group - PhRUG - Kickin it Lo-Fi
   location: Manila, Philippines
@@ -7116,7 +7158,7 @@
   date: 2025-08-02
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
-  url: https://lu.ma/ftfdakox
+  url: https://luma.com/ftfdakox
 
 - name: Orange County Ruby - Ruby Science August 2025
   location: Online
@@ -7215,7 +7257,7 @@
   date: 2025-08-12
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/lxflyzae
+  url: https://luma.com/lxflyzae
 
 - name: Philly.rb - Pubnite August 2025
   location: Online
@@ -7250,7 +7292,7 @@
   date: 2025-08-13
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/wknbqe8c
+  url: https://luma.com/wknbqe8c
 
 - name: Indianapolis Ruby Brigade - Monthly Meetup August 2025
   location: Indianapolis, IN
@@ -7504,7 +7546,7 @@
   date: 2025-08-26
   start_time: 17:00:00 PDT
   end_time: 20:30:00 PDT
-  url: https://lu.ma/k2l9089u
+  url: https://luma.com/k2l9089u
 
 - name: Rails Taiwan - 高雄 Rails Meetup August 2025
   location: Kaohsiung, Taiwan
@@ -7560,7 +7602,7 @@
   date: 2025-09-02
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
-  url: https://lu.ma/o71llz38
+  url: https://luma.com/o71llz38
 
 - name: Charlotte Ruby - Ruby Hack Night September 2025
   location: Online
@@ -7651,7 +7693,7 @@
   date: 2025-09-06
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
-  url: https://lu.ma/4zo2m8i2
+  url: https://luma.com/4zo2m8i2
 
 - name: Austin.rb - Declarative Programming at Enterprise Scale
   location: Austin, TX
@@ -7707,7 +7749,7 @@
   date: 2025-09-10
   start_time: 18:00:00 BST
   end_time: 21:00:00 BST
-  url: https://lu.ma/ppyuhvwz
+  url: https://luma.com/ppyuhvwz
 
 - name: BelfastRuby - x PyBelfast at TeamFeePay
   location: Belfast, UK
@@ -7721,7 +7763,7 @@
   date: 2025-09-10
   start_time: 18:00:00 MDT
   end_time: 20:30:00 MDT
-  url: https://lu.ma/ue3fso8b
+  url: https://luma.com/puayjyi5
 
 - name: ChicagoRuby - @ Beyond Finance
   location: Chicago, IL
@@ -7792,7 +7834,7 @@
   date: 2025-09-13
   start_time: 10:00:00 EDT
   end_time: 13:30:00 EDT
-  url: https://lu.ma/66txruyw
+  url: https://luma.com/66txruyw
 
 - name: Columbus Ruby Brigade - Monthly Meetup September 2025
   location: Columbus, OH
@@ -7800,6 +7842,13 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/310048985
+
+- name: London Ruby User Group - September 2025 Meeting
+  location: London, UK
+  date: 2025-09-15
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2025/september
 
 - name: Miami Ruby Brigade - September 2025
   location: Coral Gables, FL
@@ -7850,6 +7899,13 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/310416848
 
+- name: 'Pune Ruby Meetup - Meet the JRuby Guy: A Fireside Chat with Charles Nutter'
+  location: Maharashtra 411045, India
+  date: 2025-09-17
+  start_time: 16:00:00 IST
+  end_time: 18:00:00 IST
+  url: https://luma.com/hmkvncub
+
 - name: Rails Taiwan - 高雄 Rails Meetup September 2025
   location: Kaohsiung, Taiwan
   date: 2025-09-17
@@ -7864,6 +7920,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/310532084
 
+- name: North West Ruby User Group - Turbocharged Native Development
+  location: Manchester, UK
+  date: 2025-09-18
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/september-2025-turbocharged-native-development
+
 - name: Ruby Malaysia - September 2025
   location: Online
   date: 2025-09-18
@@ -7876,7 +7939,7 @@
   date: 2025-09-20
   start_time: 11:00:00 IST
   end_time: 13:00:00 IST
-  url: https://lu.ma/4zo2m8i2
+  url: https://luma.com/4zo2m8i2
 
 - name: 'Auckland Ruby - Ruby Nights September: TBC'
   location: Auckland, New Zealand
@@ -7904,7 +7967,7 @@
   date: 2025-09-23
   start_time: 17:30:00 EDT
   end_time: 20:30:00 EDT
-  url: https://lu.ma/jy77b1m0
+  url: https://luma.com/jy77b1m0
 
 - name: Rails Taiwan - 高雄 Rails Meetup September 2025
   location: Kaohsiung, Taiwan
@@ -7948,12 +8011,26 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/310641484
 
+- name: Kansas City Ruby - Jekyll Primer
+  location: Shawnee, KS
+  date: 2025-09-30
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://luma.com/trahi0q1
+
 - name: RubyJax - Open Hax September 2025
   location: Jacksonville, FL
   date: 2025-09-30
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcmbnc
+
+- name: SF Bay Area Ruby - SF Ruby Meetup, September @ Binti
+  location: San Francisco, CA
+  date: 2025-09-30
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://luma.com/jsxmbf03
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby October 2025
   location: Prague, Czechia
