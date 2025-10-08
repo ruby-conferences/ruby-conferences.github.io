@@ -7,6 +7,14 @@
   end_time: 21:00:00 PDT
   url: https://seattlerb.org/?event_id=1
 
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #3 / 2023 powered by Zendesk'
+  location: Online
+  date: 2023-11-14
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/krug
+  service: luma
+
 - name: Toronto Ruby - Inaugural Edition
   location: Toronto, Canada
   date: 2023-11-23
@@ -2929,8 +2937,8 @@
 - name: Boston Ruby Group - November 2024 meeting
   location: Boston, MA
   date: 2024-11-04
-  start_time: 18:00:00 EST
-  end_time: 20:00:00 EST
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
   url: https://luma.com/zs5he82r
   service: luma
 
@@ -3297,8 +3305,8 @@
 - name: SF Bay Area Ruby - Meetup in November @ Academia.edu
   location: San Francisco, CA
   date: 2024-11-19
-  start_time: 17:00:00 PST
-  end_time: 21:00:00 PST
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
   url: https://luma.com/f4pfsigc
   service: luma
 
@@ -3477,8 +3485,8 @@
 - name: Stockholm Ruby - Winterish Ruby Meetup
   location: 111 57 Stockholm, Sweden
   date: 2024-11-27
-  start_time: 17:30:00 CET
-  end_time: 21:00:00 CET
+  start_time: 17:30:00 CEST
+  end_time: 21:00:00 CEST
   url: https://luma.com/56s5dtmn
   service: luma
 
@@ -3611,11 +3619,12 @@
   url: https://www.meetup.com/rubyjax/events/304552199
   service: meetup
 
-- name: 'SF Bay Area Ruby - SF Ruby presents: Ruby & AI Meetup in December @ Sentry'
+- name: "SF Bay Area Ruby - SF Ruby presents: Ruby&AI, December \U0001F385 edition
+    @ Sentry"
   location: San Francisco, CA
   date: 2024-12-03
-  start_time: 17:00:00 PST
-  end_time: 21:00:00 PST
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
   url: https://luma.com/q7fwrtj2
   service: luma
 
@@ -3690,6 +3699,14 @@
   url: https://www.meetup.com/rubywellington/events/304606895
   service: meetup
 
+- name: SF Bay Area Ruby - East Bay Ruby Holiday Happy Hour
+  location: Oakland, CA
+  date: 2024-12-06
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://luma.com/wob1tny2
+  service: luma
+
 - name: London Ruby User Group - December 2024 Meeting
   location: London, UK
   date: 2024-12-09
@@ -3729,6 +3746,14 @@
   end_time: 22:00:00 CET
   url: https://www.meetup.com/krakow-ruby-users-group/events/304882542
   service: meetup
+
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #4 / 2024 powered by Zendesk'
+  location: Online
+  date: 2024-12-10
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/krug
+  service: luma
 
 - name: Philly.rb - Pubnite December 2024
   location: Online
@@ -3773,8 +3798,8 @@
 - name: Boulder Ruby - December 2024 Presentation Night
   location: Boulder, CO
   date: 2024-12-11
-  start_time: 18:00:00 MST
-  end_time: 20:30:00 MST
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
   url: https://luma.com/y1c2jita
   service: luma
 
@@ -3924,6 +3949,14 @@
   end_time: 21:00:00 EST
   url: https://www.meetup.com/miamirb/events/304785659
   service: meetup
+
+- name: Latvian Ruby Community - Ruby community meetup – December 2024
+  location: LV-1039, Latvia
+  date: 2024-12-17
+  start_time: 17:00:00 EEST
+  end_time: 20:30:00 EEST
+  url: https://luma.com/lzhx6jnz
+  service: luma
 
 - name: Nantes.rb - Ruby au Melting Potes!
   location: Nantes, France
@@ -4191,8 +4224,8 @@
 - name: Boulder Ruby - Jan 2025 Presentation Night
   location: Boulder, CO
   date: 2025-01-08
-  start_time: 18:00:00 MST
-  end_time: 20:30:00 MST
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
   url: https://luma.com/vyiivomc
   service: luma
 
@@ -4383,8 +4416,8 @@
 - name: SF Bay Area Ruby - SF Ruby January Meetup @ Productboard
   location: San Francisco, CA
   date: 2025-01-16
-  start_time: 17:00:00 PST
-  end_time: 21:00:00 PST
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
   url: https://luma.com/goujxu3a
   service: luma
 
@@ -4618,11 +4651,11 @@
   url: https://luma.com/2yob77sl
   service: luma
 
-- name: Boston Ruby Group - Project Night
+- name: Boston Ruby Group - Project Night February 2025
   location: Boston, MA
   date: 2025-02-03
-  start_time: 18:00:00 EST
-  end_time: 20:00:00 EST
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
   url: https://luma.com/s15w0aq1
   service: luma
 
@@ -4752,11 +4785,19 @@
   url: https://www.meetup.com/barcelona-rb/events/305879212
   service: meetup
 
-- name: Latvian Ruby Community - Ruby Community Meetup – February 2025
-  location: Riga, Latvia
+- name: Boston Ruby Group - February 2025 meeting
+  location: Boston, MA
   date: 2025-02-11
-  start_time: 18:00:00 EET
-  end_time: 20:00:00 EET
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://luma.com/1d04jxls
+  service: luma
+
+- name: Latvian Ruby Community - Ruby community meetup – February 2025
+  location: LV-1039, Latvia
+  date: 2025-02-11
+  start_time: 18:00:00 EEST
+  end_time: 20:00:00 EEST
   url: https://luma.com/5oqjsofh
   service: luma
 
@@ -4787,8 +4828,8 @@
 - name: SF Bay Area Ruby - SF Ruby February Meetup @ GitHub
   location: San Francisco, CA
   date: 2025-02-11
-  start_time: 17:00:00 PST
-  end_time: 21:00:00 PST
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
   url: https://luma.com/hoou421h
   service: luma
 
@@ -4811,8 +4852,8 @@
 - name: Boulder Ruby - Feb 2025 Presentation Night
   location: Boulder, CO
   date: 2025-02-12
-  start_time: 18:00:00 MST
-  end_time: 21:00:00 MST
+  start_time: 18:00:00 MDT
+  end_time: 21:00:00 MDT
   url: https://luma.com/e37ect5e
   service: luma
 
@@ -5097,6 +5138,14 @@
   end_time: 20:00:00 CST
   url: https://www.meetup.com/kcruby/events/306415435
   service: meetup
+
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #1 2025'
+  location: 30-302 Kraków, Poland
+  date: 2025-02-27
+  start_time: 17:30:00 CEST
+  end_time: 21:30:00 CEST
+  url: https://luma.com/dow2zgc5
+  service: luma
 
 - name: Madrid.rb - February 2025 - How to Build a Boring(TM) Pub-Sub System
   location: Madrid, Spain
@@ -5647,6 +5696,14 @@
   url: https://www.meetup.com/bangkok-rb/events/306802526
   service: meetup
 
+- name: Kansas City Ruby - KC Ruby March Meeting
+  location: Shawnee, KS
+  date: 2025-03-25
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://luma.com/qaxgc8jr
+  service: luma
+
 - name: Ruby Montevideo - Meetup - Marzo 2025
   location: Montevideo, Uruguay
   date: 2025-03-25
@@ -5770,8 +5827,8 @@
 - name: Poznań Ruby User Group - March 2025
   location: 60-822 Poznań, Poland
   date: 2025-03-27
-  start_time: 18:00:00 CET
-  end_time: 21:00:00 CET
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
   url: https://luma.com/u6nh8vx6
   service: luma
 
@@ -5786,8 +5843,8 @@
 - name: Stockholm Ruby - Springish Ruby Meetup
   location: 111 57 Stockholm, Sweden
   date: 2025-03-27
-  start_time: 17:30:00 CET
-  end_time: 21:00:00 CET
+  start_time: 17:30:00 CEST
+  end_time: 21:00:00 CEST
   url: https://luma.com/1g14ow05
   service: luma
 
@@ -5848,6 +5905,14 @@
   end_time: 21:00:00 PDT
   url: https://seattlerb.org/?event_id=29
 
+- name: Belfast Ruby - Meetup April 2025
+  location: Belfast BT12 5GH, UK
+  date: 2025-04-02
+  start_time: 18:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://luma.com/wgjptxmc
+  service: luma
+
 - name: BelfastRuby - 's first Meetup of 2025
   location: Belfast, UK
   date: 2025-04-02
@@ -5891,8 +5956,8 @@
 - name: Latvian Ruby Community - Latvian Ruby community April meetup
   location: LV-1039, Latvia
   date: 2025-04-03
-  start_time: 18:15:00 EET
-  end_time: 21:15:00 EET
+  start_time: 18:15:00 EEST
+  end_time: 21:15:00 EEST
   url: https://luma.com/939q9twh
   service: luma
 
@@ -6289,6 +6354,14 @@
   url: https://www.meetup.com/bangkok-rb/events/307456423
   service: meetup
 
+- name: Kansas City Ruby - KC Ruby April Hack Night
+  location: Shawnee, KS
+  date: 2025-04-29
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://luma.com/sw3pa0d8
+  service: luma
+
 - name: LA Ruby - The Underground
   location: Los Angeles, CA
   date: 2025-04-29
@@ -6508,6 +6581,14 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://luma.com/uy2s804c
+  service: luma
+
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #2 2025'
+  location: 31-123 Kraków, Poland
+  date: 2025-05-13
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/pnamdg3o
   service: luma
 
 - name: Ottawa Ruby - Spring Refresh
@@ -6852,6 +6933,14 @@
   url: https://www.meetup.com/bangkok-rb/events/307801105
   service: meetup
 
+- name: Kansas City Ruby - KC Ruby May Hack Night
+  location: Shawnee, KS
+  date: 2025-05-27
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://luma.com/0y0iu9b4
+  service: luma
+
 - name: RubyJax - Open Hax May 2025
   location: Jacksonville, FL
   date: 2025-05-27
@@ -7051,6 +7140,13 @@
   end_time: 21:00:00 BST
   url: https://merseyrails.com
 
+- name: London Ruby User Group - June 2025 Meeting
+  location: London, UK
+  date: 2025-06-09
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2025/june
+
 - name: Orange County Ruby - Ruby Science June 2025
   location: Online
   date: 2025-06-09
@@ -7097,6 +7193,14 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://luma.com/jyhr0dvs
+  service: luma
+
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #3 2025'
+  location: 31-123 Kraków, Poland
+  date: 2025-06-10
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/0852jl2w
   service: luma
 
 - name: Philly.rb - Pubnite June 2025
@@ -7413,6 +7517,14 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/308225743
   service: meetup
+
+- name: 'Kansas City Ruby - Meetup: Web Scraping with Ferrum'
+  location: Shawnee, KS
+  date: 2025-06-24
+  start_time: 18:00:00 CDT
+  end_time: 19:00:00 CDT
+  url: https://luma.com/5abe9emx
+  service: luma
 
 - name: Nantes.rb - @ Jack's Corner Pub&Food
   location: Nantes, France
@@ -7960,6 +8072,14 @@
   url: https://luma.com/km1571iq
   service: luma
 
+- name: Kansas City Ruby - KC Ruby July Hack Night
+  location: Shawnee, KS
+  date: 2025-07-29
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://luma.com/v4yamu7q
+  service: luma
+
 - name: Philippine Ruby Users Group - PhRUG - Kickin it Lo-Fi
   location: Manila, Philippines
   date: 2025-07-29
@@ -8451,6 +8571,14 @@
   end_time: 21:00:00 +07
   url: https://www.meetup.com/bangkok-rb/events/310246437
   service: meetup
+
+- name: Kansas City Ruby - KC Ruby August Hack Night
+  location: Shawnee, KS
+  date: 2025-08-26
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://luma.com/doqg940b
+  service: luma
 
 - name: RubyJax - Open Hax August 2025
   location: Jacksonville, FL
@@ -9055,6 +9183,14 @@
   url: https://www.meetup.com/charlotte-rb/events/mhkrrtyhcnbkb
   service: meetup
 
+- name: Ruby Europe - Ruby + AI Meetup Paris
+  location: 75008 Paris, France
+  date: 2025-10-07
+  start_time: 19:00:00 CEST
+  end_time: 23:30:00 CEST
+  url: https://luma.com/yx01jidr
+  service: luma
+
 - name: RubyJax - Open Hax October 2025
   location: Jacksonville, FL
   date: 2025-10-07
@@ -9070,6 +9206,14 @@
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/307577488
   service: meetup
+
+- name: Boulder Ruby - October 2025 Presentation Night
+  location: Boulder, CO
+  date: 2025-10-08
+  start_time: 18:00:00 MDT
+  end_time: 20:30:00 MDT
+  url: https://luma.com/ue3fso8b
+  service: luma
 
 - name: NYC.rb - Event October 2025
   location: Online
@@ -9126,6 +9270,14 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/rkzbjsyhcnbsb
   service: meetup
+
+- name: Boston Ruby Group - October 2025 meeting
+  location: Boston, MA
+  date: 2025-10-14
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://luma.com/finds4mu
+  service: luma
 
 - name: Philly.rb - Pubnite October 2025
   location: Online
@@ -9199,6 +9351,14 @@
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcnbvb
   service: meetup
 
+- name: Stockholm Ruby - Ruby Meetup at Qasa
+  location: 118 26 Stockholm, Sweden
+  date: 2025-10-16
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/z5j80vna
+  service: luma
+
 - name: 'Auckland Ruby - Ruby Nights October: TBC'
   location: Auckland, New Zealand
   date: 2025-10-20
@@ -9222,6 +9382,22 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/miamirb/events/pdvctsyhcnbbc
   service: meetup
+
+- name: Ruby Belgium - Meetup Autumn 2025
+  location: 1160 Auderghem, Belgium
+  date: 2025-10-20
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/egkjexj2
+  service: luma
+
+- name: Latvian Ruby Community - Ruby community meetup - October 2025
+  location: LV-1039, Latvia
+  date: 2025-10-21
+  start_time: 18:00:00 EEST
+  end_time: 20:30:00 EEST
+  url: https://luma.com/72pph1ea
+  service: luma
 
 - name: RubyJax - Open Hax October 2025
   location: Jacksonville, FL
@@ -9271,6 +9447,14 @@
   url: https://www.meetup.com/austinrb/events/305497352
   service: meetup
 
+- name: Kansas City Ruby - KC Ruby October Hack Night
+  location: Shawnee, KS
+  date: 2025-10-28
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://luma.com/dzt05jeh
+  service: luma
+
 - name: RubyJax - Open Hax October 2025
   location: Jacksonville, FL
   date: 2025-10-28
@@ -9311,6 +9495,14 @@
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcnbnc
   service: meetup
 
+- name: SF Bay Area Ruby - SF Ruby Meetup, October @ AngelList
+  location: San Francisco, CA
+  date: 2025-10-30
+  start_time: 17:00:00 PDT
+  end_time: 21:00:00 PDT
+  url: https://luma.com/xh2h2jd3
+  service: luma
+
 - name: Charlotte Ruby - Ruby Hack Night November 2025
   location: Online
   date: 2025-11-04
@@ -9326,6 +9518,14 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcpbgb
   service: meetup
+
+- name: Belfast Ruby - Petr Hlavicka & Rob Graham at Stora
+  location: Belfast BT2 8BG, UK
+  date: 2025-11-05
+  start_time: 18:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://luma.com/r42ger8m
+  service: luma
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby November 2025
   location: Prague, Czechia
@@ -9517,6 +9717,14 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltyhcpbgc
   service: meetup
+
+- name: Kansas City Ruby - KC Ruby November Hack Night
+  location: Shawnee, KS
+  date: 2025-11-25
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://luma.com/d147kxaq
+  service: luma
 
 - name: RubyJax - Open Hax November 2025
   location: Jacksonville, FL
