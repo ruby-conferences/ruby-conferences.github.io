@@ -994,6 +994,7 @@
   timezone: America/Los_Angeles
   exclude:
     - The San Francisco Ruby Conference
+    - SF Ruby Workshop
 
 - id: silicon-valley-ruby
   name: Silicon Valley Ruby
