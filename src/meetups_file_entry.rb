@@ -1,10 +1,11 @@
-MeetupsFileEntry = Data.define(:name, :location, :date, :start_time, :end_time, :url, :status) do
+MeetupsFileEntry = Data.define(:name, :location, :date, :start_time, :end_time, :url, :status, :service) do
   attr_reader :group
 
-  def initialize(name:, location:, date:, start_time:, end_time:, url:, status: nil, group: nil)
+  def initialize(name:, location:, date:, start_time:, end_time:, url:, status: nil, service: nil, group: nil)
     date = date.is_a?(Date) ? date : Date.parse(date)
     @group = group
-    super(name:, location:, date:, start_time:, end_time:, url:, status:)
+    service ||= detect_service(url)
+    super(name:, location:, date:, start_time:, end_time:, url:, status:, service:)
   end
 
   def self.from_yaml_item(hash)
@@ -16,12 +17,26 @@ MeetupsFileEntry = Data.define(:name, :location, :date, :start_time, :end_time, 
       end_time: hash["end_time"],
       url: hash["url"],
       group: hash["group"],
-      status: hash["status"]
+      status: hash["status"],
+      service: hash["service"]
     )
   end
 
   def service_id
     AbstractEvent.service_id_for_url(url)
+  end
+
+  def detect_service(url)
+    return nil unless url
+
+    case url
+    when /meetup\.com/
+      "meetup"
+    when /lu\.ma/, /luma\.com/
+      "luma"
+    else
+      nil
+    end
   end
 
   def to_hash
@@ -35,6 +50,7 @@ MeetupsFileEntry = Data.define(:name, :location, :date, :start_time, :end_time, 
     }
 
     hash["status"] = status if status.present?
+    hash["service"] = service if service.present?
 
     hash
   end
