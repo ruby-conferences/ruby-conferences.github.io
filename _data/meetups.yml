@@ -8130,6 +8130,13 @@
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcnbfc
 
+- name: Bengaluru Ruby Users Group October 2025
+  location: Bengaluru, India
+  data: 2025-10-25
+  start_time: 1:30:00 EDT
+  end_time: 4:30:00 EDT
+  url: https://luma.com/yy65d157
+
 - name: Orange County Ruby - Ruby Science October 2025
   location: Online
   date: 2025-10-27
@@ -8570,10 +8577,3 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtyhcqbfc
-
-- name: Bengaluru Ruby Users Group October 2025
-  location: Bengaluru, India
-  data: 2025-10-25
-  start_time: 1:30:00 EDT
-  end_time: 4:30:00 EDT
-  url: https://luma.com/yy65d157
