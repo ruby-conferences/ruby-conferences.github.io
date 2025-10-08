@@ -295,6 +295,12 @@
   name: Kansas City Ruby
   service: meetupdotcom
 
+- id: kcruby
+  name: Kansas City Ruby
+  service: luma
+  ical_url: https://api2.luma.com/ics/get?entity=calendar&id=cal-hlguC5XZPDfQzqv
+  timezone: America/Chicago
+
 # - id: kharkiv-rb
 #   name:
 #   service: meetupdotcom
