@@ -83,6 +83,36 @@
               "args": []
             },
             {
+              "name": "pastEvents",
+              "type": {
+                "kind": "OBJECT",
+                "name": "PastEventConnection"
+              },
+              "args": [
+                {
+                  "name": "sortOrder",
+                  "type": {
+                    "kind": "ENUM",
+                    "name": "SortOrder"
+                  }
+                },
+                {
+                  "name": "input",
+                  "type": {
+                    "kind": "INPUT_OBJECT",
+                    "name": "ConnectionInput"
+                  }
+                },
+                {
+                  "name": "filter",
+                  "type": {
+                    "kind": "INPUT_OBJECT",
+                    "name": "GroupUpcomingEventsFilter"
+                  }
+                }
+              ]
+            },
+            {
               "name": "upcomingEvents",
               "type": {
                 "kind": "OBJECT",
@@ -154,6 +184,31 @@
         },
         {
           "kind": "OBJECT",
+          "name": "PastEventConnection",
+          "fields": [
+            {
+              "name": "count",
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int"
+              },
+              "args": []
+            },
+            {
+              "name": "edges",
+              "type": {
+                "kind": "LIST",
+                "ofType": {
+                  "kind": "OBJECT",
+                  "name": "PastEventEdge"
+                }
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
           "name": "EventConnection",
           "fields": [
             {
@@ -200,6 +255,28 @@
               "type": {
                 "kind": "SCALAR",
                 "name": "Int"
+              },
+              "args": []
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "PastEventEdge",
+          "fields": [
+            {
+              "name": "cursor",
+              "type": {
+                "kind": "SCALAR",
+                "name": "String"
+              },
+              "args": []
+            },
+            {
+              "name": "node",
+              "type": {
+                "kind": "OBJECT",
+                "name": "Event"
               },
               "args": []
             }
