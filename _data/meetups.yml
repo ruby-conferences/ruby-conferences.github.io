@@ -1145,13 +1145,6 @@
   end_time: 21:30:00 CET
   url: https://www.meetup.com/lyonrb/events/301316102
 
-- name: Madison+ Ruby + NYC @ Cisco Meraki
-  location: New York, NY
-  date: 2024-07-09
-  start_time: '09:30:00 EDT'
-  end_time: 11:00:00 EDT
-  url: https://luma.com/4bliqbqr
-
 - name: Madison+ Ruby - + NYC @ Cisco Meraki
   location: New York, NY
   date: 2024-07-09
