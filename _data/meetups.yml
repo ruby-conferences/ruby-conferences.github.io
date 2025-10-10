@@ -9343,6 +9343,14 @@
   url: https://www.meetup.com/munich-rubyshift-ruby-user-group/events/310392682
   service: meetup
 
+- name: 'North West Ruby User Group - Millions on Rails: A Two-Decade Retrospective
+    on Scaling With Rails'
+  location: Manchester, UK
+  date: 2025-10-16
+  start_time: 18:30:00 BST
+  end_time: 20:30:00 BST
+  url: https://nwrug.org/events/millions-on-rails
+
 - name: Ruby Malaysia - October 2025
   location: Online
   date: 2025-10-16
