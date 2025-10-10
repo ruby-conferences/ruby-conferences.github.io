@@ -9314,14 +9314,6 @@
   date: 2025-10-14
   start_time: 20:30:00 EDT
   end_time: 22:00:00 EDT
-  url: https://www.meetup.com/phillyrb/events/nnlgbtyhcnbsb
-  service: meetup
-
-- name: Philly.rb - Pubnite October 2025
-  location: Online
-  date: 2025-10-14
-  start_time: 20:30:00 EDT
-  end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/310854028
   service: meetup
 
@@ -9363,14 +9355,6 @@
   start_time: 18:30:00 EDT
   end_time: 21:30:00 EDT
   url: https://www.meetup.com/montrealrb/events/310599891
-  service: meetup
-
-- name: Portland Ruby Brigade - Cocktails + Code October 2025
-  location: Portland, OR
-  date: 2025-10-15
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyhcnbtb
   service: meetup
 
 - name: Portland Ruby Brigade - Cocktails + Code October 2025
@@ -9652,14 +9636,6 @@
   start_time: 02:00:00 UTC
   end_time: 04:00:00 UTC
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcnbnc
-  service: meetup
-
-- name: Charlotte Ruby - Ruby Hack Night
-  location: Charlotte, NC
-  date: 2025-11-04
-  start_time: 19:00:00 EST
-  end_time: 21:30:00 EST
-  url: https://www.meetup.com/charlotte-rb/events/311429769
   service: meetup
 
 - name: Charlotte Ruby - Ruby Hack Night November 2025
@@ -10341,14 +10317,6 @@
   start_time: 18:00:00 PDT
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyjccbcc
-  service: meetup
-
-- name: West Midlands Ruby User Group - Monthly Meetup January 2026
-  location: Online
-  date: 2026-01-21
-  start_time: 19:00:00 UTC
-  end_time: 21:00:00 UTC
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryjccbcc
   service: meetup
 
 - name: West Midlands Ruby User Group - Monthly Meetup January 2026
