@@ -9277,6 +9277,13 @@
   url: https://www.meetup.com/scotrug/events/311075119
   service: meetup
 
+- name: London Ruby User Group - October 2025 Meeting
+  location: London, UK
+  date: 2025-10-13
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2025/october
+
 - name: Orange County Ruby - Ruby Science October 2025
   location: Dana Point, CA
   date: 2025-10-13
@@ -9428,6 +9435,13 @@
   end_time: 22:00:00 CEST
   url: https://luma.com/z5j80vna
   service: luma
+
+- name: Ruby DF - 9ª Edição
+  location: Brasilia, Brazil
+  date: 2025-10-18
+  start_time: '09:30:00 -03'
+  end_time: 11:30:00 -03
+  url: https://rubydf.com/events/nona-edicao
 
 - name: 'Auckland Ruby - Ruby Nights October: CSSBattle ⚔️'
   location: Auckland, New Zealand
@@ -9597,6 +9611,13 @@
   end_time: 20:00:00 CDT
   url: https://www.meetup.com/winnipegrb/events/311418908
   service: meetup
+
+- name: 'Madrid.rb - Octubre 2025: Building a ruby gem for OpenFGA'
+  location: Madrid, Spain
+  date: 2025-10-30
+  start_time: 18:30:00 UTC
+  end_time: 20:30:00 UTC
+  url: https://www.madridrb.com/events/octubre-2025-building-a-ruby-gem-for-openfga-2069
 
 - name: Melbourne Ruby - Ruby Melbourne Meetup October 2025
   location: Melbourne, Australia
