@@ -37,13 +37,24 @@ class DataFileValidator
     end
 
     if @type == :meetup
-      event_groups_by_date = events.map { |event| [event["name"].split(" - ").first, event["date"]] }
+      events_by_group_and_date = events.group_by { |event|
+        [event["name"].split(" - ").first, event["date"]]
+      }
 
-      duplicate_events = event_groups_by_date.tally.select { |group, count| count > 1 }
+      events_by_group_and_date.each do |(group, date), group_events|
+        next if group_events.size == 1
 
-      duplicate_events.each do |(group, date), count|
+        services = group_events.map { |event|
+          event["service"] || detect_service_from_url(event["url"])
+        }.compact
+
+        if services.uniq.size == services.size
+          next
+        end
+
         @duplicate_events_error = true
-        puts "Meetup Group '#{group}' has #{count} events on #{date.iso8601}"
+        duplicate_services = services.group_by { |s| s }.select { |_, v| v.size > 1 }.keys
+        puts "Meetup Group '#{group}' has multiple events on #{date.iso8601} from the same service(s): #{duplicate_services.join(', ')}"
       end
     end
   end
@@ -74,6 +85,19 @@ class DataFileValidator
       ["date", "start_time", "end_time", "name", "location"]
     else
       raise "required_keys: unknown type '#{type}'"
+    end
+  end
+
+  def detect_service_from_url(url)
+    return nil unless url
+
+    case url
+    when /meetup\.com/
+      "meetup"
+    when /lu\.ma/, /luma\.com/
+      "luma"
+    else
+      nil
     end
   end
 end

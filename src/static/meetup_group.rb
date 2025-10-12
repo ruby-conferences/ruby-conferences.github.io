@@ -37,6 +37,20 @@ class MeetupGroup < FrozenRecord::Base
     upcoming_events.select { |event| !existing_ids.include?(event.service_id) }
   end
 
+  def new_past_events
+    existing_ids = past_existing_events.map(&:service_id)
+
+    past_events.select { |event| !existing_ids.include?(event.service_id) }
+  end
+
+  def past_events
+    @past_events ||= fetch_past_events.tap do |events|
+      events.select! { |event| event.event_name.include?(filter) } if filter.present?
+      events.reject! { |event| Array(exclude).any? { |e| event.event_name.include?(e) } } if exclude.present?
+      events.sort_by { |event| [event.event_date, event.event_name] }
+    end
+  end
+
   def missing_events
     upcoming_ids = upcoming_events.map(&:service_id)
 
@@ -45,6 +59,10 @@ class MeetupGroup < FrozenRecord::Base
 
   def upcomping_existing_events
     existing_events.select { |event| event["date"].between?(Date.today - 1, Date.today + 120) }
+  end
+
+  def past_existing_events
+    existing_events.select { |event| event["date"] < Date.today }
   end
 
   def existing_events
@@ -69,6 +87,19 @@ class MeetupGroup < FrozenRecord::Base
 
   private
 
+  def fetch_past_events
+    case service
+    when "meetupdotcom"
+      fetch_past_meetup_events
+    when "luma"
+      fetch_luma_events.select { |event| event.date < Date.today }
+    when "ical"
+      fetch_ical_events.select { |event| event.date < Date.today }
+    else
+      raise "Unsupported service: #{service}"
+    end
+  end
+
   def fetch_events
     case service
     when "meetupdotcom"
@@ -80,6 +111,12 @@ class MeetupGroup < FrozenRecord::Base
     else
       raise "Unsupported service: #{service}"
     end
+  end
+
+  def fetch_past_meetup_events
+    result = MeetupClient::Client.query(PastEventsQuery, variables: { groupId: id })
+    events = Array(result.original_hash.dig("data", "groupByUrlname", "pastEvents", "edges"))
+    events.map { |event| MeetupEvent.new(object: OpenStruct.new(event["node"]), group: self) }
   end
 
   def fetch_meetup_events

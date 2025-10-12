@@ -32,13 +32,21 @@ class MeetupsFile
     end
   end
 
-  def fetch_group!(group)
+  def fetch_group!(group, past: false)
     puts "Fetching #{group.service} Group: #{group.id}"
 
     group.new_events.map { |event| event.meetup_file_entry }.each do |event|
       @new_events << event
       @events << event
       puts "New Meetup: #{event.name} - #{event.date}"
+    end
+
+    if past
+      group.new_past_events.map { |event| event.meetup_file_entry }.each do |event|
+        @new_events << event
+        @events << event
+        puts "New Past Meetup: #{event.name} - #{event.date}"
+      end
     end
 
     group.cancelled_events.map { |event| event.meetup_file_entry }.each do |event|
@@ -70,11 +78,11 @@ class MeetupsFile
     puts
   end
 
-  def fetch!(id = nil)
+  def fetch!(id = nil, past: false)
     groups = MeetupGroup.all
     groups = groups.where(id: id) if id
 
-    groups.each { |group| fetch_group!(group) }
+    groups.each { |group| fetch_group!(group, past: past) }
 
     puts "New Events: #{@new_events.count}"
     puts "Updated Events: #{@updated_events.count}"

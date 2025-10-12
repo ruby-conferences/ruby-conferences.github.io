@@ -1,20 +1,52 @@
-<div class="list-item {{ meetup.date | date: '%Y%m' }} {% continent %}{{ meetup.location | split: ', ' | last }}{% endcontinent %}">
+{% comment %} Handle both single meetup and grouped meetups {% endcomment %}
+{% if meetup_group %}
+  {% assign meetups_to_display = meetup_group %}
+{% else %}
+  {% assign meetups_to_display = meetup | split: "" | push: meetup %}
+{% endif %}
+
+{% assign first_meetup = meetups_to_display | first %}
+
+<div class="list-item {{ first_meetup.date | date: '%Y%m' }} {% continent %}{{ first_meetup.location | split: ', ' | last }}{% endcontinent %}">
   <dt>
-    {% if meetup.url %}
-      <a href="{{ meetup.url }}">{{ meetup.name }}</a>
+    {% if first_meetup.url %}
+      <a href="{{ first_meetup.url }}">{{ first_meetup.name }}</a>
     {% else %}
-      <a>{{ meetup.name }}</a>
+      <a>{{ first_meetup.name }}</a>
     {% endif %}
 
-    {% if meetup.status %}
-      <div class="status" data-phrase="{{ meetup.status }}"></div>
+    {% if first_meetup.status %}
+      <div class="status" data-phrase="{{ first_meetup.status }}"></div>
     {% endif %}
   </dt>
 
   <dd>
     <ul>
-      <li>{{ meetup.date | date: "%B %-d, %Y" }}</li>
-      <li>{{ meetup.location }}</li>
+      <li>{{ first_meetup.date | date: "%B %-d, %Y" }}</li>
+      <li>{{ first_meetup.location }}</li>
+      {% if meetups_to_display.size > 1 %}
+        <li>
+          {% for m in meetups_to_display %}
+            {% assign detected_service = m.service %}
+            {% unless detected_service %}
+              {% if m.url contains "meetup.com" %}
+                {% assign detected_service = "meetup" %}
+              {% elsif m.url contains "lu.ma" or m.url contains "luma.com" %}
+                {% assign detected_service = "luma" %}
+              {% endif %}
+            {% endunless %}
+
+            {% if detected_service == "meetup" %}
+              <a href="{{ m.url }}">Meetup.com</a>
+            {% elsif detected_service == "luma" %}
+              <a href="{{ m.url }}">Luma.com</a>
+            {% else %}
+              <a href="{{ m.url }}">Link</a>
+            {% endif %}
+            {% unless forloop.last %} • {% endunless %}
+          {% endfor %}
+        </li>
+      {% endif %}
     </ul>
   </dd>
 </div>

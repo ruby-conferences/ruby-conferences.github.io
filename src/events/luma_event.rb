@@ -36,6 +36,6 @@ class LumaEvent < AbstractEvent
   end
 
   def event_url
-    object.description.scan(/https:\/\/lu.ma\/.+/).first
+    object.description.scan(/https:\/\/lu.ma\/.+/).first || object.description.scan(/https:\/\/luma\.com\/.+/).first
   end
 end

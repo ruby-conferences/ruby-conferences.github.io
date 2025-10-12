@@ -20,7 +20,10 @@ class MeetupEvent < AbstractEvent
   end
 
   def event_status
-    object.status == "published" ? nil : object.status
+    return nil if object.status&.downcase == "published"
+    return nil if object.status&.downcase == "past"
+
+    object.status
   end
 
   def event_location
