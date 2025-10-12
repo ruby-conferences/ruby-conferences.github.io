@@ -10099,14 +10099,6 @@
   url: https://www.meetup.com/nyc-rb/events/308866992
   service: meetup
 
-- name: Philly.rb - Pubnite December 2025
-  location: Online
-  date: 2025-12-10
-  start_time: 01:30:00 UTC
-  end_time: 03:00:00 UTC
-  url: https://www.meetup.com/phillyrb/events/nnlgbtyhcqbmb
-  service: meetup
-
 - name: Rails Taiwan - 高雄 Rails Meetup December 2025
   location: Kaohsiung, Taiwan
   date: 2025-12-10
@@ -10283,6 +10275,14 @@
   url: https://www.meetup.com/bmore-on-rails/events/cqndttyjccblb
   service: meetup
 
+- name: Philly.rb - Pubnite January 2026
+  location: Online
+  date: 2026-01-13
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
+  url: https://www.meetup.com/phillyrb/events/nnlgbtyjccbrb
+  service: meetup
+
 - name: Ruby on Rails Oceania Sydney - Ruby Sydney - <%= Time.now.strftime('%B %Y')
     %> EDITION January 2026
   location: Sydney, Australia
@@ -10306,14 +10306,6 @@
   start_time: 22:30:00 UTC
   end_time: 00:00:00 UTC
   url: https://www.meetup.com/nyc-rb/events/hkbsltyjccbsb
-  service: meetup
-
-- name: Philly.rb - Pubnite January 2026
-  location: Online
-  date: 2026-01-14
-  start_time: 01:30:00 UTC
-  end_time: 03:00:00 UTC
-  url: https://www.meetup.com/phillyrb/events/nnlgbtyjccbrb
   service: meetup
 
 - name: Miami Ruby Brigade - January 2026
