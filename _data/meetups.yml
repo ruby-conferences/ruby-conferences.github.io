@@ -9539,6 +9539,14 @@
   url: https://www.meetup.com/sardinesrb/events/311340390
   service: meetup
 
+- name: Bengaluru Ruby Users Group October 2025
+  location: Bengaluru, India
+  date: 2025-10-25
+  start_time: 1:30:00 EDT
+  end_time: 4:30:00 EDT
+  url: https://luma.com/yy65d157
+  service: luma
+
 - name: Orange County Ruby - Ruby Science October 2025
   location: Online
   date: 2025-10-27

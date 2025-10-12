@@ -71,6 +71,12 @@
   name: Bangalore Ruby Users Group
   service: meetupdotcom
 
+- id: bengaluru-ruby-users-group
+  name: Bengaluru Ruby Users Group
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Iz1bCGzWjb6G2HI
+  timezone: Asia/Kolkata
+
 - id: bangkok-rb
   name: Bangkok.rb
   service: meetupdotcom
