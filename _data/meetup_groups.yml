@@ -122,7 +122,7 @@
 #   service: meetupdotcom
 
 - id: boulder-ruby
-  name: Boulder Ruby Group
+  name: Boulder Ruby
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-B9LZxdgJiXBxezw
   timezone: America/Denver
