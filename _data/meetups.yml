@@ -9523,6 +9523,14 @@
   url: https://www.meetup.com/rubybrigade/events/311165822
   service: meetup
 
+- name: Poznań Ruby User Group - October 2025
+  location: Poznań, Poland
+  date: 2025-10-23
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://luma.com/cohylg77
+  service: luma
+
 - name: Ruby Malaysia - October 2025
   location: Online
   date: 2025-10-23
@@ -10270,8 +10278,8 @@
 - name: 'African Ruby Community - Ruby Thursdays: To be determined January 2026'
   location: Online
   date: 2026-01-08
-  start_time: 15:00:00 UTC
-  end_time: 17:00:00 UTC
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/310656918
   service: meetup
 

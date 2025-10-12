@@ -544,6 +544,8 @@
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Y0YsxgnzWReQXMG
   timezone: Europe/Warsaw
+  remove:
+    - PoznańRubyUserGroup
 
 - id: prague-ruby-meetup
   name: Prague Ruby
