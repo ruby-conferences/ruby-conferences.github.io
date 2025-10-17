@@ -9524,7 +9524,7 @@
   service: meetup
 
 - name: Poznań Ruby User Group - October 2025
-  location: Poznań, Poland
+  location: 60-995 Poznań, Poland
   date: 2025-10-23
   start_time: 18:00:00 CEST
   end_time: 20:00:00 CEST
@@ -9547,11 +9547,11 @@
   url: https://www.meetup.com/sardinesrb/events/311340390
   service: meetup
 
-- name: Bengaluru Ruby Users Group October 2025
-  location: Bengaluru, India
+- name: Bengaluru Ruby Users Group - Bengaluru Ruby Users Meetup in October
+  location: Online
   date: 2025-10-25
-  start_time: 1:30:00 EDT
-  end_time: 4:30:00 EDT
+  start_time: 11:00:00 IST
+  end_time: 14:00:00 IST
   url: https://luma.com/yy65d157
   service: luma
 
@@ -9585,6 +9585,14 @@
   start_time: 18:00:00 CDT
   end_time: 20:00:00 CDT
   url: https://luma.com/dzt05jeh
+  service: luma
+
+- name: 'Krakow Ruby Users Group (KRUG) - KRUG #4 2025'
+  location: 30-302 Kraków, Poland
+  date: 2025-10-28
+  start_time: 18:00:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://luma.com/se3qppbl
   service: luma
 
 - name: Philly.rb - How FastRuby.io Built an Automated, AI-Enhanced Roadmap for Rails
@@ -9649,6 +9657,15 @@
   start_time: 19:00:00 PDT
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqyhcnbnc
+  service: meetup
+
+- name: Philippine Ruby Users Group - PhRUG - Open Source Chismis Edition & Halloween
+    Party
+  location: Multi-location hydrid (Makati & Batangas City, Philippines)
+  date: 2025-10-30
+  start_time: 18:30:00 PST
+  end_time: 20:30:00 PST
+  url: https://www.meetup.com/ruby-phil/events/311559509
   service: meetup
 
 - name: Ruby Malaysia - October 2025
@@ -9760,6 +9777,13 @@
   end_time: 20:00:00 +08
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcpbjb
   service: meetup
+
+- name: London Ruby User Group - November 2025 Meeting
+  location: London, UK
+  date: 2025-11-10
+  start_time: 18:00:00 BST
+  end_time: 20:00:00 BST
+  url: https://lrug.org/meetings/2025/november
 
 - name: Orange County Ruby - Ruby Science November 2025
   location: Online
