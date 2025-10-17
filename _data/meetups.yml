@@ -10370,3 +10370,10 @@
   end_time: 22:00:00 CEST
   url: https://www.meetup.com/praguerb/events/dkmktfyjcdbgb
   service: meetup
+
+- name: Philippine Ruby Users Group - 2024 Restart Startup launchkit edition
+  location: Makati, Philippines & Online
+  date: 2024-10-18
+  start_time: 18:30:00 HKT
+  end_time: 20:30:00 HKT
+  url: https://www.meetup.com/ruby-phil/events/311559509
