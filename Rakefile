@@ -63,7 +63,8 @@ task :verify_meetups do
     "twitter",
     "mastodon",
     "video_link",
-    "status"
+    "status",
+    "service"
   ]
   data = YAML.load_file("_data/meetups.yml", permitted_classes: [Date])
   validator = DataFileValidator.validate(data, allowed_keys, :meetup)
@@ -85,12 +86,30 @@ task :fetch_meetups do
   end
 end
 
+desc "fetch past meetups"
+task :fetch_past_meetups do
+  MeetupsFile.read.tap do |file|
+    file.fetch!(past: true)
+    file.write!
+  end
+end
+
 # to fetch a single group run:
 #   bundle exec rake fetch_meetup[sfruby]
 desc "fetch a single group"
 task :fetch_meetup, [:group_id] do |_, args|
   MeetupsFile.read.tap do |file|
     file.fetch!(args[:group_id])
+    file.write!
+  end
+end
+
+# to fetch past events of a single group run:
+#   bundle exec rake fetch_past_meetups[sfruby]
+desc "fetch past meetups of a single group"
+task :fetch_past_meetup, [:group_id] do |_, args|
+  MeetupsFile.read.tap do |file|
+    file.fetch!(args[:group_id], past: true)
     file.write!
   end
 end

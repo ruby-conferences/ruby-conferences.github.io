@@ -9,10 +9,33 @@ layout: default
 
     {% include filters.html %}
 
+    {% comment %} Group meetups by group name and date {% endcomment %}
+    {% assign processed = "" | split: "" %}
+
     {% for meetup in meetups %}
       {% assign date = meetup.date | date: "%s" | plus: 0 %}
       {% if date >= now %}
-        {% include meetup.html %}
+        {% assign group_name = meetup.name | split: " - " | first %}
+        {% assign key = group_name | append: "|" | append: meetup.date %}
+
+        {% unless processed contains key %}
+          {% assign processed = processed | push: key %}
+
+          {% comment %} Find all meetups for this group and date {% endcomment %}
+          {% assign group_meetups = "" | split: "" %}
+          {% for m in meetups %}
+            {% assign m_date = m.date | date: "%s" | plus: 0 %}
+            {% if m_date >= now %}
+              {% assign m_group = m.name | split: " - " | first %}
+              {% if m_group == group_name and m.date == meetup.date %}
+                {% assign group_meetups = group_meetups | push: m %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+          {% assign meetup_group = group_meetups %}
+          {% include meetup.html %}
+        {% endunless %}
       {% endif %}
     {% endfor %}
   </dl>

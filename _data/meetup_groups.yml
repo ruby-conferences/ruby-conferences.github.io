@@ -71,6 +71,12 @@
   name: Bangalore Ruby Users Group
   service: meetupdotcom
 
+- id: bengaluru-ruby-users-group
+  name: Bengaluru Ruby Users Group
+  service: luma
+  ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Iz1bCGzWjb6G2HI
+  timezone: Asia/Kolkata
+
 - id: bangkok-rb
   name: Bangkok.rb
   service: meetupdotcom
@@ -127,9 +133,9 @@
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-B9LZxdgJiXBxezw
   timezone: America/Denver
 
-- id: boulder_ruby_group
-  name: Boulder Ruby Group
-  service: meetupdotcom
+# - id: boulder_ruby_group
+#   name: Boulder Ruby Group
+#   service: meetupdotcom
 
 - id: brighton-ruby-group
   name: Brighton Ruby Group
@@ -195,9 +201,9 @@
   name: Copenhagen Ruby Brigade
   service: meetupdotcom
 
-- id: dallasrb
-  name: Dallas Ruby Brigade
-  service: meetupdotcom
+# - id: dallasrb
+#   name: Dallas Ruby Brigade
+#   service: meetupdotcom
 
 - id: dcruby
   name: DC Ruby Users Group
@@ -252,21 +258,21 @@
 #   name:
 #   service: meetupdotcom
 
-- id: houston-ruby-meetup-group
-  name: Houston Rails
-  service: meetupdotcom
+# - id: houston-ruby-meetup-group
+#   name: Houston Rails
+#   service: meetupdotcom
 
 - id: houstonruby
   name: Houston Ruby
   service: meetupdotcom
 
-- id: icruby
-  name: Iowa City Ruby
-  service: meetupdotcom
+# - id: icruby
+#   name: Iowa City Ruby
+#   service: meetupdotcom
 
-- id: id-ruby
-  name: Indonesia Ruby
-  service: meetupdotcom
+# - id: id-ruby
+#   name: Indonesia Ruby
+#   service: meetupdotcom
 
 - id: indyrb
   name: Indianapolis Ruby Brigade
@@ -291,9 +297,15 @@
   name: Karlsruhe.rb
   service: meetupdotcom
 
+# - id: kcruby
+#   name: Kansas City Ruby
+#   service: meetupdotcom
+
 - id: kcruby
   name: Kansas City Ruby
-  service: meetupdotcom
+  service: luma
+  ical_url: https://api2.luma.com/ics/get?entity=calendar&id=cal-hlguC5XZPDfQzqv
+  timezone: America/Chicago
 
 # - id: kharkiv-rb
 #   name:
@@ -307,6 +319,7 @@
   name: Krakow Ruby Users Group (KRUG)
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-EyyObsvyunM3PQP
+  timezone: Europe/Warsaw
 
 - id: krugtvm
   name: Kerala Ruby User Group
@@ -328,9 +341,9 @@
 #   name:
 #   service: meetupdotcom
 
-- id: las-vegas-ruby-on-rails
-  name: Las Vegas Ruby User Group
-  service: meetupdotcom
+# - id: las-vegas-ruby-on-rails
+#   name: Las Vegas Ruby User Group
+#   service: meetupdotcom
 
 - id: lausannerb
   name: Lausanne.rb
@@ -378,18 +391,18 @@
 - id: medellin-rb
   name: Medellín.rb
   service: meetupdotcom
+#
+# - id: meetup-group-etmwxpsm
+#   name: Brno Ruby Stories
+#   service: meetupdotcom
 
-- id: meetup-group-etmwxpsm
-  name: Brno Ruby Stories
-  service: meetupdotcom
-
-- id: meetup-group-xwgucjde
+- id: scotrug
   name: Scottish Ruby User Group
   service: meetupdotcom
 
-- id: memocom-ruby-meetup
-  name: Memocom Ruby
-  service: meetupdotcom
+# - id: memocom-ruby-meetup
+#   name: Memocom Ruby
+#   service: meetupdotcom
 
 - id: mexico-on-rails
   name: México on Rails
@@ -423,9 +436,9 @@
   name: Nantes.rb
   service: meetupdotcom
 
-- id: napoli-ruby-on-rails-meetup-group
-  name: Napoli Ruby on Rails
-  service: meetupdotcom
+# - id: napoli-ruby-on-rails-meetup-group
+#   name: Napoli Ruby on Rails
+#   service: meetupdotcom
 
 - id: nashrb
   name: Nash.rb
@@ -435,9 +448,9 @@
   name: Ruby Nepal
   service: meetupdotcom
 
-- id: newcastleruby
-  name: Newcastle Ruby
-  service: meetupdotcom
+# - id: newcastleruby
+#   name: Newcastle Ruby
+#   service: meetupdotcom
 
 - id: nwrug
   name: North West Ruby User Group
@@ -484,13 +497,13 @@
   service: meetupdotcom
   filter: Ruby
 
-- id: ottawaruby
-  name: Ottawa Ruby
-  service: meetupdotcom
+# - id: ottawaruby
+#   name: Ottawa Ruby
+#   service: meetupdotcom
 
-- id: palmetto-ruby-meetup
-  name: Palmetto Ruby
-  service: meetupdotcom
+# - id: palmetto-ruby-meetup
+#   name: Palmetto Ruby
+#   service: meetupdotcom
 
 - id: paris-ruby-workshop
   name: Paris Ruby Workshop
@@ -531,6 +544,8 @@
   service: luma
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Y0YsxgnzWReQXMG
   timezone: Europe/Warsaw
+  remove:
+    - PoznańRubyUserGroup
 
 - id: prague-ruby-meetup
   name: Prague Ruby
@@ -558,9 +573,9 @@
 #   name:
 #   service: meetupdotcom
 
-- id: rails-east
-  name: 'Ruby On Rails: East Coast'
-  service: meetupdotcom
+# - id: rails-east
+#   name: 'Ruby On Rails: East Coast'
+#   service: meetupdotcom
 
 - id: rails-girls-bielsko-biala
   name: Rails Girls Bielsko-Biala
@@ -574,9 +589,9 @@
   name: Rails Girls Copenhagen
   service: meetupdotcom
 
-- id: rails-girls-geneva
-  name:
-  service: meetupdotcom
+# - id: rails-girls-geneva
+#   name: Rails Girls Geneva
+#   service: meetupdotcom
 
 - id: rails-grills
   name: Rails Grills!
@@ -590,20 +605,20 @@
 #   name:
 #   service: meetupdotcom
 
-- id: rails-programming-in-thailand
-  name: BKK Rails
-  service: meetupdotcom
+# - id: rails-programming-in-thailand
+#   name: BKK Rails
+#   service: meetupdotcom
 
 - id: rails-taiwan
   name: Rails Taiwan
   service: meetupdotcom
 
-- id: railsbridgechi
-  name: RailsBridge Chicago
-  service: meetupdotcom
+# - id: railsbridgechi
+#   name: RailsBridge Chicago
+#   service: meetupdotcom
 
 # - id: railsgirlsto
-#   name:
+#   name: railsgirlsto
 #   service: meetupdotcom
 
 - id: raleighrb
@@ -656,13 +671,13 @@
   name: Ruby in London
   service: meetupdotcom
 
-- id: ruby-joinville
-  name: Ruby Joinville
-  service: meetupdotcom
-
-# - id: ruby-lightning-to
-#   name: Ruby Lightning Talks T.O.
+# - id: ruby-joinville
+#   name: Ruby Joinville
 #   service: meetupdotcom
+
+- id: ruby-lightning-to
+  name: Ruby Lightning Talks T.O.
+  service: meetupdotcom
 
 - id: ruby-loco
   name: Ruby LoCo
@@ -694,9 +709,9 @@
   name: ruby.mn
   service: meetupdotcom
 
-- id: ruby-modularity-group
-  name: Ruby/Rails Modularity
-  service: meetupdotcom
+# - id: ruby-modularity-group
+#   name: Ruby/Rails Modularity
+#   service: meetupdotcom
 
 - id: ruby-montevideo
   name: Ruby Montevideo
@@ -710,9 +725,9 @@
   name: Ruby Novi Sad
   service: meetupdotcom
 
-- id: ruby-nuby-info
-  name: Ruby Nuby™
-  service: meetupdotcom
+# - id: ruby-nuby-info
+#   name: Ruby Nuby™
+#   service: meetupdotcom
 
 - id: ruby-on-rails-bangalore
   name: Ruby on Rails Bangalore
@@ -722,9 +737,9 @@
   name: Ruby On Rails Belo Horizonte
   service: meetupdotcom
 
-- id: ruby-on-rails-latvia
-  name: Ruby on Rails Latvia
-  service: meetupdotcom
+# - id: ruby-on-rails-latvia
+#   name: Ruby on Rails Latvia
+#   service: meetupdotcom
 
 - id: latviarb
   name: Latvian Ruby Community
@@ -732,9 +747,9 @@
   ical_url: https://api.lu.ma/ics/get?entity=calendar&id=cal-2SEAz7RmwiOGpnu
   timezone: Europe/Riga
 
-- id: ruby-on-rails-meetup
-  name: Ruby on Rails Meetup
-  service: meetupdotcom
+# - id: ruby-on-rails-meetup
+#   name: Ruby on Rails Meetup
+#   service: meetupdotcom
 
 - id: ruby-on-rails-oceania-melbourne
   name: Melbourne Ruby
@@ -758,9 +773,9 @@
 #   name: Ruby Project Night NYC
 #   service: meetupdotcom
 
-- id: ruby-romania
-  name: Ruby Romania
-  service: meetupdotcom
+# - id: ruby-romania
+#   name: Ruby Romania
+#   service: meetupdotcom
 
 - id: ruby-serbia
   name: Ruby Serbia
@@ -836,9 +851,9 @@
   name: Helsinki Ruby Brigade
   service: meetupdotcom
 
-- id: rubydesign
-  name: Ruby on Rails Enthusiasts
-  service: meetupdotcom
+# - id: rubydesign
+#   name: Ruby on Rails Enthusiasts
+#   service: meetupdotcom
 
 - id: rubydf
   name: RubyDF
@@ -896,9 +911,9 @@
   name: RubyOnRio
   service: meetupdotcom
 
-- id: rubyperu
-  name: Ruby Perú
-  service: meetupdotcom
+# - id: rubyperu
+#   name: Ruby Perú
+#   service: meetupdotcom
 
 - id: rubyroars-kharkiv
   name: RubyRoars Kharkiv
@@ -937,9 +952,9 @@
   name: SF Bay Area Ruby
   service: meetupdotcom
 
-- id: santa-barbara-on-rails
-  name: Santa Barbara on Rails
-  service: meetupdotcom
+# - id: santa-barbara-on-rails
+#   name: Santa Barbara on Rails
+#   service: meetupdotcom
 
 - id: sardinesrb
   name: 'Sardines.rb: Lisbon Ruby Meetup'
@@ -987,6 +1002,7 @@
   timezone: America/Los_Angeles
   exclude:
     - The San Francisco Ruby Conference
+    - SF Ruby Workshop
 
 - id: silicon-valley-ruby
   name: Silicon Valley Ruby
@@ -1002,9 +1018,9 @@
   name: Singapore Ruby Group
   service: meetupdotcom
 
-- id: sofloruby-broward
-  name: SoFloRuby Broward
-  service: meetupdotcom
+# - id: sofloruby-broward
+#   name: SoFloRuby Broward
+#   service: meetupdotcom
 
 - id: south-west-ruby
   name: South West Ruby
@@ -1112,9 +1128,9 @@
   service: meetupdotcom
   remove: "URUG Meetup:"
 
-- id: utrecht-rb
-  name: Utrecht.rb
-  service: meetupdotcom
+# - id: utrecht-rb
+#   name: Utrecht.rb
+#   service: meetupdotcom
 
 - id: vadodara-ruby-meetup
   name: Vadodara Ruby
@@ -1138,11 +1154,11 @@
 #   name:
 #   service: meetupdotcom
 
-- id: vilniusrb
-  name: Vilnius.rb
-  service: meetupdotcom
-  remove:
-    - "Vilnius Ruby Brigade meetup:"
+# - id: vilniusrb
+#   name: Vilnius.rb
+#   service: meetupdotcom
+#   remove:
+#     - "Vilnius Ruby Brigade meetup:"
 
 - id: visakhapatnam-ruby-on-rails-meetup
   name: Visakhapatnam Ruby on Rails
@@ -1179,9 +1195,9 @@
   name: Winnipeg Ruby User Group
   service: meetupdotcom
 
-- id: women-on-rails
-  name: Women On Rails
-  service: meetupdotcom
+# - id: women-on-rails
+#   name: Women On Rails
+#   service: meetupdotcom
 
 - id: yorkdevelopers
   name: York Ruby
