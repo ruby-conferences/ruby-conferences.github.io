@@ -3306,6 +3306,17 @@
   mastodon: https://ruby.social/@balticruby
   announced_on: 2025-09-02
 
+- name: Rails World 2026
+  location: Austin, TX
+  start_date: 2026-09-22
+  end_date: 2026-09-25
+  url: https://rubyonrails.org/world/
+  twitter: rails
+  announced_on: 2025-09-05
+  # cfp_open_date: 2025-03-07
+  # cfp_close_date: 2025-04-10
+  # cfp_link: https://sessionize.com/rails-world-2025/
+
 - name: Helvetic Ruby 2026
   location: Zürich, Switzerland
   start_date: 2026-11-19
