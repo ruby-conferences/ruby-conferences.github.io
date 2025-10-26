@@ -4571,6 +4571,13 @@
   url: https://www.meetup.com/rubyjax/events/305508098
   service: meetup
 
+- name: Tallinn Ruby Usergroup - Ruby Tuesday - Ruby User Group Meetup
+  location: k-space,Akadeemia 21/1  (5th floor), 12618 Tallinn
+  date: 2025-01-28
+  start_time: 17:00:00 UTC
+  end_time: 19:00:00 UTC
+  url: https://tallinn.ruby.ee/events/ruby-tuesday-ruby-user-group-meetup-1244
+
 - name: Toronto Ruby - January 2025 - Welcome to 2025 Edition
   location: Toronto, Canada
   date: 2025-01-28
@@ -5104,6 +5111,14 @@
   end_time: 20:30:00 +07
   url: https://www.meetup.com/saigonrb/events/306268547
   service: meetup
+
+- name: Tallinn Ruby Usergroup - Ruby Tuesday - Ruby User Group Meetup - February
+    2025
+  location: k-space,Akadeemia 21/1  (5th floor), 12618 Tallinn
+  date: 2025-02-25
+  start_time: 17:00:00 UTC
+  end_time: 19:00:00 UTC
+  url: https://tallinn.ruby.ee/events/ruby-tuesday-ruby-user-group-meetup-february-2025-1343
 
 - name: Toulouse.rb - Conf & Apéro - Février
   location: Toulouse, France
@@ -5727,6 +5742,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/306561644
   service: meetup
+
+- name: Tallinn Ruby Usergroup - Ruby Tuesday - Ruby User Group Meetup - March 2025
+  location: k-space,Akadeemia 21/1  (5th floor), 12618 Tallinn
+  date: 2025-03-25
+  start_time: 17:00:00 UTC
+  end_time: 19:00:00 UTC
+  url: https://tallinn.ruby.ee/events/ruby-tuesday-ruby-user-group-meetup-march-2025-1409
 
 - name: 'Barcelona.rb - BARcelona.rb - let''s have some beers together at #March'
   location: Barcelona, Spain
@@ -6393,6 +6415,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/307203265
   service: meetup
+
+- name: Tallinn Ruby Usergroup - Ruby Tuesday - Ruby User Group Meetup - April 2025
+  location: k-space,Akadeemia 21/1  (5th floor), 12618 Tallinn
+  date: 2025-04-29
+  start_time: 16:00:00 UTC
+  end_time: 18:00:00 UTC
+  url: https://tallinn.ruby.ee/events/ruby-tuesday-ruby-user-group-meetup-april-2025-1574
 
 - name: Toronto Ruby - April 2025 - No Foolin' Edition
   location: Toronto, Canada
@@ -9159,6 +9188,14 @@
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkyhcnbcb
   service: meetup
 
+- name: Tallinn Ruby Usergroup - Ruby Tuesday (on Wednesday) - Ruby User Group Meetup
+    - September 2025
+  location: k-space,Akadeemia 21/1  (5th floor), 12618 Tallinn
+  date: 2025-10-01
+  start_time: 16:00:00 UTC
+  end_time: 18:00:00 UTC
+  url: https://tallinn.ruby.ee/events/ruby-tuesday-on-wednesday-ruby-user-group-meetup-september-2025-2036
+
 - name: Ruby Malaysia - October 2025
   location: Online
   date: 2025-10-02
@@ -10387,7 +10424,7 @@
   service: meetup
 
 - name: Orange County Ruby - Ruby Science January 2026
-  location: Online 
+  location: Online
   date: 2026-01-19
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT

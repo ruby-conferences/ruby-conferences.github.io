@@ -29,6 +29,12 @@
   timezone: Europe/Madrid
   ical_url: https://andalucia.onruby.eu/events.ics
 
+- id: tallinn-ruby-usergroup
+  name: Tallinn Ruby Usergroup
+  service: ical
+  timezone: Europe/Tallinn
+  ical_url: https://tallinn.ruby.ee/events.ics
+
 - id: arlington-ruby
   name: Arlington Ruby
   service: meetupdotcom
