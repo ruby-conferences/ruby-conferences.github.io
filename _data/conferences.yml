@@ -3247,6 +3247,18 @@
   mastodon: https://ruby.social/@tropicalonrails
   announced_on: 2025-04-30
 
+- name: wroclove.rb 2026
+  location: Wrocław, Poland
+  start_date: 2026-04-17
+  end_date: 2026-04-19
+  url: https://wrocloverb.com/
+  twitter: wrocloverb
+  mastodon: https://ruby.social/@wrocloverb
+  announced_on: 2025-09-26
+  cfp_open_date: 2025-10-13
+  cfp_close_date: 2026-01-13
+  cfp_link: https://www.papercall.io/wrocloverb2026
+
 - name: RubyKaigi 2026
   location: Hakodate, Hokkaido, Japan
   start_date: 2026-04-22
