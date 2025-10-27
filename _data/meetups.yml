@@ -9635,8 +9635,8 @@
 - name: 'Krakow Ruby Users Group (KRUG) - KRUG #4 2025'
   location: 30-302 Kraków, Poland
   date: 2025-10-28
-  start_time: 18:00:00 CEST
-  end_time: 22:00:00 CEST
+  start_time: 18:00:00 CET
+  end_time: 22:00:00 CET
   url: https://luma.com/se3qppbl
   service: luma
 
@@ -9780,8 +9780,8 @@
 - name: Belfast Ruby - Petr Hlavicka & Rob Graham at Stora
   location: Belfast BT2 8BG, UK
   date: 2025-11-05
-  start_time: 18:00:00 BST
-  end_time: 21:00:00 BST
+  start_time: 18:00:00 GMT
+  end_time: 21:00:00 GMT
   url: https://luma.com/r42ger8m
   service: luma
 
