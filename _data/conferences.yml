@@ -3230,6 +3230,14 @@
   cfp_close_date: 2025-06-30
   cfp_link: https://www.papercall.io/rubyconfth2026
 
+- name: Ruby for Good - Belgium
+  location: Ghent, Belgium
+  start_date: 2026-02-02
+  end_date: 2026-02-04
+  date_precision: month
+  url: https://rubyinghent.org
+  announced_on: 2025-10-01
+
 - name: RBQ Conf 2026
   location: Austin, TX
   start_date: 2026-03-31
