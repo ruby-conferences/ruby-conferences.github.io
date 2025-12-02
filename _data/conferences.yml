@@ -3339,6 +3339,14 @@
   cfp_close_date: 2026-03-11
   cfp_link: https://www.papercall.io/ruby-conf-africa-2026
 
+- name: Rails Camp West 2026
+  location: Otis, OR
+  start_date: 2026-09-07
+  end_date: 2026-09-11
+  url: https://west.railscamp.us/2026
+  twitter: railscamp_usa
+  announced_on: 2025-11-13
+
 - name: Rails World 2026
   location: Austin, TX
   start_date: 2026-09-22
