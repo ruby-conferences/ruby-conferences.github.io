@@ -3328,12 +3328,12 @@
   cfp_close_date: 2025-12-31
   cfp_link: "https://www.papercall.io/balticruby2026"
 
-- name: Ruby Conf Africa 2026
+- name: RubyConf Africa 2026
   location: Nairobi, Kenya
   start_date: 2026-08-21
   end_date: 2026-08-22
   url: https://rubyconf.africa/
-  twitter: african_ruby
+  twitter: ruby_african
   announced_on: 2025-11-06
   cfp_open_date: 2025-11-20
   cfp_close_date: 2026-03-11
