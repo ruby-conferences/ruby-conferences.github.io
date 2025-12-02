@@ -3230,6 +3230,13 @@
   cfp_close_date: 2025-06-30
   cfp_link: https://www.papercall.io/rubyconfth2026
 
+- name: Ruby for Good - Belgium 2026
+  location: Ghent, Belgium
+  start_date: 2026-02-02
+  end_date: 2026-02-04
+  url: https://rubyinghent.org
+  announced_on: 2025-10-01
+
 - name: RBQ Conf 2026
   location: Austin, TX
   start_date: 2026-03-31
@@ -3321,7 +3328,18 @@
   cfp_close_date: 2025-12-31
   cfp_link: "https://www.papercall.io/balticruby2026"
 
-- name: Rails Camp (US) 2026
+- name: Ruby Conf Africa 2026
+  location: Nairobi, Kenya
+  start_date: 2026-08-21
+  end_date: 2026-08-22
+  url: https://rubyconf.africa/
+  twitter: african_ruby
+  announced_on: 2025-11-06
+  cfp_open_date: 2025-11-20
+  cfp_close_date: 2026-03-11
+  cfp_link: https://www.papercall.io/ruby-conf-africa-2026
+
+- name: Rails Camp West 2026
   location: Otis, OR
   start_date: 2026-09-07
   end_date: 2026-09-11
