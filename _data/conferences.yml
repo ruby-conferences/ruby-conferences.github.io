@@ -3253,6 +3253,9 @@
   twitter: tropicalonrails
   mastodon: https://ruby.social/@tropicalonrails
   announced_on: 2025-04-30
+  cfp_link: https://cfp.tropicalonrails.com
+  cfp_open_date: 2025-12-05
+  cfp_close_date: 2026-01-10
 
 - name: wroclove.rb 2026
   location: Wrocław, Poland
