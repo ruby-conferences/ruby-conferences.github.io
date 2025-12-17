@@ -1,20 +1,18 @@
 ---
 layout: default
 ---
-<article id="home">
-  <dl>
-    {% assign now = site.time | date: '%s' | plus: 0 %}
-    {% assign today = site.time | date: '%Y-%m-%d' %}
-    {% assign conferences = site.data.conferences | sort: 'cfp_close_date' %}
-
-    {% for event in conferences %}
-      {% assign start_date = event.start_date | date: '%s' | plus: 0 %}
-      {% assign cfp_close_timestamp = event.cfp_close_date | date: '%s' | plus: 0 %}
-      {% assign cfp_close_date = event.cfp_close_date | date: '%Y-%m-%d' %}
-
-      {% if start_date >= now and cfp_close_timestamp >= now or cfp_close_date == today %}
-        {% include event.html %}
-      {% endif %}
-    {% endfor %}
-  </dl>
+<style>
+  #home a { font-weight: bold; }
+  #home p { margin-bottom: 12px; }
+</style>
+<article id="home" style="color: #333;">
+  <p>
+    RubyConferences.org and RubyVideo.dev have merged into <a href="https://www.rubyevents.org">RubyEvents.org</a>, the new central platform for all things Ruby events.
+  </p>
+  <p>
+    The CFP page has moved to <a href="https://www.rubyevents.org/cfp">here</a>.
+  </p>
+  <p>
+    <a href="https://marcoroth.dev/posts/introducing-rubyevents-org">Read the full announcement</a>
+  </p>
 </article>

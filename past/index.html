@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-<article id="past">
-  <dl>
-    {% assign now = site.time | date: '%s' | plus: 0 %}
-    {% assign item_name = "conference" %}
-
-    {% include filters.html %}
-
-    {% for event in site.data.conferences reversed %}
-      {% assign start_date = event.start_date | date: '%s' | plus: 0 %}
-      {% if start_date < now %}
-        {% include event.html %}
-      {% endif %}
-    {% endfor %}
-  </dl>
+<style>
+  #past a { font-weight: bold; }
+  #past p { margin-bottom: 12px; }
+</style>
+<article id="past" style="color: #333;">
+  <p>
+    RubyConferences.org and RubyVideo.dev have merged into <a href="https://www.rubyevents.org">RubyEvents.org</a>, the new central platform for all things Ruby events.
+  </p>
+  <p>
+    The past conferences page has moved to <a href="https://www.rubyevents.org/events/past">here</a>. You can also browse the full <a href="https://www.rubyevents.org/events/archive">archive</a>.
+  </p>
+  <p>
+    <a href="https://marcoroth.dev/posts/introducing-rubyevents-org">Read the full announcement</a>
+  </p>
 </article>
