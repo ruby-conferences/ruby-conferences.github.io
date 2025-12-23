@@ -10031,6 +10031,14 @@
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcpbbc
   service: meetup
 
+- name: Philippine Ruby Users Group - PhRUG - Graduation Farewell Party
+  location: Taguig, Philippines
+  date: 2025-11-20
+  start_time: 18:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/311866172/
+  service: meetup
+
 - name: Orange County Ruby - Ruby Science November 2025
   location: Online
   date: 2025-11-24
