@@ -10463,6 +10463,14 @@
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryjccbcc
   service: meetup
 
+- name: Philippine Ruby Users Group - Takin care of Business
+  location: Quezon City, Philippines
+  date: 2026-01-29
+  start_time: 17:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/313004915
+  service: meetup
+
 - name: Prague.rb - First Wednesday Of The Month - Ruby February 2026
   location: Prague, Czechia
   date: 2026-02-04
