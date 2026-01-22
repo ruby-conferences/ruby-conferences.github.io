@@ -10031,6 +10031,14 @@
   url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcpbbc
   service: meetup
 
+- name: Philippine Ruby Users Group - PhRUG - Graduation Farewell Party
+  location: Taguig, Philippines
+  date: 2025-11-20
+  start_time: 18:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/311866172/
+  service: meetup
+
 - name: Orange County Ruby - Ruby Science November 2025
   location: Online
   date: 2025-11-24
@@ -10453,6 +10461,14 @@
   start_time: 19:00:00 GMT
   end_time: 21:00:00 GMT
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryjccbcc
+  service: meetup
+
+- name: Philippine Ruby Users Group - Takin care of Business
+  location: Quezon City, Philippines
+  date: 2026-01-29
+  start_time: 17:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/313004915
   service: meetup
 
 - name: Prague.rb - First Wednesday Of The Month - Ruby February 2026
