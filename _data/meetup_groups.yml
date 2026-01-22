@@ -946,7 +946,7 @@
   name: The Sacramento Ruby Meetup
   service: meetupdotcom
 
-- id: saigonrb
+- id: saigonrb # and: saigon-rb
   name: Saigon.rb
   service: meetupdotcom
 
