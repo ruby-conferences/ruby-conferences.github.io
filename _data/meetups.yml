@@ -10023,20 +10023,20 @@
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/310532129
   service: meetup
 
-- name: Ruby Malaysia - November 2025
-  location: Online
-  date: 2025-11-20
-  start_time: 19:00:00 +08
-  end_time: 20:00:00 +08
-  url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcpbbc
-  service: meetup
-
 - name: Philippine Ruby Users Group - PhRUG - Graduation Farewell Party
   location: Taguig, Philippines
   date: 2025-11-20
   start_time: 18:00:00 PST
   end_time: 21:00:00 PST
   url: https://www.meetup.com/ruby-phil/events/311866172/
+  service: meetup
+
+- name: Ruby Malaysia - November 2025
+  location: Online
+  date: 2025-11-20
+  start_time: 19:00:00 +08
+  end_time: 20:00:00 +08
+  url: https://www.meetup.com/ruby-malaysia/events/fnnnstyhcpbbc
   service: meetup
 
 - name: Orange County Ruby - Ruby Science November 2025
@@ -10488,42 +10488,93 @@
   url: https://www.meetup.com/ruby-on-rails-oceania-sydney/events/310950739
   service: meetup
 
-- name: NYC.rb - Event February 2026
-  location: Online
+- name: Belfast Ruby - Fest 2026
+  location: Belfast BT2 8HS, UK
   date: 2026-02-11
-  start_time: 17:30:00 EDT
-  end_time: 19:00:00 EDT
-  url: https://www.meetup.com/nyc-rb/events/hkbsltyjcdbpb
-  service: meetup
-
-- name: Miami Ruby Brigade - February 2026
-  location: Coral Gables, FL
-  date: 2026-02-16
-  start_time: 19:00:00 EDT
-  end_time: 21:00:00 EDT
-  url: https://www.meetup.com/miamirb/events/pdvctsyjcdbvb
-  service: meetup
-
-- name: Montreal.rb - ** Talk Topic To Be Decided*** February 2026
-  location: Montréal, Canada
-  date: 2026-02-18
-  start_time: 18:00:00 EDT
-  end_time: 21:00:00 EDT
-  url: https://www.meetup.com/montrealrb/events/hrtnptyjcdbxb
-  service: meetup
-
-- name: Portland Ruby Brigade - Cocktails + Code February 2026
-  location: Portland, OR
-  date: 2026-02-18
-  start_time: 18:00:00 PDT
-  end_time: 20:00:00 PDT
-  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntyjcdbxb
-  service: meetup
-
-- name: West Midlands Ruby User Group - Monthly Meetup February 2026
-  location: Online
-  date: 2026-02-18
-  start_time: 19:00:00 GMT
+  start_time: 17:00:00 GMT
   end_time: 21:00:00 GMT
-  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryjcdbxb
-  service: meetup
+  url: https://luma.com/yl6v0cy9
+  service: luma
+
+- name: Boulder Ruby - February 2026 Presentation Night
+  location: Boulder, CO
+  date: 2026-02-11
+  start_time: 18:00:00 MST
+  end_time: 20:30:00 MST
+  url: https://luma.com/w5jxcviu
+  service: luma
+
+- name: Ruby Usergroup Hamburg - February 2026
+  location: Hamburg, Germany
+  date: 2026-02-11
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://hamburg.onruby.de/events/ruby-usergroup-hamburg-february-2026-2366
+
+- name: North West Ruby User Group - The Unbreakable Code Whose Breaking Won WWII
+  location: Manchester, UK
+  date: 2026-02-19
+  start_time: 18:30:00 GMT
+  end_time: 20:30:00 GMT
+  url: https://nwrug.org/events/the-unbreakable-code-whose-breaking-won-wwII
+
+- name: Pune Ruby Meetup - Feb Ruby Meetup
+  location: महाराष्ट्र 411001, India
+  date: 2026-02-21
+  start_time: 11:00:00 IST
+  end_time: 14:00:00 IST
+  url: https://luma.com/k54hhsb1
+  service: luma
+
+- name: Ruby DF - 11ª Edição
+  location: Brasilia, Brazil
+  date: 2026-02-21
+  start_time: '09:30:00 -03'
+  end_time: 11:30:00 -03
+  url: https://rubydf.com/events/decima-primeira-edicao
+
+- name: Latvian Ruby Community - Latvian Ruby community February 2026 meetup
+  location: LV-1039, Latvia
+  date: 2026-02-24
+  start_time: 18:00:00 EET
+  end_time: 20:30:00 EET
+  url: https://luma.com/7k4tqdp1
+  service: luma
+
+- name: SF Bay Area Ruby - SF Ruby Meetup, February @ Sentry
+  location: San Francisco, CA
+  date: 2026-02-25
+  start_time: 17:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://luma.com/3mf4bhdl
+  service: luma
+
+- name: Dresden.rb - meetup February 2026
+  location: Dresden, Germany
+  date: 2026-02-26
+  start_time: 19:00:00 CET
+  end_time: 21:00:00 CET
+  url: https://dresdenrb.onruby.de/events/dresden-rb-meetup-february-2026-2135
+
+- name: Seattle.rb - March 2026
+  location: Seattle, WA
+  date: 2026-03-03
+  start_time: 19:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://seattlerb.org/?event_id=40
+
+- name: Boulder Ruby - March 2026 Presentation Night
+  location: Boulder, CO
+  date: 2026-03-11
+  start_time: 18:00:00 MST
+  end_time: 20:30:00 MST
+  url: https://luma.com/wxk0jabf
+  service: luma
+
+- name: SF Bay Area Ruby - SF Ruby Meetup, April @ New Relic
+  location: San Francisco, CA
+  date: 2026-04-16
+  start_time: 17:00:00 PST
+  end_time: 21:00:00 PST
+  url: https://luma.com/ij3343mc
+  service: luma
