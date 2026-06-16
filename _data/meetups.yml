@@ -10527,3 +10527,43 @@
   end_time: 21:00:00 GMT
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzryjcdbxb
   service: meetup
+
+- name: Philippine Ruby Users Group - Ha-Likha na!
+  location: Makati, Philippines
+  date: 2026-02-27
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/313323217
+  service: meetup
+
+- name: Philippine Ruby Users Group - Armageddon Edition
+  location: Quezon City, Philippines
+  date: 2026-03-26
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/313810115
+  service: meetup
+
+- name: Philippine Ruby Users Group - Writing up a Storm
+  location: Quezon City, Philippines
+  date: 2026-04-30
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/314325566
+  service: meetup
+
+- name: Philippine Ruby Users Group - Bridging Town Jekyll
+  location: Quezon City, Philippines
+  date: 2026-05-28
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/314872032
+  service: meetup
+
+- name: Philippine Ruby Users Group - Where ya headed!?
+  location: Quezon City, Philippines
+  date: 2026-06-25
+  start_time: 18:00:00 PST
+  end_time: 20:00:00 PST
+  url: https://www.meetup.com/ruby-phil/events/315266681
+  service: meetup
